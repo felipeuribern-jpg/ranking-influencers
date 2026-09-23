@@ -17,6 +17,17 @@ export const PLATFORMS: readonly Platform[] = [
   "snapchat",
 ];
 
+// Los nombres propios de las redes no se traducen (docs/IDIOMAS.md) y se
+// escriben con su capitalización de marca en vez de derivarla del id.
+export const PLATFORM_LABELS: Record<Platform, string> = {
+  youtube: "YouTube",
+  tiktok: "TikTok",
+  instagram: "Instagram",
+  linkedin: "LinkedIn",
+  facebook: "Facebook",
+  snapchat: "Snapchat",
+};
+
 // FORMULA.md §2 — peso por red.
 export const PLATFORM_WEIGHTS: Record<Platform, number> = {
   youtube: 1.2,

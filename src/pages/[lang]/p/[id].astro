@@ -6,7 +6,7 @@ import { translator } from "../../../lib/i18n";
 import { people, getHistorySeries } from "../../../lib/data";
 import { flagEmoji, countryName } from "../../../lib/countries";
 import { formatCompactNumber, formatDate, formatNumber, formatPercent, formatSignedPercent } from "../../../lib/format";
-import type { Platform } from "../../../../pipeline/config.js";
+import { PLATFORM_LABELS, type Platform } from "../../../../pipeline/config.js";
 
 export function getStaticPaths() {
   return siteConfig.languages.flatMap((lang) =>
@@ -27,11 +27,9 @@ platformEntries.sort((a, b) => b[1].points - a[1].points);
 
 const mainData = person.mainPlatform ? person.platforms[person.mainPlatform] : null;
 const mainUrl = mainData?.url ?? null;
-const mainLabel = person.mainPlatform ? person.mainPlatform.charAt(0).toUpperCase() + person.mainPlatform.slice(1) : "";
+const mainLabel = person.mainPlatform ? PLATFORM_LABELS[person.mainPlatform] : "";
 
 const history = getHistorySeries(person.id, 90);
-
-const ogTitle = `${person.name} · #${person.rank} ${t("profile.world")}`;
 ---
 
 <Layout
@@ -57,7 +55,7 @@ const ogTitle = `${person.name} · #${person.rank} ${t("profile.world")}`;
     {
       platformEntries.map(([platform, data]) => (
         <div class:list={["plat", { main: platform === person.mainPlatform }]}>
-          <span class="n">{platform.charAt(0).toUpperCase() + platform.slice(1)}</span>
+          <span class="n">{PLATFORM_LABELS[platform]}</span>
           <span class="num">
             {data.followers != null ? formatCompactNumber(data.followers, lang) : "–"}
             {" · "}
@@ -81,7 +79,7 @@ const ogTitle = `${person.name} · #${person.rank} ${t("profile.world")}`;
         </tr>
         {platformEntries.map(([platform, data]) => (
           <tr>
-            <td>{platform.charAt(0).toUpperCase() + platform.slice(1)}</td>
+            <td>{PLATFORM_LABELS[platform]}</td>
             <td>
               {data.followers != null && data.followers30 != null && data.followers30 > 0
                 ? formatSignedPercent((data.followers - data.followers30) / data.followers30, lang)

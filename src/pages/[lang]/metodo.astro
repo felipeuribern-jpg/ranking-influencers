@@ -3,7 +3,7 @@ import Layout from "../../components/Layout.astro";
 import { siteConfig, type LanguageCode } from "../../../site.config";
 import { translator } from "../../lib/i18n";
 import { rankingMeta } from "../../lib/data";
-import { PLATFORMS, PLATFORM_WEIGHTS } from "../../../pipeline/config.js";
+import { PLATFORMS, PLATFORM_WEIGHTS, PLATFORM_LABELS } from "../../../pipeline/config.js";
 import { formatDate } from "../../lib/format";
 
 export function getStaticPaths() {
@@ -29,7 +29,7 @@ const t = translator(lang);
       {
         PLATFORMS.map((platform) => (
           <tr>
-            <td>{platform.charAt(0).toUpperCase() + platform.slice(1)}</td>
+            <td>{PLATFORM_LABELS[platform]}</td>
             <td>{String(PLATFORM_WEIGHTS[platform]).replace(".", ",")}</td>
             <td>{t(`method.why.${platform}`)}</td>
           </tr>

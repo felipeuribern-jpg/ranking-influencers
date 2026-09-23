@@ -5,6 +5,7 @@ import { movement } from "../lib/data";
 import { flagEmoji } from "../lib/countries";
 import { formatNumber } from "../lib/format";
 import { translator } from "../lib/i18n";
+import { PLATFORM_LABELS } from "../../pipeline/config.js";
 
 interface Props {
   person: Person;
@@ -19,9 +20,7 @@ const t = translator(lang);
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const mv = movement(position, prevPosition);
 const topic = person.topic[lang] ?? person.topic.es;
-const mainPlatformLabel = person.mainPlatform
-  ? person.mainPlatform.charAt(0).toUpperCase() + person.mainPlatform.slice(1)
-  : "";
+const mainPlatformLabel = person.mainPlatform ? PLATFORM_LABELS[person.mainPlatform] : "";
 ---
 
 <a
