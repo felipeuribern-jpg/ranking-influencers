@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://felipeuribern-jpg.github.io/ranking-influencers/sitemap-index.xml
+Sitemap: https://fikin.com/sitemap-index.xml

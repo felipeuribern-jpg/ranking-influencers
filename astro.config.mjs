@@ -3,12 +3,13 @@ import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import { siteConfig } from "./site.config.ts";
 
-// GitHub Pages sirve el sitio en /ranking-influencers/ hasta que se conecte un
-// dominio propio (docs/PLAN_DE_TRABAJO.md Fase 4, paso [usuario]). Cuando eso
-// pase, `site` cambia al dominio y `base` vuelve a "/".
+// Dominio propio conectado (docs/PLAN_DE_TRABAJO.md Fase 4): fikin.com,
+// comprado en Dynadot. DNS y "custom domain" de GitHub Pages configurados desde
+// aquí; hasta que el DNS propague, el sitio sigue accesible también en
+// https://felipeuribern-jpg.github.io/ranking-influencers/.
 export default defineConfig({
-  site: "https://felipeuribern-jpg.github.io",
-  base: "/ranking-influencers",
+  site: "https://fikin.com",
+  base: "/",
   trailingSlash: "always",
   integrations: [
     sitemap({

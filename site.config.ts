@@ -1,8 +1,8 @@
 // Fuente única de verdad para el texto de marca. No escribas brandName/domain/tagline
 // a mano en ningún otro archivo del sitio: impórtalos siempre desde aquí.
 export const siteConfig = {
-  brandName: "Por definir",
-  domain: "example.com",
+  brandName: "Fikin",
+  domain: "fikin.com",
   tagline: {
     es: "Las personas más influyentes en redes sociales, por país y en el mundo.",
   },
