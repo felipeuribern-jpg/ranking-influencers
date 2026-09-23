@@ -5,6 +5,7 @@ import { siteConfig, type LanguageCode } from "../../../site.config";
 import { translator } from "../../lib/i18n";
 import { people, rankingMeta, getTopics } from "../../lib/data";
 import { formatDate } from "../../lib/format";
+import { PLATFORM_LABELS, type Platform } from "../../../pipeline/config.js";
 
 export function getStaticPaths() {
   return siteConfig.languages.map((lang) => ({ params: { lang } }));
@@ -13,7 +14,7 @@ export function getStaticPaths() {
 const { lang } = Astro.params as { lang: LanguageCode };
 const t = translator(lang);
 const top100 = people.slice(0, 100);
-const platforms = [...new Set(top100.map((p) => p.mainPlatform).filter(Boolean))] as string[];
+const platforms = [...new Set(top100.map((p) => p.mainPlatform).filter(Boolean))] as Platform[];
 const topics = getTopics(lang);
 ---
 
@@ -35,7 +36,7 @@ const topics = getTopics(lang);
       <label for="f-platform">{t("home.filterPlatformLabel")}</label>
       <select id="f-platform" name="platform">
         <option value="">{t("home.filterAllOption")}</option>
-        {platforms.map((platform) => <option value={platform}>{platform}</option>)}
+        {platforms.map((platform) => <option value={platform}>{PLATFORM_LABELS[platform]}</option>)}
       </select>
     </div>
   </form>
