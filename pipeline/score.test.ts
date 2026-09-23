@@ -66,3 +66,22 @@ describe("FORMULA.md — pruebas", () => {
     expect(points).toBe(0);
   });
 });
+
+// docs/MODELO_DE_NEGOCIOS.md: "ningún plan, suscripción, reclamo o patrocinio
+// puede alterar el ranking". Candado automático: si alguien agrega un campo de
+// pago al input y accidentalmente lo usa dentro de score.ts, este test lo detecta.
+describe("MODELO_DE_NEGOCIOS.md — el pago nunca puede tocar el puntaje", () => {
+  it("platformPoints ignora cualquier propiedad ajena a la fórmula (p. ej. `sponsored`)", () => {
+    const sample = { followers: 5_000_000, followers30: 4_500_000, er: 3.2 };
+    const sampleWithPaymentField = { ...sample, sponsored: true, plan: "agencyPro" };
+
+    const withoutPayment = platformPoints(PLATFORM_WEIGHTS.instagram, sample, 3);
+    const withPayment = platformPoints(
+      PLATFORM_WEIGHTS.instagram,
+      sampleWithPaymentField as typeof sample,
+      3,
+    );
+
+    expect(withPayment).toBe(withoutPayment);
+  });
+});

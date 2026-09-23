@@ -4,7 +4,7 @@ import RankingRow from "../../components/RankingRow.astro";
 import { siteConfig, type LanguageCode } from "../../../site.config";
 import { translator } from "../../lib/i18n";
 import { people, rankingMeta, getTopics } from "../../lib/data";
-import { formatDate } from "../../lib/format";
+import { formatDate, formatNumber } from "../../lib/format";
 import { PLATFORM_LABELS, type Platform } from "../../../pipeline/config.js";
 
 export function getStaticPaths() {
@@ -16,10 +16,62 @@ const t = translator(lang);
 const top100 = people.slice(0, 100);
 const platforms = [...new Set(top100.map((p) => p.mainPlatform).filter(Boolean))] as Platform[];
 const topics = getTopics(lang);
+const topPerson = people[0];
+const topPersonPlatform = topPerson?.mainPlatform ? topPerson.platforms[topPerson.mainPlatform] : null;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
 <Layout lang={lang} path="" title={t("nav.world")} activeNav="world">
-  <div class="weekline">
+  <section class="hero">
+    <div>
+      <div class="eyebrow"><span class="pulse" aria-hidden="true"></span>{t("hero.eyebrow")}</div>
+      <h1>{t("hero.title")} <span>{t("hero.titleHighlight")}</span></h1>
+      <p class="lead">{t("hero.lead")}</p>
+      <div class="hero-actions">
+        <a class="btn primary" href="#ranking">{t("hero.ctaExplore")}</a>
+        <a class="btn" href={`${base}/${lang}/metodo/`}>{t("hero.ctaMethod")}</a>
+      </div>
+      <div class="trust">
+        <span><i aria-hidden="true">✓</i> {t("hero.trust1")}</span>
+        <span><i aria-hidden="true">✓</i> {t("hero.trust2")}</span>
+        <span><i aria-hidden="true">✓</i> {t("hero.trust3")}</span>
+      </div>
+    </div>
+    {
+      topPerson && (
+        <div>
+          <article class="score-card">
+            <div class="mini">
+              <span>{t("rank.scoreLabel")}</span>
+              <span>{t("hero.scoreCardEyebrow")}</span>
+            </div>
+            <div class="score">
+              {formatNumber(topPerson.total, lang)}
+            </div>
+            <strong>{topPerson.name}</strong>
+            {topPersonPlatform && (
+              <div class="score-bars">
+                <div>
+                  <div class="score-bar-label">
+                    <span>{topPerson.mainPlatform ? PLATFORM_LABELS[topPerson.mainPlatform] : ""}</span>
+                    <b>{formatNumber(topPersonPlatform.points, lang)}</b>
+                  </div>
+                  <div class="score-track">
+                    <span
+                      class="score-fill"
+                      style={`width:${Math.min(100, (topPersonPlatform.points / Math.max(topPerson.total, 1)) * 100)}%`}
+                    />
+                  </div>
+                </div>
+              </div>
+            )}
+          </article>
+        </div>
+      )
+    }
+  </section>
+
+  <div class="weekline" id="ranking">
     <h2>{t("home.title")}</h2>
     <span>{t("rank.updated", { date: formatDate(rankingMeta.generatedAt, lang) })}</span>
   </div>
@@ -63,6 +115,21 @@ const topics = getTopics(lang);
       </p>
     )
   }
+
+  <section class="business-box" id="marcas">
+    <div>
+      <div class="eyebrow">{t("business.eyebrow")}</div>
+      <h2 class="cond" style="margin:13px 0 8px;font-size:26px">{t("business.title")}</h2>
+      <p>{t("business.lead")}</p>
+      <a class="btn primary" href="mailto:contacto@fykin.com?subject=Fykin%20para%20marcas">
+        {t("business.cta")}
+      </a>
+    </div>
+    <div class="price-note">
+      <b>{t("business.priceNote")}</b>
+      <span>{t("business.priceCaption")}</span>
+    </div>
+  </section>
 </Layout>
 
 <script>

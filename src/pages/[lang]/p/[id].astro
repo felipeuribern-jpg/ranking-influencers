@@ -119,3 +119,8 @@ const history = getHistorySeries(person.id, 90);
     </span>
   </div>
 </Layout>
+
+<script>
+  import { track } from "../../../lib/analytics";
+  track("view_profile", { id: window.location.pathname.split("/").filter(Boolean).pop() ?? "" });
+</script>

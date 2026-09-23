@@ -1,0 +1,60 @@
+---
+import Layout from "../../components/Layout.astro";
+import { siteConfig, type LanguageCode } from "../../../site.config";
+import { translator } from "../../lib/i18n";
+import { plans } from "../../config/plans.config";
+
+export function getStaticPaths() {
+  return siteConfig.languages.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: LanguageCode };
+const t = translator(lang);
+const waitlistHref = (planName: string) =>
+  `mailto:contacto@fykin.com?subject=${encodeURIComponent(`Lista de espera Fykin — ${planName}`)}`;
+---
+
+<Layout lang={lang} path="precios" title={t("pricing.title")} activeNav="pricing">
+  <div class="prose">
+    <h2 class="cond" style="font-size:28px;margin:0 0 4px">{t("pricing.title")}</h2>
+    <p>{t("pricing.intro")}</p>
+  </div>
+
+  <div class="plans">
+    {
+      plans.map((plan) => {
+        const name = t(`plan.${plan.id}.name`);
+        return (
+          <div class:list={["plan-card", { highlighted: plan.highlighted }]}>
+            <h3>{name}</h3>
+            <p style="color:var(--muted);font-size:13px;margin:0">{t(`plan.${plan.id}.tagline`)}</p>
+            <div class="plan-price">
+              {plan.priceIsFrom ? `${t("pricing.fromPrefix")} ` : ""}US${Number.isInteger(plan.priceUsd) ? plan.priceUsd : plan.priceUsd.toFixed(2)}
+              <small>{t("pricing.perMonth")}</small>
+            </div>
+            <ul>
+              <li>{t(`plan.${plan.id}.feature1`)}</li>
+              <li>{t(`plan.${plan.id}.feature2`)}</li>
+              <li>{t(`plan.${plan.id}.feature3`)}</li>
+            </ul>
+            <a class="btn primary" href={waitlistHref(name)}>
+              {t("pricing.waitlistCta")}
+            </a>
+          </div>
+        );
+      })
+    }
+  </div>
+
+  <div class="prose" style="margin-top:36px">
+    <h3>{t("pricing.faqTitle")}</h3>
+    <p><strong>{t("pricing.faq1Q")}</strong><br />{t("pricing.faq1A")}</p>
+    <p><strong>{t("pricing.faq2Q")}</strong><br />{t("pricing.faq2A")}</p>
+    <p><strong>{t("pricing.faq3Q")}</strong><br />{t("pricing.faq3A")}</p>
+  </div>
+</Layout>
+
+<script>
+  import { track } from "../../lib/analytics";
+  track("pricing_viewed");
+</script>

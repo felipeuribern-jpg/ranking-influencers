@@ -9,7 +9,7 @@ interface Props {
   path: string;
   title: string;
   description?: string;
-  activeNav?: "world" | "country" | "method" | "creator";
+  activeNav?: "world" | "country" | "method" | "creator" | "pricing";
   ogImage?: string;
 }
 
@@ -51,7 +51,7 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;650;700;800;900&display=swap"
       rel="stylesheet"
     />
   </head>
@@ -61,8 +61,11 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
       <div class="wrap">
         <div class="brand">
           <div>
-            <h1><a href={hrefFor(lang, "")}>{siteConfig.brandName}</a></h1>
-            <p>{t("site.tagline")}</p>
+            <h1>
+              <a href={hrefFor(lang, "")}>
+                <span class="wordmark">{siteConfig.brandName}</span><span class="wordmark-suffix">.com</span>
+              </a>
+            </h1>
           </div>
         </div>
         <nav class="tabs" aria-label="Secciones">
@@ -77,6 +80,9 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
           </a>
           <a href={hrefFor(lang, "metodo")} aria-current={activeNav === "method" ? "page" : undefined}>
             {t("nav.method")}
+          </a>
+          <a href={hrefFor(lang, "precios")} aria-current={activeNav === "pricing" ? "page" : undefined}>
+            {t("nav.pricing")}
           </a>
           <a href={hrefFor(lang, "creador")} aria-current={activeNav === "creator" ? "page" : undefined}>
             {t("nav.creator")}
