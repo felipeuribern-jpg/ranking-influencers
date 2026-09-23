@@ -1,0 +1,1838 @@
+{
+  "version": 1,
+  "influencers": [
+    {
+      "id": "federico-vigevani",
+      "name": "Federico Vigevani",
+      "country": "MX",
+      "topic": {
+        "es": "Estilo de vida",
+        "en": "Lifestyle",
+        "pt": "Estilo de vida",
+        "fr": "Style de vie",
+        "de": "Lifestyle",
+        "ru": "Образ жизни",
+        "ar": "أسلوب الحياة",
+        "hi": "जीवनशैली",
+        "zh": "生活方式",
+        "ja": "ライフスタイル"
+      },
+      "about": {
+        "es": "Creador nacido en Argentina y radicado en México; comparte su día a día, moda y viajes con un tono cercano y espontáneo.",
+        "en": "A creator born in Argentina and based in Mexico; shares daily life, fashion and travel in a warm, spontaneous style.",
+        "pt": "Criador nascido na Argentina e radicado no México; compartilha seu dia a dia, moda e viagens com um tom próximo e espontâneo.",
+        "fr": "Créateur né en Argentine et installé au Mexique ; il partage son quotidien, la mode et les voyages sur un ton proche et spontané.",
+        "de": "In Argentinien geborener und in Mexiko lebender Creator; teilt seinen Alltag, Mode und Reisen in einem nahbaren, spontanen Ton.",
+        "ru": "Создатель контента, родившийся в Аргентине и живущий в Мексике; делится повседневной жизнью, модой и путешествиями в тёплой, непринуждённой манере.",
+        "ar": "منشئ محتوى وُلد في الأرجنتين ويقيم في المكسيك؛ يشارك يومياته والموضة والسفر بأسلوب ودود وعفوي.",
+        "hi": "अर्जेंटीना में जन्मे और मेक्सिको में बसे क्रिएटर; अपने दैनिक जीवन, फैशन और यात्रा को सहज और आत्मीय अंदाज़ में साझा करते हैं।",
+        "zh": "出生于阿根廷、定居墨西哥的创作者；以亲切自然的风格分享日常生活、时尚和旅行。",
+        "ja": "アルゼンチン生まれ、メキシコ在住のクリエイター。親しみやすく自然体な雰囲気で日常やファッション、旅行を発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 11500000,
+          "tiktok": 30100000,
+          "youtube": 71500000
+        }
+      }
+    },
+    {
+      "id": "katteyes",
+      "name": "Katteyes",
+      "country": "MX",
+      "topic": {
+        "es": "Humor y opinión",
+        "en": "Comedy and opinion",
+        "pt": "Humor e opinião",
+        "fr": "Humour et opinion",
+        "de": "Humor und Meinung",
+        "ru": "Юмор и мнение",
+        "ar": "فكاهة وآراء",
+        "hi": "हास्य और राय",
+        "zh": "幽默与评论",
+        "ja": "お笑いと意見"
+      },
+      "about": {
+        "es": "Opina con humor sobre música, comida y moda; conocida por su gusto por el rock y sus comentarios ocurrentes.",
+        "en": "Talks with humor about music, food and fashion; known for her love of rock and witty comments.",
+        "pt": "Opina com humor sobre música, comida e moda; conhecida por seu gosto por rock e comentários engraçados.",
+        "fr": "Commente avec humour la musique, la nourriture et la mode ; connue pour son goût pour le rock et ses commentaires savoureux.",
+        "de": "Kommentiert mit Humor Musik, Essen und Mode; bekannt für ihre Vorliebe für Rock und witzige Kommentare.",
+        "ru": "С юмором рассуждает о музыке, еде и моде; известна любовью к року и остроумными комментариями.",
+        "ar": "تعلّق بفكاهة على الموسيقى والطعام والموضة؛ معروفة بحبها للروك وتعليقاتها الطريفة.",
+        "hi": "संगीत, खाने और फैशन पर हास्य के साथ राय देती हैं; रॉक संगीत के प्रति अपने प्रेम और मज़ेदार टिप्पणियों के लिए जानी जाती हैं।",
+        "zh": "以幽默方式点评音乐、美食和时尚；以热爱摇滚和风趣的评论著称。",
+        "ja": "音楽やグルメ、ファッションについてユーモアたっぷりにコメント。ロック好きと軽快なトークで知られる。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 13200000,
+          "tiktok": 45300000,
+          "youtube": 1500000
+        }
+      }
+    },
+    {
+      "id": "alexis-omman",
+      "name": "Alexis Omman",
+      "country": "MX",
+      "topic": {
+        "es": "Retos y viajes",
+        "en": "Challenges and travel",
+        "pt": "Desafios e viagens",
+        "fr": "Défis et voyages",
+        "de": "Challenges und Reisen",
+        "ru": "Челленджи и путешествия",
+        "ar": "تحديات وسفر",
+        "hi": "चुनौतियां और यात्रा",
+        "zh": "挑战与旅行",
+        "ja": "チャレンジと旅行"
+      },
+      "about": {
+        "es": "Retos virales, viajes y experiencias con gente de la calle; usa su alcance para impulsar proyectos solidarios.",
+        "en": "Viral challenges, travel and encounters with people on the street; uses her reach to support charity projects.",
+        "pt": "Desafios virais, viagens e experiências com pessoas na rua; usa seu alcance para impulsionar projetos solidários.",
+        "fr": "Défis viraux, voyages et rencontres avec des gens dans la rue ; utilise sa notoriété pour soutenir des projets solidaires.",
+        "de": "Virale Challenges, Reisen und Begegnungen mit Menschen auf der Straße; nutzt ihre Reichweite für soziale Projekte.",
+        "ru": "Вирусные челленджи, путешествия и общение с людьми на улице; использует популярность для благотворительных проектов.",
+        "ar": "تحديات منتشرة وسفر ولقاءات مع أشخاص في الشارع؛ تستخدم شهرتها لدعم مشاريع خيرية.",
+        "hi": "वायरल चुनौतियां, यात्राएं और सड़क पर लोगों के साथ अनुभव; अपनी पहुंच का उपयोग सामाजिक परियोजनाओं के लिए करती हैं।",
+        "zh": "病毒式挑战、旅行以及与街头路人的互动；用自己的影响力支持公益项目。",
+        "ja": "バイラルチャレンジや旅行、街の人々との交流を発信。その影響力を社会貢献プロジェクトの支援にも活用。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 12100000,
+          "tiktok": 27500000,
+          "youtube": 11200000
+        }
+      }
+    },
+    {
+      "id": "doris-jocelyn",
+      "name": "Doris Jocelyn",
+      "country": "MX",
+      "topic": {
+        "es": "Maquillaje",
+        "en": "Makeup",
+        "pt": "Maquiagem",
+        "fr": "Maquillage",
+        "de": "Make-up",
+        "ru": "Макияж",
+        "ar": "مكياج",
+        "hi": "मेकअप",
+        "zh": "彩妆",
+        "ja": "メイク"
+      },
+      "about": {
+        "es": "Maquillaje artístico mientras narra historias de terror, además de momentos de su vida personal.",
+        "en": "Artistic makeup while narrating horror stories, plus moments from her personal life.",
+        "pt": "Maquiagem artística enquanto narra histórias de terror, além de momentos de sua vida pessoal.",
+        "fr": "Maquillage artistique en racontant des histoires d'horreur, ainsi que des moments de sa vie personnelle.",
+        "de": "Künstlerisches Make-up beim Erzählen von Gruselgeschichten, dazu Einblicke in ihr Privatleben.",
+        "ru": "Художественный макияж под рассказы историй ужасов, а также моменты личной жизни.",
+        "ar": "مكياج فني أثناء سرد قصص رعب، إضافة إلى لحظات من حياتها الشخصية.",
+        "hi": "डरावनी कहानियां सुनाते हुए कलात्मक मेकअप, साथ ही अपने निजी जीवन के पल।",
+        "zh": "边讲恐怖故事边化艺术妆容，也分享私人生活的点滴。",
+        "ja": "ホラーな物語を語りながらアーティスティックなメイクを披露し、プライベートな一面も紹介。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 5800000,
+          "tiktok": 33800000,
+          "youtube": 7000000
+        }
+      }
+    },
+    {
+      "id": "sonrixs",
+      "name": "Sonrixs",
+      "country": "MX",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Humor",
+        "ru": "Юмор",
+        "ar": "فكاهة",
+        "hi": "हास्य",
+        "zh": "幽默",
+        "ja": "お笑い"
+      },
+      "about": {
+        "es": "Humor juvenil y situaciones cotidianas, incluidas las diferencias culturales entre México y Canadá.",
+        "en": "Youthful comedy and everyday situations, including cultural differences between Mexico and Canada.",
+        "pt": "Humor jovem e situações do dia a dia, incluindo as diferenças culturais entre México e Canadá.",
+        "fr": "Humour jeune et situations du quotidien, y compris les différences culturelles entre le Mexique et le Canada.",
+        "de": "Jugendlicher Humor und Alltagssituationen, auch kulturelle Unterschiede zwischen Mexiko und Kanada.",
+        "ru": "Молодёжный юмор и повседневные ситуации, включая культурные различия между Мексикой и Канадой.",
+        "ar": "فكاهة شبابية ومواقف يومية، بما في ذلك الفروق الثقافية بين المكسيك وكندا.",
+        "hi": "युवा हास्य और रोज़मर्रा की स्थितियां, जिनमें मेक्सिको और कनाडा के बीच सांस्कृतिक अंतर भी शामिल हैं।",
+        "zh": "青春幽默和日常情景，包括墨西哥与加拿大之间的文化差异。",
+        "ja": "若者らしいユーモアと日常のワンシーン、メキシコとカナダの文化の違いも取り上げる。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 5300000,
+          "tiktok": 23600000,
+          "youtube": 13500000
+        }
+      }
+    },
+    {
+      "id": "luisito-comunica",
+      "name": "Luisito Comunica",
+      "country": "MX",
+      "topic": {
+        "es": "Viajes",
+        "en": "Travel",
+        "pt": "Viagens",
+        "fr": "Voyages",
+        "de": "Reisen",
+        "ru": "Путешествия",
+        "ar": "سفر",
+        "hi": "यात्रा",
+        "zh": "旅行",
+        "ja": "旅行"
+      },
+      "about": {
+        "es": "Vlogs de viajes por todo el mundo, informativos y con humor; uno de los creadores más conocidos de Latinoamérica.",
+        "en": "Travel vlogs from around the world, informative and funny; one of the best-known creators in Latin America.",
+        "pt": "Vlogs de viagens pelo mundo, informativos e com humor; um dos criadores mais conhecidos da América Latina.",
+        "fr": "Vlogs de voyage à travers le monde, informatifs et pleins d'humour ; l'un des créateurs les plus connus d'Amérique latine.",
+        "de": "Reise-Vlogs aus aller Welt, informativ und humorvoll; einer der bekanntesten Creator Lateinamerikas.",
+        "ru": "Влоги о путешествиях по всему миру, познавательные и с юмором; один из самых известных авторов Латинской Америки.",
+        "ar": "مدونات فيديو للسفر حول العالم، مفيدة ومليئة بالفكاهة؛ من أشهر صناع المحتوى في أمريكا اللاتينية.",
+        "hi": "दुनियाभर की यात्रा के व्लॉग, जानकारीपूर्ण और हास्यपूर्ण; लैटिन अमेरिका के सबसे प्रसिद्ध क्रिएटर्स में से एक।",
+        "zh": "环游世界的旅行视频，既有信息量又有幽默感；拉丁美洲最知名的创作者之一。",
+        "ja": "世界各地を巡る旅行系Vlog。情報量が多くユーモアもあり、ラテンアメリカで最も知られるクリエイターの一人。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "luisitocomunica",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 33600000,
+          "tiktok": 18200000,
+          "youtube": 45400000
+        }
+      }
+    },
+    {
+      "id": "domelipa",
+      "name": "Domelipa",
+      "country": "MX",
+      "topic": {
+        "es": "Moda y estilo de vida",
+        "en": "Fashion and lifestyle",
+        "pt": "Moda e estilo de vida",
+        "fr": "Mode et style de vie",
+        "de": "Mode und Lifestyle",
+        "ru": "Мода и образ жизни",
+        "ar": "موضة وأسلوب حياة",
+        "hi": "फैशन और जीवनशैली",
+        "zh": "时尚与生活方式",
+        "ja": "ファッションとライフスタイル"
+      },
+      "about": {
+        "es": "Maquillaje, moda y vlogs de su vida diaria; una de las tiktokers más seguidas del país.",
+        "en": "Makeup, fashion and daily-life vlogs; one of the country's most followed creators.",
+        "pt": "Maquiagem, moda e vlogs do dia a dia; uma das tiktokers mais seguidas do país.",
+        "fr": "Maquillage, mode et vlogs de son quotidien ; l'une des tiktokeuses les plus suivies du pays.",
+        "de": "Make-up, Mode und Alltags-Vlogs; eine der meistgefolgten TikTokerinnen des Landes.",
+        "ru": "Макияж, мода и влоги о повседневной жизни; одна из самых популярных тиктокерш страны.",
+        "ar": "مكياج وموضة ومدونات فيديو ليومياتها؛ من أكثر صانعات محتوى تيك توك متابعة في البلاد.",
+        "hi": "मेकअप, फैशन और रोज़मर्रा के जीवन के व्लॉग; देश की सबसे लोकप्रिय टिकटॉकर्स में से एक।",
+        "zh": "美妆、时尚和日常生活视频；该国关注度最高的TikTok创作者之一。",
+        "ja": "メイクやファッション、日常のVlogを発信。国内で最も人気のあるTikTokクリエイターの一人。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 23100000,
+          "tiktok": 76100000,
+          "youtube": 7300000
+        }
+      }
+    },
+    {
+      "id": "kimberly-loaiza",
+      "name": "Kimberly Loaiza",
+      "country": "MX",
+      "topic": {
+        "es": "Estilo de vida y música",
+        "en": "Lifestyle and music",
+        "pt": "Estilo de vida e música",
+        "fr": "Style de vie et musique",
+        "de": "Lifestyle und Musik",
+        "ru": "Образ жизни и музыка",
+        "ar": "أسلوب حياة وموسيقى",
+        "hi": "जीवनशैली और संगीत",
+        "zh": "生活方式与音乐",
+        "ja": "ライフスタイルと音楽"
+      },
+      "about": {
+        "es": "Pionera de YouTube en México; publica vlogs, música, moda y contenido familiar.",
+        "en": "A YouTube pioneer in Mexico; posts vlogs, music, fashion and family content.",
+        "pt": "Pioneira do YouTube no México; publica vlogs, música, moda e conteúdo familiar.",
+        "fr": "Pionnière de YouTube au Mexique ; publie des vlogs, de la musique, de la mode et du contenu familial.",
+        "de": "YouTube-Pionierin in Mexiko; veröffentlicht Vlogs, Musik, Mode und Familieninhalte.",
+        "ru": "Пионер YouTube в Мексике; публикует влоги, музыку, моду и семейный контент.",
+        "ar": "رائدة يوتيوب في المكسيك؛ تنشر مدونات فيديو وموسيقى وموضة ومحتوى عائلي.",
+        "hi": "मेक्सिको में यूट्यूब की अग्रणी; व्लॉग, संगीत, फैशन और पारिवारिक सामग्री प्रकाशित करती हैं।",
+        "zh": "墨西哥YouTube先驱；发布视频日志、音乐、时尚和家庭内容。",
+        "ja": "メキシコのYouTubeパイオニア。Vlogや音楽、ファッション、家族向けコンテンツを発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "kimberly.loaiza",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 37600000,
+          "tiktok": 83800000,
+          "youtube": 47400000
+        }
+      }
+    },
+    {
+      "id": "ricky-limon",
+      "name": "Ricky Limón",
+      "country": "MX",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Humor",
+        "ru": "Юмор",
+        "ar": "فكاهة",
+        "hi": "हास्य",
+        "zh": "幽默",
+        "ja": "お笑い"
+      },
+      "about": {
+        "es": "Videos de humor y aventuras con amigos y familia, con retos y colaboraciones.",
+        "en": "Comedy videos and adventures with friends and family, featuring challenges and collaborations.",
+        "pt": "Vídeos de humor e aventuras com amigos e família, com desafios e colaborações.",
+        "fr": "Vidéos d'humour et d'aventures entre amis et en famille, avec défis et collaborations.",
+        "de": "Humorvolle Videos und Abenteuer mit Freunden und Familie, mit Challenges und Kollaborationen.",
+        "ru": "Юмористические видео и приключения с друзьями и семьёй, с челленджами и коллаборациями.",
+        "ar": "فيديوهات فكاهية ومغامرات مع الأصدقاء والعائلة، مع تحديات وتعاونات.",
+        "hi": "दोस्तों और परिवार के साथ हास्य और रोमांच के वीडियो, चुनौतियों और सहयोग के साथ।",
+        "zh": "与朋友和家人一起的搞笑与冒险视频，包含挑战和合作。",
+        "ja": "友人や家族との冒険やお笑い動画を発信し、チャレンジやコラボも行う。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 6500000,
+          "tiktok": 22900000,
+          "youtube": 38600000
+        }
+      }
+    },
+    {
+      "id": "farid-dieck",
+      "name": "Farid Dieck",
+      "country": "MX",
+      "topic": {
+        "es": "Reflexión y psicología",
+        "en": "Reflection and psychology",
+        "pt": "Reflexão e psicologia",
+        "fr": "Réflexion et psychologie",
+        "de": "Reflexion und Psychologie",
+        "ru": "Размышления и психология",
+        "ar": "تأملات وعلم نفس",
+        "hi": "चिंतन और मनोविज्ञान",
+        "zh": "思考与心理学",
+        "ja": "内省と心理学"
+      },
+      "about": {
+        "es": "Reflexiones inspiradoras y análisis del significado de libros, películas y series.",
+        "en": "Inspiring reflections and analysis of the meaning behind books, movies and series.",
+        "pt": "Reflexões inspiradoras e análises do significado de livros, filmes e séries.",
+        "fr": "Réflexions inspirantes et analyses du sens des livres, films et séries.",
+        "de": "Inspirierende Gedanken und Analysen zur Bedeutung von Büchern, Filmen und Serien.",
+        "ru": "Вдохновляющие размышления и разборы смысла книг, фильмов и сериалов.",
+        "ar": "تأملات ملهمة وتحليل لمعنى الكتب والأفلام والمسلسلات.",
+        "hi": "किताबों, फिल्मों और सीरीज़ के अर्थ पर प्रेरणादायक विचार और विश्लेषण।",
+        "zh": "关于书籍、电影和剧集意义的启发性思考与解读。",
+        "ja": "本や映画、ドラマの意味を読み解く、心に響く考察や分析を発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 10600000,
+          "tiktok": 29200000,
+          "youtube": 12400000
+        }
+      }
+    },
+    {
+      "id": "georgina-rodriguez",
+      "name": "Georgina Rodríguez",
+      "country": "ES",
+      "topic": {
+        "es": "Moda y lujo",
+        "en": "Fashion and luxury",
+        "pt": "Moda e luxo",
+        "fr": "Mode et luxe",
+        "de": "Mode und Luxus",
+        "ru": "Мода и роскошь",
+        "ar": "موضة وفخامة",
+        "hi": "फैशन और विलासिता",
+        "zh": "时尚与奢华",
+        "ja": "ファッションとラグジュアリー"
+      },
+      "about": {
+        "es": "Modelo y empresaria; muestra su estilo de vida de lujo y sus proyectos de moda.",
+        "en": "Model and entrepreneur; shows her luxury lifestyle and fashion projects.",
+        "pt": "Modelo e empresária; mostra seu estilo de vida de luxo e seus projetos de moda.",
+        "fr": "Mannequin et entrepreneuse ; montre son style de vie luxueux et ses projets de mode.",
+        "de": "Model und Unternehmerin; zeigt ihren luxuriösen Lifestyle und ihre Modeprojekte.",
+        "ru": "Модель и предпринимательница; показывает роскошный образ жизни и модные проекты.",
+        "ar": "عارضة أزياء وسيدة أعمال؛ تعرض أسلوب حياتها الفاخر ومشاريعها في الموضة.",
+        "hi": "मॉडल और उद्यमी; अपनी शानदार जीवनशैली और फैशन परियोजनाएं दिखाती हैं।",
+        "zh": "模特兼企业家；展示她奢华的生活方式和时尚项目。",
+        "ja": "モデル兼起業家。ラグジュアリーなライフスタイルやファッション関連のプロジェクトを紹介。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "georginagio",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 71900000,
+          "tiktok": 20500000
+        }
+      }
+    },
+    {
+      "id": "auronplay",
+      "name": "AuronPlay",
+      "country": "ES",
+      "topic": {
+        "es": "Gaming y humor",
+        "en": "Gaming and comedy",
+        "pt": "Games e humor",
+        "fr": "Jeux vidéo et humour",
+        "de": "Gaming und Humor",
+        "ru": "Игры и юмор",
+        "ar": "ألعاب وفكاهة",
+        "hi": "गेमिंग और हास्य",
+        "zh": "游戏与幽默",
+        "ja": "ゲームとお笑い"
+      },
+      "about": {
+        "es": "Videojuegos, humor y directos; uno de los creadores más veteranos de habla hispana.",
+        "en": "Video games, comedy and livestreams; one of the most veteran Spanish-speaking creators.",
+        "pt": "Videogames, humor e lives; um dos criadores mais veteranos de língua espanhola.",
+        "fr": "Jeux vidéo, humour et directs ; l'un des créateurs les plus vétérans de la sphère hispanophone.",
+        "de": "Videospiele, Humor und Livestreams; einer der dienstältesten Creator im spanischsprachigen Raum.",
+        "ru": "Видеоигры, юмор и прямые эфиры; один из самых опытных авторов испаноязычного мира.",
+        "ar": "ألعاب فيديو وفكاهة وبث مباشر؛ من أعرق صناع المحتوى الناطقين بالإسبانية.",
+        "hi": "वीडियो गेम, हास्य और लाइव स्ट्रीम; स्पैनिश भाषी दुनिया के सबसे वरिष्ठ क्रिएटर्स में से एक।",
+        "zh": "电子游戏、幽默和直播；西语世界最资深的创作者之一。",
+        "ja": "ゲームとお笑い、配信を発信。スペイン語圏で最も古参のクリエイターの一人。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 17000000,
+          "youtube": 29100000,
+          "tiktok": 2500000
+        }
+      }
+    },
+    {
+      "id": "el-rubius",
+      "name": "El Rubius",
+      "country": "ES",
+      "topic": {
+        "es": "Gaming",
+        "en": "Gaming",
+        "pt": "Games",
+        "fr": "Jeux vidéo",
+        "de": "Gaming",
+        "ru": "Игры",
+        "ar": "ألعاب فيديو",
+        "hi": "गेमिंग",
+        "zh": "游戏",
+        "ja": "ゲーム実況"
+      },
+      "about": {
+        "es": "Pionero de YouTube en España con gameplays y humor; hoy centrado en directos.",
+        "en": "A YouTube pioneer in Spain with gameplay and comedy; now focused on livestreams.",
+        "pt": "Pioneiro do YouTube na Espanha com gameplays e humor; hoje focado em lives.",
+        "fr": "Pionnier de YouTube en Espagne avec des gameplays et de l'humour ; aujourd'hui centré sur les directs.",
+        "de": "YouTube-Pionier in Spanien mit Gameplays und Humor; heute vor allem Livestreams.",
+        "ru": "Пионер YouTube в Испании с геймплеями и юмором; сегодня сосредоточен на прямых эфирах.",
+        "ar": "رائد يوتيوب في إسبانيا بألعاب الفيديو والفكاهة؛ يركّز اليوم على البث المباشر.",
+        "hi": "गेमप्ले और हास्य के साथ स्पेन में यूट्यूब के अग्रणी; आज मुख्य रूप से लाइव स्ट्रीम पर केंद्रित।",
+        "zh": "西班牙YouTube先驱，以游戏实况和幽默内容起家；如今主要专注直播。",
+        "ja": "スペインのYouTubeパイオニアで、実況プレイとお笑いで人気に。現在は主に配信に注力。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 17400000,
+          "youtube": 40700000
+        }
+      }
+    },
+    {
+      "id": "ibai-llanos",
+      "name": "Ibai Llanos",
+      "country": "ES",
+      "topic": {
+        "es": "Streaming y eventos",
+        "en": "Streaming and events",
+        "pt": "Streaming e eventos",
+        "fr": "Streaming et événements",
+        "de": "Streaming und Events",
+        "ru": "Стримы и мероприятия",
+        "ar": "بث مباشر وفعاليات",
+        "hi": "स्ट्रीमिंग और आयोजन",
+        "zh": "直播与活动",
+        "ja": "配信とイベント"
+      },
+      "about": {
+        "es": "Streamer y organizador de grandes eventos como La Velada del Año; tiene su propio club de fútbol.",
+        "en": "Streamer and organizer of major events like La Velada del Año; owns his own football club.",
+        "pt": "Streamer e organizador de grandes eventos como La Velada del Año; tem seu próprio clube de futebol.",
+        "fr": "Streamer et organisateur de grands événements comme La Velada del Año ; possède son propre club de football.",
+        "de": "Streamer und Organisator großer Events wie La Velada del Año; besitzt einen eigenen Fußballverein.",
+        "ru": "Стример и организатор крупных мероприятий, таких как La Velada del Año; владеет собственным футбольным клубом.",
+        "ar": "بثّ مباشر وتنظيم فعاليات كبرى مثل La Velada del Año؛ يملك ناديه الخاص لكرة القدم.",
+        "hi": "स्ट्रीमर और La Velada del Año जैसे बड़े आयोजनों के आयोजक; उनका अपना फुटबॉल क्लब है।",
+        "zh": "主播兼La Velada del Año等大型活动的组织者；拥有自己的足球俱乐部。",
+        "ja": "配信者であり、La Velada del Añoなど大型イベントの主催者でもある。自身のサッカークラブも所有。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 15000000,
+          "youtube": 15300000,
+          "tiktok": 27200000
+        }
+      }
+    },
+    {
+      "id": "natcher",
+      "name": "Natcher",
+      "country": "ES",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Humor",
+        "ru": "Юмор",
+        "ar": "فكاهة",
+        "hi": "हास्य",
+        "zh": "幽默",
+        "ja": "お笑い"
+      },
+      "about": {
+        "es": "Vídeos cómicos que despegaron en TikTok y se extendieron a YouTube e Instagram.",
+        "en": "Comedy videos that took off on TikTok and spread to YouTube and Instagram.",
+        "pt": "Vídeos cômicos que decolaram no TikTok e se estenderam ao YouTube e Instagram.",
+        "fr": "Vidéos comiques parties de TikTok et étendues à YouTube et Instagram.",
+        "de": "Comedy-Videos, die auf TikTok durchstarteten und sich auf YouTube und Instagram ausbreiteten.",
+        "ru": "Комедийные видео, которые взлетели в TikTok и распространились на YouTube и Instagram.",
+        "ar": "فيديوهات كوميدية انطلقت في تيك توك وامتدت إلى يوتيوب وإنستغرام.",
+        "hi": "हास्य वीडियो जो टिकटॉक पर लोकप्रिय हुए और यूट्यूब व इंस्टाग्राम तक फैले।",
+        "zh": "在TikTok走红并扩展到YouTube和Instagram的搞笑视频。",
+        "ja": "TikTokで人気に火がつき、YouTubeやInstagramにも展開したコメディ動画。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 5400000,
+          "tiktok": 11900000,
+          "youtube": 6400000
+        }
+      }
+    },
+    {
+      "id": "lola-lolita",
+      "name": "Lola Lolita",
+      "country": "ES",
+      "topic": {
+        "es": "Estilo de vida",
+        "en": "Lifestyle",
+        "pt": "Estilo de vida",
+        "fr": "Style de vie",
+        "de": "Lifestyle",
+        "ru": "Образ жизни",
+        "ar": "أسلوب الحياة",
+        "hi": "जीवनशैली",
+        "zh": "生活方式",
+        "ja": "ライフスタイル"
+      },
+      "about": {
+        "es": "Empezó bailando en TikTok y hoy es una de las referentes de estilo de vida en España.",
+        "en": "Started out dancing on TikTok and is now a leading lifestyle voice in Spain.",
+        "pt": "Começou dançando no TikTok e hoje é uma das referências de estilo de vida na Espanha.",
+        "fr": "A commencé en dansant sur TikTok et est aujourd'hui une référence du style de vie en Espagne.",
+        "de": "Begann mit Tanzvideos auf TikTok und ist heute eine der führenden Lifestyle-Stimmen in Spanien.",
+        "ru": "Начинала с танцев в TikTok, а сегодня — одна из главных фигур образа жизни в Испании.",
+        "ar": "بدأت بالرقص على تيك توك، واليوم هي من أبرز الأسماء في أسلوب الحياة بإسبانيا.",
+        "hi": "टिकटॉक पर नृत्य से शुरुआत की और आज स्पेन में जीवनशैली की प्रमुख आवाज़ हैं।",
+        "zh": "从在TikTok跳舞起步，如今是西班牙生活方式领域的代表人物。",
+        "ja": "TikTokのダンス動画から始まり、今やスペインのライフスタイル分野を代表する存在に。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 4400000,
+          "tiktok": 13800000,
+          "youtube": 227000
+        }
+      }
+    },
+    {
+      "id": "anna-teres",
+      "name": "Anna Terés",
+      "country": "ES",
+      "topic": {
+        "es": "Cocina",
+        "en": "Cooking",
+        "pt": "Culinária",
+        "fr": "Cuisine",
+        "de": "Kochen",
+        "ru": "Кулинария",
+        "ar": "طبخ",
+        "hi": "खाना पकाना",
+        "zh": "烹饪",
+        "ja": "料理"
+      },
+      "about": {
+        "es": "Recetas y consejos de cocina; una de las creadoras gastronómicas más seguidas del mundo.",
+        "en": "Recipes and cooking tips; one of the world's most followed food creators.",
+        "pt": "Receitas e dicas de cozinha; uma das criadoras gastronômicas mais seguidas do mundo.",
+        "fr": "Recettes et conseils de cuisine ; l'une des créatrices culinaires les plus suivies au monde.",
+        "de": "Rezepte und Kochtipps; eine der meistgefolgten Food-Creatorinnen der Welt.",
+        "ru": "Рецепты и кулинарные советы; одна из самых популярных гастрономических авторов в мире.",
+        "ar": "وصفات ونصائح للطبخ؛ من أكثر صانعات المحتوى الغذائي متابعة في العالم.",
+        "hi": "व्यंजन विधियां और खाना पकाने की सलाह; दुनिया की सबसे लोकप्रिय फूड क्रिएटर्स में से एक।",
+        "zh": "食谱与烹饪技巧；全球关注度最高的美食创作者之一。",
+        "ja": "レシピや料理のコツを発信。世界で最も人気のあるフード系クリエイターの一人。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 4000000,
+          "tiktok": 1300000,
+          "youtube": 5300000,
+          "facebook": 6000000
+        }
+      }
+    },
+    {
+      "id": "dulceida",
+      "name": "Dulceida",
+      "country": "ES",
+      "topic": {
+        "es": "Moda",
+        "en": "Fashion",
+        "pt": "Moda",
+        "fr": "Mode",
+        "de": "Mode",
+        "ru": "Мода",
+        "ar": "موضة",
+        "hi": "फैशन",
+        "zh": "时尚",
+        "ja": "ファッション"
+      },
+      "about": {
+        "es": "Bloguera e icono de la moda, de las primeras grandes influencers españolas.",
+        "en": "Blogger and fashion icon, one of the first major Spanish influencers.",
+        "pt": "Blogueira e ícone da moda, uma das primeiras grandes influenciadoras espanholas.",
+        "fr": "Blogueuse et icône de la mode, l'une des premières grandes influenceuses espagnoles.",
+        "de": "Bloggerin und Modeikone, eine der ersten großen spanischen Influencerinnen.",
+        "ru": "Блогер и икона моды, одна из первых крупных испанских инфлюенсеров.",
+        "ar": "مدوّنة وأيقونة موضة، من أوائل المؤثرات الإسبانيات الكبار.",
+        "hi": "ब्लॉगर और फैशन आइकन, पहली बड़ी स्पेनिश इन्फ्लुएंसर्स में से एक।",
+        "zh": "博主兼时尚偶像，西班牙最早的大型网红之一。",
+        "ja": "ブロガーでありファッションアイコン。スペイン初期を代表する大物インフルエンサーの一人。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "dulceida",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 3500000,
+          "tiktok": 972000,
+          "youtube": 2100000
+        }
+      }
+    },
+    {
+      "id": "marta-diaz",
+      "name": "Marta Díaz",
+      "country": "ES",
+      "topic": {
+        "es": "Estilo de vida",
+        "en": "Lifestyle",
+        "pt": "Estilo de vida",
+        "fr": "Style de vie",
+        "de": "Lifestyle",
+        "ru": "Образ жизни",
+        "ar": "أسلوب الحياة",
+        "hi": "जीवनशैली",
+        "zh": "生活方式",
+        "ja": "ライフスタイル"
+      },
+      "about": {
+        "es": "Bailes, humor y vlogs de moda y estilo de vida.",
+        "en": "Dance, comedy and fashion and lifestyle vlogs.",
+        "pt": "Danças, humor e vlogs de moda e estilo de vida.",
+        "fr": "Danses, humour et vlogs de mode et de style de vie.",
+        "de": "Tänze, Humor und Vlogs zu Mode und Lifestyle.",
+        "ru": "Танцы, юмор и влоги о моде и образе жизни.",
+        "ar": "رقص وفكاهة ومدونات فيديو عن الموضة وأسلوب الحياة.",
+        "hi": "नृत्य, हास्य और फैशन व जीवनशैली के व्लॉग।",
+        "zh": "舞蹈、搞笑以及时尚与生活方式视频日志。",
+        "ja": "ダンスやお笑い、ファッション・ライフスタイル系のVlogを発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 3600000,
+          "tiktok": 6900000
+        }
+      }
+    },
+    {
+      "id": "maria-pombo",
+      "name": "María Pombo",
+      "country": "ES",
+      "topic": {
+        "es": "Moda",
+        "en": "Fashion",
+        "pt": "Moda",
+        "fr": "Mode",
+        "de": "Mode",
+        "ru": "Мода",
+        "ar": "موضة",
+        "hi": "फैशन",
+        "zh": "时尚",
+        "ja": "ファッション"
+      },
+      "about": {
+        "es": "Moda, estilo de vida y experiencias personales; colabora con marcas y televisión.",
+        "en": "Fashion, lifestyle and personal experiences; works with brands and TV.",
+        "pt": "Moda, estilo de vida e experiências pessoais; colabora com marcas e televisão.",
+        "fr": "Mode, style de vie et expériences personnelles ; collabore avec des marques et la télévision.",
+        "de": "Mode, Lifestyle und persönliche Erlebnisse; arbeitet mit Marken und dem Fernsehen zusammen.",
+        "ru": "Мода, образ жизни и личный опыт; сотрудничает с брендами и телевидением.",
+        "ar": "موضة وأسلوب حياة وتجارب شخصية؛ تتعاون مع العلامات التجارية والتلفزيون.",
+        "hi": "फैशन, जीवनशैली और निजी अनुभव; ब्रांड्स और टेलीविज़न के साथ सहयोग करती हैं।",
+        "zh": "时尚、生活方式与个人经历；与品牌和电视台合作。",
+        "ja": "ファッションやライフスタイル、個人的な体験を発信。ブランドやテレビとのコラボも行う。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "mariapombo",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 3400000,
+          "tiktok": 705800,
+          "youtube": 234000
+        }
+      }
+    },
+    {
+      "id": "lionel-messi",
+      "name": "Lionel Messi",
+      "country": "AR",
+      "topic": {
+        "es": "Fútbol",
+        "en": "Football",
+        "pt": "Futebol",
+        "fr": "Football",
+        "de": "Fußball",
+        "ru": "Футбол",
+        "ar": "كرة القدم",
+        "hi": "फुटबॉल",
+        "zh": "足球",
+        "ja": "サッカー"
+      },
+      "about": {
+        "es": "El futbolista argentino comparte sus momentos deportivos, familia y campañas con marcas.",
+        "en": "The Argentine footballer shares sporting moments, family life and brand campaigns.",
+        "pt": "O futebolista argentino compartilha seus momentos esportivos, família e campanhas com marcas.",
+        "fr": "Le footballeur argentin partage ses moments sportifs, sa famille et ses campagnes avec des marques.",
+        "de": "Der argentinische Fußballer zeigt sportliche Momente, Familie und Markenkampagnen.",
+        "ru": "Аргентинский футболист делится спортивными моментами, семьёй и рекламными кампаниями.",
+        "ar": "لاعب كرة القدم الأرجنتيني يشارك لحظاته الرياضية وعائلته وحملاته مع العلامات التجارية.",
+        "hi": "अर्जेंटीना के फुटबॉलर अपने खेल के पल, परिवार और ब्रांड अभियान साझा करते हैं।",
+        "zh": "这位阿根廷足球运动员分享比赛瞬间、家庭生活和品牌合作。",
+        "ja": "アルゼンチンのサッカー選手が、試合の様子や家族、ブランド案件を発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "leomessi",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 511000000
+        }
+      }
+    },
+    {
+      "id": "alejo-igoa",
+      "name": "Alejo Igoa",
+      "country": "AR",
+      "topic": {
+        "es": "Retos y aventuras",
+        "en": "Challenges and adventures",
+        "pt": "Desafios e aventuras",
+        "fr": "Défis et aventures",
+        "de": "Challenges und Abenteuer",
+        "ru": "Челленджи и приключения",
+        "ar": "تحديات ومغامرات",
+        "hi": "चुनौतियां और रोमांच",
+        "zh": "挑战与冒险",
+        "ja": "チャレンジと冒険"
+      },
+      "about": {
+        "es": "Retos, cajas misteriosas y aventuras con amigos; uno de los youtubers más grandes en español.",
+        "en": "Challenges, mystery boxes and adventures with friends; one of the biggest Spanish-language YouTubers.",
+        "pt": "Desafios, caixas misteriosas e aventuras com amigos; um dos maiores youtubers em espanhol.",
+        "fr": "Défis, boîtes mystères et aventures entre amis ; l'un des plus grands youtubeurs hispanophones.",
+        "de": "Challenges, Mystery-Boxen und Abenteuer mit Freunden; einer der größten spanischsprachigen YouTuber.",
+        "ru": "Челленджи, таинственные коробки и приключения с друзьями; один из крупнейших испаноязычных ютуберов.",
+        "ar": "تحديات وصناديق غامضة ومغامرات مع الأصدقاء؛ من أكبر يوتيوبرز الناطقين بالإسبانية.",
+        "hi": "चुनौतियां, रहस्यमय बक्से और दोस्तों के साथ रोमांच; स्पैनिश भाषा के सबसे बड़े यूट्यूबर्स में से एक।",
+        "zh": "挑战、神秘盒子和与朋友的冒险；西语世界最大的YouTuber之一。",
+        "ja": "チャレンジやミステリーボックス、友人との冒険動画を発信。スペイン語圏最大級のYouTuberの一人。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 11200000,
+          "tiktok": 6700000,
+          "youtube": 101000000
+        }
+      }
+    },
+    {
+      "id": "paulo-dybala",
+      "name": "Paulo Dybala",
+      "country": "AR",
+      "topic": {
+        "es": "Fútbol",
+        "en": "Football",
+        "pt": "Futebol",
+        "fr": "Football",
+        "de": "Fußball",
+        "ru": "Футбол",
+        "ar": "كرة القدم",
+        "hi": "फुटबॉल",
+        "zh": "足球",
+        "ja": "サッカー"
+      },
+      "about": {
+        "es": "Futbolista; comparte su carrera deportiva y su vida con amigos y familia.",
+        "en": "Footballer; shares his sporting career and life with friends and family.",
+        "pt": "Futebolista; compartilha sua carreira esportiva e sua vida com amigos e família.",
+        "fr": "Footballeur ; partage sa carrière sportive et sa vie avec ses amis et sa famille.",
+        "de": "Fußballer; teilt seine sportliche Karriere und sein Leben mit Freunden und Familie.",
+        "ru": "Футболист; делится спортивной карьерой и жизнью с друзьями и семьёй.",
+        "ar": "لاعب كرة قدم؛ يشارك مسيرته الرياضية وحياته مع الأصدقاء والعائلة.",
+        "hi": "फुटबॉलर; अपने खेल करियर और दोस्तों व परिवार के साथ जीवन साझा करते हैं।",
+        "zh": "足球运动员；分享自己的运动生涯以及与朋友和家人的生活。",
+        "ja": "サッカー選手。自身のキャリアや友人・家族との生活を発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "paulodybala",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 56900000,
+          "tiktok": 10500000
+        }
+      }
+    },
+    {
+      "id": "bizarrap",
+      "name": "Bizarrap",
+      "country": "AR",
+      "topic": {
+        "es": "Música",
+        "en": "Music",
+        "pt": "Música",
+        "fr": "Musique",
+        "de": "Musik",
+        "ru": "Музыка",
+        "ar": "موسيقى",
+        "hi": "संगीत",
+        "zh": "音乐",
+        "ja": "音楽"
+      },
+      "about": {
+        "es": "Productor de las BZRP Music Sessions, con colaboraciones junto a artistas de todo el mundo.",
+        "en": "Producer of the BZRP Music Sessions, collaborating with artists from around the world.",
+        "pt": "Produtor das BZRP Music Sessions, com colaborações junto a artistas do mundo todo.",
+        "fr": "Producteur des BZRP Music Sessions, avec des collaborations aux côtés d'artistes du monde entier.",
+        "de": "Produzent der BZRP Music Sessions, mit Kollaborationen mit Künstlern aus aller Welt.",
+        "ru": "Продюсер BZRP Music Sessions, сотрудничает с артистами со всего мира.",
+        "ar": "منتج سلسلة BZRP Music Sessions، بتعاونات مع فنانين من جميع أنحاء العالم.",
+        "hi": "BZRP Music Sessions के निर्माता, दुनियाभर के कलाकारों के साथ सहयोग करते हैं।",
+        "zh": "BZRP Music Sessions的制作人，与世界各地艺人合作。",
+        "ja": "BZRP Music Sessionsのプロデューサーで、世界中のアーティストとコラボレーション。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 19800000,
+          "tiktok": 12000000,
+          "youtube": 23000000
+        }
+      }
+    },
+    {
+      "id": "antonela-roccuzzo",
+      "name": "Antonela Roccuzzo",
+      "country": "AR",
+      "topic": {
+        "es": "Moda y belleza",
+        "en": "Fashion and beauty",
+        "pt": "Moda e beleza",
+        "fr": "Mode et beauté",
+        "de": "Mode und Schönheit",
+        "ru": "Мода и красота",
+        "ar": "موضة وجمال",
+        "hi": "फैशन और सौंदर्य",
+        "zh": "时尚与美妆",
+        "ja": "ファッションと美容"
+      },
+      "about": {
+        "es": "Colaboraciones con marcas de moda, belleza y estilo de vida.",
+        "en": "Collaborations with fashion, beauty and lifestyle brands.",
+        "pt": "Colaborações com marcas de moda, beleza e estilo de vida.",
+        "fr": "Collaborations avec des marques de mode, de beauté et de style de vie.",
+        "de": "Kooperationen mit Marken aus Mode, Beauty und Lifestyle.",
+        "ru": "Сотрудничество с брендами моды, красоты и образа жизни.",
+        "ar": "تعاونات مع علامات تجارية في الموضة والجمال وأسلوب الحياة.",
+        "hi": "फैशन, सौंदर्य और जीवनशैली ब्रांड्स के साथ सहयोग।",
+        "zh": "与时尚、美妆和生活方式品牌合作。",
+        "ja": "ファッションや美容、ライフスタイル系ブランドとのコラボレーションを展開。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "antonelaroccuzzo",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 39900000
+        }
+      }
+    },
+    {
+      "id": "ian-lucas",
+      "name": "Ian Lucas",
+      "country": "AR",
+      "topic": {
+        "es": "Humor y música",
+        "en": "Comedy and music",
+        "pt": "Humor e música",
+        "fr": "Humour et musique",
+        "de": "Humor und Musik",
+        "ru": "Юмор и музыка",
+        "ar": "فكاهة وموسيقى",
+        "hi": "हास्य और संगीत",
+        "zh": "幽默与音乐",
+        "ja": "お笑いと音楽"
+      },
+      "about": {
+        "es": "Bromas, desafíos y videos musicales con mucha interacción con su público.",
+        "en": "Pranks, challenges and music videos with heavy audience interaction.",
+        "pt": "Brincadeiras, desafios e vídeos musicais com muita interação com o público.",
+        "fr": "Blagues, défis et clips musicaux avec beaucoup d'interaction avec son public.",
+        "de": "Streiche, Challenges und Musikvideos mit viel Interaktion mit dem Publikum.",
+        "ru": "Розыгрыши, испытания и музыкальные клипы с активным взаимодействием с аудиторией.",
+        "ar": "مقالب وتحديات ومقاطع موسيقية مع تفاعل كبير مع جمهوره.",
+        "hi": "मज़ाक, चुनौतियां और संगीत वीडियो, दर्शकों के साथ गहरे जुड़ाव के साथ।",
+        "zh": "恶作剧、挑战和音乐视频，与观众互动频繁。",
+        "ja": "いたずらやチャレンジ、音楽動画を発信し、視聴者との交流も活発。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 5700000,
+          "tiktok": 16600000,
+          "youtube": 37500000
+        }
+      }
+    },
+    {
+      "id": "nicki-nicole",
+      "name": "Nicki Nicole",
+      "country": "AR",
+      "topic": {
+        "es": "Música",
+        "en": "Music",
+        "pt": "Música",
+        "fr": "Musique",
+        "de": "Musik",
+        "ru": "Музыка",
+        "ar": "موسيقى",
+        "hi": "संगीत",
+        "zh": "音乐",
+        "ja": "音楽"
+      },
+      "about": {
+        "es": "Cantante y compositora; comparte su proceso creativo, lanzamientos y contacto con fans.",
+        "en": "Singer and songwriter; shares her creative process, releases and contact with fans.",
+        "pt": "Cantora e compositora; compartilha seu processo criativo, lançamentos e contato com fãs.",
+        "fr": "Chanteuse et compositrice ; partage son processus créatif, ses sorties et ses échanges avec ses fans.",
+        "de": "Sängerin und Songwriterin; teilt ihren kreativen Prozess, Veröffentlichungen und Kontakt zu Fans.",
+        "ru": "Певица и автор песен; делится творческим процессом, релизами и общением с фанатами.",
+        "ar": "مغنية وملحنة؛ تشارك عمليتها الإبداعية وإصداراتها وتواصلها مع المعجبين.",
+        "hi": "गायिका और गीतकार; अपनी रचनात्मक प्रक्रिया, रिलीज़ और फैंस से संपर्क साझा करती हैं।",
+        "zh": "歌手兼词曲作者；分享她的创作过程、新作发布以及与粉丝的互动。",
+        "ja": "シンガーソングライター。制作の裏側や新作リリース、ファンとの交流を発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 23200000,
+          "tiktok": 16500000,
+          "youtube": 5550000
+        }
+      }
+    },
+    {
+      "id": "maria-becerra",
+      "name": "María Becerra",
+      "country": "AR",
+      "topic": {
+        "es": "Música",
+        "en": "Music",
+        "pt": "Música",
+        "fr": "Musique",
+        "de": "Musik",
+        "ru": "Музыка",
+        "ar": "موسيقى",
+        "hi": "संगीत",
+        "zh": "音乐",
+        "ja": "音楽"
+      },
+      "about": {
+        "es": "Cantante y compositora; mezcla música, vida personal, moda y maquillaje.",
+        "en": "Singer and songwriter; blends music, personal life, fashion and makeup.",
+        "pt": "Cantora e compositora; mistura música, vida pessoal, moda e maquiagem.",
+        "fr": "Chanteuse et compositrice ; mélange musique, vie personnelle, mode et maquillage.",
+        "de": "Sängerin und Songwriterin; verbindet Musik, Privatleben, Mode und Make-up.",
+        "ru": "Певица и автор песен; сочетает музыку, личную жизнь, моду и макияж.",
+        "ar": "مغنية وملحنة؛ تمزج بين الموسيقى وحياتها الشخصية والموضة والمكياج.",
+        "hi": "गायिका और गीतकार; संगीत, निजी जीवन, फैशन और मेकअप को मिलाती हैं।",
+        "zh": "歌手兼词曲作者；将音乐、个人生活、时尚和美妆融合在一起。",
+        "ja": "シンガーソングライター。音楽とプライベート、ファッション、メイクを組み合わせて発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 14800000,
+          "tiktok": 13500000,
+          "youtube": 6050000
+        }
+      }
+    },
+    {
+      "id": "cazzu",
+      "name": "Cazzu",
+      "country": "AR",
+      "topic": {
+        "es": "Música",
+        "en": "Music",
+        "pt": "Música",
+        "fr": "Musique",
+        "de": "Musik",
+        "ru": "Музыка",
+        "ar": "موسيقى",
+        "hi": "संगीत",
+        "zh": "音乐",
+        "ja": "音楽"
+      },
+      "about": {
+        "es": "Referente del trap; publica música, reflexiones y conversa con sus fans.",
+        "en": "A leading name in trap; posts music, reflections and chats with fans.",
+        "pt": "Referência do trap; publica música, reflexões e conversa com seus fãs.",
+        "fr": "Référence du trap ; publie musique, réflexions et échange avec ses fans.",
+        "de": "Größe der Trap-Szene; veröffentlicht Musik, Gedanken und tauscht sich mit Fans aus.",
+        "ru": "Знаковая фигура трэпа; публикует музыку, размышления и общается с фанатами.",
+        "ar": "من أبرز أسماء موسيقى التراب؛ تنشر الموسيقى والتأملات وتتحدث مع معجبيها.",
+        "hi": "ट्रैप संगीत की प्रमुख हस्ती; संगीत, विचार प्रकाशित करती हैं और फैंस से बातचीत करती हैं।",
+        "zh": "trap音乐的代表人物；发布音乐、感想并与粉丝交流。",
+        "ja": "トラップシーンを代表する存在。音楽や考えを発信し、ファンとも交流。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "cazzu",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 18400000,
+          "tiktok": 8500000,
+          "youtube": 7740000
+        }
+      }
+    },
+    {
+      "id": "augusto-gimenez",
+      "name": "Augusto Giménez",
+      "country": "AR",
+      "topic": {
+        "es": "Humor familiar",
+        "en": "Family comedy",
+        "pt": "Humor em família",
+        "fr": "Humour familial",
+        "de": "Familienhumor",
+        "ru": "Семейный юмор",
+        "ar": "فكاهة عائلية",
+        "hi": "पारिवारिक हास्य",
+        "zh": "家庭幽默",
+        "ja": "家族のお笑い"
+      },
+      "about": {
+        "es": "Humor con su familia, viajes y colaboraciones con otros creadores.",
+        "en": "Comedy with her family, travel and collaborations with other creators.",
+        "pt": "Humor com sua família, viagens e colaborações com outros criadores.",
+        "fr": "Humour en famille, voyages et collaborations avec d'autres créateurs.",
+        "de": "Humor mit ihrer Familie, Reisen und Kollaborationen mit anderen Creators.",
+        "ru": "Юмор с семьёй, путешествия и коллаборации с другими авторами.",
+        "ar": "فكاهة مع عائلته وسفر وتعاونات مع صناع محتوى آخرين.",
+        "hi": "अपने परिवार के साथ हास्य, यात्रा और अन्य क्रिएटर्स के साथ सहयोग।",
+        "zh": "与家人一起的幽默内容、旅行以及与其他创作者的合作。",
+        "ja": "家族とのお笑い企画や旅行、他のクリエイターとのコラボを発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 4800000,
+          "tiktok": 21000000,
+          "youtube": 242000
+        }
+      }
+    },
+    {
+      "id": "juanda",
+      "name": "JuanDa",
+      "country": "CO",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Humor",
+        "ru": "Юмор",
+        "ar": "فكاهة",
+        "hi": "हास्य",
+        "zh": "幽默",
+        "ja": "お笑い"
+      },
+      "about": {
+        "es": "Humor espontáneo sobre su día a día y la salud mental, sin filtros.",
+        "en": "Spontaneous, unfiltered comedy about daily life and mental health.",
+        "pt": "Humor espontâneo sobre seu dia a dia e a saúde mental, sem filtros.",
+        "fr": "Humour spontané sur son quotidien et la santé mentale, sans filtre.",
+        "de": "Spontaner, ungefilterter Humor über Alltag und mentale Gesundheit.",
+        "ru": "Спонтанный юмор без фильтров о повседневной жизни и психическом здоровье.",
+        "ar": "فكاهة عفوية عن يومياته والصحة النفسية دون فلاتر.",
+        "hi": "अपने दैनिक जीवन और मानसिक स्वास्थ्य पर बिना किसी फिल्टर के सहज हास्य।",
+        "zh": "关于日常生活和心理健康的自发、无滤镜幽默内容。",
+        "ja": "日常生活やメンタルヘルスについて、飾らず自然体で発信するお笑いコンテンツ。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 7100000,
+          "tiktok": 28800000,
+          "youtube": 1880000
+        }
+      }
+    },
+    {
+      "id": "la-granja-del-borrego",
+      "name": "La Granja del Borrego",
+      "country": "CO",
+      "topic": {
+        "es": "Campo y animales",
+        "en": "Farm and animals",
+        "pt": "Campo e animais",
+        "fr": "Campagne et animaux",
+        "de": "Landleben und Tiere",
+        "ru": "Сельская жизнь и животные",
+        "ar": "الريف والحيوانات",
+        "hi": "ग्रामीण जीवन और पशु",
+        "zh": "乡村与动物",
+        "ja": "田舎暮らしと動物"
+      },
+      "about": {
+        "es": "Carlos Alberto Díaz divulga sobre animales, agricultura y la vida en el campo con un tono ameno.",
+        "en": "Carlos Alberto Díaz shares content about animals, farming and country life in a friendly tone.",
+        "pt": "Carlos Alberto Díaz divulga conteúdo sobre animais, agricultura e a vida no campo com um tom leve.",
+        "fr": "Carlos Alberto Díaz parle des animaux, de l'agriculture et de la vie à la campagne sur un ton chaleureux.",
+        "de": "Carlos Alberto Díaz berichtet locker über Tiere, Landwirtschaft und das Landleben.",
+        "ru": "Карлос Альберто Диас рассказывает о животных, сельском хозяйстве и жизни в деревне в лёгкой манере.",
+        "ar": "كارلوس ألبرتو دياز ينشر محتوى عن الحيوانات والزراعة والحياة الريفية بأسلوب ودود.",
+        "hi": "कार्लोस अल्बर्टो डियाज़ जानवरों, कृषि और ग्रामीण जीवन के बारे में सहज अंदाज़ में जानकारी देते हैं।",
+        "zh": "卡洛斯·阿尔贝托·迪亚斯以轻松风格分享动物、农业和乡村生活相关内容。",
+        "ja": "カルロス・アルベルト・ディアスが動物や農業、田舎暮らしについて親しみやすい語り口で発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 5800000,
+          "tiktok": 36000000,
+          "youtube": 27800000
+        }
+      }
+    },
+    {
+      "id": "yeferson-cossio",
+      "name": "Yeferson Cossio",
+      "country": "CO",
+      "topic": {
+        "es": "Retos y estilo de vida",
+        "en": "Challenges and lifestyle",
+        "pt": "Desafios e estilo de vida",
+        "fr": "Défis et style de vie",
+        "de": "Challenges und Lifestyle",
+        "ru": "Челленджи и образ жизни",
+        "ar": "تحديات وأسلوب حياة",
+        "hi": "चुनौतियां और जीवनशैली",
+        "zh": "挑战与生活方式",
+        "ja": "チャレンジとライフスタイル"
+      },
+      "about": {
+        "es": "Pasó de retos extremos a mostrar una vida de lujos y donaciones a causas sociales.",
+        "en": "Went from extreme challenges to showing a life of luxury and donations to social causes.",
+        "pt": "Passou de desafios extremos a mostrar uma vida de luxo e doações a causas sociais.",
+        "fr": "Passé des défis extrêmes à une vie de luxe et à des dons pour des causes sociales.",
+        "de": "Wechselte von extremen Challenges zu einem Leben in Luxus und Spenden für soziale Zwecke.",
+        "ru": "Перешёл от экстремальных челленджей к демонстрации роскошной жизни и пожертвованиям на социальные нужды.",
+        "ar": "انتقل من التحديات المتطرفة إلى عرض حياة مترفة وتبرعات لقضايا اجتماعية.",
+        "hi": "अत्यधिक चुनौतियों से शुरुआत कर अब शानदार जीवन और सामाजिक कारणों के लिए दान दिखाते हैं।",
+        "zh": "从极限挑战转向展示奢华生活并为社会公益事业捐款。",
+        "ja": "過激なチャレンジから一転、贅沢な暮らしぶりや社会貢献活動への寄付を発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 12400000,
+          "tiktok": 19700000,
+          "youtube": 4080000
+        }
+      }
+    },
+    {
+      "id": "luisa-fernanda-w",
+      "name": "Luisa Fernanda W",
+      "country": "CO",
+      "topic": {
+        "es": "Música y negocios",
+        "en": "Music and business",
+        "pt": "Música e negócios",
+        "fr": "Musique et affaires",
+        "de": "Musik und Business",
+        "ru": "Музыка и бизнес",
+        "ar": "موسيقى وأعمال",
+        "hi": "संगीत और व्यवसाय",
+        "zh": "音乐与商业",
+        "ja": "音楽とビジネス"
+      },
+      "about": {
+        "es": "Empezó con moda y belleza; hoy crea contenido sobre música, negocios y maquillaje.",
+        "en": "Started with fashion and beauty; now creates content about music, business and makeup.",
+        "pt": "Começou com moda e beleza; hoje cria conteúdo sobre música, negócios e maquiagem.",
+        "fr": "A commencé avec la mode et la beauté ; crée aujourd'hui du contenu sur la musique, les affaires et le maquillage.",
+        "de": "Begann mit Mode und Beauty; produziert heute Inhalte zu Musik, Business und Make-up.",
+        "ru": "Начинала с моды и красоты; сегодня создаёт контент о музыке, бизнесе и макияже.",
+        "ar": "بدأت بالموضة والجمال؛ تنشئ اليوم محتوى عن الموسيقى والأعمال والمكياج.",
+        "hi": "फैशन और सौंदर्य से शुरुआत की; आज संगीत, व्यवसाय और मेकअप पर सामग्री बनाती हैं।",
+        "zh": "从时尚和美妆起步；如今制作关于音乐、商业和美妆的内容。",
+        "ja": "ファッションと美容から始まり、現在は音楽やビジネス、メイクに関するコンテンツを発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "luisafernandaw",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 18900000,
+          "tiktok": 6000000,
+          "youtube": 4480000
+        }
+      }
+    },
+    {
+      "id": "ami-rodriguez",
+      "name": "Ami Rodríguez",
+      "country": "CO",
+      "topic": {
+        "es": "Entretenimiento infantil",
+        "en": "Kids' entertainment",
+        "pt": "Entretenimento infantil",
+        "fr": "Divertissement pour enfants",
+        "de": "Unterhaltung für Kinder",
+        "ru": "Детские развлечения",
+        "ar": "ترفيه للأطفال",
+        "hi": "बच्चों का मनोरंजन",
+        "zh": "儿童娱乐",
+        "ja": "子ども向けエンタメ"
+      },
+      "about": {
+        "es": "Retos, comedia y una estética colorida pensada para niños y adolescentes.",
+        "en": "Challenges, comedy and a colorful look aimed at kids and teens.",
+        "pt": "Desafios, comédia e uma estética colorida pensada para crianças e adolescentes.",
+        "fr": "Défis, comédie et une esthétique colorée pensée pour les enfants et les adolescents.",
+        "de": "Challenges, Comedy und eine bunte Optik für Kinder und Jugendliche.",
+        "ru": "Челленджи, комедия и яркая эстетика для детей и подростков.",
+        "ar": "تحديات وكوميديا وأسلوب بصري ملوّن موجّه للأطفال والمراهقين.",
+        "hi": "चुनौतियां, कॉमेडी और बच्चों व किशोरों के लिए बनाई गई रंगीन शैली।",
+        "zh": "面向儿童和青少年的挑战、喜剧内容及多彩风格。",
+        "ja": "子どもや十代の若者向けに、チャレンジやコメディ、カラフルな世界観を発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 4500000,
+          "tiktok": 13400000,
+          "youtube": 32200000
+        }
+      }
+    },
+    {
+      "id": "andrea-valdiri",
+      "name": "Andrea Valdiri",
+      "country": "CO",
+      "topic": {
+        "es": "Baile y estilo de vida",
+        "en": "Dance and lifestyle",
+        "pt": "Dança e estilo de vida",
+        "fr": "Danse et style de vie",
+        "de": "Tanz und Lifestyle",
+        "ru": "Танцы и образ жизни",
+        "ar": "رقص وأسلوب حياة",
+        "hi": "नृत्य और जीवनशैली",
+        "zh": "舞蹈与生活方式",
+        "ja": "ダンスとライフスタイル"
+      },
+      "about": {
+        "es": "Bailarina profesional con contenido de estilo de vida muy producido.",
+        "en": "Professional dancer with highly produced lifestyle content.",
+        "pt": "Bailarina profissional com conteúdo de estilo de vida muito produzido.",
+        "fr": "Danseuse professionnelle avec un contenu de style de vie très soigné.",
+        "de": "Professionelle Tänzerin mit sehr aufwendig produziertem Lifestyle-Content.",
+        "ru": "Профессиональная танцовщица с тщательно продюсируемым контентом об образе жизни.",
+        "ar": "راقصة محترفة بمحتوى عالي الإنتاج عن أسلوب الحياة.",
+        "hi": "पेशेवर नृत्यांगना, बेहद प्रोड्यूस की गई जीवनशैली सामग्री के साथ।",
+        "zh": "职业舞者，制作十分精良的生活方式内容。",
+        "ja": "プロのダンサーで、作り込まれたライフスタイル系コンテンツを発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "andreavaldiri",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 9900000,
+          "tiktok": 3800000,
+          "youtube": 206000
+        }
+      }
+    },
+    {
+      "id": "carlos-feria",
+      "name": "Carlos Feria",
+      "country": "CO",
+      "topic": {
+        "es": "Familia",
+        "en": "Family",
+        "pt": "Família",
+        "fr": "Famille",
+        "de": "Familie",
+        "ru": "Семья",
+        "ar": "عائلة",
+        "hi": "परिवार",
+        "zh": "家庭",
+        "ja": "家族"
+      },
+      "about": {
+        "es": "Retos y bailes sincronizados con su esposa e hija.",
+        "en": "Challenges and synchronized dances with his wife and daughter.",
+        "pt": "Desafios e danças sincronizadas com sua esposa e filha.",
+        "fr": "Défis et danses synchronisées avec son épouse et sa fille.",
+        "de": "Challenges und synchrone Tänze mit seiner Frau und seiner Tochter.",
+        "ru": "Челленджи и синхронные танцы с женой и дочерью.",
+        "ar": "تحديات ورقصات متزامنة مع زوجته وابنته.",
+        "hi": "अपनी पत्नी और बेटी के साथ चुनौतियां और समकालिक नृत्य।",
+        "zh": "与妻子和女儿一起完成挑战和同步舞蹈。",
+        "ja": "妻と娘とともにチャレンジやシンクロダンスを披露。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 7700000,
+          "tiktok": 47300000,
+          "youtube": 14700000
+        }
+      }
+    },
+    {
+      "id": "lulu99",
+      "name": "Lulu99",
+      "country": "CO",
+      "topic": {
+        "es": "Belleza y vida personal",
+        "en": "Beauty and personal life",
+        "pt": "Beleza e vida pessoal",
+        "fr": "Beauté et vie personnelle",
+        "de": "Schönheit und Privatleben",
+        "ru": "Красота и личная жизнь",
+        "ar": "جمال وحياة شخصية",
+        "hi": "सौंदर्य और निजी जीवन",
+        "zh": "美妆与私人生活",
+        "ja": "美容とプライベート"
+      },
+      "about": {
+        "es": "Historias de su vida y retos de belleza y moda para un público joven.",
+        "en": "Life stories and beauty and fashion challenges for a young audience.",
+        "pt": "Histórias de sua vida e desafios de beleza e moda para um público jovem.",
+        "fr": "Histoires de vie et défis de beauté et de mode pour un jeune public.",
+        "de": "Lebensgeschichten sowie Beauty- und Mode-Challenges für ein junges Publikum.",
+        "ru": "Истории из жизни и челленджи по красоте и моде для молодой аудитории.",
+        "ar": "قصص من حياتها وتحديات جمال وموضة لجمهور شاب.",
+        "hi": "युवा दर्शकों के लिए जीवन की कहानियां और सौंदर्य व फैशन चुनौतियां।",
+        "zh": "面向年轻观众的人生故事以及美妆和时尚挑战。",
+        "ja": "若い視聴者に向けて、人生の物語や美容・ファッション系チャレンジを発信。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 4200000,
+          "tiktok": 12600000,
+          "youtube": 13000000
+        }
+      }
+    },
+    {
+      "id": "la-segura",
+      "name": "La Segura",
+      "country": "CO",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Humor",
+        "ru": "Юмор",
+        "ar": "فكاهة",
+        "hi": "हास्य",
+        "zh": "幽默",
+        "ja": "お笑い"
+      },
+      "about": {
+        "es": "Natalia Segura parodia situaciones de pareja y amistad con mucha personalidad.",
+        "en": "Natalia Segura parodies relationship and friendship situations with lots of personality.",
+        "pt": "Natalia Segura faz paródias de situações de casal e amizade com muita personalidade.",
+        "fr": "Natalia Segura parodie des situations de couple et d'amitié avec beaucoup de personnalité.",
+        "de": "Natalia Segura parodiert Beziehungs- und Freundschaftssituationen mit viel Persönlichkeit.",
+        "ru": "Наталия Сегура пародирует ситуации из отношений и дружбы с яркой индивидуальностью.",
+        "ar": "ناتاليا سيغورا تقلّد مواقف العلاقات والصداقة بشخصية قوية.",
+        "hi": "नतालिया सेगुरा बड़ी व्यक्तित्व के साथ रिश्तों और दोस्ती की स्थितियों की पैरोडी करती हैं।",
+        "zh": "Natalia Segura以极具个性的方式演绎情侣和友情场景的搞笑短剧。",
+        "ja": "ナタリア・セグーラが、個性豊かにカップルや友情にまつわる場面をパロディ化。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "lasegura",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 10400000,
+          "tiktok": 9800000,
+          "youtube": 1470000
+        }
+      }
+    },
+    {
+      "id": "calle-y-poche",
+      "name": "Calle y Poché",
+      "country": "CO",
+      "topic": {
+        "es": "Pareja y comunidad LGBTQ+",
+        "en": "Couple and LGBTQ+ community",
+        "pt": "Casal e comunidade LGBTQ+",
+        "fr": "Couple et communauté LGBTQ+",
+        "de": "Paar und LGBTQ+-Community",
+        "ru": "Пара и ЛГБТК+-сообщество",
+        "ar": "زوجان ومجتمع الميم",
+        "hi": "जोड़ा और LGBTQ+ समुदाय",
+        "zh": "情侣与LGBTQ+群体",
+        "ja": "カップルとLGBTQ+コミュニティ"
+      },
+      "about": {
+        "es": "Pareja referente de la comunidad LGBTQ+ con bailes, vlogs y proyectos en series y libros.",
+        "en": "A leading LGBTQ+ couple with dances, vlogs and projects in series and books.",
+        "pt": "Casal referência da comunidade LGBTQ+ com danças, vlogs e projetos em séries e livros.",
+        "fr": "Couple emblématique de la communauté LGBTQ+, avec danses, vlogs et projets en séries et livres.",
+        "de": "Bekanntes LGBTQ+-Paar mit Tänzen, Vlogs und Projekten in Serien und Büchern.",
+        "ru": "Знаковая пара ЛГБТК+-сообщества: танцы, влоги и проекты в сериалах и книгах.",
+        "ar": "زوجان بارزان في مجتمع الميم، برقصات ومدونات فيديو ومشاريع في مسلسلات وكتب.",
+        "hi": "LGBTQ+ समुदाय का प्रमुख जोड़ा, नृत्य, व्लॉग और सीरीज़ व किताबों की परियोजनाओं के साथ।",
+        "zh": "LGBTQ+社群的代表情侣，制作舞蹈、视频日志以及剧集和书籍相关项目。",
+        "ja": "LGBTQ+コミュニティを代表するカップルで、ダンスやVlog、ドラマ・書籍の企画にも取り組む。"
+      },
+      "handles": {
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "TreceBits, rankings por país publicados en enero de 2026",
+        "followers": {
+          "instagram": 4700000,
+          "tiktok": 5800000,
+          "youtube": 7300000
+        }
+      }
+    }
+  ]
+}

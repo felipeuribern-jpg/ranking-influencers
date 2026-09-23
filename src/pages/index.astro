@@ -1,0 +1,32 @@
+---
+import { siteConfig } from "../../site.config";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const defaultUrl = `${base}/${siteConfig.defaultLanguage}/`;
+const supported: string[] = [...siteConfig.languages];
+---
+
+<!doctype html>
+<html lang={siteConfig.defaultLanguage}>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content={`0; url=${defaultUrl}`} />
+    <title>{siteConfig.brandName}</title>
+    <script define:vars={{ base, supported, fallback: siteConfig.defaultLanguage }}>
+      try {
+        const stored = localStorage.getItem("lang");
+        const candidates = stored ? [stored, ...navigator.languages] : navigator.languages;
+        const match = candidates
+          .map((l) => l.split("-")[0].toLowerCase())
+          .find((code) => supported.includes(code));
+        const lang = match || fallback;
+        localStorage.setItem("lang", lang);
+        location.replace(`${base}/${lang}/`);
+      } catch {
+        location.replace(`${base}/${fallback}/`);
+      }
+    </script>
+  </head>
+  <body>
+    <p><a href={defaultUrl}>{siteConfig.brandName}</a></p>
+  </body>
+</html>

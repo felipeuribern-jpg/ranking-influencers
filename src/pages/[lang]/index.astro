@@ -1,0 +1,111 @@
+---
+import Layout from "../../components/Layout.astro";
+import RankingRow from "../../components/RankingRow.astro";
+import { siteConfig, type LanguageCode } from "../../../site.config";
+import { translator } from "../../lib/i18n";
+import { people, rankingMeta, getTopics } from "../../lib/data";
+import { formatDate } from "../../lib/format";
+
+export function getStaticPaths() {
+  return siteConfig.languages.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: LanguageCode };
+const t = translator(lang);
+const top100 = people.slice(0, 100);
+const platforms = [...new Set(top100.map((p) => p.mainPlatform).filter(Boolean))] as string[];
+const topics = getTopics(lang);
+---
+
+<Layout lang={lang} path="" title={t("nav.world")} activeNav="world">
+  <div class="weekline">
+    <h2>{t("home.title")}</h2>
+    <span>{t("rank.updated", { date: formatDate(rankingMeta.generatedAt, lang) })}</span>
+  </div>
+
+  <form class="filters" id="filters">
+    <div>
+      <label for="f-topic">{t("home.filterTopicLabel")}</label>
+      <select id="f-topic" name="topic">
+        <option value="">{t("home.filterAllOption")}</option>
+        {topics.map((topic) => <option value={topic}>{topic}</option>)}
+      </select>
+    </div>
+    <div>
+      <label for="f-platform">{t("home.filterPlatformLabel")}</label>
+      <select id="f-platform" name="platform">
+        <option value="">{t("home.filterAllOption")}</option>
+        {platforms.map((platform) => <option value={platform}>{platform}</option>)}
+      </select>
+    </div>
+  </form>
+
+  <div class="board" id="board">
+    {
+      top100.length > 0 ? (
+        top100.map((person, i) => (
+          <RankingRow person={person} position={i + 1} prevPosition={person.rankPrev} lang={lang} lead={i === 0} />
+        ))
+      ) : (
+        <div class="empty">{t("home.empty")}</div>
+      )
+    }
+  </div>
+  <p id="empty-filtered" class="empty" hidden>{t("home.empty")}</p>
+
+  {
+    top100.length > 20 && (
+      <p style="text-align:center;margin-top:14px">
+        <button class="btn" id="see-more" type="button">
+          {t("home.seeMore")}
+        </button>
+      </p>
+    )
+  }
+</Layout>
+
+<script>
+  const board = document.getElementById("board")!;
+  const rows = Array.from(board.querySelectorAll<HTMLElement>(".row"));
+  const seeMoreBtn = document.getElementById("see-more");
+  const emptyFiltered = document.getElementById("empty-filtered")!;
+  const topicSelect = document.getElementById("f-topic") as HTMLSelectElement;
+  const platformSelect = document.getElementById("f-platform") as HTMLSelectElement;
+
+  let visibleCount = 20;
+  rows.forEach((row, i) => {
+    if (i >= visibleCount) row.hidden = true;
+  });
+
+  function applyFilters() {
+    const topic = topicSelect.value;
+    const platform = platformSelect.value;
+    let shown = 0;
+    let matchIndex = 0;
+    rows.forEach((row) => {
+      const matches =
+        (!topic || row.dataset.topic === topic) && (!platform || row.dataset.platform === platform);
+      if (!matches) {
+        row.hidden = true;
+        return;
+      }
+      matchIndex++;
+      row.hidden = matchIndex > visibleCount;
+      if (!row.hidden) shown++;
+    });
+    emptyFiltered.hidden = shown > 0;
+    if (seeMoreBtn) {
+      const totalMatching = rows.filter(
+        (r) => (!topic || r.dataset.topic === topic) && (!platform || r.dataset.platform === platform),
+      ).length;
+      (seeMoreBtn as HTMLElement).hidden = totalMatching <= visibleCount;
+    }
+  }
+
+  topicSelect.addEventListener("change", applyFilters);
+  platformSelect.addEventListener("change", applyFilters);
+  seeMoreBtn?.addEventListener("click", () => {
+    visibleCount += 20;
+    applyFilters();
+  });
+</script>

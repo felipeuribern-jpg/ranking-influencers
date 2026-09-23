@@ -1,0 +1,379 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ranking de influencia en redes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EEF2F8; --surface:#FFFFFF; --ink:#13233A; --muted:#5B6B82; --court:#2E5BBA;
+  --court-soft:#DCE6F7; --ball:#D8E84A; --up:#1E8A4C; --down:#C0392B; --rule:#D5DDEA;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0E1828; --surface:#16233A; --ink:#E8EEF7; --muted:#9AA9BF; --court:#7A9EEC;
+  --court-soft:#1F3358; --rule:#263853; --up:#4CC47E; --down:#EE7A6C;}}
+:root[data-theme="dark"]{--bg:#0E1828; --surface:#16233A; --ink:#E8EEF7; --muted:#9AA9BF; --court:#7A9EEC;
+  --court-soft:#1F3358; --rule:#263853; --up:#4CC47E; --down:#EE7A6C;}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.5 "Barlow",system-ui,-apple-system,"Segoe UI",sans-serif}
+.cond{font-family:"Barlow Condensed","Arial Narrow",system-ui,sans-serif}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--court);outline-offset:2px}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+
+header.top{background:var(--court);color:#fff;padding:20px 0 0}
+.brand{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.brand h1{font:700 clamp(34px,8vw,56px)/.95 "Barlow Condensed","Arial Narrow",sans-serif;margin:0;letter-spacing:-.01em}
+.brand p{margin:6px 0 0;opacity:.85;font-size:15px}
+.admin-btn{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:8px;padding:8px 12px;cursor:pointer;white-space:nowrap}
+nav.tabs{display:flex;gap:4px;margin-top:18px;overflow-x:auto}
+nav.tabs button{background:none;border:0;color:#fff;opacity:.75;padding:10px 14px 12px;cursor:pointer;
+  font:600 19px "Barlow Condensed","Arial Narrow",sans-serif;border-bottom:4px solid transparent;white-space:nowrap}
+nav.tabs button[aria-selected="true"]{opacity:1;border-bottom-color:var(--ball)}
+
+.notice{background:var(--court-soft);border-radius:10px;padding:12px 14px;margin:16px 0 0;font-size:14px;color:var(--ink)}
+.notice button{margin-left:6px}
+.weekline{display:flex;justify-content:space-between;align-items:baseline;margin:22px 0 10px;gap:12px;flex-wrap:wrap}
+.weekline h2{font:700 28px/1 "Barlow Condensed","Arial Narrow",sans-serif;margin:0}
+.weekline span{color:var(--muted);font-size:14px}
+
+/* Ranking board */
+.board{background:var(--surface);border-radius:14px;overflow:hidden;border:1px solid var(--rule)}
+.row{display:grid;grid-template-columns:52px 1fr auto;align-items:center;gap:10px;width:100%;
+  padding:12px 14px;background:none;border:0;border-top:1px solid var(--rule);text-align:left;cursor:pointer}
+.row:first-child{border-top:0}
+.row:hover{background:var(--court-soft)}
+.pos{font:700 30px/1 "Barlow Condensed","Arial Narrow",sans-serif;text-align:center}
+.mv{display:block;font:600 13px/1.2 "Barlow",sans-serif;margin-top:3px}
+.mv.up{color:var(--up)} .mv.down{color:var(--down)} .mv.eq{color:var(--muted)} .mv.new{color:var(--court)}
+.who{min-width:0}
+.who strong{display:block;font-weight:600;font-size:17px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.who small{color:var(--muted);font-size:14px;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pts{text-align:right;font:700 24px/1 "Barlow Condensed","Arial Narrow",sans-serif}
+.pts small{display:block;font:500 12px "Barlow",sans-serif;color:var(--muted);margin-top:3px}
+.row.lead{background:var(--ball);color:#13233A}
+.row.lead small,.row.lead .mv.eq{color:#3B4A1A}
+.row.lead:hover{background:#CCDD3C}
+
+.chips{display:flex;gap:8px;overflow-x:auto;padding:4px 0 6px;margin-top:18px}
+.chip{border:1px solid var(--rule);background:var(--surface);border-radius:999px;padding:7px 14px;cursor:pointer;white-space:nowrap;font-size:15px}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.empty{padding:28px 18px;text-align:center;color:var(--muted)}
+
+/* Method */
+.prose{max-width:66ch}
+.prose h3{font:700 24px "Barlow Condensed","Arial Narrow",sans-serif;margin:26px 0 6px}
+.formula{background:var(--surface);border:1px solid var(--rule);border-radius:10px;padding:14px;overflow-x:auto;font-size:15px}
+table.w{border-collapse:collapse;width:100%;background:var(--surface);border-radius:10px;overflow:hidden}
+table.w td,table.w th{padding:9px 12px;border-top:1px solid var(--rule);text-align:left}
+table.w th{background:var(--court-soft);font-weight:600}
+
+/* Dialogs */
+dialog{border:0;border-radius:16px;padding:0;background:var(--surface);color:var(--ink);width:min(640px,94vw);max-height:88vh}
+dialog::backdrop{background:rgba(10,20,40,.55)}
+.dlg-head{position:sticky;top:0;background:var(--surface);display:flex;justify-content:space-between;align-items:flex-start;padding:18px 18px 10px;gap:12px;border-bottom:1px solid var(--rule)}
+.dlg-head h2{margin:0;font:700 30px/1 "Barlow Condensed","Arial Narrow",sans-serif}
+.dlg-body{padding:16px 18px 20px}
+.x{background:none;border:0;font-size:26px;line-height:1;cursor:pointer;color:var(--muted);padding:4px 8px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:4px 0 16px}
+.stat{background:var(--court-soft);border-radius:10px;padding:10px}
+.stat b{display:block;font:700 26px/1 "Barlow Condensed","Arial Narrow",sans-serif}
+.stat span{font-size:13px;color:var(--muted)}
+.plat{display:grid;grid-template-columns:1fr auto auto;gap:4px 14px;align-items:center;padding:9px 0;border-top:1px solid var(--rule);font-size:15px}
+.plat .n{font-weight:600}
+.plat .num{text-align:right;font-variant-numeric:tabular-nums}
+.plat.main .n::after{content:" · principal";font-weight:500;color:var(--court)}
+.cta{display:inline-block;margin-top:16px;background:var(--court);color:#fff;text-decoration:none;border-radius:10px;padding:12px 16px;font-weight:600}
+.cta[aria-disabled="true"]{background:var(--rule);color:var(--muted);pointer-events:none}
+.btn{border:1px solid var(--rule);background:var(--surface);border-radius:8px;padding:9px 14px;cursor:pointer}
+.btn.primary{background:var(--court);color:#fff;border-color:var(--court)}
+.btn.danger{color:var(--down)}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+
+/* Editor */
+label{display:block;font-size:14px;font-weight:600;margin:12px 0 4px}
+input,select,textarea{width:100%;border:1px solid var(--rule);background:var(--bg);border-radius:8px;padding:9px 10px}
+textarea{min-height:70px;resize:vertical}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.pgrid{overflow-x:auto;margin-top:8px}
+.pgrid table{border-collapse:collapse;width:100%;min-width:480px}
+.pgrid td,.pgrid th{padding:5px 4px;font-size:14px;text-align:left}
+.pgrid input{padding:7px 8px}
+.list-admin .item{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:9px 0;border-top:1px solid var(--rule)}
+.status{font-size:14px;color:var(--muted);min-height:1.5em;margin-top:8px}
+footer{color:var(--muted);font-size:13px;padding:30px 0 40px}
+@media (max-width:520px){.stats{grid-template-columns:1fr 1fr}.grid2{grid-template-columns:1fr}.pts{font-size:21px}.row{grid-template-columns:44px 1fr auto;padding:11px 12px}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <div>
+        <h1>Ranking de influencia</h1>
+        <p>Las personas más influyentes en redes sociales, por país y en el mundo.</p>
+      </div>
+      <button class="admin-btn" id="adminBtn" hidden>Editar datos</button>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-view="mundo" aria-selected="true">Ranking mundial</button>
+      <button role="tab" data-view="pais" aria-selected="false">Por país</button>
+      <button role="tab" data-view="metodo" aria-selected="false">Cómo se calcula</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="demoNotice" class="notice" hidden>Estos perfiles son ficticios, de ejemplo. Sustitúyelos por datos reales desde «Editar datos».</div>
+
+  <section id="v-mundo">
+    <div class="weekline"><h2>Top mundial</h2><span id="weekLabel"></span></div>
+    <div class="board" id="worldBoard"><div class="empty">Cargando ranking…</div></div>
+  </section>
+
+  <section id="v-pais" hidden>
+    <div class="chips" id="countryChips"></div>
+    <div class="weekline"><h2 id="countryTitle">Top 10</h2><span>Ordenado por puntos</span></div>
+    <div class="board" id="countryBoard"></div>
+  </section>
+
+  <section id="v-metodo" hidden class="prose">
+    <h3>Puntos, como en el tenis</h3>
+    <p>Igual que el ranking ATP suma puntos de cada torneo, aquí cada persona suma puntos de cada red social donde tiene presencia. El total decide su posición en su país y en el ranking mundial. Las flechas muestran cuántos puestos subió o bajó desde el último corte semanal.</p>
+    <h3>Fórmula por red</h3>
+    <div class="formula cond">puntos = peso de la red × 1000 × log10(1 + seguidores ÷ 10 000) × (1 + interacción % ÷ 10)</div>
+    <p>El logaritmo evita que una sola cuenta gigante lo decida todo: pasar de 1 a 10 millones de seguidores suma mucho, pero no diez veces más. La tasa de interacción (me gusta, comentarios y compartidos entre seguidores) premia a las audiencias activas; se limita al 20 %.</p>
+    <h3>Peso de cada red</h3>
+    <table class="w" id="weightsTable"><tr><th>Red</th><th>Peso</th><th>Por qué</th></tr></table>
+    <h3>Red principal</h3>
+    <p>El enlace de cada perfil lleva a la red donde tiene más seguidores. Si no hay dato de interacción, la red cuenta sin bonificación.</p>
+  </section>
+  <footer>Los datos se actualizan manualmente. Cierre de semana: el administrador guarda las posiciones actuales para calcular los movimientos.</footer>
+</main>
+
+<dialog id="detail" aria-labelledby="dName">
+  <div class="dlg-head"><div><h2 id="dName"></h2><div id="dSub" style="color:var(--muted);font-size:15px;margin-top:4px"></div></div><button class="x" data-close aria-label="Cerrar">×</button></div>
+  <div class="dlg-body">
+    <div class="stats" id="dStats"></div>
+    <p id="dAbout" style="margin:0 0 14px"></p>
+    <div id="dPlats"></div>
+    <p id="dSource" style="color:var(--muted);font-size:13px;margin:12px 0 0"></p>
+    <a class="cta" id="dLink" target="_blank" rel="noopener"></a>
+    <div class="actions" id="dAdmin" hidden><button class="btn" id="dEdit">Editar perfil</button></div>
+  </div>
+</dialog>
+
+<dialog id="admin" aria-labelledby="aTitle">
+  <div class="dlg-head"><h2 id="aTitle">Editar datos</h2><button class="x" data-close aria-label="Cerrar">×</button></div>
+  <div class="dlg-body">
+    <div class="actions" style="margin-top:0">
+      <button class="btn primary" id="aNew">Añadir persona</button>
+      <button class="btn" id="aWeek">Cerrar semana</button>
+      <button class="btn danger" id="aClearDemo">Borrar ejemplos</button>
+    </div>
+    <div class="status" id="aStatus"></div>
+    <label for="aFilter">Buscar</label>
+    <input id="aFilter" placeholder="Nombre o país">
+    <div class="list-admin" id="aList"></div>
+  </div>
+</dialog>
+
+<dialog id="editor" aria-labelledby="eTitle">
+  <div class="dlg-head"><h2 id="eTitle">Perfil</h2><button class="x" data-close aria-label="Cerrar">×</button></div>
+  <div class="dlg-body">
+    <div class="grid2">
+      <div><label for="eName">Nombre</label><input id="eName" required></div>
+      <div><label for="eCountry">País</label><select id="eCountry"></select></div>
+    </div>
+    <label for="eTopic">Tema principal</label><input id="eTopic" placeholder="Ej.: Cocina, Finanzas, Comedia">
+    <label for="eAbout">De qué habla</label><textarea id="eAbout"></textarea>
+    <label>Redes sociales</label>
+    <div class="pgrid"><table><thead><tr><th>Red</th><th>Seguidores</th><th>Interacción %</th><th>Enlace</th></tr></thead><tbody id="ePlats"></tbody></table></div>
+    <div class="actions">
+      <button class="btn primary" id="eSave">Guardar perfil</button>
+      <button class="btn danger" id="eDelete">Eliminar</button>
+    </div>
+    <div class="status" id="eStatus"></div>
+  </div>
+</dialog>
+
+<script>
+const PLATFORMS = {
+  youtube:  {name:"YouTube",   w:1.2, why:"Contenido largo y búsquedas: alta influencia por seguidor."},
+  tiktok:   {name:"TikTok",    w:1.0, why:"Referencia base: gran alcance, audiencia volátil."},
+  instagram:{name:"Instagram", w:1.0, why:"Referencia base: alcance amplio y marcas activas."},
+  linkedin: {name:"LinkedIn",  w:1.3, why:"Audiencias pequeñas pero con poder de decisión profesional."},
+  facebook: {name:"Facebook",  w:0.7, why:"Mucho seguidor acumulado con alcance orgánico bajo."},
+  snapchat: {name:"Snapchat",  w:0.6, why:"Métricas públicas limitadas y audiencia muy joven."}
+};
+const COUNTRIES = {AR:"Argentina",BO:"Bolivia",BR:"Brasil",CA:"Canadá",CL:"Chile",CN:"China",CO:"Colombia",CR:"Costa Rica",CU:"Cuba",DE:"Alemania",DO:"República Dominicana",EC:"Ecuador",EG:"Egipto",ES:"España",FR:"Francia",GB:"Reino Unido",GT:"Guatemala",HN:"Honduras",ID:"Indonesia",IN:"India",IT:"Italia",JP:"Japón",KR:"Corea del Sur",MA:"Marruecos",MX:"México",NG:"Nigeria",NI:"Nicaragua",PA:"Panamá",PE:"Perú",PH:"Filipinas",PR:"Puerto Rico",PT:"Portugal",PY:"Paraguay",SA:"Arabia Saudita",SV:"El Salvador",TR:"Turquía",US:"Estados Unidos",UY:"Uruguay",VE:"Venezuela",ZA:"Sudáfrica"};
+const flag = cc => cc.toUpperCase().replace(/./g,c=>String.fromCodePoint(127397+c.charCodeAt(0)));
+const fmt = n => n>=1e6 ? (n/1e6).toFixed(n>=1e7?0:1).replace(".",",")+" M" : n>=1e3 ? Math.round(n/1e3)+" mil" : String(n);
+const pts = n => Math.round(n).toLocaleString("es-ES");
+const $ = id => document.getElementById(id);
+
+let people = [], meta = null, db = null, canEdit = false, country = null, current = null;
+
+function platformPoints(p, d){
+  if(!d || !(d.followers>0)) return 0;
+  const er = Math.min(Math.max(+d.engagement||0,0),20);
+  return PLATFORMS[p].w*1000*Math.log10(1+d.followers/10000)*(1+er/10);
+}
+function score(person){
+  let total=0, best=null, bestF=0, reach=0; const parts={};
+  for(const p in PLATFORMS){ const v=platformPoints(p, person.platforms?.[p]); parts[p]=v; total+=v;
+    const f=person.platforms?.[p]?.followers||0; if(f>bestF){bestF=f;best=p} reach += f; }
+  return {total, parts, main:best, reach};
+}
+function ranked(list){
+  return list.map(x=>({...x, ...score(x)})).sort((a,b)=>b.total-a.total);
+}
+function moveHTML(id, rank, prevMap){
+  if(!prevMap) return '<span class="mv eq">–</span>';
+  const prev = prevMap[id];
+  if(prev==null) return '<span class="mv new">nuevo</span>';
+  const d = prev-rank;
+  if(d>0) return `<span class="mv up" aria-label="sube ${d}">▲${d}</span>`;
+  if(d<0) return `<span class="mv down" aria-label="baja ${-d}">▼${-d}</span>`;
+  return '<span class="mv eq" aria-label="se mantiene">=</span>';
+}
+function rowHTML(p, i, prevMap){
+  const main = p.main ? PLATFORMS[p.main].name : "Sin redes";
+  return `<button class="row${i===0?' lead':''}" data-id="${p.id}">
+    <div class="pos">${i+1}${moveHTML(p.id,i+1,prevMap)}</div>
+    <div class="who"><strong>${flag(p.country)} ${esc(p.name)}</strong><small>${esc(p.topic||"")} · ${main}</small></div>
+    <div class="pts">${pts(p.total)}<small>puntos</small></div></button>`;
+}
+function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+
+function render(){
+  const all = ranked(people);
+  $("demoNotice").hidden = !people.some(p=>p.demo);
+  $("weekLabel").textContent = meta?.closedAt ? "Movimientos desde el " + new Date(meta.closedAt).toLocaleDateString("es-ES",{day:"numeric",month:"long"}) : "Semana en curso";
+  $("worldBoard").innerHTML = all.length ? all.slice(0,100).map((p,i)=>rowHTML(p,i,meta?.ranks)).join("") : '<div class="empty">Todavía no hay perfiles. Añade el primero desde «Editar datos».</div>';
+
+  const codes = [...new Set(people.map(p=>p.country))].sort((a,b)=>(COUNTRIES[a]||a).localeCompare(COUNTRIES[b]||b));
+  if(!country || !codes.includes(country)) country = codes[0]||null;
+  $("countryChips").innerHTML = codes.map(c=>`<button class="chip" data-cc="${c}" aria-pressed="${c===country}">${flag(c)} ${COUNTRIES[c]||c}</button>`).join("");
+  const local = all.filter(p=>p.country===country).slice(0,10);
+  const prevLocal = meta?.countryRanks;
+  $("countryTitle").textContent = country ? `Top 10 · ${COUNTRIES[country]||country}` : "Top 10";
+  $("countryBoard").innerHTML = local.length ? local.map((p,i)=>rowHTML(p,i,prevLocal)).join("") : '<div class="empty">No hay perfiles para este país.</div>';
+  if($("admin").open) renderAdminList();
+}
+
+function openDetail(id){
+  const all = ranked(people); const p = all.find(x=>x.id===id); if(!p) return; current=p;
+  const wr = all.indexOf(p)+1, cr = all.filter(x=>x.country===p.country).indexOf(p)+1;
+  $("dName").textContent = p.name;
+  $("dSub").textContent = `${flag(p.country)} ${COUNTRIES[p.country]||p.country} · ${p.topic||""}`;
+  $("dStats").innerHTML = `<div class="stat"><b>#${wr}</b><span>Mundial</span></div><div class="stat"><b>#${cr}</b><span>En su país</span></div><div class="stat"><b>${pts(p.total)}</b><span>Puntos</span></div>`;
+  $("dAbout").textContent = p.about||"";
+  $("dSource").textContent = p.source ? "Fuente de seguidores: "+p.source : "";
+  $("dPlats").innerHTML = Object.keys(PLATFORMS).filter(k=>p.platforms?.[k]?.followers>0)
+    .sort((a,b)=>p.parts[b]-p.parts[a])
+    .map(k=>{const d=p.platforms[k]; return `<div class="plat${k===p.main?' main':''}"><span class="n">${PLATFORMS[k].name}</span><span class="num">${fmt(d.followers)} · ${d.engagement>0 ? String(d.engagement).replace(".",",")+" %" : "interacción s/d"}</span><span class="num"><b>${pts(p.parts[k])}</b> pts</span></div>`}).join("") || '<p style="color:var(--muted)">Sin redes registradas.</p>';
+  const url = p.main && p.platforms[p.main].url;
+  const link = $("dLink");
+  if(url){ link.href=url; link.removeAttribute("aria-disabled"); link.textContent=`Ver en ${PLATFORMS[p.main].name}`; }
+  else { link.removeAttribute("href"); link.setAttribute("aria-disabled","true"); link.textContent = p.main ? `Enlace de ${PLATFORMS[p.main].name} pendiente` : "Sin enlace"; }
+  $("dAdmin").hidden = !canEdit;
+  $("detail").showModal();
+}
+
+/* Admin */
+function renderAdminList(){
+  const q = $("aFilter").value.trim().toLowerCase();
+  const list = ranked(people).filter(p=>!q || p.name.toLowerCase().includes(q) || (COUNTRIES[p.country]||"").toLowerCase().includes(q));
+  $("aList").innerHTML = list.map(p=>`<div class="item"><span>${flag(p.country)} ${esc(p.name)} <small style="color:var(--muted)">${pts(p.total)} pts</small></span><button class="btn" data-edit="${p.id}">Editar</button></div>`).join("") || '<div class="empty">Sin resultados.</div>';
+}
+function openEditor(p){
+  current = p||null;
+  $("eTitle").textContent = p ? "Editar perfil" : "Nuevo perfil";
+  $("eName").value = p?.name||""; $("eTopic").value = p?.topic||""; $("eAbout").value = p?.about||"";
+  $("eCountry").value = p?.country || country || "MX";
+  $("ePlats").innerHTML = Object.entries(PLATFORMS).map(([k,v])=>{const d=p?.platforms?.[k]||{};
+    return `<tr><td>${v.name}</td><td><input type="number" min="0" step="1000" data-p="${k}" data-f="followers" value="${d.followers||""}" placeholder="0"></td><td><input type="number" min="0" max="100" step="0.1" data-p="${k}" data-f="engagement" value="${d.engagement??""}" placeholder="0"></td><td><input type="url" data-p="${k}" data-f="url" value="${esc(d.url||"")}" placeholder="https://"></td></tr>`}).join("");
+  $("eDelete").hidden = !p; $("eStatus").textContent = "";
+  $("editor").showModal();
+}
+async function saveEditor(){
+  const name=$("eName").value.trim(); if(!name){$("eStatus").textContent="Escribe un nombre para guardar.";return;}
+  const platforms={};
+  document.querySelectorAll("#ePlats input").forEach(inp=>{
+    const k=inp.dataset.p,f=inp.dataset.f; platforms[k]=platforms[k]||{};
+    platforms[k][f] = f==="url" ? inp.value.trim() : (parseFloat(inp.value)||0);
+  });
+  for(const k in platforms) if(!(platforms[k].followers>0)) delete platforms[k];
+  const data={name,country:$("eCountry").value,topic:$("eTopic").value.trim(),about:$("eAbout").value.trim(),platforms,demo:false,source:"Editado manualmente, "+new Date().toLocaleDateString("es-ES",{month:"long",year:"numeric"})};
+  $("eStatus").textContent="Guardando…";
+  try{
+    if(current?.id) await db.doc("influencers/"+current.id).set(data);
+    else await db.collection("influencers").add(data);
+    $("editor").close(); $("detail").open && $("detail").close();
+  }catch(e){ $("eStatus").textContent = e.code==="permission_denied" ? "No tienes permiso para editar este ranking." : "No se pudo guardar. Inténtalo de nuevo."; }
+}
+async function deleteCurrent(){
+  if(!current?.id || !confirm(`¿Eliminar a ${current.name} del ranking?`)) return;
+  try{ await db.doc("influencers/"+current.id).delete(); $("editor").close(); $("detail").open && $("detail").close(); }
+  catch(e){ $("eStatus").textContent="No se pudo eliminar."; }
+}
+async function closeWeek(){
+  if(!confirm("Se guardarán las posiciones actuales como referencia para las flechas de movimiento. ¿Continuar?")) return;
+  const all=ranked(people), ranks={}, countryRanks={}, seen={};
+  all.forEach((p,i)=>{ranks[p.id]=i+1; seen[p.country]=(seen[p.country]||0)+1; countryRanks[p.id]=seen[p.country];});
+  $("aStatus").textContent="Guardando cierre…";
+  try{ await db.doc("meta/semana").set({ranks,countryRanks,closedAt:new Date().toISOString()}); $("aStatus").textContent="Semana cerrada. Los movimientos se calculan desde hoy."; }
+  catch(e){ $("aStatus").textContent="No se pudo cerrar la semana."; }
+}
+async function clearDemo(){
+  const demo=people.filter(p=>p.demo); if(!demo.length){$("aStatus").textContent="No quedan perfiles de ejemplo.";return;}
+  if(!confirm(`Se borrarán ${demo.length} perfiles de ejemplo. ¿Continuar?`)) return;
+  $("aStatus").textContent="Borrando ejemplos…";
+  for(const p of demo){ try{ await db.doc("influencers/"+p.id).delete(); }catch(e){} }
+  $("aStatus").textContent="Ejemplos borrados.";
+}
+
+/* Events */
+document.querySelectorAll("nav.tabs button").forEach(b=>b.addEventListener("click",()=>{
+  document.querySelectorAll("nav.tabs button").forEach(x=>x.setAttribute("aria-selected",x===b));
+  ["mundo","pais","metodo"].forEach(v=>$("v-"+v).hidden = v!==b.dataset.view);
+}));
+document.addEventListener("click",e=>{
+  const row=e.target.closest(".row"); if(row) openDetail(row.dataset.id);
+  const chip=e.target.closest(".chip"); if(chip){country=chip.dataset.cc; render();}
+  const close=e.target.closest("[data-close]"); if(close) close.closest("dialog").close();
+  const ed=e.target.closest("[data-edit]"); if(ed) openEditor(people.find(p=>p.id===ed.dataset.edit));
+});
+$("adminBtn").onclick=()=>{renderAdminList();$("aStatus").textContent="";$("admin").showModal();};
+$("aFilter").oninput=renderAdminList;
+$("aNew").onclick=()=>openEditor(null);
+$("aWeek").onclick=closeWeek;
+$("aClearDemo").onclick=clearDemo;
+$("dEdit").onclick=()=>{const p=people.find(x=>x.id===current.id);$("detail").close();openEditor(p);};
+$("eSave").onclick=saveEditor;
+$("eDelete").onclick=deleteCurrent;
+$("eCountry").innerHTML = Object.entries(COUNTRIES).sort((a,b)=>a[1].localeCompare(b[1])).map(([c,n])=>`<option value="${c}">${flag(c)} ${n}</option>`).join("");
+$("weightsTable").insertAdjacentHTML("beforeend", Object.values(PLATFORMS).map(p=>`<tr><td>${p.name}</td><td>${String(p.w).replace(".",",")}</td><td>${p.why}</td></tr>`).join(""));
+
+/* Data */
+(async()=>{
+  if(!window.claude?.use){ $("worldBoard").innerHTML='<div class="empty">Abre esta página desde Claude para ver el ranking.</div>'; return; }
+  db = await claude.use("db");
+  if(!db){ $("worldBoard").innerHTML='<div class="empty">El ranking no está disponible en esta vista.</div>'; return; }
+  db.collection("influencers").onSnapshot(s=>{ people=s.docs.map(d=>({id:d.id,...d.data()})); render(); },
+    ()=>{ $("worldBoard").innerHTML='<div class="empty">Se perdió la conexión con los datos. Recarga la página.</div>'; });
+  db.doc("meta/semana").onSnapshot(s=>{ meta = s.exists ? s.data() : null; render(); });
+  try{ const user = await claude.use("user"); canEdit = user ? await user.canEdit() : false; }catch(e){ canEdit=false; }
+  $("adminBtn").hidden = !canEdit;
+})();
+</script>
+</body>
+</html>

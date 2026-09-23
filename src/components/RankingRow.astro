@@ -1,0 +1,68 @@
+---
+import type { LanguageCode } from "../../site.config";
+import type { Person } from "../lib/data";
+import { movement } from "../lib/data";
+import { flagEmoji } from "../lib/countries";
+import { formatNumber } from "../lib/format";
+import { translator } from "../lib/i18n";
+
+interface Props {
+  person: Person;
+  position: number;
+  prevPosition: number | null;
+  lang: LanguageCode;
+  lead?: boolean;
+}
+
+const { person, position, prevPosition, lang, lead = false } = Astro.props;
+const t = translator(lang);
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const mv = movement(position, prevPosition);
+const topic = person.topic[lang] ?? person.topic.es;
+const mainPlatformLabel = person.mainPlatform
+  ? person.mainPlatform.charAt(0).toUpperCase() + person.mainPlatform.slice(1)
+  : "";
+---
+
+<a
+  class:list={["row", { lead }]}
+  href={`${base}/${lang}/p/${person.id}/`}
+  data-topic={topic}
+  data-platform={person.mainPlatform ?? ""}
+>
+  <div class="pos">
+    {position}
+    {
+      mv.kind === "new" && <span class="mv new">{t("rank.new")}</span>
+    }
+    {
+      mv.kind === "same" && (
+        <span class="mv same" aria-label={t("movement.sameAria")}>
+          =
+        </span>
+      )
+    }
+    {
+      mv.kind === "up" && (
+        <span class="mv up" aria-label={t("movement.upAria", { n: mv.diff })}>
+          ▲{mv.diff}
+        </span>
+      )
+    }
+    {
+      mv.kind === "down" && (
+        <span class="mv down" aria-label={t("movement.downAria", { n: mv.diff })}>
+          ▼{mv.diff}
+        </span>
+      )
+    }
+  </div>
+  <div class="who">
+    <strong>{flagEmoji(person.country)} {person.name}</strong>
+    <small>{topic} · {mainPlatformLabel}</small>
+  </div>
+  <div class="pts">
+    {formatNumber(person.total, lang)}
+    <small>{t("rank.points")}</small>
+  </div>
+</a>

@@ -1,0 +1,60 @@
+name: Actualización diaria
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 06:00 UTC, docs/ARQUITECTURA.md
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Ejecutar pipeline (búsqueda, fuentes y cálculo de puntos)
+        id: pipeline
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+        run: npm run pipeline -- --discover
+
+      - name: Validar datos generados
+        id: validate
+        run: npm run validate
+
+      - name: Commit y push si hay cambios
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ranking.json data/history/ data/resolved.json data/candidates.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios que commitear."
+          else
+            git commit -m "chore: actualización diaria del ranking $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Abrir issue si el pipeline o la validación fallaron
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "Falló la actualización diaria del $(date -u +%Y-%m-%d)" \
+            --body "El workflow update.yml falló en la ejecución [$GITHUB_RUN_ID](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}). No se hizo commit: se conservan los últimos datos válidos. Revisa el log para el detalle." \
+            --label "pipeline-fallido"

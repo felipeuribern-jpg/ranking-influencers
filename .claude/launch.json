@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ranking-influencers",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "preview", "--", "--host"],
+      "port": 4321
+    }
+  ]
+}

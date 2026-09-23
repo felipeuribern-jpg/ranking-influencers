@@ -1,0 +1,67 @@
+---
+import Layout from "../../../components/Layout.astro";
+import RankingRow from "../../../components/RankingRow.astro";
+import { siteConfig, type LanguageCode } from "../../../../site.config";
+import { translator } from "../../../lib/i18n";
+import { getCountries, getCountryTop, rankingMeta } from "../../../lib/data";
+import { countryName, flagEmoji } from "../../../lib/countries";
+import { formatDate } from "../../../lib/format";
+
+export function getStaticPaths() {
+  const countries = getCountries();
+  return siteConfig.languages.flatMap((lang) =>
+    countries.map((cc) => ({ params: { lang, cc: cc.toLowerCase() }, props: { cc } } as const)),
+  );
+}
+
+const { lang } = Astro.params as { lang: LanguageCode };
+const { cc } = Astro.props as { cc: string };
+const t = translator(lang);
+const top10 = getCountryTop(cc, 10);
+const countries = getCountries();
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<Layout
+  lang={lang}
+  path={`pais/${cc.toLowerCase()}`}
+  title={`${t("country.title")} · ${countryName(cc, lang)}`}
+  activeNav="country"
+>
+  <div class="chips">
+    {
+      countries.map((code) => (
+        <a
+          class="chip"
+          href={`${base}/${lang}/pais/${code.toLowerCase()}/`}
+          aria-current={code === cc ? "true" : undefined}
+        >
+          {flagEmoji(code)} {countryName(code, lang)}
+        </a>
+      ))
+    }
+  </div>
+
+  <div class="weekline">
+    <h2>{flagEmoji(cc)} {countryName(cc, lang)} · {t("country.title")}</h2>
+    <span>{t("rank.updated", { date: formatDate(rankingMeta.generatedAt, lang) })}</span>
+  </div>
+
+  <div class="board">
+    {
+      top10.length > 0 ? (
+        top10.map((person, i) => (
+          <RankingRow
+            person={person}
+            position={person.countryRank}
+            prevPosition={person.countryRankPrev}
+            lang={lang}
+            lead={i === 0}
+          />
+        ))
+      ) : (
+        <div class="empty">{t("home.empty")}</div>
+      )
+    }
+  </div>
+</Layout>

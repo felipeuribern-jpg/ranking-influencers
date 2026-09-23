@@ -1,0 +1,1703 @@
+{
+  "generatedAt": "2026-09-23T14:44:13.418Z",
+  "medians": {
+    "youtube": null,
+    "tiktok": null,
+    "instagram": null,
+    "linkedin": null,
+    "facebook": null,
+    "snapchat": null
+  },
+  "people": [
+    {
+      "id": "lionel-messi",
+      "rank": 1,
+      "rankPrev": null,
+      "countryRank": 1,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "instagram": {
+          "followers": 511000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "kimberly-loaiza",
+      "rank": 2,
+      "rankPrev": null,
+      "countryRank": 1,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 47400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 83800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 37600000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "alejo-igoa",
+      "rank": 3,
+      "rankPrev": null,
+      "countryRank": 2,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 101000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 6700000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 11200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "federico-vigevani",
+      "rank": 4,
+      "rankPrev": null,
+      "countryRank": 2,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 71500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 30100000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 11500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "domelipa",
+      "rank": 5,
+      "rankPrev": null,
+      "countryRank": 3,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 7300000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 76100000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 23100000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "luisito-comunica",
+      "rank": 6,
+      "rankPrev": null,
+      "countryRank": 4,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 45400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 18200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 33600000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "georgina-rodriguez",
+      "rank": 7,
+      "rankPrev": null,
+      "countryRank": 1,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "tiktok": {
+          "followers": 20500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 71900000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "carlos-feria",
+      "rank": 8,
+      "rankPrev": null,
+      "countryRank": 1,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 14700000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 47300000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 7700000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "la-granja-del-borrego",
+      "rank": 9,
+      "rankPrev": null,
+      "countryRank": 2,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 27800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 36000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 5800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "ricky-limon",
+      "rank": 10,
+      "rankPrev": null,
+      "countryRank": 5,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 38600000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 22900000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 6500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "paulo-dybala",
+      "rank": 11,
+      "rankPrev": null,
+      "countryRank": 3,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "tiktok": {
+          "followers": 10500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 56900000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "katteyes",
+      "rank": 12,
+      "rankPrev": null,
+      "countryRank": 6,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 1500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 45300000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 13200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "ian-lucas",
+      "rank": 13,
+      "rankPrev": null,
+      "countryRank": 4,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 37500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 16600000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 5700000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "el-rubius",
+      "rank": 14,
+      "rankPrev": null,
+      "countryRank": 2,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 40700000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 17400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "ibai-llanos",
+      "rank": 15,
+      "rankPrev": null,
+      "countryRank": 3,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 15300000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 27200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 15000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "bizarrap",
+      "rank": 16,
+      "rankPrev": null,
+      "countryRank": 5,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 23000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 12000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 19800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "farid-dieck",
+      "rank": 17,
+      "rankPrev": null,
+      "countryRank": 7,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 12400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 29200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 10600000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "alexis-omman",
+      "rank": 18,
+      "rankPrev": null,
+      "countryRank": 8,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 11200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 27500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 12100000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "ami-rodriguez",
+      "rank": 19,
+      "rankPrev": null,
+      "countryRank": 3,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 32200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 13400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 4500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "auronplay",
+      "rank": 20,
+      "rankPrev": null,
+      "countryRank": 4,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 29100000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 2500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 17000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "doris-jocelyn",
+      "rank": 21,
+      "rankPrev": null,
+      "countryRank": 9,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 7000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 33800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 5800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "nicki-nicole",
+      "rank": 22,
+      "rankPrev": null,
+      "countryRank": 6,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 5550000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 16500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 23200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "sonrixs",
+      "rank": 23,
+      "rankPrev": null,
+      "countryRank": 10,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 13500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 23600000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 5300000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "antonela-roccuzzo",
+      "rank": 24,
+      "rankPrev": null,
+      "countryRank": 7,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "instagram": {
+          "followers": 39900000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "juanda",
+      "rank": 25,
+      "rankPrev": null,
+      "countryRank": 4,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 1880000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 28800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 7100000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "yeferson-cossio",
+      "rank": 26,
+      "rankPrev": null,
+      "countryRank": 5,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 4080000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 19700000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 12400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "cazzu",
+      "rank": 27,
+      "rankPrev": null,
+      "countryRank": 8,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 7740000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 8500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 18400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "maria-becerra",
+      "rank": 28,
+      "rankPrev": null,
+      "countryRank": 9,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 6050000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 13500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 14800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "lulu99",
+      "rank": 29,
+      "rankPrev": null,
+      "countryRank": 6,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 13000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 12600000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 4200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "luisa-fernanda-w",
+      "rank": 30,
+      "rankPrev": null,
+      "countryRank": 7,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 4480000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 6000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 18900000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "augusto-gimenez",
+      "rank": 31,
+      "rankPrev": null,
+      "countryRank": 10,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 242000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 21000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 4800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "natcher",
+      "rank": 32,
+      "rankPrev": null,
+      "countryRank": 5,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 6400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 11900000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 5400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "la-segura",
+      "rank": 33,
+      "rankPrev": null,
+      "countryRank": 8,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 1470000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 9800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 10400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "lola-lolita",
+      "rank": 34,
+      "rankPrev": null,
+      "countryRank": 6,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 227000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 13800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 4400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "calle-y-poche",
+      "rank": 35,
+      "rankPrev": null,
+      "countryRank": 9,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 7300000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 5800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 4700000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "anna-teres",
+      "rank": 36,
+      "rankPrev": null,
+      "countryRank": 7,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "facebook",
+      "platforms": {
+        "youtube": {
+          "followers": 5300000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 1300000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 4000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "facebook": {
+          "followers": 6000000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "andrea-valdiri",
+      "rank": 37,
+      "rankPrev": null,
+      "countryRank": 10,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 206000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 3800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 9900000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "marta-diaz",
+      "rank": 38,
+      "rankPrev": null,
+      "countryRank": 8,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "tiktok": {
+          "followers": 6900000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 3600000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "dulceida",
+      "rank": 39,
+      "rankPrev": null,
+      "countryRank": 9,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 2100000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 972000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 3500000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "maria-pombo",
+      "rank": 40,
+      "rankPrev": null,
+      "countryRank": 10,
+      "countryRankPrev": null,
+      "total": 0,
+      "networkPoints": 0,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 234000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "tiktok": {
+          "followers": 705800,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 3400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    }
+  ]
+}

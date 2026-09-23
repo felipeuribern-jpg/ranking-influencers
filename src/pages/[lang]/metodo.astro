@@ -1,0 +1,43 @@
+---
+import Layout from "../../components/Layout.astro";
+import { siteConfig, type LanguageCode } from "../../../site.config";
+import { translator } from "../../lib/i18n";
+import { rankingMeta } from "../../lib/data";
+import { PLATFORMS, PLATFORM_WEIGHTS } from "../../../pipeline/config.js";
+import { formatDate } from "../../lib/format";
+
+export function getStaticPaths() {
+  return siteConfig.languages.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: LanguageCode };
+const t = translator(lang);
+---
+
+<Layout lang={lang} path="metodo" title={t("method.title")} activeNav="method">
+  <div class="prose">
+    <h2 class="cond" style="font-size:28px;margin:0 0 4px">{t("method.title")}</h2>
+    <p>{t("method.intro")}</p>
+
+    <h3>{t("method.weightsTitle")}</h3>
+    <table class="w">
+      <tr>
+        <th>{" "}</th>
+        <th>{t("home.filterPlatformLabel")}</th>
+        <th>{" "}</th>
+      </tr>
+      {
+        PLATFORMS.map((platform) => (
+          <tr>
+            <td>{platform.charAt(0).toUpperCase() + platform.slice(1)}</td>
+            <td>{String(PLATFORM_WEIGHTS[platform]).replace(".", ",")}</td>
+            <td>{t(`method.why.${platform}`)}</td>
+          </tr>
+        ))
+      }
+    </table>
+
+    <h3>{t("method.sourcesTitle")}</h3>
+    <p>{t("rank.updated", { date: formatDate(rankingMeta.generatedAt, lang) })}</p>
+  </div>
+</Layout>

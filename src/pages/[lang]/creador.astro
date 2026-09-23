@@ -1,0 +1,31 @@
+---
+import Layout from "../../components/Layout.astro";
+import { siteConfig, type LanguageCode } from "../../../site.config";
+import { translator } from "../../lib/i18n";
+
+export function getStaticPaths() {
+  return siteConfig.languages.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: LanguageCode };
+const t = translator(lang);
+const issueUrl =
+  "https://github.com/felipeuribern-jpg/ranking-influencers/issues/new?" +
+  new URLSearchParams({ template: "correccion.md", labels: "correccion" }).toString();
+---
+
+<Layout lang={lang} path="creador" title={t("creator.title")} activeNav="creator">
+  <div class="prose">
+    <h2 class="cond" style="font-size:28px;margin:0 0 4px">{t("creator.title")}</h2>
+    <p>{t("creator.intro")}</p>
+
+    <button class="btn primary" type="button" aria-disabled="true" disabled title={t("creator.comingSoon")}>
+      TikTok Login Kit
+    </button>
+    <span style="color:var(--muted);font-size:13px;margin-inline-start:8px">{t("creator.comingSoon")}</span>
+
+    <p style="margin-top:24px">
+      <a class="cta" href={issueUrl} target="_blank" rel="noopener">{t("creator.correctionCta")}</a>
+    </p>
+  </div>
+</Layout>

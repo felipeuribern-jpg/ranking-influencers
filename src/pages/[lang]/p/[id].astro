@@ -1,0 +1,123 @@
+---
+import Layout from "../../../components/Layout.astro";
+import Sparkline from "../../../components/Sparkline.astro";
+import { siteConfig, type LanguageCode } from "../../../../site.config";
+import { translator } from "../../../lib/i18n";
+import { people, getHistorySeries } from "../../../lib/data";
+import { flagEmoji, countryName } from "../../../lib/countries";
+import { formatCompactNumber, formatDate, formatNumber, formatPercent, formatSignedPercent } from "../../../lib/format";
+import type { Platform } from "../../../../pipeline/config.js";
+
+export function getStaticPaths() {
+  return siteConfig.languages.flatMap((lang) =>
+    people.map((person) => ({ params: { lang, id: person.id }, props: { person } } as const)),
+  );
+}
+
+const { lang } = Astro.params as { lang: LanguageCode };
+const { person } = Astro.props as { person: (typeof people)[number] };
+const t = translator(lang);
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+
+const topic = person.topic[lang] ?? person.topic.es;
+const about = person.about[lang] ?? person.about.es;
+
+const platformEntries = Object.entries(person.platforms) as Array<[Platform, NonNullable<(typeof person.platforms)[Platform]>]>;
+platformEntries.sort((a, b) => b[1].points - a[1].points);
+
+const mainData = person.mainPlatform ? person.platforms[person.mainPlatform] : null;
+const mainUrl = mainData?.url ?? null;
+const mainLabel = person.mainPlatform ? person.mainPlatform.charAt(0).toUpperCase() + person.mainPlatform.slice(1) : "";
+
+const history = getHistorySeries(person.id, 90);
+
+const ogTitle = `${person.name} · #${person.rank} ${t("profile.world")}`;
+---
+
+<Layout
+  lang={lang}
+  path={`p/${person.id}`}
+  title={person.name}
+  description={about}
+>
+  <div class="weekline">
+    <h2>{flagEmoji(person.country)} {person.name}</h2>
+    <span>{topic} · {countryName(person.country, lang)}</span>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><b>#{person.rank}</b><span>{t("profile.world")}</span></div>
+    <div class="stat"><b>#{person.countryRank}</b><span>{t("profile.inCountry")}</span></div>
+    <div class="stat"><b>{formatNumber(person.total, lang)}</b><span>{t("rank.points")}</span></div>
+  </div>
+
+  <p>{about}</p>
+
+  <div id="platforms">
+    {
+      platformEntries.map(([platform, data]) => (
+        <div class:list={["plat", { main: platform === person.mainPlatform }]}>
+          <span class="n">{platform.charAt(0).toUpperCase() + platform.slice(1)}</span>
+          <span class="num">
+            {data.followers != null ? formatCompactNumber(data.followers, lang) : "–"}
+            {" · "}
+            {data.er != null ? formatPercent(data.er, lang) : t("profile.engagementNA")}
+          </span>
+          <span class="num">
+            <b>{formatNumber(data.points, lang)}</b> {t("rank.points")}
+          </span>
+        </div>
+      ))
+    }
+  </div>
+
+  {
+    platformEntries.length > 0 && (
+      <table class="w" style="margin-top:16px">
+        <tr>
+          <th>{" "}</th>
+          <th>{t("profile.growth30")}</th>
+          <th>{t("profile.lastUpdate")}</th>
+        </tr>
+        {platformEntries.map(([platform, data]) => (
+          <tr>
+            <td>{platform.charAt(0).toUpperCase() + platform.slice(1)}</td>
+            <td>
+              {data.followers != null && data.followers30 != null && data.followers30 > 0
+                ? formatSignedPercent((data.followers - data.followers30) / data.followers30, lang)
+                : "–"}
+            </td>
+            <td>
+              {data.stale ? t("profile.stale") : formatDate(data.fetchedAt, lang)}
+              {data.source && <span style="color:var(--muted)"> · {t("profile.source", { source: data.source })}</span>}
+            </td>
+          </tr>
+        ))}
+      </table>
+    )
+  }
+
+  <h3 class="prose">{t("profile.evolution")}</h3>
+  <Sparkline series={history} label={t("profile.evolution")} />
+
+  {
+    mainUrl ? (
+      <a class="cta" href={mainUrl} target="_blank" rel="noopener">
+        {t("profile.viewOn", { platform: mainLabel })}
+      </a>
+    ) : (
+      <span class="cta" aria-disabled="true">
+        {t("profile.viewOn", { platform: mainLabel || "–" })}
+      </span>
+    )
+  }
+
+  <div style="margin-top:20px">
+    <button class="btn" type="button" aria-disabled="true" disabled title={t("vote.comingSoon")}>
+      {t("vote.like")}
+    </button>
+    <span style="color:var(--muted);font-size:13px;margin-inline-start:8px">
+      {t("vote.count", { n: person.votes30 })} · {t("vote.comingSoon")}
+    </span>
+  </div>
+</Layout>

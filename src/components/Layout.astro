@@ -1,0 +1,108 @@
+---
+import "../styles/global.css";
+import { siteConfig, isRtl, type LanguageCode } from "../../site.config";
+import { translator } from "../lib/i18n";
+
+interface Props {
+  lang: LanguageCode;
+  /** Ruta después del idioma, sin barras iniciales/finales. "" = portada. */
+  path: string;
+  title: string;
+  description?: string;
+  activeNav?: "world" | "country" | "method" | "creator";
+  ogImage?: string;
+}
+
+const { lang, path, title, description, activeNav, ogImage } = Astro.props;
+const t = translator(lang);
+const dir = isRtl(lang) ? "rtl" : "ltr";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+
+function hrefFor(targetLang: string, targetPath = path): string {
+  const suffix = targetPath ? `/${targetPath}/` : "/";
+  return `${base}/${targetLang}${suffix}`;
+}
+
+const pageDescription = description ?? t("site.tagline");
+const canonicalUrl = new URL(hrefFor(lang), Astro.site);
+---
+
+<!doctype html>
+<html lang={lang} dir={dir}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{title} · {siteConfig.brandName}</title>
+    <meta name="description" content={pageDescription} />
+    <link rel="canonical" href={canonicalUrl} />
+    {siteConfig.languages.map((code) => (
+      <link rel="alternate" hreflang={code} href={new URL(hrefFor(code), Astro.site)} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={new URL(hrefFor(siteConfig.defaultLanguage), Astro.site)} />
+    <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={`${title} · ${siteConfig.brandName}`} />
+    <meta property="og:description" content={pageDescription} />
+    <meta property="og:url" content={canonicalUrl} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">{t("nav.skipToContent")}</a>
+    <header class="top">
+      <div class="wrap">
+        <div class="brand">
+          <div>
+            <h1><a href={hrefFor(lang, "")}>{siteConfig.brandName}</a></h1>
+            <p>{t("site.tagline")}</p>
+          </div>
+        </div>
+        <nav class="tabs" aria-label="Secciones">
+          <a href={hrefFor(lang, "")} aria-current={activeNav === "world" ? "page" : undefined}>
+            {t("nav.world")}
+          </a>
+          <a
+            href={hrefFor(lang, `pais/${siteConfig.defaultCountry.toLowerCase()}`)}
+            aria-current={activeNav === "country" ? "page" : undefined}
+          >
+            {t("nav.country")}
+          </a>
+          <a href={hrefFor(lang, "metodo")} aria-current={activeNav === "method" ? "page" : undefined}>
+            {t("nav.method")}
+          </a>
+          <a href={hrefFor(lang, "creador")} aria-current={activeNav === "creator" ? "page" : undefined}>
+            {t("nav.creator")}
+          </a>
+        </nav>
+        <nav class="lang-switcher" aria-label="Idioma">
+          {siteConfig.languages.map((code) => (
+            <a href={hrefFor(code)} aria-current={code === lang ? "true" : undefined} lang={code}>
+              {code.toUpperCase()}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap" id="main">
+      <slot />
+    </main>
+
+    <footer class="site">
+      <div class="wrap">
+        <p>
+          <a href={hrefFor(lang, "metodo")}>{t("nav.method")}</a>
+          · <a href="https://github.com/felipeuribern-jpg/ranking-influencers" rel="noopener">GitHub</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
