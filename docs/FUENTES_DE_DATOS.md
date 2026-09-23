@@ -70,8 +70,20 @@ El pipeline lo trata igual que cualquier otra fuente, con la misma regla de cadu
 `data/influencers.json` contiene 40 perfiles (México, España, Argentina y Colombia) con
 seguidores de enero de 2026 tomados de los rankings por país de TreceBits (`baseline`).
 **Los handles no están verificados** (`handlesVerified: false`), salvo algunos de Instagram
-que también requieren confirmación. La primera tarea del plan es completarlos y verificarlos
-a mano en cada red; no deduzcas handles automáticamente.
+que también requieren confirmación.
+
+### Verificación automática de YouTube (`pipeline/resolve-youtube.ts`)
+
+En vez de abrir cada perfil a mano (como decía la versión original de este documento),
+el handle de YouTube de 35 de los 40 perfiles se resolvió con una herramienta de un
+solo uso: busca el nombre con `search.list` y solo acepta el canal candidato cuyo
+número de suscriptores actual está a ±35 % del `baseline.followers.youtube` ya
+cargado — así no se asigna un canal al azar (CLAUDE.md #4). Los 5 restantes no
+tienen baseline de YouTube (su presencia principal es TikTok/Instagram) y quedan
+sin resolver para revisión manual si corresponde. No se marcó `handlesVerified:
+true`: ese campo sigue significando "las redes del perfil están confirmadas", y
+solo se confirmó YouTube, no las demás. Ejecutar de nuevo con
+`npx tsx pipeline/resolve-youtube.ts` si se agregan perfiles nuevos sin handle.
 
 ## Supabase: secretos
 

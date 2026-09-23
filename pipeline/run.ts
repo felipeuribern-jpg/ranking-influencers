@@ -5,6 +5,7 @@
 // según corresponda — nunca se inventa ni se pone a cero (CLAUDE.md regla #4).
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import "dotenv/config";
 import { PLATFORMS, PLATFORM_WEIGHTS, STALE_AFTER_DAYS, type Platform } from "./config.js";
 import {
   comparePeople,
