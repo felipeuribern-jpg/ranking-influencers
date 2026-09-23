@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fikin.com/sitemap-index.xml
+Sitemap: https://fykin.com/sitemap-index.xml
