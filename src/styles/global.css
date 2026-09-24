@@ -121,17 +121,11 @@ header.top {
   text-transform: lowercase;
   color: var(--accent);
 }
-.brand h1 a::before {
-  content: "F";
-  display: grid;
-  place-items: center;
+.brand-mark {
   width: 30px;
   height: 30px;
-  border-radius: 9px;
-  background: var(--accent);
-  color: var(--accent-ink);
-  font-size: 16px;
-  transform: rotate(-4deg);
+  border-radius: 50%;
+  display: block;
 }
 .brand p {
   margin: 4px 0 0;

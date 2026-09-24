@@ -39,7 +39,9 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
       <link rel="alternate" hreflang={code} href={new URL(hrefFor(code), Astro.site)} />
     ))}
     <link rel="alternate" hreflang="x-default" href={new URL(hrefFor(siteConfig.defaultLanguage), Astro.site)} />
-    <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
+    <link rel="icon" href={`${base}/favicon-64.png`} sizes="64x64" type="image/png" />
+    <link rel="icon" href={`${base}/favicon-32.png`} sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href={`${base}/apple-touch-icon.png`} />
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content={`${title} · ${siteConfig.brandName}`} />
@@ -63,6 +65,7 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
           <div>
             <h1>
               <a href={hrefFor(lang, "")}>
+                <img class="brand-mark" src={`${base}/logo.png`} alt="" width="30" height="30" />
                 <span class="wordmark">{siteConfig.brandName}</span><span class="wordmark-suffix">.com</span>
               </a>
             </h1>
