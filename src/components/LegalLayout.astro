@@ -1,0 +1,90 @@
+---
+import "../styles/global.css";
+import { siteConfig } from "../../site.config";
+
+interface Props {
+  title: string;
+  updated: string;
+}
+
+const { title, updated } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{title} · {siteConfig.brandName}</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;650;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Ir al contenido</a>
+    <header class="top">
+      <div class="wrap">
+        <div class="brand">
+          <div>
+            <h1>
+              <a href={`${base}/es/`}>
+                <span class="wordmark">{siteConfig.brandName}</span><span class="wordmark-suffix">.com</span>
+              </a>
+            </h1>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap legal" id="main">
+      <h1>{title}</h1>
+      <p class="legal-updated">Última actualización: {updated}</p>
+      <div class="legal-body">
+        <slot />
+      </div>
+    </main>
+
+    <footer class="site">
+      <div class="wrap">
+        <p>
+          <a href={`${base}/es/metodo/`}>Cómo se calcula</a>
+          · <a href={`${base}/privacidad/`}>Privacidad</a>
+          · <a href={`${base}/terminos/`}>Términos</a>
+          · <a href={`${base}/eliminar-datos/`}>Eliminación de datos</a>
+        </p>
+      </div>
+    </footer>
+
+    <style>
+      .legal {
+        max-width: 760px;
+        padding-block: 3rem 5rem;
+        line-height: 1.65;
+      }
+      .legal-updated {
+        color: var(--muted);
+        margin-top: -0.5rem;
+      }
+      .legal-body :global(h2) {
+        margin-top: 2.25rem;
+        font-size: 1.25rem;
+      }
+      .legal-body :global(p),
+      .legal-body :global(li) {
+        color: var(--ink);
+      }
+      .legal-body :global(a) {
+        color: var(--accent);
+      }
+      .legal-body :global(ul) {
+        padding-inline-start: 1.25rem;
+      }
+    </style>
+  </body>
+</html>
