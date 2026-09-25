@@ -23,6 +23,8 @@ function hrefFor(targetLang: string, targetPath = path): string {
   return `${base}/${targetLang}${suffix}`;
 }
 
+const languageNames: Record<string, string> = { es: "Español", en: "English", pt: "Português", fr: "Français", de: "Deutsch", ru: "Русский", ar: "العربية", hi: "हिन्दी", zh: "中文", ja: "日本語" };
+
 const pageDescription = description ?? t("site.tagline");
 const canonicalUrl = new URL(hrefFor(lang), Astro.site);
 ---
@@ -70,6 +72,16 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
               </a>
             </h1>
           </div>
+          <details class="language-picker">
+            <summary><span aria-hidden="true">◎</span> {languageNames[lang]} <span class="language-chevron" aria-hidden="true">⌄</span></summary>
+            <nav class="language-options" aria-label={lang === "es" ? "Idioma" : "Language"}>
+              {siteConfig.languages.map((code) => (
+                <a href={hrefFor(code)} lang={code} hreflang={code} aria-current={code === lang ? "true" : undefined}>
+                  <span>{languageNames[code]}</span><span aria-hidden="true">{code === lang ? "✓" : ""}</span>
+                </a>
+              ))}
+            </nav>
+          </details>
         </div>
         <nav class="tabs" aria-label="Secciones">
           <a href={hrefFor(lang, "")} aria-current={activeNav === "world" ? "page" : undefined}>
@@ -91,13 +103,7 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
             {t("nav.creator")}
           </a>
         </nav>
-        <nav class="lang-switcher" aria-label="Idioma">
-          {siteConfig.languages.map((code) => (
-            <a href={hrefFor(code)} aria-current={code === lang ? "true" : undefined} lang={code}>
-              {code.toUpperCase()}
-            </a>
-          ))}
-        </nav>
+
       </div>
     </header>
 
@@ -115,3 +121,16 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
     </footer>
   </body>
 </html>
+
+<script>
+  const picker = document.querySelector<HTMLDetailsElement>(".language-picker");
+  document.addEventListener("click", (event) => {
+    if (picker && event.target instanceof Node && !picker.contains(event.target)) picker.open = false;
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && picker?.open) {
+      picker.open = false;
+      picker.querySelector("summary")?.focus();
+    }
+  });
+</script>

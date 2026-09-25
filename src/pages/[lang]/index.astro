@@ -4,7 +4,7 @@ import RankingRow from "../../components/RankingRow.astro";
 import { siteConfig, type LanguageCode } from "../../../site.config";
 import { translator } from "../../lib/i18n";
 import { people, rankingMeta, getTopics } from "../../lib/data";
-import { formatDate, formatNumber } from "../../lib/format";
+import { formatDate } from "../../lib/format";
 import { PLATFORM_LABELS, type Platform } from "../../../pipeline/config.js";
 
 export function getStaticPaths() {
@@ -16,8 +16,18 @@ const t = translator(lang);
 const top100 = people.slice(0, 100);
 const platforms = [...new Set(top100.map((p) => p.mainPlatform).filter(Boolean))] as Platform[];
 const topics = getTopics(lang);
-const topPerson = people[0];
-const topPersonPlatform = topPerson?.mainPlatform ? topPerson.platforms[topPerson.mainPlatform] : null;
+const uxLabels = {
+  es: ["Buscar creador", "Nombre del creador…", "Limpiar filtros", "{shown} de {total} perfiles", "Explora los perfiles y descubre qué hay detrás de cada puntuación."],
+  en: ["Find a creator", "Creator name…", "Clear filters", "{shown} of {total} profiles", "Explore profiles and discover what goes into each score."],
+  pt: ["Buscar criador", "Nome do criador…", "Limpar filtros", "{shown} de {total} perfis", "Explore os perfis e descubra como cada pontuação é calculada."],
+  fr: ["Rechercher un créateur", "Nom du créateur…", "Effacer les filtres", "{shown} sur {total} profils", "Explorez les profils et découvrez le détail de chaque score."],
+  de: ["Creator suchen", "Name des Creators…", "Filter zurücksetzen", "{shown} von {total} Profilen", "Entdecke die Profile und erfahre, wie sich jeder Score zusammensetzt."],
+  ru: ["Найти автора", "Имя автора…", "Сбросить фильтры", "{shown} из {total} профилей", "Изучите профили и узнайте, из чего складывается оценка."],
+  ar: ["ابحث عن صانع محتوى", "اسم صانع المحتوى…", "مسح الفلاتر", "{shown} من {total} ملفًا", "استكشف الملفات وتعرّف على تفاصيل كل نتيجة."],
+  hi: ["क्रिएटर खोजें", "क्रिएटर का नाम…", "फ़िल्टर हटाएँ", "{total} में से {shown} प्रोफ़ाइल", "प्रोफ़ाइल देखें और जानें कि हर स्कोर कैसे बनता है।"],
+  zh: ["搜索创作者", "创作者姓名…", "清除筛选", "显示 {shown} / {total} 个资料", "探索创作者资料，了解每项评分的依据。"],
+  ja: ["クリエイターを検索", "クリエイター名…", "絞り込みを解除", "{total} 件中 {shown} 件", "プロフィールを見て、スコアの内訳を確認しましょう。"],
+}[lang];
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
@@ -37,38 +47,20 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         <span><i aria-hidden="true">✓</i> {t("hero.trust3")}</span>
       </div>
     </div>
-    {
-      topPerson && (
-        <div>
-          <article class="score-card">
-            <div class="mini">
-              <span>{t("rank.scoreLabel")}</span>
-              <span>{t("hero.scoreCardEyebrow")}</span>
-            </div>
-            <div class="score">
-              {formatNumber(topPerson.total, lang)}
-            </div>
-            <strong>{topPerson.name}</strong>
-            {topPersonPlatform && (
-              <div class="score-bars">
-                <div>
-                  <div class="score-bar-label">
-                    <span>{topPerson.mainPlatform ? PLATFORM_LABELS[topPerson.mainPlatform] : ""}</span>
-                    <b>{formatNumber(topPersonPlatform.points, lang)}</b>
-                  </div>
-                  <div class="score-track">
-                    <span
-                      class="score-fill"
-                      style={`width:${Math.min(100, (topPersonPlatform.points / Math.max(topPerson.total, 1)) * 100)}%`}
-                    />
-                  </div>
-                </div>
-              </div>
-            )}
-          </article>
+    <div class="intro-film">
+      <div class="phone-frame">
+        <span class="phone-side-button" aria-hidden="true"></span>
+        <div class="phone-screen">
+          <div class="phone-top" aria-hidden="true"><span class="phone-island"></span></div>
+      <video controls playsinline preload="metadata" aria-label={lang === "es" ? `Presentación de ${siteConfig.brandName} en español` : `${siteConfig.brandName} introduction in English`}>
+        <source src={`${base}/videos/intro-${lang === "es" ? "es" : "en"}.mp4`} type="video/mp4" />
+        <a href={`${base}/videos/intro-${lang === "es" ? "es" : "en"}.mp4`}>{lang === "es" ? "Ver video" : "Watch video"}</a>
+      </video>
+          <div class="phone-bottom" aria-hidden="true"><span></span></div>
         </div>
-      )
-    }
+      </div>
+      <p>{lang === "es" ? "Descubre una nueva forma de entender la influencia." : "Discover a new way to understand influence."}</p>
+    </div>
   </section>
 
   <div class="weekline" id="ranking">
@@ -76,7 +68,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     <span>{t("rank.updated", { date: formatDate(rankingMeta.generatedAt, lang) })}</span>
   </div>
 
-  <form class="filters" id="filters">
+  <p class="ranking-intro">{uxLabels[4]}</p>
+  <form class="filters" id="filters" role="search" aria-label={uxLabels[0]}>
+    <div class="creator-search">
+      <label for="f-search">{uxLabels[0]}</label>
+      <input id="f-search" type="search" name="creator" placeholder={uxLabels[1]} autocomplete="off" />
+    </div>
     <div>
       <label for="f-topic">{t("home.filterTopicLabel")}</label>
       <select id="f-topic" name="topic">
@@ -91,7 +88,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         {platforms.map((platform) => <option value={platform}>{PLATFORM_LABELS[platform]}</option>)}
       </select>
     </div>
+    <button class="btn clear-filters" type="reset">{uxLabels[2]}</button>
   </form>
+  <p class="result-count" id="result-count" role="status" aria-live="polite" aria-atomic="true" data-template={uxLabels[3]}>
+    {uxLabels[3].replace("{shown}", String(top100.length)).replace("{total}", String(top100.length))}
+  </p>
 
   <div class="board" id="board">
     {
@@ -140,40 +141,38 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
   const topicSelect = document.getElementById("f-topic") as HTMLSelectElement;
   const platformSelect = document.getElementById("f-platform") as HTMLSelectElement;
 
+  const searchInput = document.getElementById("f-search") as HTMLInputElement;
+  const filterForm = document.getElementById("filters") as HTMLFormElement;
+  const resultCount = document.getElementById("result-count")!;
+  const normalize = (value: string) => value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase().trim();
   let visibleCount = 20;
-  rows.forEach((row, i) => {
-    if (i >= visibleCount) row.hidden = true;
-  });
 
   function applyFilters() {
-    const topic = topicSelect.value;
-    const platform = platformSelect.value;
-    let shown = 0;
-    let matchIndex = 0;
-    rows.forEach((row) => {
-      const matches =
-        (!topic || row.dataset.topic === topic) && (!platform || row.dataset.platform === platform);
-      if (!matches) {
-        row.hidden = true;
-        return;
-      }
-      matchIndex++;
-      row.hidden = matchIndex > visibleCount;
-      if (!row.hidden) shown++;
-    });
-    emptyFiltered.hidden = shown > 0;
-    if (seeMoreBtn) {
-      const totalMatching = rows.filter(
-        (r) => (!topic || r.dataset.topic === topic) && (!platform || r.dataset.platform === platform),
-      ).length;
-      (seeMoreBtn as HTMLElement).hidden = totalMatching <= visibleCount;
-    }
+    const query = normalize(searchInput.value);
+    const matches = rows.filter((row) =>
+      (!topicSelect.value || row.dataset.topic === topicSelect.value) &&
+      (!platformSelect.value || row.dataset.platform === platformSelect.value) &&
+      (!query || normalize(row.dataset.name ?? "").includes(query))
+    );
+    const visible = new Set(matches.slice(0, visibleCount));
+    rows.forEach((row) => { row.hidden = !visible.has(row); });
+    emptyFiltered.hidden = matches.length > 0;
+    if (seeMoreBtn) seeMoreBtn.hidden = matches.length <= visibleCount;
+    resultCount.textContent = resultCount.dataset.template!
+      .replace("{shown}", String(visible.size)).replace("{total}", String(matches.length));
   }
-
-  topicSelect.addEventListener("change", applyFilters);
-  platformSelect.addEventListener("change", applyFilters);
+  filterForm.addEventListener("submit", (event) => event.preventDefault());
+  filterForm.addEventListener("input", () => { visibleCount = 20; applyFilters(); });
+  filterForm.addEventListener("reset", () => {
+    searchInput.value = "";
+    topicSelect.value = "";
+    platformSelect.value = "";
+    visibleCount = 20;
+    applyFilters();
+  });
   seeMoreBtn?.addEventListener("click", () => {
     visibleCount += 20;
     applyFilters();
   });
+  applyFilters();
 </script>
