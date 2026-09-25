@@ -36,6 +36,27 @@ jobs:
         id: validate
         run: npm run validate
 
+      - name: Revisar caducidad del token de Meta
+        id: meta-token
+        continue-on-error: true
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+        run: npx tsx pipeline/check-meta-token.ts
+
+      - name: Abrir issue si el token de Meta está por caducar
+        if: steps.meta-token.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -z "$(gh issue list --label meta-token-caducando --state open --json number -q '.[0]')" ]; then
+            gh issue create \
+              --title "El token de Meta (META_ACCESS_TOKEN) está por caducar o ya caducó" \
+              --body "El paso 'Revisar caducidad del token de Meta' del workflow update.yml falló en la ejecución [$GITHUB_RUN_ID](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}). Hay que generar un token de larga duración nuevo en el Explorador de la API Graph de Meta y actualizar el secreto META_ACCESS_TOKEN. Mientras tanto Instagram/Facebook van a caer a datos baseline en silencio." \
+              --label "meta-token-caducando"
+          else
+            echo "Ya hay un issue abierto para esto, no se crea uno nuevo."
+          fi
+
       - name: Commit y push si hay cambios
         if: success()
         run: |
