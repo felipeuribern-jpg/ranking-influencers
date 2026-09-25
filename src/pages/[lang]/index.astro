@@ -13,7 +13,7 @@ export function getStaticPaths() {
 
 const { lang } = Astro.params as { lang: LanguageCode };
 const t = translator(lang);
-const top100 = people.slice(0, 100);
+const top100 = people;
 const platforms = [...new Set(top100.map((p) => p.mainPlatform).filter(Boolean))] as Platform[];
 const topics = getTopics(lang);
 const uxLabels = {
@@ -28,6 +28,20 @@ const uxLabels = {
   zh: ["搜索创作者", "创作者姓名…", "清除筛选", "显示 {shown} / {total} 个资料", "探索创作者资料，了解每项评分的依据。"],
   ja: ["クリエイターを検索", "クリエイター名…", "絞り込みを解除", "{total} 件中 {shown} 件", "プロフィールを見て、スコアの内訳を確認しましょう。"],
 }[lang];
+const coverageLabels = {
+ es: ["Perfiles disponibles", "Países representados", "País", "Sin coincidencias. Prueba otro nombre o limpia los filtros."],
+ en: ["Available profiles", "Countries represented", "Country", "No matches. Try another name or clear the filters."],
+ pt: ["Perfis disponíveis", "Países representados", "País", "Sem resultados. Tente outro nome ou limpe os filtros."],
+ fr: ["Profils disponibles", "Pays représentés", "Pays", "Aucun résultat. Essayez un autre nom ou effacez les filtres."],
+ de: ["Verfügbare Profile", "Vertretene Länder", "Land", "Keine Treffer. Suche einen anderen Namen oder setze die Filter zurück."],
+ ru: ["Доступные профили", "Представленные страны", "Страна", "Совпадений нет. Измените имя или сбросьте фильтры."],
+ ar: ["الملفات المتاحة", "الدول الممثلة", "الدولة", "لا توجد نتائج. جرّب اسمًا آخر أو امسح الفلاتر."],
+ hi: ["उपलब्ध प्रोफ़ाइल", "शामिल देश", "देश", "कोई परिणाम नहीं। दूसरा नाम खोजें या फ़िल्टर हटाएँ।"],
+ zh: ["现有资料", "覆盖国家", "国家", "没有匹配结果。请尝试其他姓名或清除筛选。"],
+ ja: ["掲載プロフィール", "掲載国", "国", "該当する結果がありません。別の名前を試すか、絞り込みを解除してください。"],
+}[lang];
+const regionNames = new Intl.DisplayNames([lang], { type: "region" });
+const countries = [...new Set(people.map(person => person.country))].sort((a,b) => (regionNames.of(a) ?? a).localeCompare(regionNames.of(b) ?? b, lang));
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 ---
 
@@ -68,6 +82,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     <span>{t("rank.updated", { date: formatDate(rankingMeta.generatedAt, lang) })}</span>
   </div>
 
+  <div class="coverage-strip">
+    <span><b>{people.length}</b> {coverageLabels[0]}</span>
+    <span><b>{countries.length}</b> {coverageLabels[1]}</span>
+    <a href={`${base}/${lang}/metodo/`}>{t("rank.scoreLabel")} · {t("nav.method")} ↗</a>
+  </div>
   <p class="ranking-intro">{uxLabels[4]}</p>
   <form class="filters" id="filters" role="search" aria-label={uxLabels[0]}>
     <div class="creator-search">
@@ -88,6 +107,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         {platforms.map((platform) => <option value={platform}>{PLATFORM_LABELS[platform]}</option>)}
       </select>
     </div>
+    <div>
+      <label for="f-country">{coverageLabels[2]}</label>
+      <select id="f-country" name="country">
+        <option value="">{t("home.filterAllOption")}</option>
+        {countries.map(code => <option value={code}>{regionNames.of(code)}</option>)}
+      </select>
+    </div>
     <button class="btn clear-filters" type="reset">{uxLabels[2]}</button>
   </form>
   <p class="result-count" id="result-count" role="status" aria-live="polite" aria-atomic="true" data-template={uxLabels[3]}>
@@ -105,7 +131,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       )
     }
   </div>
-  <p id="empty-filtered" class="empty" hidden>{t("home.empty")}</p>
+  <div id="empty-filtered" class="empty" hidden><p>{coverageLabels[3]}</p><button class="btn" type="reset" form="filters">{uxLabels[2]}</button></div>
 
   {
     top100.length > 20 && (
@@ -141,6 +167,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
   const topicSelect = document.getElementById("f-topic") as HTMLSelectElement;
   const platformSelect = document.getElementById("f-platform") as HTMLSelectElement;
 
+  const countrySelect = document.getElementById("f-country") as HTMLSelectElement;
   const searchInput = document.getElementById("f-search") as HTMLInputElement;
   const filterForm = document.getElementById("filters") as HTMLFormElement;
   const resultCount = document.getElementById("result-count")!;
@@ -150,6 +177,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
   function applyFilters() {
     const query = normalize(searchInput.value);
     const matches = rows.filter((row) =>
+      (!countrySelect.value || row.dataset.country === countrySelect.value) &&
       (!topicSelect.value || row.dataset.topic === topicSelect.value) &&
       (!platformSelect.value || row.dataset.platform === platformSelect.value) &&
       (!query || normalize(row.dataset.name ?? "").includes(query))
@@ -164,6 +192,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
   filterForm.addEventListener("submit", (event) => event.preventDefault());
   filterForm.addEventListener("input", () => { visibleCount = 20; applyFilters(); });
   filterForm.addEventListener("reset", () => {
+    countrySelect.value = "";
     searchInput.value = "";
     topicSelect.value = "";
     platformSelect.value = "";

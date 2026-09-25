@@ -931,3 +931,19 @@ footer.site { border-color: #ffffff0d; font-size: 11px; }
 .who .creator-name { display: flex; align-items: center; gap: 8px; min-width: 0; }
 .creator-name-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .country-code { flex: none; font-size: 9px; font-weight: 600; letter-spacing: .05em; color: #adbed1; padding: 3px 5px; border: 1px solid #ffffff18; border-radius: 4px; line-height: 1; }
+
+/* Navigation compacte accessible et couverture calculée depuis les données. */
+.mobile-nav-toggle { display: none; }
+.coverage-strip { display: flex; gap: 14px 24px; align-items: center; flex-wrap: wrap; padding: 16px 0 4px; color: #a0afc2; font-size: 12px; }
+.coverage-strip b { color: #f4f8ff; margin-inline-end: 4px; font-size: 18px; font-variant-numeric: tabular-nums; }
+.coverage-strip a { margin-inline-start: auto; text-underline-offset: 4px; }
+.empty .btn { margin-top: 8px; }
+@media (max-width: 679px) {
+ .mobile-nav-toggle { display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; margin-block: 8px; padding: 10px 12px; color: var(--ink); background: #111a25; border: 1px solid #263241; border-radius: 8px; text-align: start; font: inherit; font-size: 13px; }
+ nav.tabs { flex-wrap: wrap; overflow: visible; }
+ nav.tabs.collapsible-nav { display: none; }
+ nav.tabs.collapsible-nav.nav-open { display: grid; grid-template-columns: 1fr; margin: 0 0 12px; }
+ nav.tabs a { white-space: normal; min-height: 44px; padding: 13px; }
+ .coverage-strip { gap: 12px 18px; }
+ .coverage-strip a { margin-inline-start: 0; flex-basis: 100%; }
+}

@@ -28,6 +28,7 @@ const countryName = new Intl.DisplayNames([lang], { type: "region" }).of(country
   class:list={["row", { lead }]}
   href={`${base}/${lang}/p/${person.id}/`}
   data-position={position}
+  data-country={person.country}
   data-name={person.name}
   data-topic={topic}
   data-platform={person.mainPlatform ?? ""}

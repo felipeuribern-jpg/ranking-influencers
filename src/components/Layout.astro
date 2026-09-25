@@ -83,7 +83,8 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
             </nav>
           </details>
         </div>
-        <nav class="tabs" aria-label="Secciones">
+        <button class="mobile-nav-toggle" type="button" aria-expanded="false" aria-controls="main-navigation" hidden>☰ <span>{t("nav.world")}</span></button>
+        <nav class="tabs" id="main-navigation" aria-label="Secciones">
           <a href={hrefFor(lang, "")} aria-current={activeNav === "world" ? "page" : undefined}>
             {t("nav.world")}
           </a>
@@ -123,6 +124,24 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
 </html>
 
 <script>
+  const navButton = document.querySelector<HTMLButtonElement>(".mobile-nav-toggle");
+  const navigation = document.getElementById("main-navigation");
+  if (navButton && navigation) {
+    navButton.hidden = false;
+    navigation.classList.add("collapsible-nav");
+    navButton.addEventListener("click", () => {
+      const expanded = navButton.getAttribute("aria-expanded") !== "true";
+      navButton.setAttribute("aria-expanded", String(expanded));
+      navigation.classList.toggle("nav-open", expanded);
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && navButton.getAttribute("aria-expanded") === "true") {
+        navButton.setAttribute("aria-expanded", "false");
+        navigation.classList.remove("nav-open");
+        navButton.focus();
+      }
+    });
+  }
   const picker = document.querySelector<HTMLDetailsElement>(".language-picker");
   document.addEventListener("click", (event) => {
     if (picker && event.target instanceof Node && !picker.contains(event.target)) picker.open = false;
