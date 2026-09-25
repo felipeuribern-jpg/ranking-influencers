@@ -2,6 +2,7 @@
 import Layout from "../../components/Layout.astro";
 import { siteConfig, type LanguageCode } from "../../../site.config";
 import { translator } from "../../lib/i18n";
+import { people } from "../../lib/data";
 
 export function getStaticPaths() {
   return siteConfig.languages.map((lang) => ({ params: { lang } }));
@@ -12,6 +13,13 @@ const t = translator(lang);
 const issueUrl =
   "https://github.com/felipeuribern-jpg/ranking-influencers/issues/new?" +
   new URLSearchParams({ template: "correccion.md", labels: "correccion" }).toString();
+
+// Solo lo que necesita la búsqueda en el cliente: id, nombre y país (ver
+// docs/PLAN_DE_TRABAJO.md Fase 7). El resto del perfil no hace falta acá.
+const searchIndex = people.map((p) => ({ id: p.id, name: p.name, country: p.country }));
+
+const tiktokClientKey = import.meta.env.PUBLIC_TIKTOK_CLIENT_KEY ?? "";
+const tiktokRedirectUri = import.meta.env.PUBLIC_TIKTOK_REDIRECT_URI ?? "";
 ---
 
 <Layout lang={lang} path="creador" title={t("creator.title")} activeNav="creator">
@@ -19,13 +27,142 @@ const issueUrl =
     <h2 class="cond" style="font-size:28px;margin:0 0 4px">{t("creator.title")}</h2>
     <p>{t("creator.intro")}</p>
 
-    <button class="btn primary" type="button" aria-disabled="true" disabled title={t("creator.comingSoon")}>
-      TikTok Login Kit
-    </button>
-    <span style="color:var(--muted);font-size:13px;margin-inline-start:8px">{t("creator.comingSoon")}</span>
+    <div
+      id="creator-widget"
+      data-people={JSON.stringify(searchIndex)}
+      data-client-key={tiktokClientKey}
+      data-redirect-uri={tiktokRedirectUri}
+      data-label-search={t("creator.searchLabel")}
+      data-placeholder-search={t("creator.searchPlaceholder")}
+      data-label-empty={t("creator.searchEmpty")}
+      data-label-selected={t("creator.selectedLabel")}
+      data-label-change={t("creator.changeSelection")}
+      data-label-connect={t("creator.connectCta")}
+      data-label-note={t("creator.connectNote")}
+      data-label-linked-success={t("creator.linkedSuccess")}
+      data-label-linked-error={t("creator.linkedError")}
+      style="max-width:420px"
+    >
+      <div id="creator-banner"></div>
+
+      <div id="creator-picker">
+        <label for="creator-search" style="display:block;font-size:13px;color:var(--muted);margin-bottom:4px">
+          {t("creator.searchLabel")}
+        </label>
+        <input
+          id="creator-search"
+          type="text"
+          autocomplete="off"
+          placeholder={t("creator.searchPlaceholder")}
+          style="width:100%;padding:8px 12px;border-radius:8px;border:1px solid var(--rule);background:var(--surface);color:var(--ink)"
+        />
+        <ul
+          id="creator-results"
+          style="list-style:none;margin:8px 0 0;padding:0;max-height:260px;overflow-y:auto;border-radius:8px"
+        >
+        </ul>
+      </div>
+
+      <div id="creator-selected" hidden>
+        <p id="creator-selected-label" style="margin:0 0 8px"></p>
+        <a class="btn primary" id="creator-connect-btn" type="button" style="display:inline-block;text-decoration:none">
+          {t("creator.connectCta")}
+        </a>
+        <button class="btn" type="button" id="creator-change-btn" style="margin-inline-start:8px">
+          {t("creator.changeSelection")}
+        </button>
+        <p style="color:var(--muted);font-size:13px;margin-top:8px">{t("creator.connectNote")}</p>
+      </div>
+    </div>
 
     <p style="margin-top:24px">
       <a class="cta" href={issueUrl} target="_blank" rel="noopener">{t("creator.correctionCta")}</a>
     </p>
   </div>
 </Layout>
+
+<script>
+  const widget = document.getElementById("creator-widget");
+  if (widget) {
+    const people: Array<{ id: string; name: string; country: string }> = JSON.parse(
+      widget.dataset.people ?? "[]",
+    );
+    const clientKey = widget.dataset.clientKey ?? "";
+    const redirectUri = widget.dataset.redirectUri ?? "";
+    const labels = {
+      empty: widget.dataset.labelEmpty!,
+      selected: widget.dataset.labelSelected!,
+      linkedSuccess: widget.dataset.labelLinkedSuccess!,
+      linkedError: widget.dataset.labelLinkedError!,
+    };
+
+    const banner = document.getElementById("creator-banner")!;
+    const picker = document.getElementById("creator-picker")!;
+    const search = document.getElementById("creator-search") as HTMLInputElement;
+    const results = document.getElementById("creator-results")!;
+    const selectedBox = document.getElementById("creator-selected")!;
+    const selectedLabel = document.getElementById("creator-selected-label")!;
+    const connectBtn = document.getElementById("creator-connect-btn") as HTMLAnchorElement;
+    const changeBtn = document.getElementById("creator-change-btn") as HTMLButtonElement;
+
+    function showResults(query: string) {
+      results.innerHTML = "";
+      const q = query.trim().toLocaleLowerCase();
+      if (!q) return;
+      const matches = people.filter((p) => p.name.toLocaleLowerCase().includes(q)).slice(0, 8);
+      if (matches.length === 0) {
+        const li = document.createElement("li");
+        li.textContent = labels.empty;
+        li.style.cssText = "padding:8px 12px;color:var(--muted);font-size:13px";
+        results.append(li);
+        return;
+      }
+      for (const person of matches) {
+        const li = document.createElement("li");
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.textContent = `${person.name} (${person.country})`;
+        btn.style.cssText =
+          "display:block;width:100%;text-align:start;padding:8px 12px;border:none;background:var(--surface);color:var(--ink);cursor:pointer;border-bottom:1px solid var(--rule)";
+        btn.addEventListener("click", () => selectPerson(person));
+        li.append(btn);
+        results.append(li);
+      }
+    }
+
+    function selectPerson(person: { id: string; name: string; country: string }) {
+      picker.hidden = true;
+      selectedBox.hidden = false;
+      selectedLabel.textContent = labels.selected.replace("{name}", person.name);
+      const url = new URL("https://www.tiktok.com/v2/auth/authorize/");
+      url.searchParams.set("client_key", clientKey);
+      url.searchParams.set("scope", "user.info.basic,user.info.stats,video.list");
+      url.searchParams.set("response_type", "code");
+      url.searchParams.set("redirect_uri", redirectUri);
+      url.searchParams.set("state", person.id);
+      connectBtn.href = url.toString();
+    }
+
+    search.addEventListener("input", () => showResults(search.value));
+    changeBtn.addEventListener("click", () => {
+      selectedBox.hidden = true;
+      picker.hidden = false;
+      search.value = "";
+      results.innerHTML = "";
+      search.focus();
+    });
+
+    const params = new URLSearchParams(window.location.search);
+    const tiktokStatus = params.get("tiktok");
+    if (tiktokStatus === "linked") {
+      const username = params.get("username") ?? "";
+      banner.textContent = labels.linkedSuccess.replace("{username}", username);
+      banner.style.cssText =
+        "padding:10px 14px;border-radius:8px;background:var(--acid,#c9ff3d);color:#07111f;font-weight:600;margin-bottom:16px";
+    } else if (tiktokStatus === "error") {
+      banner.textContent = labels.linkedError;
+      banner.style.cssText =
+        "padding:10px 14px;border-radius:8px;border:1px solid var(--rule);color:var(--ink);margin-bottom:16px";
+    }
+  }
+</script>

@@ -5,6 +5,7 @@
 // cuándo queda `stale`). El refresh token cifrado vive en Supabase
 // (`creator_tokens`, solo `service_role`); pipeline/run.ts se lo pasa a este módulo,
 // este módulo no toca Supabase directamente.
+import { createCipheriv, createDecipheriv, randomBytes } from "node:crypto";
 import {
   ENGAGEMENT_WINDOW_POSTS,
   ENGAGEMENT_MIN_POST_AGE_HOURS,
@@ -14,6 +15,34 @@ import {
 const TOKEN_URL = "https://open.tiktokapis.com/v2/oauth/token/";
 const USER_INFO_URL = "https://open.tiktokapis.com/v2/user/info/";
 const VIDEO_LIST_URL = "https://open.tiktokapis.com/v2/video/list/";
+
+// Mismo esquema que supabase/functions/tiktok-callback/index.ts (AES-256-GCM,
+// iv de 12 bytes + texto cifrado + etiqueta de 16 bytes, todo en un solo
+// base64) para que ambos lados puedan leerse entre sí. TIKTOK_TOKEN_KEY es la
+// misma clave en los secretos de la Edge Function y en GitHub Secrets/.env.
+function tokenKey(): Buffer {
+  const key = process.env.TIKTOK_TOKEN_KEY;
+  if (!key) throw new Error("Falta TIKTOK_TOKEN_KEY");
+  return Buffer.from(key, "base64");
+}
+
+export function decryptRefreshToken(combinedB64: string): string {
+  const combined = Buffer.from(combinedB64, "base64");
+  const iv = combined.subarray(0, 12);
+  const authTag = combined.subarray(combined.length - 16);
+  const ciphertext = combined.subarray(12, combined.length - 16);
+  const decipher = createDecipheriv("aes-256-gcm", tokenKey(), iv);
+  decipher.setAuthTag(authTag);
+  return Buffer.concat([decipher.update(ciphertext), decipher.final()]).toString("utf8");
+}
+
+export function encryptRefreshToken(plainText: string): string {
+  const iv = randomBytes(12);
+  const cipher = createCipheriv("aes-256-gcm", tokenKey(), iv);
+  const ciphertext = Buffer.concat([cipher.update(plainText, "utf8"), cipher.final()]);
+  const authTag = cipher.getAuthTag();
+  return Buffer.concat([iv, ciphertext, authTag]).toString("base64");
+}
 
 function clientCredentials(): { clientKey: string; clientSecret: string } {
   const clientKey = process.env.TIKTOK_CLIENT_KEY;

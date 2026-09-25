@@ -18,6 +18,7 @@ import { findManualEntry, loadManualEntries } from "./sources/manual.js";
 import { fetchChannelSnapshot, fetchEngagementRate, resolveChannelId } from "./sources/youtube.js";
 import { fetchBusinessDiscovery } from "./sources/instagram.js";
 import { fetchPageSnapshot } from "./sources/facebook.js";
+import { fetchLinkedCreatorSnapshot, decryptRefreshToken, encryptRefreshToken } from "./sources/tiktok.js";
 import { runDiscovery } from "./discover.js";
 import type {
   Influencer,
@@ -67,7 +68,34 @@ async function fetchLiveSnapshot(
   person: Influencer,
   platform: Platform,
   resolved: ResolvedFile,
+  creatorTokensById: Map<string, string>,
 ): Promise<RawSnapshot | null> {
+  // TikTok no depende de handles.tiktok: el vínculo lo establece el propio
+  // creador con su login real en «Soy este creador» (Fase 7), guardado en
+  // creator_tokens por influencer_id. Por eso se revisa antes del `if (!handle)`
+  // de abajo, que sí aplica a las demás redes (basadas en handle público).
+  if (platform === "tiktok") {
+    const encryptedRefreshToken = creatorTokensById.get(person.id);
+    if (!encryptedRefreshToken || !process.env.TIKTOK_TOKEN_KEY) return null;
+    try {
+      const refreshToken = decryptRefreshToken(encryptedRefreshToken);
+      const snapshot = await fetchLinkedCreatorSnapshot(refreshToken);
+      await saveCreatorRefreshToken(person.id, encryptRefreshToken(snapshot.refreshedRefreshToken));
+      return {
+        followers: snapshot.followers,
+        er: snapshot.er,
+        url: snapshot.url,
+        source: "tiktok-login-kit",
+        fetchedAt: new Date().toISOString(),
+      };
+    } catch (err) {
+      console.warn(
+        `[${person.id}] tiktok: fallo al consultar la API (${(err as Error).message}). Se usa el último dato válido.`,
+      );
+      return null;
+    }
+  }
+
   const handle = person.handles[platform];
   if (!handle) return null;
 
@@ -165,6 +193,49 @@ async function fetchVotes30(): Promise<Map<string, number>> {
   return result;
 }
 
+async function fetchCreatorTokens(): Promise<Map<string, string>> {
+  const result = new Map<string, string>();
+  const url = process.env.SUPABASE_URL;
+  const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if (!url || !key) return result; // Sin Supabase: ningún creador vinculado todavía.
+
+  const res = await fetch(
+    `${url}/rest/v1/creator_tokens?platform=eq.tiktok&select=influencer_id,refresh_token_encrypted`,
+    { headers: { apikey: key, Authorization: `Bearer ${key}` } },
+  );
+  if (!res.ok) {
+    console.warn(`No se pudieron leer los vínculos de TikTok de Supabase (HTTP ${res.status}).`);
+    return result;
+  }
+  const rows: Array<{ influencer_id: string; refresh_token_encrypted: string }> = await res.json();
+  for (const row of rows) result.set(row.influencer_id, row.refresh_token_encrypted);
+  return result;
+}
+
+async function saveCreatorRefreshToken(influencerId: string, encryptedRefreshToken: string): Promise<void> {
+  const url = process.env.SUPABASE_URL;
+  const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if (!url || !key) return;
+
+  const res = await fetch(`${url}/rest/v1/creator_tokens?influencer_id=eq.${influencerId}&platform=eq.tiktok`, {
+    method: "PATCH",
+    headers: {
+      apikey: key,
+      Authorization: `Bearer ${key}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      refresh_token_encrypted: encryptedRefreshToken,
+      updated_at: new Date().toISOString(),
+    }),
+  });
+  if (!res.ok) {
+    console.warn(
+      `[${influencerId}] tiktok: no se pudo guardar el refresh_token renovado (HTTP ${res.status}).`,
+    );
+  }
+}
+
 interface WorkingPerson {
   id: string;
   country: string;
@@ -196,12 +267,13 @@ async function main(): Promise<void> {
   const history30ById = new Map(history30?.people.map((p) => [p.id, p]) ?? []);
 
   // 1. Snapshot crudo por persona y red: vivo → manual → baseline.
+  const creatorTokensById = await fetchCreatorTokens();
   const snapshots = new Map<string, Partial<Record<Platform, RawSnapshot>>>();
   for (const person of influencersFile.influencers) {
     const perPlatform: Partial<Record<Platform, RawSnapshot>> = {};
     for (const platform of PLATFORMS) {
       const snapshot =
-        (await fetchLiveSnapshot(person, platform, resolved)) ??
+        (await fetchLiveSnapshot(person, platform, resolved, creatorTokensById)) ??
         manualSnapshot(person, platform, manualEntries) ??
         baselineSnapshot(person, platform);
       if (snapshot) perPlatform[platform] = snapshot;

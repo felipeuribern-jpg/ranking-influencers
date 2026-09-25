@@ -28,6 +28,8 @@ jobs:
         env:
           PUBLIC_SUPABASE_URL: ${{ secrets.PUBLIC_SUPABASE_URL }}
           PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.PUBLIC_SUPABASE_ANON_KEY }}
+          PUBLIC_TIKTOK_CLIENT_KEY: ${{ secrets.PUBLIC_TIKTOK_CLIENT_KEY }}
+          PUBLIC_TIKTOK_REDIRECT_URI: ${{ secrets.PUBLIC_TIKTOK_REDIRECT_URI }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

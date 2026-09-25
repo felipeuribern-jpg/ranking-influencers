@@ -22,3 +22,7 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# herramientas locales
+.codebase-memory/
+supabase/.temp/
