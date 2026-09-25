@@ -110,17 +110,144 @@ const history = getHistorySeries(person.id, 90);
     )
   }
 
-  <div style="margin-top:20px">
-    <button class="btn" type="button" aria-disabled="true" disabled title={t("vote.comingSoon")}>
-      {t("vote.like")}
-    </button>
-    <span style="color:var(--muted);font-size:13px;margin-inline-start:8px">
-      {t("vote.count", { n: person.votes30 })} · {t("vote.comingSoon")}
+  <div
+    class="vote-widget"
+    id="vote-widget"
+    data-influencer-id={person.id}
+    data-votes30={person.votes30}
+    data-label-vote={t("vote.like")}
+    data-label-done={t("vote.done")}
+    data-label-sign-in={t("vote.signIn")}
+    data-label-send={t("vote.sendLink")}
+    data-label-check-email={t("vote.checkEmail")}
+    data-label-error={t("vote.error")}
+    data-label-thanks={t("vote.thanks")}
+    data-email-placeholder={t("vote.emailPlaceholder")}
+    data-count-template={t("vote.count", { n: "{n}" })}
+  >
+    <button class="btn" type="button" id="vote-btn" disabled>{t("vote.like")}</button>
+    <span style="color:var(--muted);font-size:13px;margin-inline-start:8px" id="vote-status">
+      {t("vote.count", { n: person.votes30 })}
     </span>
   </div>
 </Layout>
 
 <script>
   import { track } from "../../../lib/analytics";
+  import { getSupabaseClient, votingConfigured } from "../../../lib/supabase";
+
   track("view_profile", { id: window.location.pathname.split("/").filter(Boolean).pop() ?? "" });
+
+  const widget = document.getElementById("vote-widget");
+  const btn = document.getElementById("vote-btn") as HTMLButtonElement | null;
+  const status = document.getElementById("vote-status");
+  if (widget && btn && status) {
+    const influencerId = widget.dataset.influencerId!;
+    const labels = {
+      vote: widget.dataset.labelVote!,
+      done: widget.dataset.labelDone!,
+      signIn: widget.dataset.labelSignIn!,
+      send: widget.dataset.labelSend!,
+      checkEmail: widget.dataset.labelCheckEmail!,
+      error: widget.dataset.labelError!,
+      thanks: widget.dataset.labelThanks!,
+    };
+    const emailPlaceholder = widget.dataset.emailPlaceholder!;
+    const countTemplate = widget.dataset.countTemplate!;
+    const votes30 = Number(widget.dataset.votes30 ?? "0");
+    const countLabel = countTemplate.replace("{n}", String(votes30));
+
+    function showEmailForm() {
+      widget.innerHTML = "";
+      const form = document.createElement("form");
+      form.className = "vote-email-form";
+      form.style.cssText = "display:flex;gap:8px;align-items:center;flex-wrap:wrap";
+      const input = document.createElement("input");
+      input.type = "email";
+      input.required = true;
+      input.placeholder = emailPlaceholder;
+      input.className = "vote-email-input";
+      input.style.cssText =
+        "padding:8px 12px;border-radius:8px;border:1px solid var(--rule);background:var(--surface);color:var(--ink)";
+      const sendBtn = document.createElement("button");
+      sendBtn.type = "submit";
+      sendBtn.className = "btn";
+      sendBtn.textContent = labels.send;
+      form.append(input, sendBtn);
+      widget.append(form);
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        sendBtn.disabled = true;
+        try {
+          const supabase = getSupabaseClient();
+          const { error } = await supabase.auth.signInWithOtp({
+            email: input.value,
+            options: { emailRedirectTo: window.location.href },
+          });
+          if (error) throw error;
+          widget.textContent = labels.checkEmail;
+        } catch {
+          widget.textContent = labels.error;
+        }
+      });
+    }
+
+    async function castVote(userId: string) {
+      btn.disabled = true;
+      try {
+        const supabase = getSupabaseClient();
+        const { error } = await supabase.from("votes").insert({ user_id: userId, influencer_id: influencerId });
+        if (error && error.code !== "23505") throw error; // 23505 = ya había votado hoy (PK duplicado)
+        btn.textContent = labels.done;
+        status.textContent = labels.thanks;
+      } catch {
+        btn.disabled = false;
+        status.textContent = labels.error;
+      }
+    }
+
+    async function checkVotedToday(userId: string): Promise<boolean> {
+      const supabase = getSupabaseClient();
+      const today = new Date().toISOString().slice(0, 10);
+      const { data } = await supabase
+        .from("votes")
+        .select("day")
+        .eq("influencer_id", influencerId)
+        .eq("day", today)
+        .limit(1);
+      return Boolean(data && data.length > 0);
+    }
+
+    async function init() {
+      if (!votingConfigured()) return; // botón queda deshabilitado tal como venía por defecto
+      btn.disabled = false;
+      btn.removeAttribute("aria-disabled");
+      btn.removeAttribute("title");
+
+      const supabase = getSupabaseClient();
+      const {
+        data: { session },
+      } = await supabase.auth.getSession();
+
+      if (session) {
+        if (await checkVotedToday(session.user.id)) {
+          btn.textContent = labels.done;
+          btn.disabled = true;
+        } else {
+          btn.addEventListener("click", () => castVote(session.user.id), { once: true });
+        }
+      } else {
+        btn.addEventListener(
+          "click",
+          () => {
+            status.textContent = labels.signIn;
+            showEmailForm();
+          },
+          { once: true },
+        );
+      }
+    }
+
+    init();
+  }
 </script>
