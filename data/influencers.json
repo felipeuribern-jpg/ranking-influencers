@@ -1833,6 +1833,270 @@
           "youtube": 7300000
         }
       }
+    },
+    {
+      "id": "mike-milfort",
+      "name": "Mike Milfort",
+      "country": "CL",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "Creador de contenido de origen haitiano radicado en Chile desde los 17 años, conocido por sus videos sobre la cultura chilena y por la campaña viral \"devuelvan el moai\" dirigida al Museo Británico.",
+        "en": "A content creator of Haitian origin based in Chile since age 17, known for his videos about Chilean culture and for the viral \"return the moai\" campaign aimed at the British Museum.",
+        "pt": "Criador de conteúdo de origem haitiana radicado no Chile desde os 17 anos, conhecido por seus vídeos sobre a cultura chilena e pela campanha viral \"devolvam o moai\" dirigida ao Museu Britânico.",
+        "fr": "Créateur de contenu d'origine haïtienne installé au Chili depuis l'âge de 17 ans, connu pour ses vidéos sur la culture chilienne et pour la campagne virale \"rendez le moaï\" adressée au British Museum.",
+        "de": "Ein Content-Creator haitianischer Herkunft, der seit seinem 17. Lebensjahr in Chile lebt und für seine Videos über die chilenische Kultur sowie die virale Kampagne \"gebt den Moai zurück\" an das British Museum bekannt ist.",
+        "ru": "Автор контента гаитянского происхождения, живущий в Чили с 17 лет, известный видео о чилийской культуре и вирусной кампанией \"верните моаи\", адресованной Британскому музею.",
+        "ar": "صانع محتوى من أصل هايتي مقيم في تشيلي منذ سن السابعة عشرة، اشتهر بمقاطعه عن الثقافة التشيلية وبحملته الفيروسية \"أعيدوا تمثال المواي\" الموجهة إلى المتحف البريطاني.",
+        "hi": "हैतियन मूल के कंटेंट क्रिएटर, जो 17 साल की उम्र से चिली में रह रहे हैं, चिली की संस्कृति पर अपने वीडियो और ब्रिटिश म्यूज़ियम को संबोधित वायरल अभियान \"मोई वापस करो\" के लिए जाने जाते हैं।",
+        "zh": "这位海地裔内容创作者自17岁起定居智利,以介绍智利文化的视频以及呼吁大英博物馆\"归还摩艾石像\"的病毒式活动而闻名。",
+        "ja": "17歳からチリに住むハイチ出身のクリエイターで、チリ文化を紹介する動画と、大英博物館に向けた「モアイを返せ」というバイラルキャンペーンで知られる。"
+      },
+      "handles": {
+        "youtube": "UC2u8OMV5W1KZ8hHzDUUVxFg",
+        "tiktok": null,
+        "instagram": "mike_milfort",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1600000
+        }
+      }
+    },
+    {
+      "id": "analisheet",
+      "name": "Analisheet",
+      "country": "CL",
+      "topic": {
+        "es": "Crítica de TV",
+        "en": "TV Commentary",
+        "pt": "Crítica de TV",
+        "fr": "Critique télé",
+        "de": "TV-Kritik",
+        "ru": "Телекритика",
+        "ar": "نقد تلفزيوني",
+        "hi": "टीवी समीक्षा",
+        "zh": "电视评论",
+        "ja": "テレビ批評"
+      },
+      "about": {
+        "es": "Canal chileno conducido por Marcelo Von Gierke, alias \"Barón von Vonstar\", que analiza y critica con humor negro la televisión y la cultura pop chilenas, y ganó notoriedad tras una disputa con el canal Mega por sus videos.",
+        "en": "A Chilean channel hosted by Marcelo Von Gierke, known as \"Barón von Vonstar\", who analyzes Chilean television and pop culture with dark humor, and gained wider notice after a dispute with the TV network Mega over his videos.",
+        "pt": "Canal chileno apresentado por Marcelo Von Gierke, conhecido como \"Barón von Vonstar\", que analisa a televisão e a cultura pop chilenas com humor negro, e ganhou notoriedade após uma disputa com o canal Mega por causa de seus vídeos.",
+        "fr": "Chaîne chilienne animée par Marcelo Von Gierke, alias \"Barón von Vonstar\", qui analyse la télévision et la culture populaire chiliennes avec un humour noir, et a gagné en notoriété après un différend avec la chaîne Mega au sujet de ses vidéos.",
+        "de": "Ein chilenischer Kanal von Marcelo Von Gierke, bekannt als \"Barón von Vonstar\", der das chilenische Fernsehen und die Popkultur mit schwarzem Humor kommentiert und nach einem Streit mit dem Sender Mega um seine Videos an Bekanntheit gewann.",
+        "ru": "Чилийский канал под руководством Марсело Фон Гирке, известного как \"Барон фон Вонстар\", который с чёрным юмором комментирует чилийское телевидение и поп-культуру и приобрёл известность после спора с телеканалом Mega из-за своих видео.",
+        "ar": "قناة تشيلية يقدمها مارسيلو فون غيركه، الملقب بـ\"البارون فون فونستار\"، يحلل فيها التلفزيون والثقافة الشعبية التشيلية بفكاهة سوداء، واكتسب شهرة واسعة بعد خلاف مع قناة ميغا بسبب مقاطعه.",
+        "hi": "मार्सेलो वॉन गिर्के द्वारा संचालित चिली चैनल, जिन्हें \"बैरन वॉन वॉनस्टार\" के नाम से जाना जाता है, जो चिली के टेलीविज़न और पॉप संस्कृति की डार्क ह्यूमर के साथ समीक्षा करते हैं, और मेगा टीवी चैनल के साथ अपने वीडियो को लेकर हुए विवाद के बाद अधिक चर्चित हुए।",
+        "zh": "这个智利频道由马塞洛·冯·吉尔克主持,人称\"冯·冯斯塔男爵\",以黑色幽默点评智利电视和流行文化,并因与Mega电视台就其视频发生纠纷而声名大噪。",
+        "ja": "「バロン・フォン・フォンスター」ことマルセロ・フォン・ギルケが運営するチリのチャンネルで、ブラックユーモアを交えてチリのテレビとポップカルチャーを論評し、テレビ局Megaとの動画をめぐる対立を経て知名度を上げた。"
+      },
+      "handles": {
+        "youtube": "UChjXNrFZbyUWxpqZmIrW0CA",
+        "tiktok": null,
+        "instagram": "analisheet3",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 233000
+        }
+      }
+    },
+    {
+      "id": "leo-bascunan",
+      "name": "Leo Bascuñan",
+      "country": "CL",
+      "topic": {
+        "es": "Vlogs y desafíos",
+        "en": "Vlogs & challenges",
+        "pt": "Vlogs e desafios",
+        "fr": "Vlogs et défis",
+        "de": "Vlogs & Challenges",
+        "ru": "Влоги и челленджи",
+        "ar": "فلوغات وتحديات",
+        "hi": "व्लॉग और चैलेंज",
+        "zh": "Vlog与挑战",
+        "ja": "Vlogとチャレンジ"
+      },
+      "about": {
+        "es": "Youtuber chileno de Talca activo desde 2017, conocido por sus vlogs, desafíos de 24 horas y videos de comida en los que compara y prueba productos junto a su esposa, también creadora de contenido.",
+        "en": "A Chilean YouTuber from Talca active since 2017, known for his vlogs, 24-hour challenges and food videos in which he compares and tastes products alongside his wife, who is also a content creator.",
+        "pt": "Youtuber chileno de Talca ativo desde 2017, conhecido por seus vlogs, desafios de 24 horas e vídeos de comida nos quais compara e testa produtos ao lado da esposa, também criadora de conteúdo.",
+        "fr": "Youtubeur chilien de Talca actif depuis 2017, connu pour ses vlogs, ses défis de 24 heures et ses vidéos culinaires dans lesquelles il compare et teste des produits aux côtés de son épouse, elle aussi créatrice de contenu.",
+        "de": "Ein chilenischer YouTuber aus Talca, aktiv seit 2017, bekannt für seine Vlogs, 24-Stunden-Challenges und Food-Videos, in denen er zusammen mit seiner ebenfalls als Creatorin tätigen Frau Produkte vergleicht und testet.",
+        "ru": "Чилийский ютубер из Талька, активный с 2017 года, известен своими влогами, 24-часовыми челленджами и видео о еде, в которых он сравнивает и пробует продукты вместе со своей женой, тоже блогером.",
+        "ar": "يوتيوبر تشيلي من مدينة تالكا نشط منذ عام 2017، اشتهر بمقاطع الفلوغ وتحديات الـ24 ساعة ومقاطع الطعام التي يقارن فيها المنتجات ويتذوقها برفقة زوجته التي تعمل أيضًا في صناعة المحتوى.",
+        "hi": "तालका के चिली यूट्यूबर, जो 2017 से सक्रिय हैं, अपने व्लॉग, 24-घंटे के चैलेंज और खाने से जुड़े वीडियो के लिए जाने जाते हैं, जिनमें वे अपनी पत्नी—जो खुद भी कंटेंट क्रिएटर हैं—के साथ उत्पादों की तुलना और स्वाद परीक्षण करते हैं।",
+        "zh": "这位来自塔尔卡的智利油管博主自2017年起活跃,以其Vlog、24小时挑战以及与同为内容创作者的妻子一起比较和试吃产品的美食视频而闻名。",
+        "ja": "2017年から活動するタルカ出身のチリ人ユーチューバーで、Vlogや24時間チャレンジ、同じくクリエイターである妻と共に商品を比較・試食するグルメ動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCsWHNWy_IVdlW0dx9hFTKeA",
+        "tiktok": "leobascunan",
+        "instagram": "leobascunan",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 605000
+        }
+      }
+    },
+    {
+      "id": "dylantero-sin-imaginacion",
+      "name": "Dylantero Sin Imaginación",
+      "country": "CL",
+      "topic": {
+        "es": "Reacciones y humor",
+        "en": "Reactions & comedy",
+        "pt": "Reações e humor",
+        "fr": "Réactions et humour",
+        "de": "Reactions & Humor",
+        "ru": "Реакции и юмор",
+        "ar": "ردود أفعال وفكاهة",
+        "hi": "रिएक्शन और कॉमेडी",
+        "zh": "反应视频与幽默",
+        "ja": "リアクション&コメディ"
+      },
+      "about": {
+        "es": "Youtuber chileno de Santiago, cuyo canal nació en 2013 y hoy se dedica a videos de reacciones y humor sobre memes, videojuegos y cine, y que en 2021 protagonizó una colaboración con Netflix por el estreno de la serie Lupin.",
+        "en": "A Chilean YouTuber from Santiago whose channel started in 2013 and now focuses on reaction and comedy videos about memes, video games and movies, and who took part in a 2021 collaboration with Netflix for the release of the series Lupin.",
+        "pt": "Youtuber chileno de Santiago cujo canal nasceu em 2013 e hoje se dedica a vídeos de reações e humor sobre memes, videogames e cinema, e que em 2021 participou de uma colaboração com a Netflix pelo lançamento da série Lupin.",
+        "fr": "Youtubeur chilien de Santiago dont la chaîne est née en 2013 et qui se consacre aujourd'hui à des vidéos de réactions et d'humour sur les mèmes, les jeux vidéo et le cinéma, et qui a participé en 2021 à une collaboration avec Netflix pour la sortie de la série Lupin.",
+        "de": "Ein chilenischer YouTuber aus Santiago, dessen Kanal 2013 entstand und der sich heute auf Reaction- und Comedy-Videos über Memes, Videospiele und Filme konzentriert; 2021 war er an einer Kooperation mit Netflix zum Start der Serie Lupin beteiligt.",
+        "ru": "Чилийский ютубер из Сантьяго, чей канал появился в 2013 году и сегодня сосредоточен на видео-реакциях и юморе о мемах, видеоиграх и кино; в 2021 году принял участие в коллаборации с Netflix по случаю премьеры сериала «Люпен».",
+        "ar": "يوتيوبر تشيلي من سانتياغو أُنشئت قناته عام 2013 ويركز اليوم على مقاطع ردود الأفعال والفكاهة حول الميمات وألعاب الفيديو والأفلام، وشارك عام 2021 في تعاون مع نتفليكس بمناسبة إطلاق مسلسل Lupin.",
+        "hi": "सैंटियागो के चिली यूट्यूबर, जिनका चैनल 2013 में शुरू हुआ और आज मीम्स, वीडियो गेम्स और फिल्मों पर रिएक्शन और कॉमेडी वीडियो पर केंद्रित है, उन्होंने 2021 में सीरीज़ Lupin की रिलीज़ के लिए Netflix के साथ एक सहयोग में भाग लिया।",
+        "zh": "这位来自圣地亚哥的智利油管博主频道创立于2013年,如今主要制作关于表情包、电子游戏和电影的反应及搞笑视频,并曾于2021年参与Netflix为剧集《Lupin》上线举办的合作活动。",
+        "ja": "2013年に開設されたサンティアゴ出身のチリ人ユーチューバーのチャンネルで、現在はミームやゲーム、映画に関するリアクション・コメディ動画を中心に発信しており、2021年にはNetflixドラマ『ルパン』の公開に合わせたコラボにも参加した。"
+      },
+      "handles": {
+        "youtube": "UCK1W7jhV8g0JuAJbaZYyehA",
+        "tiktok": null,
+        "instagram": "dylantero",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2320000
+        }
+      }
+    },
+    {
+      "id": "andrei-sokolov",
+      "name": "Andrei Sokolov",
+      "country": "CL",
+      "topic": {
+        "es": "Crónica urbana",
+        "en": "Urban chronicle",
+        "pt": "Crônica urbana",
+        "fr": "Chronique urbaine",
+        "de": "Stadtchronik",
+        "ru": "Городская хроника",
+        "ar": "سرد حضري",
+        "hi": "शहरी वृत्तांत",
+        "zh": "城市纪事",
+        "ja": "都市クロニクル"
+      },
+      "about": {
+        "es": "Periodista de origen ruso radicado en Santiago desde 2016, creador del canal Enciclopedia de Santiago sobre la historia, arquitectura y cultura urbana de la capital chilena, y autor del libro homónimo publicado por Planeta en 2026.",
+        "en": "A journalist of Russian origin based in Santiago since 2016, creator of the channel Enciclopedia de Santiago about the history, architecture and urban culture of the Chilean capital, and author of the same-titled book published by Planeta in 2026.",
+        "pt": "Jornalista de origem russa radicado em Santiago desde 2016, criador do canal Enciclopedia de Santiago sobre a história, arquitetura e cultura urbana da capital chilena, e autor do livro homônimo publicado pela Planeta em 2026.",
+        "fr": "Journaliste d'origine russe installé à Santiago depuis 2016, créateur de la chaîne Enciclopedia de Santiago consacrée à l'histoire, à l'architecture et à la culture urbaine de la capitale chilienne, et auteur du livre du même nom publié par Planeta en 2026.",
+        "de": "Ein Journalist russischer Herkunft, der seit 2016 in Santiago lebt und den Kanal Enciclopedia de Santiago über Geschichte, Architektur und Stadtkultur der chilenischen Hauptstadt betreibt sowie Autor des gleichnamigen, 2026 bei Planeta erschienenen Buches ist.",
+        "ru": "Журналист российского происхождения, живущий в Сантьяго с 2016 года, создатель канала Enciclopedia de Santiago об истории, архитектуре и городской культуре столицы Чили, автор одноимённой книги, изданной Planeta в 2026 году.",
+        "ar": "صحفي من أصل روسي مقيم في سانتياغو منذ عام 2016، صاحب قناة Enciclopedia de Santiago المخصصة لتاريخ العاصمة التشيلية وعمارتها وثقافتها الحضرية، ومؤلف الكتاب الذي يحمل الاسم نفسه والصادر عن دار Planeta عام 2026.",
+        "hi": "रूसी मूल के पत्रकार, जो 2016 से सैंटियागो में रह रहे हैं, चिली की राजधानी के इतिहास, वास्तुकला और शहरी संस्कृति पर आधारित चैनल Enciclopedia de Santiago के निर्माता हैं, और 2026 में Planeta द्वारा प्रकाशित इसी नाम की पुस्तक के लेखक भी हैं।",
+        "zh": "这位俄罗斯裔记者自2016年起定居圣地亚哥,创办了介绍智利首都历史、建筑与城市文化的频道Enciclopedia de Santiago,并著有Planeta出版社于2026年出版的同名书籍。",
+        "ja": "2016年からサンティアゴに住むロシア出身のジャーナリストで、チリの首都の歴史・建築・都市文化を扱うチャンネル「エンシクロペディア・デ・サンティアゴ」を運営し、2026年にPlaneta社から同名の書籍を出版した。"
+      },
+      "handles": {
+        "youtube": "UC_IcoElUAunUvBiQpIwpQvg",
+        "tiktok": null,
+        "instagram": "sokolovcl",
+        "facebook": null,
+        "linkedin": "andreosokolov",
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 216000
+        }
+      }
+    },
+    {
+      "id": "claux-7",
+      "name": "Claux.7",
+      "country": "CL",
+      "topic": {
+        "es": "Historia y misterio",
+        "en": "History & mystery",
+        "pt": "História e mistério",
+        "fr": "Histoire et mystère",
+        "de": "Geschichte & Mysterien",
+        "ru": "История и тайны",
+        "ar": "تاريخ وغموض",
+        "hi": "इतिहास और रहस्य",
+        "zh": "历史与神秘",
+        "ja": "歴史とミステリー"
+      },
+      "about": {
+        "es": "Youtuber chileno nacido en Viña del Mar, llamado Claudio Retamales, que desde 2017 recorre distintos lugares de Chile narrando su historia, leyendas y sucesos paranormales, y que en 2026 debutó como conductor de un programa cultural en Canal 13.",
+        "en": "A Chilean YouTuber born in Viña del Mar, named Claudio Retamales, who since 2017 has traveled across Chile recounting local history, legends and paranormal stories, and who in 2026 made his debut hosting a cultural program on Canal 13.",
+        "pt": "Youtuber chileno nascido em Viña del Mar, chamado Claudio Retamales, que desde 2017 percorre diferentes lugares do Chile narrando sua história, lendas e histórias paranormais, e que em 2026 estreou como apresentador de um programa cultural no Canal 13.",
+        "fr": "Youtubeur chilien né à Viña del Mar, nommé Claudio Retamales, qui parcourt le Chili depuis 2017 en racontant son histoire, ses légendes et des récits paranormaux, et qui a fait ses débuts en 2026 comme animateur d'une émission culturelle sur Canal 13.",
+        "de": "Ein chilenischer YouTuber aus Viña del Mar namens Claudio Retamales, der seit 2017 durch Chile reist und über die Geschichte, Legenden und paranormale Geschichten verschiedener Orte berichtet, und 2026 als Moderator einer Kultursendung bei Canal 13 debütierte.",
+        "ru": "Чилийский ютубер, уроженец Винья-дель-Мар по имени Клаудио Ретамалес, который с 2017 года путешествует по Чили, рассказывая об истории, легендах и паранормальных случаях разных мест, а в 2026 году дебютировал как ведущий культурной программы на канале Canal 13.",
+        "ar": "يوتيوبر تشيلي وُلد في فينيا ديل مار يُدعى كلاوديو ريتاماليس، يجوب منذ عام 2017 أنحاء تشيلي راويًا تاريخها وأساطيرها وحوادثها الخارقة، وقدّم عام 2026 برنامجًا ثقافيًا على قناة Canal 13.",
+        "hi": "विन्या डेल मार में जन्मे चिली यूट्यूबर, क्लॉडियो रेतामालेस, जो 2017 से चिली के विभिन्न स्थानों की यात्रा करते हुए वहां के इतिहास, लोककथाओं और अलौकिक घटनाओं के बारे में बताते हैं, और 2026 में Canal 13 पर एक सांस्कृतिक कार्यक्रम की मेज़बानी करते हुए पदार्पण किया।",
+        "zh": "这位出生于比尼亚德尔马的智利油管博主克劳迪奥·雷塔马莱斯自2017年起走访智利各地,讲述当地历史、传说和灵异事件,并于2026年首次主持Canal 13电视台的一档文化节目。",
+        "ja": "ビニャ・デル・マール出身のチリ人ユーチューバー、クラウディオ・レタマレス氏は2017年からチリ各地を巡り、その土地の歴史や伝説、怪奇現象を紹介しており、2026年にはCanal 13の文化番組の司会としてテレビデビューを果たした。"
+      },
+      "handles": {
+        "youtube": "UCEgBVAcaLgqyBYPSeiJNcTw",
+        "tiktok": "claux.7",
+        "instagram": "claux.7",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 838000
+        }
+      }
     }
   ]
 }

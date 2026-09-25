@@ -19,15 +19,71 @@ export interface DiscoveryQuery {
   topicQuery: string;
 }
 
-// Un punto de partida razonable, uno por país base + un par de temas amplios.
-// Se puede ampliar libremente: cada búsqueda cuesta 100 unidades de cuota de
-// YouTube, así que conviene mantener la lista corta y rotarla en vez de crecerla
-// sin límite.
+// Ampliado a ~46 países grandes (mayor población/uso de redes) a pedido del
+// usuario: "la idea del ranking mundial es que estén todos los países con sus 10
+// influencers más influyentes". Se arranca por los países grandes en vez de los
+// ~195 reconocidos por la ONU (decisión explícita del usuario, no todos valen el
+// esfuerzo de investigación/contenido en países con pocos creadores masivos).
+// Cada búsqueda cuesta 100 unidades de cuota de YouTube (~4600 acá), dentro del
+// límite diario de 10.000 con margen para las actualizaciones normales de canal.
 export const DISCOVERY_QUERIES: DiscoveryQuery[] = [
+  // Hispanohablantes
   { countryCode: "MX", topicQuery: "influencer mexicano" },
   { countryCode: "ES", topicQuery: "creador de contenido español" },
   { countryCode: "AR", topicQuery: "influencer argentino" },
   { countryCode: "CO", topicQuery: "influencer colombiano" },
+  { countryCode: "CL", topicQuery: "influencer chileno" },
+  { countryCode: "PE", topicQuery: "influencer peruano" },
+  { countryCode: "VE", topicQuery: "influencer venezolano" },
+  { countryCode: "EC", topicQuery: "influencer ecuatoriano" },
+  { countryCode: "GT", topicQuery: "influencer guatemalteco" },
+  { countryCode: "BO", topicQuery: "influencer boliviano" },
+  { countryCode: "DO", topicQuery: "influencer dominicano" },
+  { countryCode: "HN", topicQuery: "influencer hondureño" },
+  { countryCode: "PY", topicQuery: "influencer paraguayo" },
+  { countryCode: "CR", topicQuery: "influencer costarricense" },
+  { countryCode: "UY", topicQuery: "influencer uruguayo" },
+  // Portugués
+  { countryCode: "BR", topicQuery: "influenciador brasileiro" },
+  { countryCode: "PT", topicQuery: "influenciador português" },
+  // Inglés
+  { countryCode: "US", topicQuery: "American influencer" },
+  { countryCode: "GB", topicQuery: "British influencer" },
+  { countryCode: "IN", topicQuery: "Indian influencer" },
+  { countryCode: "CA", topicQuery: "Canadian influencer" },
+  { countryCode: "AU", topicQuery: "Australian influencer" },
+  { countryCode: "NG", topicQuery: "Nigerian influencer" },
+  { countryCode: "ZA", topicQuery: "South African influencer" },
+  { countryCode: "PH", topicQuery: "Filipino influencer" },
+  { countryCode: "PK", topicQuery: "Pakistani influencer" },
+  { countryCode: "MY", topicQuery: "Malaysian influencer" },
+  { countryCode: "BD", topicQuery: "Bangladeshi influencer" },
+  // Francés
+  { countryCode: "FR", topicQuery: "influenceur français" },
+  { countryCode: "BE", topicQuery: "influenceur belge" },
+  { countryCode: "MA", topicQuery: "influenceur marocain" },
+  { countryCode: "DZ", topicQuery: "influenceur algérien" },
+  // Alemán
+  { countryCode: "DE", topicQuery: "deutscher Influencer" },
+  { countryCode: "AT", topicQuery: "österreichischer Influencer" },
+  { countryCode: "CH", topicQuery: "Schweizer Influencer" },
+  // Italiano
+  { countryCode: "IT", topicQuery: "influencer italiano" },
+  // Otros idiomas/mercados grandes
+  { countryCode: "RU", topicQuery: "русский блогер" },
+  { countryCode: "TR", topicQuery: "Türk influencer" },
+  { countryCode: "ID", topicQuery: "influencer Indonesia" },
+  { countryCode: "VN", topicQuery: "influencer Việt Nam" },
+  { countryCode: "TH", topicQuery: "อินฟลูเอนเซอร์ไทย" },
+  { countryCode: "KR", topicQuery: "한국 인플루언서" },
+  { countryCode: "JP", topicQuery: "日本のインフルエンサー" },
+  { countryCode: "PL", topicQuery: "polski influencer" },
+  { countryCode: "UA", topicQuery: "український блогер" },
+  { countryCode: "NL", topicQuery: "Nederlandse influencer" },
+  { countryCode: "SE", topicQuery: "svensk influencer" },
+  { countryCode: "SA", topicQuery: "مؤثر سعودي" },
+  { countryCode: "AE", topicQuery: "مؤثر إماراتي" },
+  { countryCode: "EG", topicQuery: "مؤثر مصري" },
 ];
 
 const SOCIAL_URL_PATTERNS: Record<keyof InfluencerHandles, RegExp> = {

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T11:22:10.854Z",
+  "generatedAt": "2026-09-25T20:33:33.930Z",
   "medians": {
-    "youtube": 3.844962046599877,
+    "youtube": 3.9055557576208613,
     "tiktok": null,
     "instagram": null,
     "linkedin": null,
@@ -15,8 +15,8 @@
       "rankPrev": 1,
       "countryRank": 1,
       "countryRankPrev": 1,
-      "total": 6661.644412185434,
-      "networkPoints": 6661.644412185434,
+      "total": 6609.733859019093,
+      "networkPoints": 6609.733859019093,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -24,11 +24,11 @@
         "youtube": {
           "followers": 29100000,
           "followers30": null,
-          "er": 9.87475000790264,
-          "points": 6661.644412185434,
+          "er": 9.87465535201582,
+          "points": 6609.733859019093,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:17.266Z",
+          "fetchedAt": "2026-09-25T20:33:39.495Z",
           "url": "https://www.youtube.com/channel/UCyQqzYXQBUWgBTn4pw_fFSQ"
         },
         "tiktok": {
@@ -59,8 +59,8 @@
       "rankPrev": 2,
       "countryRank": 2,
       "countryRankPrev": 2,
-      "total": 6148.020781160504,
-      "networkPoints": 6148.020781160504,
+      "total": 6100.006336532764,
+      "networkPoints": 6100.006336532764,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -68,11 +68,11 @@
         "youtube": {
           "followers": 41000000,
           "followers30": null,
-          "er": 7.731981321897713,
-          "points": 6148.020781160504,
+          "er": 7.731637788809866,
+          "points": 6100.006336532764,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:17.696Z",
+          "fetchedAt": "2026-09-25T20:33:39.925Z",
           "url": "https://www.youtube.com/channel/UCXazgXDIYyWH-yXLAkcrFxw"
         },
         "instagram": {
@@ -93,8 +93,8 @@
       "rankPrev": 3,
       "countryRank": 1,
       "countryRankPrev": 1,
-      "total": 4689.4914883658985,
-      "networkPoints": 4689.4914883658985,
+      "total": 4652.934311941658,
+      "networkPoints": 4652.934311941658,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -102,11 +102,11 @@
         "youtube": {
           "followers": 47600000,
           "followers30": null,
-          "er": 4.341390974058345,
-          "points": 4689.4914883658985,
+          "er": 4.341322239787776,
+          "points": 4652.934311941658,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:15.852Z",
+          "fetchedAt": "2026-09-25T20:33:37.946Z",
           "url": "https://www.youtube.com/channel/UCQZfFRohQ7UX-0CdXl-6pwQ"
         },
         "tiktok": {
@@ -137,8 +137,8 @@
       "rankPrev": 4,
       "countryRank": 2,
       "countryRankPrev": 2,
-      "total": 4621.6725358851945,
-      "networkPoints": 4621.6725358851945,
+      "total": 4592.190667754779,
+      "networkPoints": 4592.190667754779,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -146,11 +146,11 @@
         "youtube": {
           "followers": 13600000,
           "followers30": null,
-          "er": 5.80723290052219,
-          "points": 4621.6725358851945,
+          "er": 5.8237337399861095,
+          "points": 4592.190667754779,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:16.808Z",
+          "fetchedAt": "2026-09-25T20:33:38.898Z",
           "url": "https://www.youtube.com/channel/UC83J3suUsNnOacIkqOyKvhw"
         },
         "tiktok": {
@@ -181,8 +181,8 @@
       "rankPrev": 5,
       "countryRank": 3,
       "countryRankPrev": 3,
-      "total": 4387.069091324978,
-      "networkPoints": 4387.069091324978,
+      "total": 4350.626897148929,
+      "networkPoints": 4350.626897148929,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -190,11 +190,11 @@
         "youtube": {
           "followers": 17300000,
           "followers30": null,
-          "er": 4.900553560252112,
-          "points": 4387.069091324978,
+          "er": 4.895427893126973,
+          "points": 4350.626897148929,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:18.054Z",
+          "fetchedAt": "2026-09-25T20:33:40.290Z",
           "url": "https://www.youtube.com/channel/UCaY_-ksFSQtTGk0y1HA_3YQ"
         },
         "tiktok": {
@@ -225,8 +225,8 @@
       "rankPrev": 6,
       "countryRank": 1,
       "countryRankPrev": 1,
-      "total": 4298.61244522609,
-      "networkPoints": 4298.61244522609,
+      "total": 4266.027738520528,
+      "networkPoints": 4266.027738520528,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -234,11 +234,11 @@
         "youtube": {
           "followers": 38200000,
           "followers30": null,
-          "er": 3.844962046599877,
-          "points": 4298.61244522609,
+          "er": 3.846569723540336,
+          "points": 4266.027738520528,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:22.764Z",
+          "fetchedAt": "2026-09-25T20:33:44.602Z",
           "url": "https://www.youtube.com/channel/UCmzDf_a7CCFuxos7hspcWRQ"
         },
         "tiktok": {
@@ -266,11 +266,11 @@
     {
       "id": "doris-jocelyn",
       "rank": 7,
-      "rankPrev": 8,
+      "rankPrev": 7,
       "countryRank": 3,
-      "countryRankPrev": 4,
-      "total": 4273.346827119223,
-      "networkPoints": 4273.346827119223,
+      "countryRankPrev": 3,
+      "total": 4240.1081584823,
+      "networkPoints": 4240.1081584823,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -278,11 +278,11 @@
         "youtube": {
           "followers": 6950000,
           "followers30": null,
-          "er": 6.034364255036631,
-          "points": 4273.346827119223,
+          "er": 6.034480572152657,
+          "points": 4240.1081584823,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:13.621Z",
+          "fetchedAt": "2026-09-25T20:33:36.161Z",
           "url": "https://www.youtube.com/channel/UCnjgWTq5LDyW9XLvdR0B_fQ"
         },
         "tiktok": {
@@ -310,23 +310,23 @@
     {
       "id": "federico-vigevani",
       "rank": 8,
-      "rankPrev": 7,
+      "rankPrev": 8,
       "countryRank": 4,
-      "countryRankPrev": 3,
-      "total": 4252.63193314039,
-      "networkPoints": 4252.63193314039,
+      "countryRankPrev": 4,
+      "total": 4217.610163424054,
+      "networkPoints": 4217.610163424054,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
       "platforms": {
         "youtube": {
-          "followers": 78900000,
+          "followers": 79000000,
           "followers30": null,
-          "er": 3.17947134583693,
-          "points": 4252.63193314039,
+          "er": 3.1757068063325637,
+          "points": 4217.610163424054,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:11.222Z",
+          "fetchedAt": "2026-09-25T20:33:34.929Z",
           "url": "https://www.youtube.com/channel/UCoQm-PeHC-cbJclKJYJ8LzA"
         },
         "tiktok": {
@@ -357,8 +357,8 @@
       "rankPrev": 9,
       "countryRank": 5,
       "countryRankPrev": 5,
-      "total": 3996.4726312854896,
-      "networkPoints": 3996.4726312854896,
+      "total": 3989.535040392485,
+      "networkPoints": 3989.535040392485,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -366,11 +366,11 @@
         "youtube": {
           "followers": 14100000,
           "followers30": null,
-          "er": 4.2992487746015,
-          "points": 3996.4726312854896,
+          "er": 4.351853256867183,
+          "points": 3989.535040392485,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:14.316Z",
+          "fetchedAt": "2026-09-25T20:33:36.514Z",
           "url": "https://www.youtube.com/channel/UCw3YLK90aapOicjIHDOnj6Q"
         },
         "tiktok": {
@@ -401,8 +401,8 @@
       "rankPrev": 10,
       "countryRank": 1,
       "countryRankPrev": 1,
-      "total": 3993.4627635216366,
-      "networkPoints": 3993.4627635216366,
+      "total": 3962.3568671025982,
+      "networkPoints": 3962.3568671025982,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -410,11 +410,11 @@
         "youtube": {
           "followers": 1890000,
           "followers30": null,
-          "er": 8.200382455638405,
-          "points": 3993.4627635216366,
+          "er": 8.200357558022942,
+          "points": 3962.3568671025982,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:24.956Z",
+          "fetchedAt": "2026-09-25T20:33:46.570Z",
           "url": "https://www.youtube.com/channel/UCpZyE9ZHxTxIYrDTbfBGHZQ"
         },
         "tiktok": {
@@ -445,8 +445,8 @@
       "rankPrev": 11,
       "countryRank": 4,
       "countryRankPrev": 4,
-      "total": 3982.1269104618996,
-      "networkPoints": 3982.1269104618996,
+      "total": 3882.7365657616087,
+      "networkPoints": 3882.7365657616087,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -454,11 +454,11 @@
         "youtube": {
           "followers": 6480000,
           "followers30": null,
-          "er": 5.353694016065636,
-          "points": 3982.1269104618996,
+          "er": 5.169993401196979,
+          "points": 3882.7365657616087,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:19.164Z",
+          "fetchedAt": "2026-09-25T20:33:40.646Z",
           "url": "https://www.youtube.com/channel/UCjzJBLLJOtnxGeVl1hc4r_Q"
         },
         "tiktok": {
@@ -486,11 +486,11 @@
     {
       "id": "ricky-limon",
       "rank": 12,
-      "rankPrev": 15,
+      "rankPrev": 12,
       "countryRank": 6,
-      "countryRankPrev": 7,
-      "total": 3877.077886722012,
-      "networkPoints": 3877.077886722012,
+      "countryRankPrev": 6,
+      "total": 3853.3145481146735,
+      "networkPoints": 3853.3145481146735,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -498,11 +498,11 @@
         "youtube": {
           "followers": 49800000,
           "followers30": null,
-          "er": 2.936062856015956,
-          "points": 3877.077886722012,
+          "er": 2.9458864780248994,
+          "points": 3853.3145481146735,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:16.272Z",
+          "fetchedAt": "2026-09-25T20:33:38.575Z",
           "url": "https://www.youtube.com/channel/UCaK9J_lZbUjVixFHuP4vYag"
         },
         "tiktok": {
@@ -530,11 +530,11 @@
     {
       "id": "calle-y-poche",
       "rank": 13,
-      "rankPrev": 12,
+      "rankPrev": 13,
       "countryRank": 2,
       "countryRankPrev": 2,
-      "total": 3858.6936360005147,
-      "networkPoints": 3858.6936360005147,
+      "total": 3826.363958569068,
+      "networkPoints": 3826.363958569068,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -542,11 +542,11 @@
         "youtube": {
           "followers": 7270000,
           "followers30": null,
-          "er": 4.853231776555419,
-          "points": 3858.6936360005147,
+          "er": 4.847454868593747,
+          "points": 3826.363958569068,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:28.817Z",
+          "fetchedAt": "2026-09-25T20:33:51.604Z",
           "url": "https://www.youtube.com/channel/UC-BZEmUUUIXmD1CgkWACVyQ"
         },
         "tiktok": {
@@ -574,11 +574,11 @@
     {
       "id": "nicki-nicole",
       "rank": 14,
-      "rankPrev": 13,
+      "rankPrev": 14,
       "countryRank": 2,
       "countryRankPrev": 2,
-      "total": 3819.2621601630044,
-      "networkPoints": 3819.2621601630044,
+      "total": 3789.1072344223776,
+      "networkPoints": 3789.1072344223776,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "instagram",
@@ -586,11 +586,11 @@
         "youtube": {
           "followers": 5580000,
           "followers30": null,
-          "er": 5.159896428730707,
-          "points": 3819.2621601630044,
+          "er": 5.158775421341818,
+          "points": 3789.1072344223776,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:23.105Z",
+          "fetchedAt": "2026-09-25T20:33:44.998Z",
           "url": "https://www.youtube.com/channel/UCEMoAW9Qk0HrZqLxV5BFhDw"
         },
         "tiktok": {
@@ -618,11 +618,11 @@
     {
       "id": "domelipa",
       "rank": 15,
-      "rankPrev": 16,
+      "rankPrev": 15,
       "countryRank": 7,
-      "countryRankPrev": 8,
-      "total": 3803.526291367057,
-      "networkPoints": 3803.526291367057,
+      "countryRankPrev": 7,
+      "total": 3773.490497899288,
+      "networkPoints": 3773.490497899288,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -630,11 +630,11 @@
         "youtube": {
           "followers": 7270000,
           "followers30": null,
-          "er": 4.715451475681509,
-          "points": 3803.526291367057,
+          "er": 4.714414257201702,
+          "points": 3773.490497899288,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:15.496Z",
+          "fetchedAt": "2026-09-25T20:33:37.574Z",
           "url": "https://www.youtube.com/channel/UC6x71GcLpFRJC15pWnq12NQ"
         },
         "tiktok": {
@@ -662,11 +662,11 @@
     {
       "id": "alexis-omman",
       "rank": 16,
-      "rankPrev": 14,
+      "rankPrev": 16,
       "countryRank": 8,
-      "countryRankPrev": 6,
-      "total": 3792.5292214911274,
-      "networkPoints": 3792.5292214911274,
+      "countryRankPrev": 8,
+      "total": 3765.2366202804587,
+      "networkPoints": 3765.2366202804587,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -674,11 +674,11 @@
         "youtube": {
           "followers": 15000000,
           "followers30": null,
-          "er": 3.8064693891835084,
-          "points": 3792.5292214911274,
+          "er": 3.8110074977760413,
+          "points": 3765.2366202804587,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:13.258Z",
+          "fetchedAt": "2026-09-25T20:33:35.647Z",
           "url": "https://www.youtube.com/channel/UCC8DLho9GFOr-VNVLAe9-Bg"
         },
         "tiktok": {
@@ -706,11 +706,11 @@
     {
       "id": "maria-becerra",
       "rank": 17,
-      "rankPrev": 18,
+      "rankPrev": 17,
       "countryRank": 3,
-      "countryRankPrev": 4,
-      "total": 3701.939665091594,
-      "networkPoints": 3701.939665091594,
+      "countryRankPrev": 3,
+      "total": 3672.683942079256,
+      "networkPoints": 3672.683942079256,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "instagram",
@@ -718,11 +718,11 @@
         "youtube": {
           "followers": 6220000,
           "followers30": null,
-          "er": 4.68579975299081,
-          "points": 3701.939665091594,
+          "er": 4.684712570709757,
+          "points": 3672.683942079256,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:23.441Z",
+          "fetchedAt": "2026-09-25T20:33:45.345Z",
           "url": "https://www.youtube.com/channel/UCEcb76oxfjpX5eGysQCHvcA"
         },
         "tiktok": {
@@ -748,13 +748,37 @@
       }
     },
     {
-      "id": "alejo-igoa",
+      "id": "dylantero-sin-imaginacion",
       "rank": 18,
-      "rankPrev": 19,
+      "rankPrev": null,
+      "countryRank": 1,
+      "countryRankPrev": null,
+      "total": 3645.5606121074247,
+      "networkPoints": 3645.5606121074247,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 2320000,
+          "followers30": null,
+          "er": 6.431642301512874,
+          "points": 3645.5606121074247,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-09-25T20:33:54.455Z",
+          "url": "https://www.youtube.com/channel/UCK1W7jhV8g0JuAJbaZYyehA"
+        }
+      }
+    },
+    {
+      "id": "alejo-igoa",
+      "rank": 19,
+      "rankPrev": 18,
       "countryRank": 4,
-      "countryRankPrev": 5,
-      "total": 3651.846446222973,
-      "networkPoints": 3651.846446222973,
+      "countryRankPrev": 4,
+      "total": 3625.4829854750233,
+      "networkPoints": 3625.4829854750233,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -762,11 +786,11 @@
         "youtube": {
           "followers": 122000000,
           "followers30": null,
-          "er": 2.132425178703167,
-          "points": 3651.846446222973,
+          "er": 2.1348694068586593,
+          "points": 3625.4829854750233,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:21.706Z",
+          "fetchedAt": "2026-09-25T20:33:43.377Z",
           "url": "https://www.youtube.com/channel/UCZs0WwC0Dn_noiQE2BHSTKg"
         },
         "tiktok": {
@@ -793,12 +817,12 @@
     },
     {
       "id": "cazzu",
-      "rank": 19,
-      "rankPrev": 17,
+      "rank": 20,
+      "rankPrev": 19,
       "countryRank": 5,
-      "countryRankPrev": 3,
-      "total": 3566.4153323312894,
-      "networkPoints": 3566.4153323312894,
+      "countryRankPrev": 5,
+      "total": 3539.928536217936,
+      "networkPoints": 3539.928536217936,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "instagram",
@@ -806,11 +830,11 @@
         "youtube": {
           "followers": 7920000,
           "followers30": null,
-          "er": 4.040314045280718,
-          "points": 3566.4153323312894,
+          "er": 4.043254337935596,
+          "points": 3539.928536217936,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:23.747Z",
+          "fetchedAt": "2026-09-25T20:33:45.677Z",
           "url": "https://www.youtube.com/channel/UCM8F3UFEs95v8nil07Qd80Q"
         },
         "tiktok": {
@@ -837,12 +861,12 @@
     },
     {
       "id": "bizarrap",
-      "rank": 20,
-      "rankPrev": 21,
+      "rank": 21,
+      "rankPrev": 20,
       "countryRank": 6,
       "countryRankPrev": 6,
-      "total": 3526.7940032115507,
-      "networkPoints": 3526.7940032115507,
+      "total": 3499.073074903902,
+      "networkPoints": 3499.073074903902,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -850,11 +874,11 @@
         "youtube": {
           "followers": 23000000,
           "followers30": null,
-          "er": 2.9384335672283246,
-          "points": 3526.7940032115507,
+          "er": 2.938004787585522,
+          "points": 3499.073074903902,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:22.187Z",
+          "fetchedAt": "2026-09-25T20:33:44.013Z",
           "url": "https://www.youtube.com/channel/UCmS75G-98QihSusY7NfCZtw"
         },
         "tiktok": {
@@ -881,12 +905,12 @@
     },
     {
       "id": "lulu99",
-      "rank": 21,
-      "rankPrev": 20,
+      "rank": 22,
+      "rankPrev": 21,
       "countryRank": 3,
       "countryRankPrev": 3,
-      "total": 3519.536792707981,
-      "networkPoints": 3519.536792707981,
+      "total": 3492.284030942086,
+      "networkPoints": 3492.284030942086,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -894,11 +918,11 @@
         "youtube": {
           "followers": 13300000,
           "followers30": null,
-          "er": 3.388668060668906,
-          "points": 3519.536792707981,
+          "er": 3.388971459052373,
+          "points": 3492.284030942086,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:28.021Z",
+          "fetchedAt": "2026-09-25T20:33:50.678Z",
           "url": "https://www.youtube.com/channel/UCCyCcRlr_NRDP-JFAhBxq1g"
         },
         "tiktok": {
@@ -925,12 +949,12 @@
     },
     {
       "id": "ami-rodriguez",
-      "rank": 22,
+      "rank": 23,
       "rankPrev": 22,
       "countryRank": 4,
       "countryRankPrev": 4,
-      "total": 3482.208974220338,
-      "networkPoints": 3482.208974220338,
+      "total": 3455.843502941692,
+      "networkPoints": 3455.843502941692,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -938,11 +962,11 @@
         "youtube": {
           "followers": 32300000,
           "followers30": null,
-          "er": 2.6289909178545714,
-          "points": 3482.208974220338,
+          "er": 2.630136841719232,
+          "points": 3455.843502941692,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:26.604Z",
+          "fetchedAt": "2026-09-25T20:33:49.016Z",
           "url": "https://www.youtube.com/channel/UCwohKbRK2QnojtLh3p7xwaA"
         },
         "tiktok": {
@@ -969,12 +993,12 @@
     },
     {
       "id": "la-granja-del-borrego",
-      "rank": 23,
+      "rank": 24,
       "rankPrev": 23,
       "countryRank": 5,
       "countryRankPrev": 5,
-      "total": 3155.712419504707,
-      "networkPoints": 3155.712419504707,
+      "total": 3134.270483887247,
+      "networkPoints": 3134.270483887247,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -982,11 +1006,11 @@
         "youtube": {
           "followers": 30000000,
           "followers30": null,
-          "er": 2.1991182167438796,
-          "points": 3155.712419504707,
+          "er": 2.2035223958739723,
+          "points": 3134.270483887247,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:25.400Z",
+          "fetchedAt": "2026-09-25T20:33:47.021Z",
           "url": "https://www.youtube.com/channel/UCSvaaQGkoOmISS54UCITg4w"
         },
         "tiktok": {
@@ -1013,12 +1037,12 @@
     },
     {
       "id": "anna-teres",
-      "rank": 24,
+      "rank": 25,
       "rankPrev": 24,
       "countryRank": 5,
       "countryRankPrev": 5,
-      "total": 3057.2600089529046,
-      "networkPoints": 3057.2600089529046,
+      "total": 3084.3580809069535,
+      "networkPoints": 3084.3580809069535,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "facebook",
@@ -1026,11 +1050,11 @@
         "youtube": {
           "followers": 5360000,
           "followers30": null,
-          "er": 3.3487074123985123,
-          "points": 3057.2600089529046,
+          "er": 3.46204590204703,
+          "points": 3084.3580809069535,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:20.037Z",
+          "fetchedAt": "2026-09-25T20:33:41.584Z",
           "url": "https://www.youtube.com/channel/UCVf-uzV0XR-3DLtRs1sg6Og"
         },
         "tiktok": {
@@ -1066,57 +1090,13 @@
       }
     },
     {
-      "id": "la-segura",
-      "rank": 25,
-      "rankPrev": 25,
-      "countryRank": 6,
-      "countryRankPrev": 6,
-      "total": 3022.4553477536724,
-      "networkPoints": 3022.4553477536724,
-      "publicPoints": 0,
-      "votes30": 0,
-      "mainPlatform": "instagram",
-      "platforms": {
-        "youtube": {
-          "followers": 1460000,
-          "followers30": null,
-          "er": 5.1928328444518375,
-          "points": 3022.4553477536724,
-          "stale": false,
-          "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:28.333Z",
-          "url": "https://www.youtube.com/channel/UCWbWPhNRXPA3nlFPEMJvY3g"
-        },
-        "tiktok": {
-          "followers": 9800000,
-          "followers30": null,
-          "er": null,
-          "points": 0,
-          "stale": true,
-          "source": "TreceBits, rankings por país publicados en enero de 2026",
-          "fetchedAt": "2026-01-15T00:00:00Z",
-          "url": null
-        },
-        "instagram": {
-          "followers": 10400000,
-          "followers30": null,
-          "er": null,
-          "points": 0,
-          "stale": true,
-          "source": "TreceBits, rankings por país publicados en enero de 2026",
-          "fetchedAt": "2026-01-15T00:00:00Z",
-          "url": null
-        }
-      }
-    },
-    {
       "id": "carlos-feria",
       "rank": 26,
       "rankPrev": 26,
-      "countryRank": 7,
+      "countryRank": 6,
       "countryRankPrev": 7,
-      "total": 3020.3042332947844,
-      "networkPoints": 3020.3042332947844,
+      "total": 3047.143368591992,
+      "networkPoints": 3047.143368591992,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -1124,11 +1104,11 @@
         "youtube": {
           "followers": 15200000,
           "followers30": null,
-          "er": 2.4054444195056344,
-          "points": 3020.3042332947844,
+          "er": 2.486969765706799,
+          "points": 3047.143368591992,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:27.573Z",
+          "fetchedAt": "2026-09-25T20:33:50.303Z",
           "url": "https://www.youtube.com/channel/UCfSR85gldcGH9a18QhuobGA"
         },
         "tiktok": {
@@ -1154,13 +1134,81 @@
       }
     },
     {
-      "id": "yeferson-cossio",
+      "id": "la-segura",
       "rank": 27,
+      "rankPrev": 25,
+      "countryRank": 7,
+      "countryRankPrev": 6,
+      "total": 2998.9202430596,
+      "networkPoints": 2998.9202430596,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 1460000,
+          "followers30": null,
+          "er": 5.192842763642183,
+          "points": 2998.9202430596,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-09-25T20:33:51.037Z",
+          "url": "https://www.youtube.com/channel/UCWbWPhNRXPA3nlFPEMJvY3g"
+        },
+        "tiktok": {
+          "followers": 9800000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 10400000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "mike-milfort",
+      "rank": 28,
+      "rankPrev": null,
+      "countryRank": 2,
+      "countryRankPrev": null,
+      "total": 2947.8937939210396,
+      "networkPoints": 2947.8937939210396,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 1600000,
+          "followers30": null,
+          "er": 4.839582310791363,
+          "points": 2947.8937939210396,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-09-25T20:33:51.961Z",
+          "url": "https://www.youtube.com/channel/UC2u8OMV5W1KZ8hHzDUUVxFg"
+        }
+      }
+    },
+    {
+      "id": "yeferson-cossio",
+      "rank": 29,
       "rankPrev": 27,
       "countryRank": 8,
       "countryRankPrev": 8,
-      "total": 2944.1929072473986,
-      "networkPoints": 2944.1929072473986,
+      "total": 2918.8279164984706,
+      "networkPoints": 2918.8279164984706,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -1168,11 +1216,11 @@
         "youtube": {
           "followers": 4420000,
           "followers30": null,
-          "er": 3.3048358314054767,
-          "points": 2944.1929072473986,
+          "er": 3.2993252761225036,
+          "points": 2918.8279164984706,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:25.809Z",
+          "fetchedAt": "2026-09-25T20:33:47.406Z",
           "url": "https://www.youtube.com/channel/UCRw8_U43WD_Vyq98tSTeiSQ"
         },
         "tiktok": {
@@ -1198,57 +1246,37 @@
       }
     },
     {
-      "id": "katteyes",
-      "rank": 28,
-      "rankPrev": 28,
-      "countryRank": 9,
-      "countryRankPrev": 9,
-      "total": 2731.5493636805063,
-      "networkPoints": 2731.5493636805063,
+      "id": "claux-7",
+      "rank": 30,
+      "rankPrev": null,
+      "countryRank": 3,
+      "countryRankPrev": null,
+      "total": 2806.763391379714,
+      "networkPoints": 2806.763391379714,
       "publicPoints": 0,
       "votes30": 0,
-      "mainPlatform": "tiktok",
+      "mainPlatform": "youtube",
       "platforms": {
         "youtube": {
-          "followers": 1620000,
+          "followers": 838000,
           "followers30": null,
-          "er": 4.071024938949747,
-          "points": 2731.5493636805063,
+          "er": 5.745655457895183,
+          "points": 2806.763391379714,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:12.932Z",
-          "url": "https://www.youtube.com/channel/UCBVSr9_bpZRxp3-SmEv_tTA"
-        },
-        "tiktok": {
-          "followers": 45300000,
-          "followers30": null,
-          "er": null,
-          "points": 0,
-          "stale": true,
-          "source": "TreceBits, rankings por país publicados en enero de 2026",
-          "fetchedAt": "2026-01-15T00:00:00Z",
-          "url": null
-        },
-        "instagram": {
-          "followers": 13200000,
-          "followers30": null,
-          "er": null,
-          "points": 0,
-          "stale": true,
-          "source": "TreceBits, rankings por país publicados en enero de 2026",
-          "fetchedAt": "2026-01-15T00:00:00Z",
-          "url": null
+          "fetchedAt": "2026-09-25T20:33:55.626Z",
+          "url": "https://www.youtube.com/channel/UCEgBVAcaLgqyBYPSeiJNcTw"
         }
       }
     },
     {
       "id": "luisito-comunica",
-      "rank": 29,
+      "rank": 31,
       "rankPrev": 29,
-      "countryRank": 10,
+      "countryRank": 9,
       "countryRankPrev": 10,
-      "total": 2723.0836214027186,
-      "networkPoints": 2723.0836214027186,
+      "total": 2738.6226164662976,
+      "networkPoints": 2738.6226164662976,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "youtube",
@@ -1256,11 +1284,11 @@
         "youtube": {
           "followers": 46000000,
           "followers30": null,
-          "er": 1.4757497684752312,
-          "points": 2723.0836214027186,
+          "er": 1.5161631382224208,
+          "points": 2738.6226164662976,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:14.597Z",
+          "fetchedAt": "2026-09-25T20:33:36.886Z",
           "url": "https://www.youtube.com/channel/UCECJDeK0MNapZbpaOzxrUPA"
         },
         "tiktok": {
@@ -1286,13 +1314,57 @@
       }
     },
     {
+      "id": "katteyes",
+      "rank": 32,
+      "rankPrev": 28,
+      "countryRank": 10,
+      "countryRankPrev": 9,
+      "total": 2712.7984276877382,
+      "networkPoints": 2712.7984276877382,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "tiktok",
+      "platforms": {
+        "youtube": {
+          "followers": 1630000,
+          "followers30": null,
+          "er": 4.068826532036916,
+          "points": 2712.7984276877382,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-09-25T20:33:35.324Z",
+          "url": "https://www.youtube.com/channel/UCBVSr9_bpZRxp3-SmEv_tTA"
+        },
+        "tiktok": {
+          "followers": 45300000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 13200000,
+          "followers30": null,
+          "er": null,
+          "points": 0,
+          "stale": true,
+          "source": "TreceBits, rankings por país publicados en enero de 2026",
+          "fetchedAt": "2026-01-15T00:00:00Z",
+          "url": null
+        }
+      }
+    },
+    {
       "id": "dulceida",
-      "rank": 30,
+      "rank": 33,
       "rankPrev": 30,
       "countryRank": 6,
       "countryRankPrev": 6,
-      "total": 2689.7732312316953,
-      "networkPoints": 2689.7732312316953,
+      "total": 2668.831151045537,
+      "networkPoints": 2668.831151045537,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "instagram",
@@ -1300,11 +1372,11 @@
         "youtube": {
           "followers": 2090000,
           "followers30": null,
-          "er": 3.5822380377451304,
-          "points": 2689.7732312316953,
+          "er": 3.582251623859296,
+          "points": 2668.831151045537,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:20.365Z",
+          "fetchedAt": "2026-09-25T20:33:41.904Z",
           "url": "https://www.youtube.com/channel/UC3ZSH7SjbSJyQc9d4t9q2ug"
         },
         "tiktok": {
@@ -1331,12 +1403,12 @@
     },
     {
       "id": "luisa-fernanda-w",
-      "rank": 31,
+      "rank": 34,
       "rankPrev": 31,
       "countryRank": 9,
       "countryRankPrev": 9,
-      "total": 2587.7820372788883,
-      "networkPoints": 2587.7820372788883,
+      "total": 2567.3740198147907,
+      "networkPoints": 2567.3740198147907,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "instagram",
@@ -1344,11 +1416,11 @@
         "youtube": {
           "followers": 4460000,
           "followers30": null,
-          "er": 2.5456132003600573,
-          "points": 2587.7820372788883,
+          "er": 2.5451072951986435,
+          "points": 2567.3740198147907,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:26.054Z",
+          "fetchedAt": "2026-09-25T20:33:48.125Z",
           "url": "https://www.youtube.com/channel/UCqFnzlvTOH8rQD3GBAt5AXA"
         },
         "tiktok": {
@@ -1374,13 +1446,37 @@
       }
     },
     {
+      "id": "andrei-sokolov",
+      "rank": 35,
+      "rankPrev": null,
+      "countryRank": 4,
+      "countryRankPrev": null,
+      "total": 2045.3473134119706,
+      "networkPoints": 2045.3473134119706,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 216000,
+          "followers30": null,
+          "er": 6.187961317492924,
+          "points": 2045.3473134119706,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-09-25T20:33:55.032Z",
+          "url": "https://www.youtube.com/channel/UC_IcoElUAunUvBiQpIwpQvg"
+        }
+      }
+    },
+    {
       "id": "augusto-gimenez",
-      "rank": 32,
+      "rank": 36,
       "rankPrev": 32,
       "countryRank": 7,
       "countryRankPrev": 7,
-      "total": 1808.6112140573894,
-      "networkPoints": 1808.6112140573894,
+      "total": 1794.6532050557382,
+      "networkPoints": 1794.6532050557382,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -1388,11 +1484,11 @@
         "youtube": {
           "followers": 303000,
           "followers30": null,
-          "er": 3.90500341570613,
-          "points": 1808.6112140573894,
+          "er": 3.9055557576208613,
+          "points": 1794.6532050557382,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:24.711Z",
+          "fetchedAt": "2026-09-25T20:33:46.255Z",
           "url": "https://www.youtube.com/channel/UCr46VwU4W2vJWGHBMeoRxIg"
         },
         "tiktok": {
@@ -1418,13 +1514,37 @@
       }
     },
     {
+      "id": "leo-bascunan",
+      "rank": 37,
+      "rankPrev": null,
+      "countryRank": 5,
+      "countryRankPrev": null,
+      "total": 1781.6511137139873,
+      "networkPoints": 1781.6511137139873,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 605000,
+          "followers30": null,
+          "er": 2.6903304797529066,
+          "points": 1781.6511137139873,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-09-25T20:33:53.789Z",
+          "url": "https://www.youtube.com/channel/UCsWHNWy_IVdlW0dx9hFTKeA"
+        }
+      }
+    },
+    {
       "id": "andrea-valdiri",
-      "rank": 33,
+      "rank": 38,
       "rankPrev": 33,
       "countryRank": 10,
       "countryRankPrev": 10,
-      "total": 1588.900979857626,
-      "networkPoints": 1588.900979857626,
+      "total": 1576.5051547244216,
+      "networkPoints": 1576.5051547244216,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "instagram",
@@ -1432,11 +1552,11 @@
         "youtube": {
           "followers": 208000,
           "followers30": null,
-          "er": 3.7628309956316417,
-          "points": 1588.900979857626,
+          "er": 3.7627262430401345,
+          "points": 1576.5051547244216,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:26.900Z",
+          "fetchedAt": "2026-09-25T20:33:49.565Z",
           "url": "https://www.youtube.com/channel/UCF4CZxeC52PBbPziKAFb9WA"
         },
         "tiktok": {
@@ -1462,13 +1582,37 @@
       }
     },
     {
+      "id": "analisheet",
+      "rank": 39,
+      "rankPrev": null,
+      "countryRank": 6,
+      "countryRankPrev": null,
+      "total": 1515.7538853577025,
+      "networkPoints": 1515.7538853577025,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 233000,
+          "followers30": null,
+          "er": 3.245622822113681,
+          "points": 1515.7538853577025,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-09-25T20:33:52.754Z",
+          "url": "https://www.youtube.com/channel/UChjXNrFZbyUWxpqZmIrW0CA"
+        }
+      }
+    },
+    {
       "id": "lola-lolita",
-      "rank": 34,
+      "rank": 40,
       "rankPrev": 34,
       "countryRank": 7,
       "countryRankPrev": 7,
-      "total": 1522.2004648244072,
-      "networkPoints": 1522.2004648244072,
+      "total": 1510.0364368174717,
+      "networkPoints": 1510.0364368174717,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "tiktok",
@@ -1476,11 +1620,11 @@
         "youtube": {
           "followers": 292000,
           "followers30": null,
-          "er": 2.8245271922060926,
-          "points": 1522.2004648244072,
+          "er": 2.8233693675600438,
+          "points": 1510.0364368174717,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:19.443Z",
+          "fetchedAt": "2026-09-25T20:33:41.056Z",
           "url": "https://www.youtube.com/channel/UCqNkhCna9SGa9GDRxYkZaRg"
         },
         "tiktok": {
@@ -1507,12 +1651,12 @@
     },
     {
       "id": "maria-pombo",
-      "rank": 35,
+      "rank": 41,
       "rankPrev": 35,
       "countryRank": 8,
       "countryRankPrev": 8,
-      "total": 1379.1102971727219,
-      "networkPoints": 1379.1102971727219,
+      "total": 1368.364912504738,
+      "networkPoints": 1368.364912504738,
       "publicPoints": 0,
       "votes30": 0,
       "mainPlatform": "instagram",
@@ -1520,11 +1664,11 @@
         "youtube": {
           "followers": 242000,
           "followers30": null,
-          "er": 2.5858480784176128,
-          "points": 1379.1102971727219,
+          "er": 2.585828083550793,
+          "points": 1368.364912504738,
           "stale": false,
           "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-09-25T11:22:20.865Z",
+          "fetchedAt": "2026-09-25T20:33:42.470Z",
           "url": "https://www.youtube.com/channel/UCaDN7dP7zCWMD8gtlEffvMQ"
         },
         "tiktok": {
@@ -1551,7 +1695,7 @@
     },
     {
       "id": "lionel-messi",
-      "rank": 36,
+      "rank": 42,
       "rankPrev": 36,
       "countryRank": 8,
       "countryRankPrev": 8,
@@ -1575,7 +1719,7 @@
     },
     {
       "id": "georgina-rodriguez",
-      "rank": 37,
+      "rank": 43,
       "rankPrev": 37,
       "countryRank": 9,
       "countryRankPrev": 9,
@@ -1609,7 +1753,7 @@
     },
     {
       "id": "paulo-dybala",
-      "rank": 38,
+      "rank": 44,
       "rankPrev": 38,
       "countryRank": 9,
       "countryRankPrev": 9,
@@ -1643,7 +1787,7 @@
     },
     {
       "id": "antonela-roccuzzo",
-      "rank": 39,
+      "rank": 45,
       "rankPrev": 39,
       "countryRank": 10,
       "countryRankPrev": 10,
@@ -1667,7 +1811,7 @@
     },
     {
       "id": "marta-diaz",
-      "rank": 40,
+      "rank": 46,
       "rankPrev": 40,
       "countryRank": 10,
       "countryRankPrev": 10,
