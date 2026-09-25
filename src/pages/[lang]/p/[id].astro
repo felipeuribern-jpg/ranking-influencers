@@ -4,7 +4,7 @@ import Sparkline from "../../../components/Sparkline.astro";
 import { siteConfig, type LanguageCode } from "../../../../site.config";
 import { translator } from "../../../lib/i18n";
 import { people, getHistorySeries } from "../../../lib/data";
-import { flagEmoji, countryName } from "../../../lib/countries";
+import { countryName } from "../../../lib/countries";
 import { formatCompactNumber, formatDate, formatNumber, formatPercent, formatSignedPercent } from "../../../lib/format";
 import { PLATFORM_LABELS, type Platform } from "../../../../pipeline/config.js";
 
@@ -39,7 +39,11 @@ const history = getHistorySeries(person.id, 90);
   description={about}
 >
   <div class="weekline">
-    <h2>{flagEmoji(person.country)} {person.name}</h2>
+    <h2 class="profile-title">
+      <span class="avatar country-avatar profile-avatar" aria-hidden="true"><img src={`${base}/flags/${person.country.toLowerCase()}.svg`} alt="" width="42" height="42" loading="lazy" /></span>
+      <span class="creator-name-text">{person.name}</span>
+      <span class="country-code" aria-label={countryName(person.country, lang)} title={countryName(person.country, lang)}>{person.country.toUpperCase()}</span>
+    </h2>
     <span>{topic} · {countryName(person.country, lang)}</span>
   </div>
 
