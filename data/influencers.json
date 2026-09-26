@@ -5265,6 +5265,1194 @@
           "youtube": 8600000
         }
       }
+    },
+    {
+      "id": "kilometro-internacional",
+      "name": "Kilometro Internacional",
+      "country": "VE",
+      "topic": {
+        "es": "Comentario político satírico",
+        "en": "Satirical political commentary",
+        "pt": "Comentário político satírico",
+        "fr": "Commentaire politique satirique",
+        "de": "Satirische Politik-Kommentare",
+        "ru": "Сатирические политкомментарии",
+        "ar": "تعليق سياسي ساخر",
+        "hi": "व्यंग्यात्मक राजनीतिक टिप्पणी",
+        "zh": "讽刺政治评论",
+        "ja": "風刺的な政治コメント"
+      },
+      "about": {
+        "es": "Miguel Herrera, creador venezolano nacido en Ciudad Guayana, produce contenido satírico y musical crítico del gobierno chavista y regresó a vivir a Venezuela en agosto de 2026 tras dos años residiendo en Argentina.",
+        "en": "Miguel Herrera, a Venezuelan creator born in Ciudad Guayana, makes satirical and musical content critical of the Chavista government and moved back to live in Venezuela in August 2026 after two years based in Argentina.",
+        "pt": "Miguel Herrera, criador venezuelano nascido em Ciudad Guayana, produz conteúdo satírico e musical crítico ao governo chavista e voltou a viver na Venezuela em agosto de 2026 após dois anos morando na Argentina.",
+        "fr": "Miguel Herrera, créateur vénézuélien né à Ciudad Guayana, produit un contenu satirique et musical critique envers le gouvernement chaviste et est retourné vivre au Venezuela en août 2026 après deux ans passés en Argentine.",
+        "de": "Miguel Herrera, ein venezolanischer Creator aus Ciudad Guayana, produziert satirische und musikalische Inhalte, die die chavistische Regierung kritisieren, und zog im August 2026 nach zwei Jahren in Argentinien wieder nach Venezuela.",
+        "ru": "Мигель Эррера, venezuel'ский автор из Сьюдад-Гуаяна, создаёт сатирический и музыкальный контент, критикующий чавистское правительство, и в августе 2026 года вернулся жить в Венесуэлу после двух лет в Аргентине.",
+        "ar": "ميغيل هيريرا، صانع محتوى فنزويلي وُلد في سيوداد غوايانا، ينتج محتوى ساخرًا وموسيقيًا ينتقد الحكومة الشافيزية وعاد للعيش في فنزويلا في أغسطس 2026 بعد عامين أقام خلالهما في الأرجنتين.",
+        "hi": "मिगेल हेरेरा, सिउदाद गुयाना में जन्मे वेनेज़ुएला के क्रिएटर, चाविस्ता सरकार की आलोचना करने वाली व्यंग्यात्मक और संगीतमय सामग्री बनाते हैं और अर्जेंटीना में दो साल बिताने के बाद अगस्त 2026 में वापस वेनेज़ुएला में रहने लौट आए।",
+        "zh": "米格尔·埃雷拉是出生于圭亚那城的委内瑞拉创作者,制作讽刺查韦斯主义政府的讽刺及音乐内容,在阿根廷生活两年后于2026年8月搬回委内瑞拉居住。",
+        "ja": "シウダー・グアヤナ出身のベネズエラ人クリエイター、ミゲル・エレラは、チャビスモ政権を批判する風刺的・音楽的コンテンツを制作しており、アルゼンチンで2年間過ごした後、2026年8月にベネズエラへ戻って生活している。"
+      },
+      "handles": {
+        "youtube": "UC2ClsSs4vVEJhjKCgPdZ_9Q",
+        "tiktok": "kilometro_internacional",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 317000
+        }
+      }
+    },
+    {
+      "id": "araya-vlogs",
+      "name": "Araya Vlogs",
+      "country": "CR",
+      "topic": {
+        "es": "Vlogs de viaje",
+        "en": "Travel vlogs",
+        "pt": "Vlogs de viagem",
+        "fr": "Vlogs de voyage",
+        "de": "Reise-Vlogs",
+        "ru": "Влоги о путешествиях",
+        "ar": "مدونات سفر",
+        "hi": "यात्रा व्लॉग",
+        "zh": "旅行视频博客",
+        "ja": "旅行ブログ"
+      },
+      "about": {
+        "es": "Creador costarricense, cuyo nombre real es Cristopher Araya, conocido por sus vlogs de viajes a destinos alrededor del mundo, incluyendo lugares poco comunes como Somalilandia.",
+        "en": "A Costa Rican creator, real name Cristopher Araya, known for travel vlogs exploring destinations around the world, including uncommon places such as Somaliland.",
+        "pt": "Criador costarriquenho, cujo nome real é Cristopher Araya, conhecido por seus vlogs de viagem por destinos ao redor do mundo, incluindo lugares incomuns como a Somalilândia.",
+        "fr": "Créateur costaricien, de son vrai nom Cristopher Araya, connu pour ses vlogs de voyage à travers des destinations du monde entier, y compris des lieux peu communs comme le Somaliland.",
+        "de": "Costa-ricanischer Creator mit bürgerlichem Namen Cristopher Araya, bekannt für seine Reise-Vlogs zu Zielen auf der ganzen Welt, darunter ungewöhnliche Orte wie Somaliland.",
+        "ru": "Костариканский автор, настоящее имя Кристофер Арайя, известен своими влогами о путешествиях по разным уголкам мира, включая такие необычные места, как Сомалиленд.",
+        "ar": "صانع محتوى من كوستاريكا، اسمه الحقيقي كريستوفر أرايا، معروف بمدوناته المصورة عن السفر إلى وجهات حول العالم، بما في ذلك أماكن غير شائعة مثل صوماليلاند.",
+        "hi": "कोस्टा रिका के क्रिएटर, जिनका असली नाम क्रिस्टोफर अराया है, दुनिया भर के गंतव्यों की यात्रा व्लॉग्स के लिए जाने जाते हैं, जिसमें सोमालीलैंड जैसे असामान्य स्थान भी शामिल हैं।",
+        "zh": "这位哥斯达黎加创作者本名克里斯托弗·阿拉亚,以拍摄世界各地旅行的视频博客而闻名,包括索马里兰等不常见的地方。",
+        "ja": "本名クリストファー・アラヤ、コスタリカ出身のクリエイターで、ソマリランドのような珍しい場所を含む世界各地への旅行ブログで知られている。"
+      },
+      "handles": {
+        "youtube": "UCnZWFiZOtbKPWkRVSqhnJ8A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 3990000
+        }
+      }
+    },
+    {
+      "id": "corney",
+      "name": "Corney",
+      "country": "CR",
+      "topic": {
+        "es": "Comedia y vlogs",
+        "en": "Comedy vlogs",
+        "pt": "Vlogs de comédia",
+        "fr": "Vlogs comiques",
+        "de": "Comedy-Vlogs",
+        "ru": "Комедийные влоги",
+        "ar": "مدونات كوميدية",
+        "hi": "कॉमेडी व्लॉग",
+        "zh": "喜剧视频博客",
+        "ja": "コメディブログ"
+      },
+      "about": {
+        "es": "Creador de contenido costarricense conocido por videos de comedia y anécdotas de la vida real, incluyendo un viaje documentado al Área 51 en Estados Unidos.",
+        "en": "A Costa Rican content creator known for comedy videos and real-life storytelling, including a documented trip to Area 51 in the United States.",
+        "pt": "Criador de conteúdo costarriquenho conhecido por vídeos de comédia e histórias da vida real, incluindo uma viagem documentada à Área 51, nos Estados Unidos.",
+        "fr": "Créateur de contenu costaricien connu pour ses vidéos comiques et ses anecdotes de la vie réelle, dont un voyage documenté à la Zone 51 aux États-Unis.",
+        "de": "Costa-ricanischer Content-Creator, bekannt für Comedy-Videos und Geschichten aus dem echten Leben, darunter eine dokumentierte Reise zur Area 51 in den USA.",
+        "ru": "Костариканский автор контента, известный комедийными видео и историями из реальной жизни, включая задокументированную поездку в Зону 51 в США.",
+        "ar": "صانع محتوى من كوستاريكا معروف بمقاطع فيديو كوميدية وقصص من الحياة الواقعية، بما في ذلك رحلة موثقة إلى المنطقة 51 في الولايات المتحدة.",
+        "hi": "कोस्टा रिका के कंटेंट क्रिएटर, जो कॉमेडी वीडियो और वास्तविक जीवन की कहानियों के लिए जाने जाते हैं, जिसमें अमेरिका के एरिया 51 की एक दर्ज यात्रा भी शामिल है।",
+        "zh": "这位哥斯达黎加内容创作者以喜剧视频和真实生活故事闻名,其中包括一次前往美国51区的记录之旅。",
+        "ja": "コスタリカのコンテンツクリエイターで、コメディ動画や実生活のエピソードで知られ、アメリカのエリア51への訪問を記録した動画もある。"
+      },
+      "handles": {
+        "youtube": "UC-bpSFdt8kySZU6il4_IKyw",
+        "tiktok": "corney.live",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 105000
+        }
+      }
+    },
+    {
+      "id": "julian-valjota",
+      "name": "Julian_valjota",
+      "country": "CR",
+      "topic": {
+        "es": "Vlogs de vida diaria",
+        "en": "Daily life vlogs",
+        "pt": "Vlogs do cotidiano",
+        "fr": "Vlogs du quotidien",
+        "de": "Alltags-Vlogs",
+        "ru": "Влоги о жизни",
+        "ar": "مدونات الحياة اليومية",
+        "hi": "रोज़मर्रा जीवन व्लॉग",
+        "zh": "日常生活视频博客",
+        "ja": "日常生活ブログ"
+      },
+      "about": {
+        "es": "Creador costarricense originario de Desamparados, conocido como Julián Valjota, que comparte su vida diaria y su experiencia como inmigrante trabajador en Estados Unidos.",
+        "en": "A Costa Rican creator from Desamparados, known online as Julián Valjota, who shares his daily life and his experience as a working immigrant in the United States.",
+        "pt": "Criador costarriquenho de Desamparados, conhecido como Julián Valjota, que compartilha seu cotidiano e sua experiência como imigrante trabalhador nos Estados Unidos.",
+        "fr": "Créateur costaricien originaire de Desamparados, connu sous le nom de Julián Valjota, qui partage son quotidien et son expérience d'immigrant travailleur aux États-Unis.",
+        "de": "Costa-ricanischer Creator aus Desamparados, online bekannt als Julián Valjota, der seinen Alltag und seine Erfahrungen als arbeitender Einwanderer in den USA teilt.",
+        "ru": "Костариканский автор из Десампарадоса, известный как Хулиан Вальхота, рассказывает о своей повседневной жизни и опыте трудового иммигранта в США.",
+        "ar": "صانع محتوى من كوستاريكا من مدينة ديسامبارادوس، يُعرف باسم خوليان فالخوتا، يشارك حياته اليومية وتجربته كمهاجر عامل في الولايات المتحدة.",
+        "hi": "देसाम्पारादोस, कोस्टा रिका के क्रिएटर, जिन्हें ऑनलाइन जूलियन वाल्होता के नाम से जाना जाता है, अमेरिका में एक कामकाजी अप्रवासी के रूप में अपना दैनिक जीवन साझा करते हैं।",
+        "zh": "这位来自哥斯达黎加德萨姆帕拉多斯的创作者,网名胡利安·瓦尔霍塔,分享他作为在美国务工移民的日常生活。",
+        "ja": "コスタリカのデサンパラドス出身で、フリアン・バルホタとして知られるクリエイターは、アメリカでの出稼ぎ移民としての日常生活を発信している。"
+      },
+      "handles": {
+        "youtube": "UCfXpAB9nrrJft34IrjO7zpQ",
+        "tiktok": "julian_valjota",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 133000
+        }
+      }
+    },
+    {
+      "id": "el-benja-real",
+      "name": "El Benja Real",
+      "country": "CR",
+      "topic": {
+        "es": "Comedia y sketches",
+        "en": "Comedy sketches",
+        "pt": "Comédia e sketches",
+        "fr": "Comédie et sketches",
+        "de": "Comedy-Sketche",
+        "ru": "Комедийные скетчи",
+        "ar": "سكتشات كوميدية",
+        "hi": "कॉमेडी स्केच",
+        "zh": "喜剧短剧",
+        "ja": "コメディスケッチ"
+      },
+      "about": {
+        "es": "Creador costarricense nacido en 2001 y originario de San Ramón, Alajuela, cuyo nombre real es Benjamín Ramírez Cambronero, conocido por videos de comedia, sketches y vlogs.",
+        "en": "A Costa Rican creator born in 2001 and from San Ramón, Alajuela, real name Benjamín Ramírez Cambronero, known for comedy videos, sketches and vlogs.",
+        "pt": "Criador costarriquenho nascido em 2001, natural de San Ramón, Alajuela, cujo nome real é Benjamín Ramírez Cambronero, conhecido por vídeos de comédia, sketches e vlogs.",
+        "fr": "Créateur costaricien né en 2001, originaire de San Ramón, Alajuela, de son vrai nom Benjamín Ramírez Cambronero, connu pour ses vidéos comiques, sketches et vlogs.",
+        "de": "Costa-ricanischer Creator, geboren 2001 in San Ramón, Alajuela, mit bürgerlichem Namen Benjamín Ramírez Cambronero, bekannt für Comedy-Videos, Sketche und Vlogs.",
+        "ru": "Костариканский автор, родившийся в 2001 году в Сан-Рамоне, Алахуэла, настоящее имя Бенхамин Рамирес Камбронеро, известен комедийными видео, скетчами и влогами.",
+        "ar": "صانع محتوى من كوستاريكا وُلد عام 2001 في سان رامون، ألاخويلا، واسمه الحقيقي بنجامين راميريز كامبرونيرو، معروف بمقاطع الفيديو الكوميدية والسكتشات والفلوجات.",
+        "hi": "कोस्टा रिका के क्रिएटर, जिनका जन्म 2001 में सैन रामोन, अलाहुएला में हुआ और असली नाम बेंजामिन रामिरेज़ कैम्ब्रोनेरो है, कॉमेडी वीडियो, स्केच और व्लॉग के लिए जाने जाते हैं।",
+        "zh": "这位哥斯达黎加创作者2001年出生于阿拉胡埃拉省圣拉蒙,本名本杰明·拉米雷斯·坎布罗内罗,以喜剧视频、短剧和视频博客闻名。",
+        "ja": "2001年にコスタリカのアラフエラ州サンラモンで生まれた本名ベンハミン・ラミレス・カンブロネロは、コメディ動画やスケッチ、ブログ動画で知られるクリエイター。"
+      },
+      "handles": {
+        "youtube": "UCCrQGNGHW42anJH_zMgq0fQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": "elbenjareal",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 4530000
+        }
+      }
+    },
+    {
+      "id": "hildebrandt-en-sus-trece",
+      "name": "Hildebrandt en sus trece",
+      "country": "PE",
+      "topic": {
+        "es": "Periodismo político",
+        "en": "Political journalism",
+        "pt": "Jornalismo político",
+        "fr": "Journalisme politique",
+        "de": "Politischer Journalismus",
+        "ru": "Политическая журналистика",
+        "ar": "صحافة سياسية",
+        "hi": "राजनीतिक पत्रकारिता",
+        "zh": "政治新闻",
+        "ja": "政治ジャーナリズム"
+      },
+      "about": {
+        "es": "Programa semanal peruano de análisis político dirigido por el periodista César Hildebrandt, transmitido en vivo los lunes por su canal de YouTube.",
+        "en": "A Peruvian weekly political analysis program directed by journalist César Hildebrandt, broadcast live on Mondays on its YouTube channel.",
+        "pt": "Um programa semanal peruano de análise política dirigido pelo jornalista César Hildebrandt, transmitido ao vivo às segundas-feiras em seu canal do YouTube.",
+        "fr": "Une émission hebdomadaire péruvienne d'analyse politique dirigée par le journaliste César Hildebrandt, diffusée en direct le lundi sur sa chaîne YouTube.",
+        "de": "Eine wöchentliche peruanische Politiksendung unter der Leitung des Journalisten César Hildebrandt, die montags live auf seinem YouTube-Kanal ausgestrahlt wird.",
+        "ru": "Еженедельная перуанская программа политического анализа под руководством журналиста Сесара Ильдебрандта, транслируемая в прямом эфире по понедельникам на YouTube-канале.",
+        "ar": "برنامج تحليل سياسي أسبوعي بيروفي يديره الصحفي سيزار هيلدبراندت، يُبث مباشرة أيام الاثنين عبر قناته على يوتيوب.",
+        "hi": "पत्रकार सीज़र हिल्डेब्रांट द्वारा संचालित एक साप्ताहिक पेरूवियन राजनीतिक विश्लेषण कार्यक्रम, जो सोमवार को उनके यूट्यूब चैनल पर लाइव प्रसारित होता है।",
+        "zh": "一档由记者塞萨尔·希尔德布兰特主持的秘鲁每周政治分析节目,每周一在其YouTube频道上直播。",
+        "ja": "ジャーナリストのセサル・イルデブラントが率いるペルーの週刊政治分析番組で、毎週月曜日にYouTubeチャンネルでライブ配信されている。"
+      },
+      "handles": {
+        "youtube": "UC3_PG15cjuBIKzkEsUznQKQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 300000
+        }
+      }
+    },
+    {
+      "id": "mandarina-con-mate",
+      "name": "Mandarina con Mate",
+      "country": "PE",
+      "topic": {
+        "es": "Vlog familiar",
+        "en": "Family vlog",
+        "pt": "Vlog familiar",
+        "fr": "Vlog familial",
+        "de": "Familien-Vlog",
+        "ru": "Семейный влог",
+        "ar": "مدونة فيديو عائلية",
+        "hi": "पारिवारिक व्लॉग",
+        "zh": "家庭视频博客",
+        "ja": "家族ブログ"
+      },
+      "about": {
+        "es": "Creadora nacida en Cusco, Perú, que comparte su vida diaria, cocina y familia junto a su esposo e hijas, actualmente radicada en Francia.",
+        "en": "A creator born in Cusco, Peru, who shares her daily life, cooking and family with her husband and daughters, now based in France.",
+        "pt": "Uma criadora nascida em Cusco, Peru, que compartilha seu dia a dia, culinária e família com o marido e as filhas, atualmente radicada na França.",
+        "fr": "Une créatrice née à Cusco, au Pérou, qui partage son quotidien, sa cuisine et sa famille avec son mari et ses filles, désormais installée en France.",
+        "de": "Eine in Cusco, Peru, geborene Content-Erstellerin, die ihren Alltag, ihr Kochen und ihr Familienleben mit Ehemann und Töchtern teilt und heute in Frankreich lebt.",
+        "ru": "Создательница контента, родившаяся в Куско, Перу, которая делится повседневной жизнью, кулинарией и семьей вместе с мужем и дочерьми, сейчас проживает во Франции.",
+        "ar": "صانعة محتوى وُلدت في كوسكو، بيرو، تشارك حياتها اليومية وطهيها وعائلتها مع زوجها وبناتها، وتقيم حاليًا في فرنسا.",
+        "hi": "कुज्को, पेरू में जन्मी एक क्रिएटर जो अपने पति और बेटियों के साथ अपनी दिनचर्या, खाना पकाने और पारिवारिक जीवन को साझा करती हैं, अब फ्रांस में रहती हैं।",
+        "zh": "一位出生于秘鲁库斯科的创作者,与丈夫和女儿分享日常生活、烹饪和家庭时光,现居法国。",
+        "ja": "ペルーのクスコ出身のクリエイターで、夫と娘たちとの日常生活や料理、家族の様子を発信しており、現在はフランスに拠点を置いている。"
+      },
+      "handles": {
+        "youtube": "UCcjmYS-fFaXBC3gYCkVmvkg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 123000
+        }
+      }
+    },
+    {
+      "id": "frans",
+      "name": "Frans",
+      "country": "PE",
+      "topic": {
+        "es": "Aventura y exploración",
+        "en": "Adventure exploration",
+        "pt": "Aventura e exploração",
+        "fr": "Aventure et exploration",
+        "de": "Abenteuer und Erkundung",
+        "ru": "Приключения и исследования",
+        "ar": "مغامرة واستكشاف",
+        "hi": "साहसिक अन्वेषण",
+        "zh": "冒险探索",
+        "ja": "冒険と探検"
+      },
+      "about": {
+        "es": "Youtuber peruano, Frans Huanchi, conocido por explorar lugares remotos y considerados peligrosos dentro de Perú.",
+        "en": "Peruvian YouTuber Frans Huanchi, known for exploring remote and reportedly dangerous locations across Peru.",
+        "pt": "O youtuber peruano Frans Huanchi é conhecido por explorar locais remotos e considerados perigosos dentro do Peru.",
+        "fr": "Le youtubeur péruvien Frans Huanchi est connu pour explorer des lieux reculés et réputés dangereux à travers le Pérou.",
+        "de": "Der peruanische YouTuber Frans Huanchi ist dafür bekannt, abgelegene und als gefährlich geltende Orte in Peru zu erkunden.",
+        "ru": "Перуанский ютубер Франс Уанчи известен исследованием отдаленных и считающихся опасными мест по всей Перу.",
+        "ar": "يُعرف اليوتيوبر البيروفي فرانس هوانتشي باستكشافه لأماكن نائية تُعد خطرة في جميع أنحاء بيرو.",
+        "hi": "पेरूवियन यूट्यूबर फ्रांस हुआंची पेरू भर में दूरदराज और खतरनाक माने जाने वाले स्थानों की खोज के लिए जाने जाते हैं।",
+        "zh": "秘鲁YouTube博主弗兰斯·万奇(Frans Huanchi)以探索秘鲁各地偏远且被认为危险的地方而闻名。",
+        "ja": "ペルーのユーチューバー、フランス・ワンチは、ペルー各地の危険とされる辺境の地を探検することで知られている。"
+      },
+      "handles": {
+        "youtube": "UCMhFfX9OXeoXDlY5wNwRc_g",
+        "tiktok": null,
+        "instagram": "franshuanchi",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 722000
+        }
+      }
+    },
+    {
+      "id": "la-granja-vip-peru",
+      "name": "La Granja VIP Perú",
+      "country": "PE",
+      "topic": {
+        "es": "Reality show",
+        "en": "Reality show",
+        "pt": "Reality show",
+        "fr": "Télé-réalité",
+        "de": "Reality-Show",
+        "ru": "Реалити-шоу",
+        "ar": "برنامج واقع",
+        "hi": "रियलिटी शो",
+        "zh": "真人秀",
+        "ja": "リアリティ番組"
+      },
+      "about": {
+        "es": "Canal oficial del reality peruano \"La Granja VIP\", producido por Panamericana Televisión, donde celebridades conviven las 24 horas en una granja bajo vigilancia constante.",
+        "en": "Official channel of the Peruvian reality show \"La Granja VIP,\" produced by Panamericana Televisión, where celebrities live together 24/7 on a farm under constant surveillance.",
+        "pt": "Canal oficial do reality show peruano \"La Granja VIP\", produzido pela Panamericana Televisión, onde celebridades convivem 24 horas por dia em uma fazenda sob vigilância constante.",
+        "fr": "Chaîne officielle de la télé-réalité péruvienne « La Granja VIP », produite par Panamericana Televisión, où des célébrités cohabitent 24h/24 dans une ferme sous surveillance constante.",
+        "de": "Offizieller Kanal der peruanischen Reality-Show „La Granja VIP“, produziert von Panamericana Televisión, in der Prominente rund um die Uhr auf einer Farm unter ständiger Überwachung zusammenleben.",
+        "ru": "Официальный канал перуанского реалити-шоу «La Granja VIP», выпускаемого Panamericana Televisión, где знаменитости круглосуточно живут вместе на ферме под постоянным наблюдением.",
+        "ar": "القناة الرسمية للبرنامج الواقعي البيروفي \"لا غرانخا في آي بي\"، الذي تنتجه بانامريكانا تيليفيزيون، حيث يعيش المشاهير معًا على مدار الساعة في مزرعة تحت مراقبة مستمرة.",
+        "hi": "पेरू के रियलिटी शो \"ला ग्रांजा वीआईपी\" का आधिकारिक चैनल, जिसे पानामेरिकाना टेलीविज़न द्वारा निर्मित किया गया है, जहाँ मशहूर हस्तियाँ लगातार निगरानी में एक फार्म पर 24 घंटे साथ रहती हैं।",
+        "zh": "秘鲁真人秀节目《La Granja VIP》的官方频道,由Panamericana Televisión制作,名人们在农场里24小时同住并接受持续监控。",
+        "ja": "パナメリカーナ・テレビシオンが制作するペルーのリアリティ番組「La Granja VIP」の公式チャンネルで、有名人たちが農場で24時間常時監視のもと共同生活を送る様子を伝えている。"
+      },
+      "handles": {
+        "youtube": "UCTZLji2LOs1NSdj4p2KvO3Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 184000
+        }
+      }
+    },
+    {
+      "id": "ioa",
+      "name": "iOA",
+      "country": "PE",
+      "topic": {
+        "es": "Entretenimiento y tributos",
+        "en": "Entertainment tributes",
+        "pt": "Entretenimento e tributos",
+        "fr": "Divertissement et hommages",
+        "de": "Unterhaltung und Tribute",
+        "ru": "Развлечения и трибьюты",
+        "ar": "ترفيه وعروض تكريمية",
+        "hi": "मनोरंजन श्रद्धांजलि",
+        "zh": "娱乐致敬表演",
+        "ja": "エンタメ・トリビュート"
+      },
+      "about": {
+        "es": "Ioanis Patsias Morales, conocido como iOA, es un creador peruano y economista que dejó su carrera corporativa para producir en YouTube espectáculos de gran producción, como un homenaje al concierto de Rosalía.",
+        "en": "Ioanis Patsias Morales, known as iOA, is a Peruvian creator and economist who left his corporate career to produce large-scale YouTube shows, including a tribute recreating a Rosalía concert.",
+        "pt": "Ioanis Patsias Morales, conhecido como iOA, é um criador peruano e economista que deixou a carreira corporativa para produzir no YouTube espetáculos de grande produção, incluindo uma homenagem recriando um show de Rosalía.",
+        "fr": "Ioanis Patsias Morales, connu sous le nom d'iOA, est un créateur péruvien et économiste qui a quitté sa carrière en entreprise pour produire sur YouTube des spectacles à grande échelle, dont un hommage recréant un concert de Rosalía.",
+        "de": "Ioanis Patsias Morales, bekannt als iOA, ist ein peruanischer Content-Creator und Ökonom, der seine Unternehmenskarriere aufgab, um aufwendige YouTube-Shows zu produzieren, darunter eine Hommage, die ein Rosalía-Konzert nachstellte.",
+        "ru": "Иоанис Патсиас Моралес, известный как iOA, — перуанский автор контента и экономист, оставивший корпоративную карьеру ради постановки масштабных YouTube-шоу, включая трибьют с воссозданием концерта Росалии.",
+        "ar": "يوانيس باتسياس موراليس، المعروف باسم iOA، صانع محتوى بيروفي واقتصادي ترك مسيرته المهنية في الشركات لإنتاج عروض ضخمة على يوتيوب، من بينها عرض تكريمي أعاد تمثيل حفل روزاليا.",
+        "hi": "आयोनिस पात्सियास मोरालेस, जिन्हें iOA के नाम से जाना जाता है, एक पेरूवियन क्रिएटर और अर्थशास्त्री हैं जिन्होंने बड़े पैमाने के यूट्यूब शो बनाने के लिए अपना कॉर्पोरेट करियर छोड़ दिया, जिसमें रोसालिया के कॉन्सर्ट को फिर से रचने वाला एक श्रद्धांजलि शो भी शामिल है।",
+        "zh": "约阿尼斯·帕齐亚斯·莫拉莱斯(艺名iOA)是一位秘鲁创作者兼经济学家,他辞去企业工作专注制作大型YouTube演出,其中包括重现Rosalía演唱会的致敬秀。",
+        "ja": "iOAことイオアニス・パツィアス・モラレスは、企業でのキャリアを捨てて大規模なYouTubeショーの制作に専念しているペルー出身のクリエイター兼経済学者で、ロザリアのコンサートを再現したトリビュートショーで知られる。"
+      },
+      "handles": {
+        "youtube": "UCFPYSfA-hbdQOPw48hej-ig",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 897000
+        }
+      }
+    },
+    {
+      "id": "latina-loca-en-india",
+      "name": "Latina loca en India",
+      "country": "PE",
+      "topic": {
+        "es": "Vida intercultural",
+        "en": "Intercultural life",
+        "pt": "Vida intercultural",
+        "fr": "Vie interculturelle",
+        "de": "Interkulturelles Leben",
+        "ru": "Межкультурная жизнь",
+        "ar": "حياة بين ثقافتين",
+        "hi": "अंतर-सांस्कृतिक जीवन",
+        "zh": "跨文化生活",
+        "ja": "異文化生活"
+      },
+      "about": {
+        "es": "Natalye, creadora peruana conocida como \"Latina loca en India\", documenta su vida en el norte rural de India junto a su esposo indio y su familia.",
+        "en": "Natalye, a Peruvian creator known as \"Latina loca en India,\" documents her life in rural northern India alongside her Indian husband and family.",
+        "pt": "Natalye, criadora peruana conhecida como \"Latina loca en India\", documenta sua vida no norte rural da Índia ao lado de seu marido indiano e sua família.",
+        "fr": "Natalye, créatrice péruvienne connue sous le nom de « Latina loca en India », documente sa vie dans le nord rural de l'Inde aux côtés de son mari indien et de sa famille.",
+        "de": "Natalye, eine peruanische Content-Erstellerin bekannt als „Latina loca en India“, dokumentiert ihr Leben im ländlichen Norden Indiens gemeinsam mit ihrem indischen Ehemann und ihrer Familie.",
+        "ru": "Наталье, перуанская создательница контента, известная как «Latina loca en India», документирует свою жизнь в сельской местности на севере Индии вместе со своим индийским мужем и семьей.",
+        "ar": "ناتالي، صانعة محتوى بيروفية معروفة باسم \"لاتينا لوكا إن إنديا\"، توثق حياتها في شمال الهند الريفي مع زوجها الهندي وعائلتها.",
+        "hi": "नताल्ये, जिन्हें \"लातिना लोका एन इंडिया\" के नाम से जाना जाता है, एक पेरूवियन क्रिएटर हैं जो अपने भारतीय पति और परिवार के साथ उत्तर भारत के ग्रामीण इलाके में अपने जीवन का दस्तावेजीकरण करती हैं।",
+        "zh": "娜塔莉(艺名\"Latina loca en India\")是一位秘鲁创作者,记录她与印度丈夫及家人在印度北部农村地区的生活。",
+        "ja": "「Latina loca en India」として知られるペルー出身のクリエイター、ナタリエは、インド人の夫と家族とともにインド北部の農村地域で暮らす様子を発信している。"
+      },
+      "handles": {
+        "youtube": "UCtO4-HPNCJKGSVok6sk0iwg",
+        "tiktok": null,
+        "instagram": "latinaloca_enindia",
+        "facebook": "latinalocaenIndia",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 223000
+        }
+      }
+    },
+    {
+      "id": "jeque-arabe-peruano",
+      "name": "Jeque árabe peruano",
+      "country": "PE",
+      "topic": {
+        "es": "Comedia callejera",
+        "en": "Street comedy",
+        "pt": "Comédia de rua",
+        "fr": "Comédie de rue",
+        "de": "Straßenkomödie",
+        "ru": "Уличная комедия",
+        "ar": "كوميديا الشارع",
+        "hi": "स्ट्रीट कॉमेडी",
+        "zh": "街头喜剧",
+        "ja": "ストリートコメディ"
+      },
+      "about": {
+        "es": "Creador peruano conocido como \"Jeque árabe peruano\", que produce contenido de humor e interacción callejera en distintas ciudades del país, incluida Pucallpa.",
+        "en": "Peruvian creator known as \"Jeque árabe peruano,\" who produces comedic street-interaction content in various cities across the country, including Pucallpa.",
+        "pt": "Criador peruano conhecido como \"Jeque árabe peruano\", que produz conteúdo de humor e interação de rua em diversas cidades do país, incluindo Pucallpa.",
+        "fr": "Créateur péruvien connu sous le nom de « Jeque árabe peruano », qui produit du contenu humoristique d'interaction de rue dans plusieurs villes du pays, dont Pucallpa.",
+        "de": "Peruanischer Content-Creator, bekannt als „Jeque árabe peruano“, der humorvolle Straßeninteraktions-Inhalte in verschiedenen Städten des Landes produziert, darunter Pucallpa.",
+        "ru": "Перуанский автор контента, известный как «Jeque árabe peruano», создающий юмористический контент с уличными взаимодействиями в разных городах страны, включая Пукальпу.",
+        "ar": "صانع محتوى بيروفي معروف باسم \"الشيخ العربي البيروفي\"، ينتج محتوى فكاهيًا يعتمد على التفاعل في الشوارع في مدن مختلفة من البلاد، بما في ذلك بوكالبا.",
+        "hi": "पेरूवियन क्रिएटर, जिन्हें \"जेके अरबे पेरुआनो\" के नाम से जाना जाता है, देश के विभिन्न शहरों, जिसमें पुकाल्पा भी शामिल है, में हास्यपूर्ण सड़क-संवाद सामग्री बनाते हैं।",
+        "zh": "秘鲁创作者\"Jeque árabe peruano\",在包括普卡尔帕在内的秘鲁多个城市制作街头互动喜剧内容。",
+        "ja": "「Jeque árabe peruano」として知られるペルーのクリエイターは、プカルパを含む国内各都市でストリートでのやり取りを題材にしたコメディコンテンツを制作している。"
+      },
+      "handles": {
+        "youtube": "UCGSm0O0ZMRMNBk92J9ul-IQ",
+        "tiktok": "jequearabeperuano",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 279000
+        }
+      }
+    },
+    {
+      "id": "mikael-khachibabyan",
+      "name": "MiKAEL KHACHiBABYAN",
+      "country": "UA",
+      "topic": {
+        "es": "Comedia y activismo",
+        "en": "Comedy and activism",
+        "pt": "Comédia e ativismo",
+        "fr": "Comédie et activisme",
+        "de": "Comedy und Aktivismus",
+        "ru": "Юмор и активизм",
+        "ar": "كوميديا ونشاط",
+        "hi": "हास्य और सक्रियता",
+        "zh": "喜剧与行动主义",
+        "ja": "コメディと活動"
+      },
+      "about": {
+        "es": "Creador de contenido y voluntario de origen armenio radicado en Ucrania, conocido por sus videos de humor que desmienten la propaganda rusa.",
+        "en": "A content creator and volunteer of Armenian origin based in Ukraine, known for comedic videos that counter Russian propaganda.",
+        "pt": "Criador de conteúdo e voluntário de origem armênia radicado na Ucrânia, conhecido por vídeos de humor que desmentem a propaganda russa.",
+        "fr": "Créateur de contenu et bénévole d'origine arménienne installé en Ukraine, connu pour ses vidéos humoristiques qui contrent la propagande russe.",
+        "de": "Content-Creator und Freiwilliger armenischer Herkunft mit Wohnsitz in der Ukraine, bekannt für humorvolle Videos gegen russische Propaganda.",
+        "ru": "Создатель контента и волонтёр армянского происхождения, живущий в Украине, известен юмористическими видео, разоблачающими российскую пропаганду.",
+        "ar": "صانع محتوى ومتطوع من أصل أرمني يقيم في أوكرانيا، معروف بمقاطع فيديو فكاهية تفند الدعاية الروسية.",
+        "hi": "अर्मेनियाई मूल के एक सामग्री निर्माता और स्वयंसेवक, जो यूक्रेन में रहते हैं और रूसी प्रचार का पर्दाफाश करने वाले हास्य वीडियो के लिए जाने जाते हैं।",
+        "zh": "一位亚美尼亚裔内容创作者兼志愿者，现居乌克兰，以揭露俄罗斯宣传的幽默视频而闻名。",
+        "ja": "アルメニア出身でウクライナに拠点を置くコンテンツクリエイター兼ボランティアで、ロシアのプロパガンダに反論するコメディ動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCreqL3UORRc_hbJK3RR7d6w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 303000
+        }
+      }
+    },
+    {
+      "id": "vox-veritatis",
+      "name": "Vox veritatis Голос правди",
+      "country": "UA",
+      "topic": {
+        "es": "Historia y debate",
+        "en": "History and debate",
+        "pt": "História e debate",
+        "fr": "Histoire et débat",
+        "de": "Geschichte und Debatte",
+        "ru": "История и дебаты",
+        "ar": "التاريخ والنقاش",
+        "hi": "इतिहास और बहस",
+        "zh": "历史与辩论",
+        "ja": "歴史と討論"
+      },
+      "about": {
+        "es": "Historiador y profesor ucraniano de Bila Tserkva que dirige el canal 'Vox Veritatis', dedicado a debates históricos públicos con comentaristas rusos.",
+        "en": "A Ukrainian historian and history teacher from Bila Tserkva who hosts the channel 'Vox Veritatis', engaging in public historical debates with Russian commentators.",
+        "pt": "Historiador e professor de história ucraniano de Bila Tserkva que apresenta o canal 'Vox Veritatis', dedicado a debates históricos públicos com comentaristas russos.",
+        "fr": "Historien et professeur d'histoire ukrainien de Bila Tserkva qui anime la chaîne « Vox Veritatis », consacrée à des débats historiques publics avec des commentateurs russes.",
+        "de": "Ukrainischer Historiker und Geschichtslehrer aus Bila Zerkwa, der den Kanal 'Vox Veritatis' betreibt und öffentliche historische Debatten mit russischen Kommentatoren führt.",
+        "ru": "Украинский историк и учитель истории из Белой Церкви, ведущий канал 'Vox Veritatis', посвящённый публичным историческим дебатам с российскими комментаторами.",
+        "ar": "مؤرخ ومعلم تاريخ أوكراني من بيلا تسيركفا يقدم قناة 'Vox Veritatis' المخصصة للمناظرات التاريخية العلنية مع معلقين روس.",
+        "hi": "बिला त्सेरक्वा के एक यूक्रेनी इतिहासकार और इतिहास शिक्षक, जो 'Vox Veritatis' चैनल चलाते हैं और रूसी टिप्पणीकारों के साथ सार्वजनिक ऐतिहासिक बहसों में भाग लेते हैं।",
+        "zh": "来自比拉采尔科瓦的乌克兰历史学家兼历史教师，主持《Vox Veritatis》频道，与俄罗斯评论员进行公开历史辩论。",
+        "ja": "ビラ・ツェールクヴァ出身のウクライナ人歴史家兼歴史教師で、「Vox Veritatis」チャンネルを主宰し、ロシア人論客と公開歴史討論を行っている。"
+      },
+      "handles": {
+        "youtube": "UCNcoJNpt3xGNrhLRrAYoVcw",
+        "tiktok": null,
+        "instagram": "vox_veritatis_65",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 600000
+        }
+      }
+    },
+    {
+      "id": "laserluca",
+      "name": "laserluca",
+      "country": "DE",
+      "topic": {
+        "es": "Gaming y vlogs",
+        "en": "Gaming and vlogs",
+        "pt": "Games e vlogs",
+        "fr": "Gaming et vlogs",
+        "de": "Gaming und Vlogs",
+        "ru": "Гейминг и влоги",
+        "ar": "ألعاب وفلوجات",
+        "hi": "गेमिंग और व्लॉग",
+        "zh": "游戏与视频博客",
+        "ja": "ゲーム実況とVlog"
+      },
+      "about": {
+        "es": "Youtuber alemán nacido en Rheda-Wiedenbrück que comenzó con videos de Minecraft en su canal (originalmente ConCrafter) antes de pasar a vlogs, comedia y videos de reacción.",
+        "en": "German YouTuber born in Rheda-Wiedenbrück who began with Minecraft videos on his channel (originally ConCrafter) before shifting to vlogs, comedy and reaction content.",
+        "pt": "Youtuber alemão nascido em Rheda-Wiedenbrück que começou com vídeos de Minecraft em seu canal (originalmente ConCrafter) antes de migrar para vlogs, comédia e vídeos de reação.",
+        "fr": "YouTubeur allemand né à Rheda-Wiedenbrück qui a commencé avec des vidéos Minecraft sur sa chaîne (à l'origine ConCrafter) avant de passer aux vlogs, à l'humour et aux vidéos de réaction.",
+        "de": "Deutscher YouTuber, geboren in Rheda-Wiedenbrück, der auf seinem Kanal (ursprünglich ConCrafter) mit Minecraft-Videos begann, bevor er zu Vlogs, Comedy und Reaction-Videos wechselte.",
+        "ru": "Немецкий ютубер, родившийся в Реда-Виденбрюке, начинал с видео по Minecraft на своём канале (изначально ConCrafter), прежде чем перейти к влогам, комедии и реакциям.",
+        "ar": "يوتيوبر ألماني وُلد في رايدا-فيدنبروك وبدأ بمقاطع ماينكرافت على قناته (المعروفة سابقًا باسم ConCrafter) قبل أن يتحول إلى الفلوجات والكوميديا وفيديوهات ردود الفعل.",
+        "hi": "जर्मन यूट्यूबर, जिनका जन्म रेडा-वीडेनब्रुक में हुआ, उन्होंने अपने चैनल (मूल रूप से ConCrafter) पर माइनक्राफ्ट वीडियो से शुरुआत की, इससे पहले कि वे व्लॉग, कॉमेडी और रिएक्शन वीडियो की ओर बढ़े।",
+        "zh": "这位出生于德国雷达-维登布吕克的YouTuber最初在其频道(原名ConCrafter)上发布《我的世界》视频,后转向Vlog、喜剧和反应类内容。",
+        "ja": "ドイツのレーダ・ヴィーデンブリュック出身のYouTuberで、自身のチャンネル(元はConCrafter)でマインクラフト動画から始め、その後Vlogやコメディ、リアクション動画に移行した。"
+      },
+      "handles": {
+        "youtube": "UCmxc6kXbU1J-0pR2F3wIx9A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 5810000
+        }
+      }
+    },
+    {
+      "id": "hey-aaron",
+      "name": "Hey Aaron!!!",
+      "country": "DE",
+      "topic": {
+        "es": "Comedia y vlogs",
+        "en": "Comedy vlogs",
+        "pt": "Comédia e vlogs",
+        "fr": "Comédie et vlogs",
+        "de": "Comedy-Vlogs",
+        "ru": "Комедийные влоги",
+        "ar": "فلوجات كوميدية",
+        "hi": "कॉमेडी व्लॉग",
+        "zh": "喜剧视频博客",
+        "ja": "コメディVlog"
+      },
+      "about": {
+        "es": "El youtuber berlinés Aaron Troschke, nacido en 1989 en Berlín Oriental, ganó mayor reconocimiento por sus apariciones en los programas de televisión alemanes Wer wird Millionär? y Promi Big Brother antes de construir su canal Hey Aaron!!!.",
+        "en": "Berlin-based YouTuber Aaron Troschke, born in 1989 in East Berlin, gained wider recognition through appearances on the German TV shows Wer wird Millionär? and Promi Big Brother before building his channel Hey Aaron!!!.",
+        "pt": "O youtuber berlinense Aaron Troschke, nascido em 1989 em Berlim Oriental, ganhou maior reconhecimento por participar dos programas de TV alemães Wer wird Millionär? e Promi Big Brother antes de construir seu canal Hey Aaron!!!.",
+        "fr": "Le YouTubeur berlinois Aaron Troschke, né en 1989 à Berlin-Est, s'est fait connaître grâce à ses apparitions dans les émissions télévisées allemandes Wer wird Millionär? et Promi Big Brother avant de développer sa chaîne Hey Aaron!!!.",
+        "de": "Der Berliner YouTuber Aaron Troschke, geboren 1989 in Ost-Berlin, wurde durch Auftritte in den deutschen TV-Sendungen Wer wird Millionär? und Promi Big Brother bekannt, bevor er seinen Kanal Hey Aaron!!! aufbaute.",
+        "ru": "Берлинский ютубер Аарон Трошке, родившийся в 1989 году в Восточном Берлине, получил широкую известность благодаря участию в немецких телешоу Wer wird Millionär? и Promi Big Brother, прежде чем создать свой канал Hey Aaron!!!.",
+        "ar": "اكتسب اليوتيوبر البرليني آرون تروشكه، المولود عام 1989 في برلين الشرقية، شهرة واسعة بعد ظهوره في برنامجي التلفزيون الألمانيين Wer wird Millionär? وPromi Big Brother قبل أن يبني قناته Hey Aaron!!!.",
+        "hi": "बर्लिन के यूट्यूबर आरोन ट्रोश्के, जिनका जन्म 1989 में पूर्वी बर्लिन में हुआ, उन्होंने जर्मन टीवी शो Wer wird Millionär? और Promi Big Brother में उपस्थिति के बाद व्यापक पहचान हासिल की, इससे पहले कि उन्होंने अपना चैनल Hey Aaron!!! बनाया।",
+        "zh": "现居柏林的YouTuber亚伦·特罗施克(Aaron Troschke)1989年出生于东柏林,曾参加德国电视节目《谁想成为百万富翁》和《明星老大哥》而广受关注,之后创办了自己的频道Hey Aaron!!!。",
+        "ja": "ベルリン出身のYouTuber、アーロン・トロシュケは1989年に東ベルリンで生まれ、ドイツのテレビ番組「Wer wird Millionär?」と「Promi Big Brother」への出演で知名度を上げた後、チャンネル「Hey Aaron!!!」を築いた。"
+      },
+      "handles": {
+        "youtube": "UCCprsL2xVSoReeKCCnWkd7Q",
+        "tiktok": null,
+        "instagram": "aarontroschke",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1570000
+        }
+      }
+    },
+    {
+      "id": "bibisbeautypalace",
+      "name": "BibisBeautyPalace",
+      "country": "DE",
+      "topic": {
+        "es": "Belleza y moda",
+        "en": "Beauty and fashion",
+        "pt": "Beleza e moda",
+        "fr": "Beauté et mode",
+        "de": "Beauty und Mode",
+        "ru": "Красота и мода",
+        "ar": "الجمال والموضة",
+        "hi": "सौंदर्य और फैशन",
+        "zh": "美妆与时尚",
+        "ja": "美容とファッション"
+      },
+      "about": {
+        "es": "La creadora alemana de contenido de belleza y moda Bianca Heinicke, nacida en Colonia, lanzó su canal en 2012 y se convirtió en el canal de YouTube en alemán con más suscriptores a comienzos de 2017.",
+        "en": "German beauty and fashion creator Bianca Heinicke, born in Cologne, launched her channel in 2012 and became the most-subscribed German-language YouTube channel by early 2017.",
+        "pt": "A criadora alemã de conteúdo de beleza e moda Bianca Heinicke, nascida em Colônia, lançou seu canal em 2012 e se tornou o canal do YouTube em alemão com mais inscritos no início de 2017.",
+        "fr": "La créatrice allemande de contenus beauté et mode Bianca Heinicke, née à Cologne, a lancé sa chaîne en 2012 et est devenue la chaîne YouTube germanophone la plus suivie début 2017.",
+        "de": "Die deutsche Beauty- und Modeschöpferin Bianca Heinicke, geboren in Köln, startete ihren Kanal 2012 und wurde Anfang 2017 zum meistabonnierten deutschsprachigen YouTube-Kanal.",
+        "ru": "Немецкая создательница контента о красоте и моде Бьянка Хайнике, родившаяся в Кёльне, запустила свой канал в 2012 году и к началу 2017 года стала самым популярным немецкоязычным каналом на YouTube по числу подписчиков.",
+        "ar": "أطلقت صانعة المحتوى الألمانية المتخصصة في الجمال والموضة بيانكا هاينيكه، المولودة في كولونيا، قناتها عام 2012 وأصبحت صاحبة أكثر قناة يوتيوب ناطقة بالألمانية اشتراكًا بحلول أوائل 2017.",
+        "hi": "जर्मन सौंदर्य और फैशन क्रिएटर बियांका हाइनिके, जिनका जन्म कोलोन में हुआ, उन्होंने 2012 में अपना चैनल शुरू किया और 2017 की शुरुआत तक सबसे अधिक सब्सक्राइबर वाला जर्मन भाषा का यूट्यूब चैनल बन गईं।",
+        "zh": "德国美妆时尚创作者比安卡·海尼克(Bianca Heinicke)出生于科隆,于2012年开设频道,并在2017年初成为订阅人数最多的德语YouTube频道。",
+        "ja": "ドイツの美容・ファッション系クリエイター、ビアンカ・ハイニケはケルン生まれで、2012年にチャンネルを開設し、2017年初頭にはドイツ語圏で最も登録者数の多いYouTubeチャンネルとなった。"
+      },
+      "handles": {
+        "youtube": "UCHfdTAyg5t4mb1G-3rJ6QsQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 5710000
+        }
+      }
+    },
+    {
+      "id": "lewinray",
+      "name": "Lewinray",
+      "country": "DE",
+      "topic": {
+        "es": "Comedia y bromas",
+        "en": "Comedy and pranks",
+        "pt": "Comédia e pegadinhas",
+        "fr": "Humour et blagues",
+        "de": "Comedy und Streiche",
+        "ru": "Комедия и розыгрыши",
+        "ar": "كوميديا ومقالب",
+        "hi": "कॉमेडी और शरारतें",
+        "zh": "喜剧与恶作剧",
+        "ja": "コメディといたずら"
+      },
+      "about": {
+        "es": "El creador de contenido alemán Lewin Ray Wester, originario de Eningen en Baden-Württemberg, alcanzó la fama con videos cómicos de formato corto y también toca la batería en la banda Plug'n'Play.",
+        "en": "German content creator Lewin Ray Wester, from Eningen in Baden-Württemberg, rose to fame with comedic short-form videos and also plays drums in the band Plug'n'Play.",
+        "pt": "O criador de conteúdo alemão Lewin Ray Wester, natural de Eningen, em Baden-Württemberg, ganhou fama com vídeos curtos de comédia e também toca bateria na banda Plug'n'Play.",
+        "fr": "Le créateur de contenu allemand Lewin Ray Wester, originaire d'Eningen dans le Bade-Wurtemberg, s'est fait connaître grâce à des vidéos courtes et comiques, et joue aussi de la batterie dans le groupe Plug'n'Play.",
+        "de": "Der deutsche Content Creator Lewin Ray Wester aus Eningen in Baden-Württemberg wurde durch komödiantische Kurzvideos bekannt und spielt außerdem Schlagzeug in der Band Plug'n'Play.",
+        "ru": "Немецкий контент-мейкер Левин Рэй Вестер из Энингена (Баден-Вюртемберг) прославился благодаря коротким комедийным видео, а также играет на барабанах в группе Plug'n'Play.",
+        "ar": "اشتهر صانع المحتوى الألماني ليفين راي فيستر، القادم من مدينة إينينغن في بادن-فورتمبيرغ، بفضل مقاطع فيديو كوميدية قصيرة، وهو أيضًا عازف طبول في فرقة Plug'n'Play.",
+        "hi": "जर्मन कंटेंट क्रिएटर लेविन रे वेस्टर, जो बाडेन-वुर्टेमबर्ग के एनिंगन से हैं, हास्य लघु वीडियो से प्रसिद्ध हुए और बैंड Plug'n'Play में ड्रम भी बजाते हैं।",
+        "zh": "来自巴登-符腾堡州埃宁根的德国内容创作者莱文·雷·韦斯特(Lewin Ray Wester)凭借喜剧短视频走红,同时也是乐队Plug'n'Play的鼓手。",
+        "ja": "バーデン=ヴュルテンベルク州エニンゲン出身のドイツ人クリエイター、レヴィン・レイ・ヴェスターはコメディ系ショート動画で人気を博し、バンドPlug'n'Playのドラマーも務めている。"
+      },
+      "handles": {
+        "youtube": "UCTdvynmLeTfcaqc4k40b-dA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1960000
+        }
+      }
+    },
+    {
+      "id": "lizlaz",
+      "name": "LizLaz",
+      "country": "DE",
+      "topic": {
+        "es": "Viajes y música",
+        "en": "Travel and music",
+        "pt": "Viagens e música",
+        "fr": "Voyage et musique",
+        "de": "Reisen und Musik",
+        "ru": "Путешествия и музыка",
+        "ar": "السفر والموسيقى",
+        "hi": "यात्रा और संगीत",
+        "zh": "旅行与音乐",
+        "ja": "旅行と音楽"
+      },
+      "about": {
+        "es": "La creadora germano-sudafricana conocida como LizLaz, que vive en Alemania, comparte contenido de viajes y canto, y ganó mayor atención después de que el criquetista Virat Kohli diera 'me gusta' a una de sus publicaciones en Instagram.",
+        "en": "German-South African creator known as LizLaz, who lives in Germany, shares travel and singing content and gained wider attention after cricketer Virat Kohli liked one of her Instagram posts.",
+        "pt": "A criadora alemã-sul-africana conhecida como LizLaz, que vive na Alemanha, compartilha conteúdo de viagens e canto, e ganhou mais atenção depois que o jogador de críquete Virat Kohli curtiu uma de suas publicações no Instagram.",
+        "fr": "La créatrice germano-sud-africaine connue sous le nom de LizLaz, qui vit en Allemagne, partage des contenus de voyage et de chant, et a gagné en visibilité après que le joueur de cricket Virat Kohli a aimé l'une de ses publications Instagram.",
+        "de": "Die deutsch-südafrikanische Creatorin, die als LizLaz bekannt ist und in Deutschland lebt, teilt Reise- und Gesangsinhalte und erhielt größere Aufmerksamkeit, nachdem der Cricketspieler Virat Kohli einen ihrer Instagram-Beiträge geliked hatte.",
+        "ru": "Немецко-южноафриканская авторша, известная как LizLaz и живущая в Германии, публикует контент о путешествиях и пении и получила широкую известность после того, как игрок в крикет Вират Кохли поставил лайк одному из её постов в Instagram.",
+        "ar": "صانعة المحتوى الألمانية الجنوب أفريقية المعروفة باسم LizLaz، والتي تعيش في ألمانيا، تشارك محتوى عن السفر والغناء، واكتسبت اهتمامًا أوسع بعد أن أعجب لاعب الكريكيت فيرات كوهلي بأحد منشوراتها على إنستغرام.",
+        "hi": "जर्मन-दक्षिण अफ्रीकी क्रिएटर, जिन्हें LizLaz के नाम से जाना जाता है और जो जर्मनी में रहती हैं, यात्रा और गायन से जुड़ी सामग्री साझा करती हैं, और क्रिकेटर विराट कोहली द्वारा उनकी एक इंस्टाग्राम पोस्ट को लाइक किए जाने के बाद उन्हें व्यापक ध्यान मिला।",
+        "zh": "这位居住在德国、被称为LizLaz的德国-南非籍创作者分享旅行和歌唱内容,在板球运动员维拉特·科利(Virat Kohli)点赞她的一条Instagram帖子后受到更广泛关注。",
+        "ja": "ドイツ在住のドイツ系南アフリカ人クリエイター、LizLazは旅行や歌の動画を発信しており、クリケット選手ヴィラット・コーリーが彼女のInstagram投稿に「いいね」したことで大きな注目を集めた。"
+      },
+      "handles": {
+        "youtube": "UClWFM4T0EVQ5GYA46o3_qNw",
+        "tiktok": null,
+        "instagram": "lizlaz_tv",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 308000
+        }
+      }
+    },
+    {
+      "id": "nathalia",
+      "name": "Nathalia",
+      "country": "EC",
+      "topic": {
+        "es": "Vida rural",
+        "en": "Rural life",
+        "pt": "Vida rural",
+        "fr": "Vie rurale",
+        "de": "Landleben",
+        "ru": "Сельская жизнь",
+        "ar": "الحياة الريفية",
+        "hi": "ग्रामीण जीवन",
+        "zh": "乡村生活",
+        "ja": "田舎暮らし"
+      },
+      "about": {
+        "es": "Creadora ecuatoriana que comparte vlogs de su vida familiar y rural en el campo de Ecuador, incluyendo recetas locales como las sachapapas.",
+        "en": "An Ecuadorian creator who shares family and rural-life vlogs from the Ecuadorian countryside, including local recipes like sachapapas.",
+        "pt": "Criadora equatoriana que compartilha vlogs de sua vida familiar e rural no interior do Equador, incluindo receitas locais como as sachapapas.",
+        "fr": "Créatrice équatorienne qui partage des vlogs sur sa vie familiale et rurale à la campagne en Équateur, y compris des recettes locales comme les sachapapas.",
+        "de": "Eine ecuadorianische Creatorin, die Vlogs über ihr Familien- und Landleben auf dem ecuadorianischen Land teilt, einschließlich lokaler Rezepte wie Sachapapas.",
+        "ru": "Эквадорская создательница контента, которая делится влогами о семейной и сельской жизни в эквадорской деревне, включая местные рецепты, такие как сачапапас.",
+        "ar": "صانعة محتوى إكوادورية تشارك مقاطع يومياتها العائلية والريفية في الريف الإكوادوري، بما في ذلك وصفات محلية مثل الساتشابابا.",
+        "hi": "इक्वाडोर की एक क्रिएटर जो इक्वाडोर के ग्रामीण इलाकों से अपने पारिवारिक और ग्रामीण जीवन के व्लॉग साझा करती हैं, जिसमें साचापापास जैसी स्थानीय रेसिपी शामिल हैं।",
+        "zh": "一位厄瓜多尔创作者,分享她在厄瓜多尔乡村的家庭与乡村生活视频日志,包括萨查帕帕斯等当地美食。",
+        "ja": "エクアドルの田舎での家族生活や田舎暮らしのVlogを発信するエクアドル人クリエイター。サチャパパスなど地元料理も紹介している。"
+      },
+      "handles": {
+        "youtube": "UCAvR_PfIRnmtFH8M_SwQ2dg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 302000
+        }
+      }
+    },
+    {
+      "id": "nancy-risol",
+      "name": "Nancy Risol",
+      "country": "EC",
+      "topic": {
+        "es": "Vida indígena rural",
+        "en": "Indigenous rural life",
+        "pt": "Vida rural indígena",
+        "fr": "Vie rurale indigène",
+        "de": "Indigenes Landleben",
+        "ru": "Сельская жизнь",
+        "ar": "الحياة الريفية الأصلية",
+        "hi": "आदिवासी ग्रामीण जीवन",
+        "zh": "原住民乡村生活",
+        "ja": "先住民の田舎暮らし"
+      },
+      "about": {
+        "es": "Creadora ecuatoriana de la comunidad indígena kichwa Saraguro, en la provincia de Loja, conocida por mostrar con humor su vida cotidiana en el campo.",
+        "en": "An Ecuadorian creator from the Kichwa Saraguro indigenous community in Loja province, known for humorously documenting her everyday rural life.",
+        "pt": "Criadora equatoriana da comunidade indígena kichwa Saraguro, na província de Loja, conhecida por mostrar com humor sua vida cotidiana no campo.",
+        "fr": "Créatrice équatorienne de la communauté indigène kichwa Saraguro, dans la province de Loja, connue pour montrer avec humour sa vie quotidienne à la campagne.",
+        "de": "Eine ecuadorianische Creatorin aus der indigenen Kichwa-Saraguro-Gemeinschaft in der Provinz Loja, bekannt dafür, ihr ländliches Alltagsleben humorvoll zu zeigen.",
+        "ru": "Эквадорская создательница контента из коренной общины кичва-сарагуро в провинции Лоха, известная тем, что с юмором показывает свою повседневную сельскую жизнь.",
+        "ar": "صانعة محتوى إكوادورية من مجتمع كيتشوا ساراغورو الأصلي في مقاطعة لوخا، تشتهر بعرض حياتها الريفية اليومية بأسلوب فكاهي.",
+        "hi": "इक्वाडोर की एक क्रिएटर, जो लोहा प्रांत के आदिवासी किचवा साराग्युरो समुदाय से हैं, अपने रोज़मर्रा के ग्रामीण जीवन को हास्यपूर्ण अंदाज़ में दिखाने के लिए जानी जाती हैं।",
+        "zh": "一位来自厄瓜多尔洛哈省基丘亚萨拉古罗原住民社区的创作者,以幽默方式记录其乡村日常生活而闻名。",
+        "ja": "ロハ県のキチュワ・サラグロ先住民コミュニティ出身のエクアドル人クリエイターで、ユーモラスに田舎の日常生活を紹介することで知られる。"
+      },
+      "handles": {
+        "youtube": "UCDZhJlgKdsdk_5bodS7Gm7A",
+        "tiktok": "nancyrisol",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2520000
+        }
+      }
+    },
+    {
+      "id": "nicolas-r-munoz",
+      "name": "Nicolás R Muñoz",
+      "country": "EC",
+      "topic": {
+        "es": "Negocios y emprendimiento",
+        "en": "Business & entrepreneurship",
+        "pt": "Negócios e empreendedorismo",
+        "fr": "Affaires et entrepreneuriat",
+        "de": "Wirtschaft und Unternehmertum",
+        "ru": "Бизнес и предпринимательство",
+        "ar": "الأعمال وريادة الأعمال",
+        "hi": "व्यवसाय और उद्यमिता",
+        "zh": "商业与创业",
+        "ja": "ビジネスと起業"
+      },
+      "about": {
+        "es": "Abogado y emprendedor ecuatoriano de Cuenca que presenta el programa de YouTube \"Marcas Que Impactan\", donde entrevista a empresas ecuatorianas.",
+        "en": "An Ecuadorian lawyer and entrepreneur from Cuenca who hosts the YouTube show \"Marcas Que Impactan,\" profiling Ecuadorian companies.",
+        "pt": "Advogado e empreendedor equatoriano de Cuenca que apresenta o programa do YouTube \"Marcas Que Impactan\", sobre empresas equatorianas.",
+        "fr": "Avocat et entrepreneur équatorien originaire de Cuenca, animateur de l'émission YouTube \"Marcas Que Impactan\" consacrée aux entreprises équatoriennes.",
+        "de": "Ein ecuadorianischer Anwalt und Unternehmer aus Cuenca, der die YouTube-Sendung „Marcas Que Impactan“ moderiert, in der ecuadorianische Unternehmen vorgestellt werden.",
+        "ru": "Эквадорский юрист и предприниматель из Куэнки, ведущий YouTube-шоу «Marcas Que Impactan», посвящённого эквадорским компаниям.",
+        "ar": "محامٍ ورائد أعمال إكوادوري من كوينكا يقدم برنامج يوتيوب \"Marcas Que Impactan\" الذي يستعرض شركات إكوادورية.",
+        "hi": "कुएंका के एक इक्वाडोरियन वकील और उद्यमी, जो यूट्यूब शो \"Marcas Que Impactan\" की मेज़बानी करते हैं, जिसमें इक्वाडोर की कंपनियों को दिखाया जाता है।",
+        "zh": "来自昆卡的厄瓜多尔律师兼企业家,主持YouTube节目《Marcas Que Impactan》,介绍厄瓜多尔企业。",
+        "ja": "クエンカ出身のエクアドル人弁護士兼起業家で、エクアドル企業を紹介するYouTube番組「Marcas Que Impactan」の司会を務める。"
+      },
+      "handles": {
+        "youtube": "UCoxz240SoslqMV-xVLMRKNA",
+        "tiktok": "nicolasrmunoz",
+        "instagram": "nicolasrmunoz",
+        "facebook": null,
+        "linkedin": "nicolás-r-muñoz-260a6699",
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 167000
+        }
+      }
+    },
+    {
+      "id": "wallas-da-silva",
+      "name": "Wallas Da Silva",
+      "country": "EC",
+      "topic": {
+        "es": "Entretenimiento callejero",
+        "en": "Street entertainment",
+        "pt": "Entretenimento de rua",
+        "fr": "Divertissement de rue",
+        "de": "Straßenunterhaltung",
+        "ru": "Уличные развлечения",
+        "ar": "ترفيه في الشارع",
+        "hi": "स्ट्रीट मनोरंजन",
+        "zh": "街头娱乐",
+        "ja": "ストリートエンターテインメント"
+      },
+      "about": {
+        "es": "Creador ecuatoriano radicado en Quito y originario de Guayaquil, conocido por sus videos de bromas y entrevistas callejeras grabados en distintas ciudades de Ecuador.",
+        "en": "An Ecuadorian creator based in Quito and originally from Guayaquil, known for prank and street-interview videos filmed across cities in Ecuador.",
+        "pt": "Criador equatoriano radicado em Quito e originário de Guayaquil, conhecido por vídeos de pegadinhas e entrevistas de rua gravados em cidades do Equador.",
+        "fr": "Créateur équatorien basé à Quito et originaire de Guayaquil, connu pour ses vidéos de canulars et d'interviews de rue tournées dans plusieurs villes d'Équateur.",
+        "de": "Ein ecuadorianischer Creator mit Sitz in Quito und ursprünglich aus Guayaquil, bekannt für Streich- und Straßeninterview-Videos, die in verschiedenen Städten Ecuadors gedreht wurden.",
+        "ru": "Эквадорский создатель контента, живущий в Кито и родом из Гуаякиля, известен видео с розыгрышами и уличными интервью, снятыми в разных городах Эквадора.",
+        "ar": "صانع محتوى إكوادوري مقيم في كيتو وأصله من غواياكيل، يشتهر بمقاطع المقالب والمقابلات في الشوارع المصورة في مدن مختلفة بالإكوادور.",
+        "hi": "क्विटो में रहने वाले और मूल रूप से गुआयाकिल के एक इक्वाडोरियन क्रिएटर, जो इक्वाडोर के विभिन्न शहरों में फिल्माए गए प्रैंक और स्ट्रीट-इंटरव्यू वीडियो के लिए जाने जाते हैं।",
+        "zh": "现居基多、原籍瓜亚基尔的厄瓜多尔创作者,以在厄瓜多尔各城市拍摄的整蛊和街头采访视频而闻名。",
+        "ja": "キトを拠点とし、グアヤキル出身のエクアドル人クリエイターで、エクアドル各地の街頭で撮影したドッキリやインタビュー動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCyWkiZfibCH6ENLl6D--gng",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": "wallasdasilva.ec",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2770000
+        }
+      }
+    },
+    {
+      "id": "el-quiteno",
+      "name": "EL QUITEÑO",
+      "country": "EC",
+      "topic": {
+        "es": "Vida urbana",
+        "en": "Urban street life",
+        "pt": "Vida urbana",
+        "fr": "Vie urbaine",
+        "de": "Stadtleben",
+        "ru": "Городская жизнь",
+        "ar": "الحياة الحضرية",
+        "hi": "शहरी जीवन",
+        "zh": "城市生活",
+        "ja": "都市生活"
+      },
+      "about": {
+        "es": "Creador ecuatoriano radicado en Quito conocido por sus videos sobre la vida urbana, recorriendo barrios de la ciudad y exponiendo casos de delincuencia.",
+        "en": "An Ecuadorian creator based in Quito known for street-life videos touring the city's neighborhoods and exposing crime.",
+        "pt": "Criador equatoriano radicado em Quito conhecido por vídeos sobre a vida urbana, percorrendo bairros da cidade e expondo casos de criminalidade.",
+        "fr": "Créateur équatorien basé à Quito, connu pour ses vidéos sur la vie urbaine, parcourant les quartiers de la ville et dénonçant la délinquance.",
+        "de": "Ein ecuadorianischer Creator mit Sitz in Quito, bekannt für Videos über das Stadtleben, in denen er Stadtviertel besucht und Kriminalität aufdeckt.",
+        "ru": "Эквадорский создатель контента из Кито, известный видео о городской жизни, в которых он посещает районы города и разоблачает преступность.",
+        "ar": "صانع محتوى إكوادوري مقيم في كيتو يشتهر بمقاطع فيديو عن الحياة الحضرية، يجول فيها في أحياء المدينة ويكشف حالات الجريمة.",
+        "hi": "क्विटो में रहने वाले एक इक्वाडोरियन क्रिएटर, जो शहर के इलाकों का दौरा करने और अपराध को उजागर करने वाले शहरी जीवन के वीडियो के लिए जाने जाते हैं।",
+        "zh": "居于基多的厄瓜多尔创作者,以探访城市街区、揭露犯罪现象的城市生活视频而闻名。",
+        "ja": "キトを拠点とするエクアドル人クリエイターで、市内の地区を巡り犯罪を暴く都市生活の動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCqbRP7wIm9MPhoY4FRsLBvg",
+        "tiktok": "el_quiteno",
+        "instagram": "el_quiteno",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 311000
+        }
+      }
+    },
+    {
+      "id": "ismael-sanchez",
+      "name": "Ismael Sánchez",
+      "country": "EC",
+      "topic": {
+        "es": "Streaming y comedia",
+        "en": "Streaming & comedy",
+        "pt": "Streaming e comédia",
+        "fr": "Streaming et comédie",
+        "de": "Streaming und Comedy",
+        "ru": "Стриминг и юмор",
+        "ar": "البث المباشر والكوميديا",
+        "hi": "स्ट्रीमिंग और कॉमेडी",
+        "zh": "直播与喜剧",
+        "ja": "配信とコメディ"
+      },
+      "about": {
+        "es": "Streamer ecuatoriano nacido en Ambato en 2001, conocido por su contenido humorístico en vivo y por su gira \"Tour Ecuador\" transmitida en directo.",
+        "en": "An Ecuadorian streamer born in Ambato in 2001, known for humorous livestreamed content and his \"Tour Ecuador\" live-streaming tour.",
+        "pt": "Streamer equatoriano nascido em Ambato em 2001, conhecido por seu conteúdo humorístico ao vivo e por sua turnê \"Tour Ecuador\" transmitida ao vivo.",
+        "fr": "Streamer équatorien né à Ambato en 2001, connu pour son contenu humoristique en direct et sa tournée \"Tour Ecuador\" diffusée en streaming.",
+        "de": "Ein ecuadorianischer Streamer, geboren 2001 in Ambato, bekannt für humorvolle Live-Inhalte und seine live gestreamte Tournee „Tour Ecuador“.",
+        "ru": "Эквадорский стример, родившийся в Амбато в 2001 году, известен юмористическим контентом в прямом эфире и туром «Tour Ecuador», который транслировался в прямом эфире.",
+        "ar": "بث مباشر إكوادوري وُلد في أمباتو عام 2001، يشتهر بمحتواه الفكاهي المباشر وجولته \"Tour Ecuador\" التي بُثت مباشرة.",
+        "hi": "2001 में अंबाटो में जन्मे एक इक्वाडोरियन स्ट्रीमर, जो अपने हास्यपूर्ण लाइव कंटेंट और लाइव-स्ट्रीम की गई \"Tour Ecuador\" यात्रा के लिए जाने जाते हैं।",
+        "zh": "2001年出生于安巴托的厄瓜多尔主播,以幽默的直播内容和直播巡演《Tour Ecuador》而闻名。",
+        "ja": "2001年アンバト生まれのエクアドル人配信者で、ユーモラスなライブ配信コンテンツとライブ配信された「Tour Ecuador」ツアーで知られる。"
+      },
+      "handles": {
+        "youtube": "UC-NldR5r3K3i9Spm7gwR0lw",
+        "tiktok": "ismaelsanchez18_",
+        "instagram": "ismael_sanchez18",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 303000
+        }
+      }
+    },
+    {
+      "id": "saida-zc",
+      "name": "Saida ZC",
+      "country": "EC",
+      "topic": {
+        "es": "Vida rural y cocina",
+        "en": "Rural life & cooking",
+        "pt": "Vida rural e culinária",
+        "fr": "Vie rurale et cuisine",
+        "de": "Landleben und Kochen",
+        "ru": "Сельская жизнь и кулинария",
+        "ar": "الحياة الريفية والطبخ",
+        "hi": "ग्रामीण जीवन और खाना पकाना",
+        "zh": "乡村生活与烹饪",
+        "ja": "田舎暮らしと料理"
+      },
+      "about": {
+        "es": "Creadora ecuatoriana, nacida Saida Zúñiga, que desde 2020 comparte videos sobre la vida en el campo, la cocina tradicional y las labores agrícolas.",
+        "en": "An Ecuadorian creator, born Saida Zúñiga, who has shared videos about countryside life, traditional cooking and farm work since launching her channel in 2020.",
+        "pt": "Criadora equatoriana, nascida Saida Zúñiga, que desde 2020 compartilha vídeos sobre a vida no campo, a culinária tradicional e o trabalho agrícola.",
+        "fr": "Créatrice équatorienne, née Saida Zúñiga, qui partage depuis 2020 des vidéos sur la vie à la campagne, la cuisine traditionnelle et les travaux agricoles.",
+        "de": "Eine ecuadorianische Creatorin, geboren als Saida Zúñiga, die seit 2020 Videos über das Landleben, traditionelles Kochen und landwirtschaftliche Arbeit teilt.",
+        "ru": "Эквадорская создательница контента, урождённая Саида Суньига, которая с 2020 года публикует видео о сельской жизни, традиционной кухне и работе на ферме.",
+        "ar": "صانعة محتوى إكوادورية، وُلدت باسم سايدا سونيغا، تشارك منذ عام 2020 مقاطع فيديو عن الحياة الريفية والطبخ التقليدي والعمل الزراعي.",
+        "hi": "इक्वाडोर की एक क्रिएटर, जिनका जन्म का नाम साइदा सुन्यिगा है, जो 2020 से ग्रामीण जीवन, पारंपरिक खाना पकाने और खेती-बाड़ी के काम के बारे में वीडियो साझा करती आ रही हैं।",
+        "zh": "厄瓜多尔创作者,原名萨伊达·苏尼加,自2020年起分享有关乡村生活、传统烹饪和农活的视频。",
+        "ja": "本名サイダ・スニガのエクアドル人クリエイターで、2020年のチャンネル開設以来、田舎の暮らしや伝統料理、農作業についての動画を発信している。"
+      },
+      "handles": {
+        "youtube": "UC5PI-QJi9KhaijN-lzcgNXg",
+        "tiktok": "saida.zc",
+        "instagram": "saida.zc",
+        "facebook": "SMZC8",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 550000
+        }
+      }
+    },
+    {
+      "id": "enchufetv",
+      "name": "enchufetv",
+      "country": "EC",
+      "topic": {
+        "es": "Comedia en sketches",
+        "en": "Sketch comedy",
+        "pt": "Comédia em quadros",
+        "fr": "Comédie de sketches",
+        "de": "Sketch-Comedy",
+        "ru": "Скетч-комедия",
+        "ar": "كوميديا سكتش",
+        "hi": "स्केच कॉमेडी",
+        "zh": "情景喜剧短剧",
+        "ja": "スケッチコメディ"
+      },
+      "about": {
+        "es": "Canal ecuatoriano de comedia en sketches fundado en Quito en 2011 por la productora Touché Films, convertido en la mayor marca de humor en español de YouTube.",
+        "en": "An Ecuadorian sketch-comedy channel founded in Quito in 2011 by production company Touché Films, now the largest Spanish-language comedy brand on YouTube.",
+        "pt": "Canal equatoriano de comédia em quadros fundado em Quito em 2011 pela produtora Touché Films, tornando-se a maior marca de humor em espanhol do YouTube.",
+        "fr": "Chaîne équatorienne de comédie de sketches fondée à Quito en 2011 par la société de production Touché Films, devenue la plus grande marque humoristique hispanophone de YouTube.",
+        "de": "Ein ecuadorianischer Sketch-Comedy-Kanal, der 2011 in Quito von der Produktionsfirma Touché Films gegründet wurde und heute die größte spanischsprachige Comedy-Marke auf YouTube ist.",
+        "ru": "Эквадорский скетч-комедийный канал, основанный в Кито в 2011 году продюсерской компанией Touché Films, ставший крупнейшим испаноязычным комедийным брендом на YouTube.",
+        "ar": "قناة إكوادورية للكوميديا الاسكتش تأسست في كيتو عام 2011 على يد شركة الإنتاج Touché Films، وأصبحت أكبر علامة كوميدية ناطقة بالإسبانية على يوتيوب.",
+        "hi": "2011 में क्विटो में प्रोडक्शन कंपनी टूशे फिल्म्स द्वारा स्थापित एक इक्वाडोरियन स्केच-कॉमेडी चैनल, जो अब यूट्यूब पर सबसे बड़ा स्पेनिश-भाषी कॉमेडी ब्रांड बन चुका है।",
+        "zh": "厄瓜多尔情景喜剧短剧频道,由制作公司Touché Films于2011年在基多创立,现已成为YouTube上最大的西班牙语喜剧品牌。",
+        "ja": "2011年にキトで制作会社Touché Filmsによって設立されたエクアドルのスケッチコメディチャンネルで、現在はYouTube最大のスペイン語コメディブランドとなっている。"
+      },
+      "handles": {
+        "youtube": "UCoGDh1Xa3kUCpok24JN5DKA",
+        "tiktok": "enchufetv",
+        "instagram": "enchufetv",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 29300000
+        }
+      }
     }
   ]
 }
