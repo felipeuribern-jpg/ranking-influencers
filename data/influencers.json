@@ -3153,6 +3153,490 @@
           "youtube": 799000
         }
       }
+    },
+    {
+      "id": "miketoks",
+      "name": "Miketoks",
+      "country": "DO",
+      "topic": {
+        "es": "Comedia y pareja",
+        "en": "Comedy and couple",
+        "pt": "Comédia e casal",
+        "fr": "Comédie et couple",
+        "de": "Comedy und Paar",
+        "ru": "Комедия и пара",
+        "ar": "كوميديا وزوجين",
+        "hi": "कॉमेडी और जोड़ी",
+        "zh": "喜剧与情侣",
+        "ja": "コメディとカップル"
+      },
+      "about": {
+        "es": "Creador dominicano nacido Michael Ismael Silfa, conocido por videos de humor e intercambio cultural junto a su pareja estadounidense, Morginia.",
+        "en": "A Dominican creator born Michael Ismael Silfa, known for comedy and cross-cultural videos with his American partner, Morginia.",
+        "pt": "Criador dominicano nascido Michael Ismael Silfa, conhecido por vídeos de humor e intercâmbio cultural com sua parceira americana, Morginia.",
+        "fr": "Créateur dominicain né Michael Ismael Silfa, connu pour ses vidéos d'humour et d'échange culturel avec sa partenaire américaine, Morginia.",
+        "de": "Ein dominikanischer Creator, geboren als Michael Ismael Silfa, bekannt für Comedy- und interkulturelle Videos mit seiner amerikanischen Partnerin Morginia.",
+        "ru": "Доминиканский автор по имени Майкл Исмаэль Сильфа, известный юмористическими и межкультурными видео со своей американской партнёршей Морхинией.",
+        "ar": "مبدع دومينيكي وُلد باسم مايكل إسماعيل سيلفا، اشتهر بمقاطع كوميدية وثقافية مع شريكته الأمريكية مورجينيا.",
+        "hi": "डोमिनिकन क्रिएटर, जन्म का नाम माइकल इस्माएल सिल्फा, अपनी अमेरिकी साथी मोर्जिनिया के साथ हास्य और सांस्कृतिक आदान-प्रदान वीडियो के लिए जाना जाता है।",
+        "zh": "多米尼加创作者,本名迈克尔·伊斯梅尔·西尔法,以与美国伴侣莫尔希尼亚拍摄的搞笑及跨文化交流视频而闻名。",
+        "ja": "本名マイケル・イスマエル・シルファ、ドミニカ共和国出身のクリエイター。アメリカ人パートナーのモルヒニアとのコメディや異文化交流動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCQCJqsujIh55ldum-q25VTA",
+        "tiktok": "@miketoks",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 551000
+        }
+      }
+    },
+    {
+      "id": "coro-calle",
+      "name": "CORO CALLE",
+      "country": "DO",
+      "topic": {
+        "es": "Entrevistas callejeras",
+        "en": "Street interviews",
+        "pt": "Entrevistas de rua",
+        "fr": "Interviews de rue",
+        "de": "Straßeninterviews",
+        "ru": "Уличные интервью",
+        "ar": "مقابلات الشارع",
+        "hi": "सड़क साक्षात्कार",
+        "zh": "街头采访",
+        "ja": "ストリートインタビュー"
+      },
+      "about": {
+        "es": "Creador de contenido radicado en Santo Domingo, República Dominicana, que produce entrevistas y reportajes de estilo callejero sobre la vida cotidiana en el país.",
+        "en": "A content creator based in Santo Domingo, Dominican Republic, who produces street-style interviews and reports on everyday life in the country.",
+        "pt": "Criador de conteúdo baseado em Santo Domingo, República Dominicana, que produz entrevistas e reportagens estilo rua sobre o dia a dia no país.",
+        "fr": "Créateur de contenu basé à Saint-Domingue, en République dominicaine, qui réalise des interviews et reportages de rue sur la vie quotidienne dans le pays.",
+        "de": "Ein Content Creator mit Sitz in Santo Domingo, Dominikanische Republik, der Straßeninterviews und Reportagen über den Alltag im Land produziert.",
+        "ru": "Автор контента из Санто-Доминго, Доминиканская Республика, снимающий уличные интервью и репортажи о повседневной жизни в стране.",
+        "ar": "صانع محتوى مقيم في سانتو دومينغو بجمهورية الدومينيكان، ينتج مقابلات وتقارير بأسلوب الشارع عن الحياة اليومية في البلاد.",
+        "hi": "सैंटो डोमिंगो, डोमिनिकन गणराज्य में रहने वाला एक कंटेंट क्रिएटर, जो देश के रोज़मर्रा के जीवन पर सड़क-शैली के साक्षात्कार और रिपोर्ट बनाता है।",
+        "zh": "常驻多米尼加共和国圣多明各的内容创作者,制作关于该国日常生活的街头风格采访和报道。",
+        "ja": "ドミニカ共和国サントドミンゴを拠点とするクリエイターで、同国の日常生活を題材にしたストリートスタイルのインタビューやレポートを制作している。"
+      },
+      "handles": {
+        "youtube": "UCp-9Q0iEsOwUtlwjahZ00sQ",
+        "tiktok": "@coro.calle",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 331000
+        }
+      }
+    },
+    {
+      "id": "capricornio-tv",
+      "name": "Capricornio TV",
+      "country": "DO",
+      "topic": {
+        "es": "Entrevistas de barrio",
+        "en": "Neighborhood interviews",
+        "pt": "Entrevistas de bairro",
+        "fr": "Interviews de quartier",
+        "de": "Nachbarschaftsinterviews",
+        "ru": "Интервью в кварталах",
+        "ar": "مقابلات الأحياء",
+        "hi": "मोहल्ला साक्षात्कार",
+        "zh": "街区访谈",
+        "ja": "地域インタビュー"
+      },
+      "about": {
+        "es": "Creador dominicano llamado Pablo José Rodríguez, conocido como \"el comunicador del bajo mundo\", que entrevista a residentes de barrios populares de República Dominicana.",
+        "en": "A Dominican creator named Pablo José Rodríguez, known as \"el comunicador del bajo mundo,\" who interviews residents of working-class neighborhoods across the Dominican Republic.",
+        "pt": "Criador dominicano chamado Pablo José Rodríguez, conhecido como \"o comunicador do submundo\", que entrevista moradores de bairros populares da República Dominicana.",
+        "fr": "Créateur dominicain nommé Pablo José Rodríguez, surnommé \"le communicateur du bas monde\", qui interviewe des habitants de quartiers populaires de République dominicaine.",
+        "de": "Ein dominikanischer Creator namens Pablo José Rodríguez, bekannt als \"der Kommunikator der Unterwelt\", der Bewohner einfacher Viertel in der Dominikanischen Republik interviewt.",
+        "ru": "Доминиканский автор по имени Пабло Хосе Родригес, известный как «коммуникатор из низов», берущий интервью у жителей рабочих кварталов Доминиканской Республики.",
+        "ar": "مبدع دومينيكي يُدعى بابلو خوسيه رودريغيز، ويُعرف بـ\"مذيع العالم السفلي\"، يجري مقابلات مع سكان الأحياء الشعبية في جمهورية الدومينيكان.",
+        "hi": "डोमिनिकन क्रिएटर पाब्लो होसे रोड्रिगेज़, जिन्हें \"निम्न जगत का प्रवक्ता\" कहा जाता है, जो डोमिनिकन गणराज्य के मेहनतकश मोहल्लों के निवासियों का साक्षात्कार लेते हैं।",
+        "zh": "多米尼加创作者巴勃罗·何塞·罗德里格斯,人称“底层世界的传声筒”,采访多米尼加共和国平民街区的居民。",
+        "ja": "ドミニカ共和国出身のクリエイター、パブロ・ホセ・ロドリゲス(通称「裏社会の語り手」)。同国の庶民街の住民にインタビューする。"
+      },
+      "handles": {
+        "youtube": "UCxT2ekfaQN5AJ2ph-UH4yRA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 4180000
+        }
+      }
+    },
+    {
+      "id": "alusa",
+      "name": "alusa",
+      "country": "DO",
+      "topic": {
+        "es": "Aventuras al aire libre",
+        "en": "Outdoor adventures",
+        "pt": "Aventuras ao ar livre",
+        "fr": "Aventures en plein air",
+        "de": "Outdoor-Abenteuer",
+        "ru": "Приключения на природе",
+        "ar": "مغامرات في الهواء الطلق",
+        "hi": "आउटडोर रोमांच",
+        "zh": "户外冒险",
+        "ja": "アウトドア冒険"
+      },
+      "about": {
+        "es": "Creador nacido y criado en República Dominicana que comenzó su canal en 2018 con contenido de videojuegos y ahora graba retos y aventuras al aire libre en cascadas, ríos y otros parajes del país.",
+        "en": "A creator born and raised in the Dominican Republic who started his channel in 2018 with gaming content and now films outdoor challenges and adventures at waterfalls, rivers and other spots around the country.",
+        "pt": "Criador nascido e criado na República Dominicana que iniciou seu canal em 2018 com conteúdo de games e hoje grava desafios e aventuras ao ar livre em cachoeiras, rios e outros locais do país.",
+        "fr": "Créateur né et élevé en République dominicaine, qui a lancé sa chaîne en 2018 avec du contenu de jeux vidéo et filme aujourd'hui des défis et aventures en plein air près de cascades, rivières et autres sites du pays.",
+        "de": "Ein Creator, geboren und aufgewachsen in der Dominikanischen Republik, der seinen Kanal 2018 mit Gaming-Inhalten startete und heute Outdoor-Challenges und Abenteuer an Wasserfällen, Flüssen und anderen Orten des Landes filmt.",
+        "ru": "Автор, родившийся и выросший в Доминиканской Республике, запустивший канал в 2018 году с игровым контентом, а теперь снимающий приключения и испытания на природе у водопадов, рек и других мест страны.",
+        "ar": "مبدع وُلد ونشأ في جمهورية الدومينيكان، أطلق قناته عام 2018 بمحتوى ألعاب فيديو، وهو الآن يصور تحديات ومغامرات في الهواء الطلق عند الشلالات والأنهار وأماكن أخرى في البلاد.",
+        "hi": "डोमिनिकन गणराज्य में जन्मे और पले-बढ़े एक क्रिएटर, जिन्होंने 2018 में गेमिंग कंटेंट से अपना चैनल शुरू किया और अब देश के झरनों, नदियों व अन्य स्थानों पर आउटडोर चुनौतियाँ और रोमांच फिल्माते हैं।",
+        "zh": "在多米尼加共和国出生长大的创作者,2018年以游戏内容开设频道,如今在国内瀑布、河流等地拍摄户外挑战与冒险视频。",
+        "ja": "ドミニカ共和国生まれ・育ちのクリエイター。2018年にゲーム実況チャンネルとして開始し、現在は国内の滝や川などでアウトドアチャレンジや冒険動画を撮影している。"
+      },
+      "handles": {
+        "youtube": "UCf6zgQl6Fv_vT-2oT9y5vuw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": "AlusaOficial",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 761000
+        }
+      }
+    },
+    {
+      "id": "brayan-yecauri",
+      "name": "Brayan & Yecauri",
+      "country": "DO",
+      "topic": {
+        "es": "Comedia y sketches",
+        "en": "Comedy and skits",
+        "pt": "Comédia e esquetes",
+        "fr": "Comédie et sketchs",
+        "de": "Comedy und Sketche",
+        "ru": "Комедия и скетчи",
+        "ar": "كوميديا وسكتشات",
+        "hi": "कॉमेडी और स्किट्स",
+        "zh": "喜剧短剧",
+        "ja": "コメディとコント"
+      },
+      "about": {
+        "es": "Dúo de creadores radicado en Santo Domingo, República Dominicana, que produce sketches cómicos sobre situaciones de la vida diaria bajo el lema \"solo queremos que ustedes aprendan y nosotros también\".",
+        "en": "A duo of creators based in Santo Domingo, Dominican Republic, who produce comedic skits about everyday life situations under the motto \"we just want you to learn, and us too.\"",
+        "pt": "Dupla de criadores baseada em Santo Domingo, República Dominicana, que produz esquetes cômicos sobre situações do dia a dia com o lema \"só queremos que vocês aprendam, e nós também\".",
+        "fr": "Duo de créateurs basé à Saint-Domingue, en République dominicaine, qui réalise des sketches comiques sur des situations de la vie quotidienne, avec pour devise \"nous voulons juste que vous appreniez, et nous aussi\".",
+        "de": "Ein Creator-Duo mit Sitz in Santo Domingo, Dominikanische Republik, das komische Sketche über Alltagssituationen produziert, unter dem Motto \"wir wollen nur, dass ihr lernt, und wir auch\".",
+        "ru": "Дуэт авторов из Санто-Доминго, Доминиканская Республика, снимающий комедийные скетчи о повседневных ситуациях под девизом «мы просто хотим, чтобы вы учились, и мы тоже».",
+        "ar": "ثنائي من صانعي المحتوى مقيم في سانتو دومينغو بجمهورية الدومينيكان، ينتج سكتشات كوميدية عن مواقف الحياة اليومية تحت شعار \"نريد فقط أن تتعلموا، ونحن أيضًا\".",
+        "hi": "सैंटो डोमिंगो, डोमिनिकन गणराज्य स्थित क्रिएटर जोड़ी, जो रोज़मर्रा की स्थितियों पर हास्य स्किट्स बनाती है, आदर्श वाक्य के साथ \"हम बस चाहते हैं कि आप सीखें, और हम भी\"।",
+        "zh": "常驻多米尼加共和国圣多明各的创作者组合,以“我们只希望你们学到东西,我们也一样”为口号,制作关于日常生活情境的搞笑短剧。",
+        "ja": "ドミニカ共和国サントドミンゴを拠点とするクリエイターデュオ。「あなたたちに学んでほしい、私たちも学ぶ」をモットーに、日常生活を題材にしたコメディコントを制作している。"
+      },
+      "handles": {
+        "youtube": "UCiiwh-lH4yxNmpZKI-qXyCA",
+        "tiktok": "@brayan_yecauri.1",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 208000
+        }
+      }
+    },
+    {
+      "id": "yanet-fernandez",
+      "name": "Yanet Fernández",
+      "country": "DO",
+      "topic": {
+        "es": "Vlogs y viajes",
+        "en": "Vlogs and travel",
+        "pt": "Vlogs e viagens",
+        "fr": "Vlogs et voyages",
+        "de": "Vlogs und Reisen",
+        "ru": "Влоги и путешествия",
+        "ar": "مدونات فيديو وسفر",
+        "hi": "व्लॉग और यात्रा",
+        "zh": "视频博客与旅行",
+        "ja": "ブログと旅行"
+      },
+      "about": {
+        "es": "Creadora cubana radicada en República Dominicana que comparte vlogs sobre su vida diaria y viajes por el país, incluyendo recorridos por regiones como el Cibao.",
+        "en": "A Cuban creator based in the Dominican Republic who shares vlogs about her daily life and travels around the country, including trips through regions like the Cibao.",
+        "pt": "Criadora cubana radicada na República Dominicana que compartilha vlogs sobre seu dia a dia e viagens pelo país, incluindo passeios por regiões como o Cibao.",
+        "fr": "Créatrice cubaine installée en République dominicaine qui partage des vlogs sur son quotidien et ses voyages dans le pays, notamment dans des régions comme le Cibao.",
+        "de": "Eine kubanische Creatorin mit Wohnsitz in der Dominikanischen Republik, die Vlogs über ihren Alltag und Reisen im Land teilt, unter anderem durch Regionen wie den Cibao.",
+        "ru": "Кубинская создательница контента, живущая в Доминиканской Республике, публикует влоги о повседневной жизни и путешествиях по стране, включая поездки по региону Сибао.",
+        "ar": "مبدعة كوبية مقيمة في جمهورية الدومينيكان تشارك مدونات فيديو عن حياتها اليومية ورحلاتها في البلاد، بما في ذلك جولات في مناطق مثل سيباو.",
+        "hi": "डोमिनिकन गणराज्य में रहने वाली क्यूबाई क्रिएटर, जो अपने रोज़मर्रा के जीवन और देश भर की यात्राओं, जिसमें सिबाओ जैसे क्षेत्रों की यात्राएँ शामिल हैं, पर व्लॉग साझा करती हैं।",
+        "zh": "居住在多米尼加共和国的古巴创作者,分享她的日常生活及在该国各地(包括西瓦奥地区)的旅行视频博客。",
+        "ja": "ドミニカ共和国在住のキューバ出身クリエイター。シバオ地方など国内各地への旅行を含む日常生活のブログを発信している。"
+      },
+      "handles": {
+        "youtube": "UCq-mYkYKBy1YzHAf9TpbC4g",
+        "tiktok": null,
+        "instagram": "yanet_fernandez__",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 105000
+        }
+      }
+    },
+    {
+      "id": "el-chico-sandy",
+      "name": "el chico sandy",
+      "country": "DO",
+      "topic": {
+        "es": "Entrevistas callejeras",
+        "en": "Street interviews",
+        "pt": "Entrevistas de rua",
+        "fr": "Interviews de rue",
+        "de": "Straßeninterviews",
+        "ru": "Уличные интервью",
+        "ar": "مقابلات الشارع",
+        "hi": "सड़क साक्षात्कार",
+        "zh": "街头采访",
+        "ja": "ストリートインタビュー"
+      },
+      "about": {
+        "es": "Creador y locutor dominicano que lanzó su canal de YouTube en 2016, conocido por sus vlogs de estilo de vida y entrevistas espontáneas a personas en la calle en República Dominicana.",
+        "en": "A Dominican creator and radio host who launched his YouTube channel in 2016, known for lifestyle vlogs and spontaneous street interviews with people in the Dominican Republic.",
+        "pt": "Criador e locutor dominicano que lançou seu canal no YouTube em 2016, conhecido por vlogs de estilo de vida e entrevistas espontâneas nas ruas da República Dominicana.",
+        "fr": "Créateur et animateur radio dominicain qui a lancé sa chaîne YouTube en 2016, connu pour ses vlogs lifestyle et ses interviews spontanées dans la rue en République dominicaine.",
+        "de": "Ein dominikanischer Creator und Radiomoderator, der seinen YouTube-Kanal 2016 startete und für Lifestyle-Vlogs und spontane Straßeninterviews in der Dominikanischen Republik bekannt ist.",
+        "ru": "Доминиканский автор и радиоведущий, запустивший свой YouTube-канал в 2016 году, известен лайфстайл-влогами и спонтанными уличными интервью с людьми в Доминиканской Республике.",
+        "ar": "مبدع ومذيع إذاعي دومينيكي أطلق قناته على يوتيوب عام 2016، ويشتهر بمدونات فيديو عن نمط الحياة ومقابلات عفوية في الشارع مع أشخاص في جمهورية الدومينيكان.",
+        "hi": "डोमिनिकन क्रिएटर और रेडियो होस्ट, जिन्होंने 2016 में अपना यूट्यूब चैनल शुरू किया, अपने जीवनशैली व्लॉग और डोमिनिकन गणराज्य में सड़क पर लोगों के साथ सहज साक्षात्कार के लिए जाने जाते हैं।",
+        "zh": "多米尼加创作者兼电台主持人,2016年开设YouTube频道,以生活方式视频博客和在多米尼加共和国街头即兴采访路人而闻名。",
+        "ja": "2016年にYouTubeチャンネルを開設したドミニカ共和国出身のクリエイター兼ラジオホスト。ライフスタイルVlogや同国街頭での即興インタビューで知られる。"
+      },
+      "handles": {
+        "youtube": "UCeLuaQLJSryToE0Yx5qvZPQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": "ELCHICOSANDYHD",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 906000
+        }
+      }
+    },
+    {
+      "id": "zoey-videos",
+      "name": "Zoey Vidéos",
+      "country": "BE",
+      "topic": {
+        "es": "Vida en Japón",
+        "en": "Life in Japan",
+        "pt": "Vida no Japão",
+        "fr": "Vie au Japon",
+        "de": "Leben in Japan",
+        "ru": "Жизнь в Японии",
+        "ar": "الحياة في اليابان",
+        "hi": "जापान में जीवन",
+        "zh": "日本生活",
+        "ja": "日本での生活"
+      },
+      "about": {
+        "es": "Creadora de origen belga que vivió varios años en Japón y comparte anécdotas sobre la cultura japonesa y su vida multicultural en el extranjero.",
+        "en": "A Belgian-born creator who has lived in Japan for several years and shares stories about Japanese culture and her multicultural life abroad.",
+        "pt": "Criadora de origem belga que viveu vários anos no Japão e compartilha histórias sobre a cultura japonesa e sua vida multicultural no exterior.",
+        "fr": "Créatrice d'origine belge ayant vécu plusieurs années au Japon, elle partage des anecdotes sur la culture japonaise et sa vie multiculturelle à l'étranger.",
+        "de": "Eine gebürtige Belgierin, die mehrere Jahre in Japan gelebt hat und Geschichten über die japanische Kultur und ihr multikulturelles Leben im Ausland teilt.",
+        "ru": "Создательница бельгийского происхождения, прожившая несколько лет в Японии, рассказывает о японской культуре и своей мультикультурной жизни за границей.",
+        "ar": "صانعة محتوى بلجيكية الأصل عاشت عدة سنوات في اليابان وتشارك قصصًا عن الثقافة اليابانية وحياتها متعددة الثقافات في الخارج.",
+        "hi": "बेल्जियम मूल की क्रिएटर जो कई वर्षों तक जापान में रहीं और जापानी संस्कृति व विदेश में अपने बहुसांस्कृतिक जीवन की कहानियाँ साझा करती हैं।",
+        "zh": "这位比利时出身的创作者曾在日本生活多年,分享有关日本文化及她在海外多元文化生活的故事。",
+        "ja": "ベルギー出身のクリエイターで、数年間日本で暮らした経験から日本文化と海外での多文化生活について発信している。"
+      },
+      "handles": {
+        "youtube": "UC7IBETC7KeyWaJEFTUKhw_w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": "ZoeyVideos",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 267000
+        }
+      }
+    },
+    {
+      "id": "nico-en-vrai",
+      "name": "Nico En Vrai",
+      "country": "BE",
+      "topic": {
+        "es": "Comedia y humor",
+        "en": "Comedy and humor",
+        "pt": "Comédia e humor",
+        "fr": "Humour",
+        "de": "Comedy und Humor",
+        "ru": "Комедия и юмор",
+        "ar": "الكوميديا والفكاهة",
+        "hi": "कॉमेडी और हास्य",
+        "zh": "喜剧与幽默",
+        "ja": "コメディ・ユーモア"
+      },
+      "about": {
+        "es": "Humorista belga (Nicolas Lacroix) que pasó de TikTok a los escenarios con su espectáculo 'Trop Gentil', presentado en Bélgica, Francia y Suiza.",
+        "en": "A Belgian comedian (Nicolas Lacroix) who moved from TikTok to the stage with his show 'Trop Gentil', performed in Belgium, France and Switzerland.",
+        "pt": "Humorista belga (Nicolas Lacroix) que passou do TikTok para os palcos com seu espetáculo 'Trop Gentil', apresentado na Bélgica, França e Suíça.",
+        "fr": "Humoriste belge (Nicolas Lacroix) passé de TikTok à la scène avec son spectacle 'Trop Gentil', joué en Belgique, en France et en Suisse.",
+        "de": "Ein belgischer Comedian (Nicolas Lacroix), der von TikTok auf die Bühne wechselte und sein Programm 'Trop Gentil' in Belgien, Frankreich und der Schweiz aufführt.",
+        "ru": "Бельгийский комик (Николя Лакруа), перешедший из TikTok на сцену со своим шоу 'Trop Gentil', которое показывают в Бельгии, Франции и Швейцарии.",
+        "ar": "فنان كوميدي بلجيكي (نيكولا لاكروا) انتقل من تيك توك إلى خشبة المسرح بعرضه 'Trop Gentil' الذي يُقدَّم في بلجيكا وفرنسا وسويسرا.",
+        "hi": "बेल्जियन कॉमेडियन (निकोला लाक्रोआ) जो टिकटॉक से स्टेज तक पहुंचे, उनका शो 'Trop Gentil' बेल्जियम, फ्रांस और स्विट्जरलैंड में प्रस्तुत होता है।",
+        "zh": "比利时喜剧演员(尼古拉·拉克鲁瓦)从TikTok走上舞台,其喜剧秀《Trop Gentil》在比利时、法国和瑞士巡演。",
+        "ja": "ベルギーのコメディアン(ニコラ・ラクロワ)。TikTokからステージへ進出し、舞台『Trop Gentil』をベルギー、フランス、スイスで上演している。"
+      },
+      "handles": {
+        "youtube": "UCMpHe7brF25VbPpDnUOyHhQ",
+        "tiktok": "nicoenvrai",
+        "instagram": "nicoenvrai",
+        "facebook": "NicoEnVraii",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 685000
+        }
+      }
+    },
+    {
+      "id": "anthony-sirius",
+      "name": "Anthony Sirius",
+      "country": "BE",
+      "topic": {
+        "es": "Negocios y emprendimiento",
+        "en": "Business and entrepreneurship",
+        "pt": "Negócios e empreendedorismo",
+        "fr": "Business et entrepreneuriat",
+        "de": "Business und Unternehmertum",
+        "ru": "Бизнес и предпринимательство",
+        "ar": "الأعمال وريادة الأعمال",
+        "hi": "व्यवसाय और उद्यमिता",
+        "zh": "商业与创业",
+        "ja": "ビジネス・起業"
+      },
+      "about": {
+        "es": "Creador belga originario de Wauthier-Braine (Brabante Valón) que comparte contenido sobre comercio electrónico, trading y emprendimiento digital.",
+        "en": "A Belgian creator from Wauthier-Braine (Walloon Brabant) who shares content about e-commerce, trading and digital entrepreneurship.",
+        "pt": "Criador belga originário de Wauthier-Braine (Brabante Valão) que compartilha conteúdo sobre comércio eletrônico, trading e empreendedorismo digital.",
+        "fr": "Créateur belge originaire de Wauthier-Braine (Brabant wallon), il partage du contenu sur l'e-commerce, le trading et l'entrepreneuriat numérique.",
+        "de": "Ein belgischer Creator aus Wauthier-Braine (Wallonisch-Brabant), der Inhalte zu E-Commerce, Trading und digitalem Unternehmertum teilt.",
+        "ru": "Бельгийский автор из Ватье-Брен (Валлонский Брабант), рассказывающий об электронной коммерции, трейдинге и цифровом предпринимательстве.",
+        "ar": "صانع محتوى بلجيكي من مدينة فوتييه-براين (برابانت الوالوني) يشارك محتوى عن التجارة الإلكترونية والتداول وريادة الأعمال الرقمية.",
+        "hi": "वाउथिए-ब्रेन (वालून ब्राबांट) से बेल्जियन क्रिएटर, जो ई-कॉमर्स, ट्रेडिंग और डिजिटल उद्यमिता पर सामग्री साझा करते हैं।",
+        "zh": "来自比利时瓦隆布拉班特省沃蒂耶-布雷讷的创作者,分享电子商务、交易与数字创业相关内容。",
+        "ja": "ベルギーのワロン・ブラバント州ヴォティエ=ブレーヌ出身のクリエイター。eコマースやトレード、デジタル起業について発信している。"
+      },
+      "handles": {
+        "youtube": "UCLaIGyQj2dvPpSQ2r7HROHQ",
+        "tiktok": null,
+        "instagram": "anthony.sirius",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": "anthony.sirius"
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 267000
+        }
+      }
+    },
+    {
+      "id": "would-you-react",
+      "name": "Would You React ?",
+      "country": "BE",
+      "topic": {
+        "es": "Experimentos sociales",
+        "en": "Social experiments",
+        "pt": "Experimentos sociais",
+        "fr": "Expériences sociales",
+        "de": "Soziale Experimente",
+        "ru": "Социальные эксперименты",
+        "ar": "تجارب اجتماعية",
+        "hi": "सामाजिक प्रयोग",
+        "zh": "社会实验",
+        "ja": "社会実験"
+      },
+      "about": {
+        "es": "Canal belga fundado en 2017 por dos jóvenes de Bruselas, Yves-Pascal Mukadi y Jonathan Lambinet, que graba experimentos sociales con cámara oculta para concienciar sobre problemas como el acoso o la discriminación.",
+        "en": "A Belgian channel founded in 2017 by two young Brussels residents, Yves-Pascal Mukadi and Jonathan Lambinet, that films hidden-camera social experiments to raise awareness about issues such as harassment and discrimination.",
+        "pt": "Canal belga fundado em 2017 por dois jovens de Bruxelas, Yves-Pascal Mukadi e Jonathan Lambinet, que grava experimentos sociais com câmera oculta para conscientizar sobre assédio e discriminação.",
+        "fr": "Chaîne belge fondée en 2017 par deux jeunes Bruxellois, Yves-Pascal Mukadi et Jonathan Lambinet, qui filme des expériences sociales en caméra cachée pour sensibiliser au harcèlement et aux discriminations.",
+        "de": "Ein belgischer Kanal, 2017 von den beiden Brüsselern Yves-Pascal Mukadi und Jonathan Lambinet gegründet, der versteckte Kamera-Sozialexperimente zu Themen wie Belästigung und Diskriminierung filmt.",
+        "ru": "Бельгийский канал, основанный в 2017 году двумя жителями Брюсселя, Ив-Паскалем Мукади и Джонатаном Ламбине, снимает социальные эксперименты со скрытой камерой о притеснениях и дискриминации.",
+        "ar": "قناة بلجيكية أسسها عام 2017 شابان من بروكسل، إيف-باسكال موكادي وجوناثان لامبينيه، تصور تجارب اجتماعية بكاميرا خفية للتوعية بقضايا مثل التحرش والتمييز.",
+        "hi": "2017 में ब्रुसेल्स के दो युवाओं, यीव-पास्कल मुकादी और जोनाथन लैम्बिने, द्वारा स्थापित बेल्जियन चैनल, जो उत्पीड़न और भेदभाव जैसे मुद्दों पर जागरूकता के लिए छुपे कैमरे से सामाजिक प्रयोग फिल्माता है।",
+        "zh": "这是一个2017年由两位布鲁塞尔青年伊夫-帕斯卡尔·穆卡迪和乔纳森·朗比内创立的比利时频道,通过隐藏摄像机拍摄社会实验,提高公众对骚扰和歧视等问题的意识。",
+        "ja": "2017年にブリュッセル出身の若者イヴ=パスカル・ムカディとジョナサン・ランビネによって設立されたベルギーのチャンネルで、隠しカメラによる社会実験を通じてハラスメントや差別への意識を高める内容を発信している。"
+      },
+      "handles": {
+        "youtube": "UCNr_3eV0jjz6jrlR6vcDl1Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1160000
+        }
+      }
     }
   ]
 }
