@@ -9111,6 +9111,534 @@
           "youtube": 19100000
         }
       }
+    },
+    {
+      "id": "carryminati",
+      "name": "CarryMinati",
+      "country": "IN",
+      "topic": {
+        "es": "Comedia y roasts",
+        "en": "Comedy and roasts",
+        "pt": "Comédia e roasts",
+        "fr": "Comédie et roasts",
+        "de": "Comedy und Roasts",
+        "ru": "Комедия и роасты",
+        "ar": "كوميديا وروستس",
+        "hi": "कॉमेडी और रोस्ट",
+        "zh": "喜剧与吐槽",
+        "ja": "コメディとロースト"
+      },
+      "about": {
+        "es": "Creador indio nacido en Faridabad (Ajey Nagar), conocido por sus videos de roast en hindi, sketches de comedia y contenido de gaming.",
+        "en": "Indian creator born in Faridabad (Ajey Nagar), known for Hindi-language roast videos, comedy sketches and gaming content.",
+        "pt": "Criador indiano nascido em Faridabad (Ajey Nagar), conhecido por vídeos de roast em hindi, esquetes de comédia e conteúdo de games.",
+        "fr": "Créateur indien né à Faridabad (Ajey Nagar), connu pour ses vidéos de roast en hindi, ses sketches comiques et son contenu gaming.",
+        "de": "Indischer Creator aus Faridabad (Ajey Nagar), bekannt für Hindi-sprachige Roast-Videos, Comedy-Sketche und Gaming-Inhalte.",
+        "ru": "Индийский автор из Фаридабада (Аджей Нагар), известен видео-роастами на хинди, комедийными скетчами и игровым контентом.",
+        "ar": "مبدع هندي وُلد في فريداباد (أجاي ناغار)، اشتهر بمقاطع الروست باللغة الهندية والسكتشات الكوميدية ومحتوى الألعاب.",
+        "hi": "फरीदाबाद में जन्मे भारतीय क्रिएटर (अजय नागर), हिंदी रोस्ट वीडियो, कॉमेडी स्केच और गेमिंग कंटेंट के लिए जाने जाते हैं।",
+        "zh": "出生于法里达巴德的印度创作者(阿杰伊·纳加尔),以印地语吐槽视频、喜剧短剧和游戏内容闻名。",
+        "ja": "ファリダーバード出身のインド人クリエイター(アジェイ・ナガル)、ヒンディー語のロースト動画やコメディスケッチ、ゲーム実況で知られる。"
+      },
+      "handles": {
+        "youtube": "UCj22tfcQrWG7EMEKS0qLeEg",
+        "tiktok": null,
+        "instagram": "carryminati",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 45800000
+        }
+      }
+    },
+    {
+      "id": "bb-ki-vines",
+      "name": "BB Ki Vines",
+      "country": "IN",
+      "topic": {
+        "es": "Comedia y sketches",
+        "en": "Comedy sketches",
+        "pt": "Comédia e esquetes",
+        "fr": "Sketches comiques",
+        "de": "Comedy-Sketche",
+        "ru": "Комедийные скетчи",
+        "ar": "سكتشات كوميدية",
+        "hi": "कॉमेडी स्केच",
+        "zh": "喜剧短剧",
+        "ja": "コメディスケッチ"
+      },
+      "about": {
+        "es": "Canal del comediante indio Bhuvan Bam, originario de Delhi, con sketches de pocos minutos que retratan la vida de un joven urbano interpretando él mismo a todos los personajes.",
+        "en": "Channel by Indian comedian Bhuvan Bam, from Delhi, featuring short sketches depicting the life of an urban teenager with Bam playing all the characters himself.",
+        "pt": "Canal do comediante indiano Bhuvan Bam, natural de Delhi, com esquetes curtos que retratam a vida de um jovem urbano, com Bam interpretando todos os personagens.",
+        "fr": "Chaîne de l'humoriste indien Bhuvan Bam, originaire de Delhi, avec des sketches courts dépeignant la vie d'un jeune urbain, Bam interprétant tous les personnages.",
+        "de": "Kanal des indischen Comedians Bhuvan Bam aus Delhi mit kurzen Sketchen über das Leben eines städtischen Teenagers, in denen Bam alle Figuren selbst spielt.",
+        "ru": "Канал индийского комика Бхувана Бама из Дели с короткими скетчами о жизни городского подростка, где Бам сам играет всех персонажей.",
+        "ar": "قناة الكوميدي الهندي بهوفان بام من دلهي، تعرض سكتشات قصيرة تصور حياة مراهق حضري، حيث يؤدي بام جميع الشخصيات بنفسه.",
+        "hi": "दिल्ली के भारतीय कॉमेडियन भुवन बाम का चैनल, जिसमें छोटे स्केच एक शहरी युवा के जीवन को दर्शाते हैं और बाम स्वयं सभी किरदार निभाते हैं।",
+        "zh": "印度喜剧演员Bhuvan Bam(来自德里)的频道,以短剧描绘都市青年的生活,所有角色均由他本人扮演。",
+        "ja": "デリー出身のインド人コメディアン、ブヴァン・バムのチャンネル。都会の若者の生活を描いた短編スケッチで、登場人物は全て本人が演じる。"
+      },
+      "handles": {
+        "youtube": "UCqwUrj10mAEsqezcItqvwEw",
+        "tiktok": null,
+        "instagram": "bhuvan.bam22",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 26500000
+        }
+      }
+    },
+    {
+      "id": "felipe-neto",
+      "name": "Felipe Neto",
+      "country": "BR",
+      "topic": {
+        "es": "Comedia y comentario",
+        "en": "Comedy and commentary",
+        "pt": "Humor e comentário",
+        "fr": "Comédie et commentaire",
+        "de": "Comedy und Kommentar",
+        "ru": "Комедия и комментарии",
+        "ar": "كوميديا وتعليق",
+        "hi": "कॉमेडी और टिप्पणी",
+        "zh": "喜剧与时事评论",
+        "ja": "コメディと時事解説"
+      },
+      "about": {
+        "es": "Creador brasileño radicado en Rio de Janeiro que comenzó con videos de humor y actualmente combina comentario social, política y crítica cultural.",
+        "en": "A Brazilian creator based in Rio de Janeiro who started with comedy videos and now mixes social commentary, politics and cultural criticism.",
+        "pt": "Criador brasileiro radicado no Rio de Janeiro que começou com vídeos de humor e hoje mistura comentário social, política e crítica cultural.",
+        "fr": "Créateur brésilien basé à Rio de Janeiro, qui a débuté avec des vidéos humoristiques et mêle aujourd'hui commentaire social, politique et critique culturelle.",
+        "de": "Ein brasilianischer Creator mit Sitz in Rio de Janeiro, der mit Comedy-Videos begann und heute Gesellschaftskommentar, Politik und Kulturkritik verbindet.",
+        "ru": "Бразильский автор из Рио-де-Жанейро, начинавший с юмористических видео, а сегодня сочетающий общественную критику, политику и культурные обзоры.",
+        "ar": "صانع محتوى برازيلي مقيم في ريو دي جانيرو بدأ بمقاطع فكاهية ويمزج الآن بين التعليق الاجتماعي والسياسة والنقد الثقافي.",
+        "hi": "रियो डी जनेरियो में रहने वाला ब्राज़ीलियाई क्रिएटर जिसने कॉमेडी वीडियो से शुरुआत की और अब सामाजिक टिप्पणी, राजनीति और सांस्कृतिक आलोचना को जोड़ता है।",
+        "zh": "常驻里约热内卢的巴西创作者，最初以喜剧视频起家，如今内容融合社会评论、政治与文化批评。",
+        "ja": "リオデジャネイロを拠点とするブラジル人クリエイターで、コメディ動画から始まり、現在は社会評論・政治・文化批評を発信している。"
+      },
+      "handles": {
+        "youtube": "UCV306eHqgo0LvBf3Mh36AHg",
+        "tiktok": null,
+        "instagram": "felipeneto",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 48100000
+        }
+      }
+    },
+    {
+      "id": "whindersson-nunes",
+      "name": "Whindersson Nunes",
+      "country": "BR",
+      "topic": {
+        "es": "Comedia y música",
+        "en": "Comedy and music",
+        "pt": "Humor e música",
+        "fr": "Comédie et musique",
+        "de": "Comedy und Musik",
+        "ru": "Комедия и музыка",
+        "ar": "كوميديا وموسيقى",
+        "hi": "कॉमेडी और संगीत",
+        "zh": "喜剧与音乐",
+        "ja": "コメディと音楽"
+      },
+      "about": {
+        "es": "Comediante y músico brasileño radicado en la región de São Paulo, conocido por sus videos de humor y también por su carrera como boxeador amateur.",
+        "en": "A Brazilian comedian and musician based near São Paulo, known for his comedy videos and also for a stint as an amateur boxer.",
+        "pt": "Comediante e músico brasileiro radicado na região de São Paulo, conhecido por seus vídeos de humor e também por sua passagem pelo boxe amador.",
+        "fr": "Humoriste et musicien brésilien basé près de São Paulo, connu pour ses vidéos comiques et pour son passage dans la boxe amateur.",
+        "de": "Ein brasilianischer Comedian und Musiker mit Sitz in der Region São Paulo, bekannt für seine Comedy-Videos und einen Ausflug ins Amateurboxen.",
+        "ru": "Бразильский комик и музыкант, проживающий в районе Сан-Паулу, известный юмористическими видео, а также опытом в любительском боксе.",
+        "ar": "كوميدي وموسيقي برازيلي مقيم بالقرب من ساو باولو، اشتهر بمقاطعه الفكاهية وأيضاً بخوضه الملاكمة كهاوٍ.",
+        "hi": "साओ पाउलो क्षेत्र में रहने वाला ब्राज़ीलियाई कॉमेडियन और संगीतकार, जो अपने हास्य वीडियो के साथ-साथ शौकिया मुक्केबाज़ी में भागीदारी के लिए भी जाना जाता है।",
+        "zh": "常驻圣保罗地区的巴西喜剧演员兼音乐人，以幽默视频闻名，也曾涉足业余拳击。",
+        "ja": "サンパウロ近郊在住のブラジル人コメディアン兼ミュージシャンで、コメディ動画のほかアマチュアボクシング経験でも知られる。"
+      },
+      "handles": {
+        "youtube": "UC3KQ5GWANYF8lChqjZpXsQw",
+        "tiktok": null,
+        "instagram": "whinderssonnunes",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 44600000
+        }
+      }
+    },
+    {
+      "id": "vikkstar123",
+      "name": "Vikkstar123",
+      "country": "GB",
+      "topic": {
+        "es": "Videojuegos",
+        "en": "Gaming",
+        "pt": "Jogos",
+        "fr": "Jeux vidéo",
+        "de": "Gaming",
+        "ru": "Игры",
+        "ar": "ألعاب فيديو",
+        "hi": "गेमिंग",
+        "zh": "游戏",
+        "ja": "ゲーム"
+      },
+      "about": {
+        "es": "YouTuber de videojuegos y DJ nacido en Guildford, Inglaterra, conocido por ser miembro del grupo británico de YouTube Sidemen.",
+        "en": "A gaming YouTuber and DJ from Guildford, England, best known as a member of the British YouTube group the Sidemen.",
+        "pt": "YouTuber de jogos e DJ nascido em Guildford, na Inglaterra, conhecido por ser membro do grupo britânico de YouTube Sidemen.",
+        "fr": "YouTubeur de jeux vidéo et DJ né à Guildford, en Angleterre, connu pour être membre du collectif britannique YouTube Sidemen.",
+        "de": "Ein Gaming-YouTuber und DJ aus Guildford, England, bekannt als Mitglied der britischen YouTube-Gruppe Sidemen.",
+        "ru": "Ютубер по видеоиграм и диджей из Гилфорда, Англия, известный как участник британской ютуб-группы Sidemen.",
+        "ar": "يوتيوبر ألعاب ومنسق أغانٍ (دي جي) وُلد في غيلدفورد بإنجلترا، ويُعرف بعضويته في مجموعة اليوتيوب البريطانية Sidemen.",
+        "hi": "गिल्डफ़ोर्ड, इंग्लैंड में जन्मे एक गेमिंग यूट्यूबर और डीजे, जो ब्रिटिश यूट्यूब समूह Sidemen के सदस्य के रूप में जाने जाते हैं।",
+        "zh": "一位出生于英格兰吉尔福德的游戏类YouTuber兼DJ,以英国YouTube团体Sidemen成员的身份而闻名。",
+        "ja": "イングランドのギルフォード出身のゲーム系YouTuberでDJでもあり、イギリスのYouTubeグループSidemenのメンバーとして知られる。"
+      },
+      "handles": {
+        "youtube": "UCvwgF_0NOZe2vN4Q3g1bY-A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 7570000
+        }
+      }
+    },
+    {
+      "id": "zoella-zoe-sugg",
+      "name": "Zoella (Zoe Sugg)",
+      "country": "GB",
+      "topic": {
+        "es": "Estilo de vida, belleza",
+        "en": "Lifestyle, beauty",
+        "pt": "Estilo de vida, beleza",
+        "fr": "Style de vie, beauté",
+        "de": "Lifestyle, Beauty",
+        "ru": "Стиль жизни, красота",
+        "ar": "أسلوب حياة، جمال",
+        "hi": "लाइफस्टाइल, ब्यूटी",
+        "zh": "生活方式、美妆",
+        "ja": "ライフスタイル、美容"
+      },
+      "about": {
+        "es": "YouTuber de estilo de vida y belleza radicada en Brighton, Inglaterra, una de las primeras grandes vlogueras del Reino Unido y autora de libros más vendidos.",
+        "en": "A lifestyle and beauty YouTuber based in Brighton, England, one of the UK's earliest major vloggers and a bestselling author.",
+        "pt": "YouTuber de estilo de vida e beleza radicada em Brighton, na Inglaterra, uma das primeiras grandes vloggers do Reino Unido e autora best-seller.",
+        "fr": "YouTubeuse lifestyle et beauté basée à Brighton, en Angleterre, l'une des premières grandes vlogueuses du Royaume-Uni et autrice à succès.",
+        "de": "Eine Lifestyle- und Beauty-YouTuberin aus Brighton, England, eine der ersten großen Vloggerinnen Großbritanniens und Bestsellerautorin.",
+        "ru": "Ютубер, освещающая тематику стиля жизни и красоты, проживающая в Брайтоне, Англия, одна из первых крупных влогеров Великобритании и автор бестселлеров.",
+        "ar": "يوتيوبر متخصصة في أسلوب الحياة والجمال، تقيم في برايتون بإنجلترا، وتُعد من أوائل كبار صانعات الفلوغ في بريطانيا ومؤلفة كتب الأكثر مبيعاً.",
+        "hi": "ब्राइटन, इंग्लैंड में रहने वाली एक लाइफस्टाइल और ब्यूटी यूट्यूबर, जो यूके की शुरुआती प्रमुख व्लॉगर्स में से एक हैं और एक बेस्टसेलिंग लेखिका भी हैं।",
+        "zh": "一位居住在英格兰布莱顿的生活方式与美妆类YouTuber,是英国最早的重要视频博主之一,也是畅销书作家。",
+        "ja": "イングランドのブライトンを拠点とするライフスタイル・美容系YouTuberで、英国最初期の主要なブロガーの一人であり、ベストセラー作家でもある。"
+      },
+      "handles": {
+        "youtube": "UCWRV5AVOlKJR1Flvgt310Cw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 10400000
+        }
+      }
+    },
+    {
+      "id": "khaby-lame",
+      "name": "Khaby Lame",
+      "country": "IT",
+      "topic": {
+        "es": "Comedia silenciosa",
+        "en": "Silent comedy",
+        "pt": "Comédia silenciosa",
+        "fr": "Comédie silencieuse",
+        "de": "Stumme Komödie",
+        "ru": "Немая комедия",
+        "ar": "كوميديا صامتة",
+        "hi": "मूक कॉमेडी",
+        "zh": "无声喜剧",
+        "ja": "サイレントコメディ"
+      },
+      "about": {
+        "es": "Creador nacido en Senegal, criado y radicado en Milán, Italia, país del que obtuvo la ciudadanía en 2022; se hizo famoso mundialmente por sus videos de reacción sin diálogo que se burlan de tutoriales de la vida innecesariamente complicados.",
+        "en": "A creator born in Senegal, raised and based in Milan, Italy, where he obtained citizenship in 2022; became internationally famous for wordless reaction videos mocking overly complicated life-hack tutorials.",
+        "pt": "Criador nascido no Senegal, criado e radicado em Milão, Itália, onde obteve a cidadania em 2022; ficou mundialmente famoso por vídeos de reação sem fala que zombam de tutoriais de \"macetes\" desnecessariamente complicados.",
+        "fr": "Créateur né au Sénégal, élevé et installé à Milan, en Italie, où il a obtenu la citoyenneté en 2022 ; devenu célèbre dans le monde entier grâce à des vidéos de réaction sans paroles se moquant de tutoriels de la vie inutilement compliqués.",
+        "de": "Ein in Senegal geborener Creator, der in Mailand, Italien, aufwuchs und lebt, wo er 2022 die Staatsbürgerschaft erhielt; wurde international bekannt durch wortlose Reaktionsvideos, die unnötig komplizierte Lifehack-Tutorials verspotten.",
+        "ru": "Создатель контента, родившийся в Сенегале, выросший и живущий в Милане, Италия, где в 2022 году получил гражданство; прославился на весь мир благодаря немым видео-реакциям, высмеивающим излишне усложнённые лайфхак-туториалы.",
+        "ar": "صانع محتوى وُلد في السنغال ونشأ ويقيم في ميلانو بإيطاليا، حيث حصل على الجنسية عام 2022؛ اشتهر عالميًا بمقاطع ردود فعل صامتة تسخر من دروس الحيل الحياتية المعقدة دون داع.",
+        "hi": "सेनेगल में जन्मे, इटली के मिलान में पले-बढ़े और वहीं बसे क्रिएटर, जिन्हें 2022 में इतालवी नागरिकता मिली; अनावश्यक रूप से जटिल लाइफ-हैक ट्यूटोरियल का मज़ाक उड़ाने वाले बिना संवाद वाले प्रतिक्रिया वीडियो से विश्व भर में प्रसिद्ध हुए।",
+        "zh": "出生于塞内加尔、在意大利米兰长大并定居的创作者,2022年获得意大利国籍;因制作无对白的反应视频嘲讽过度复杂的生活技巧教程而闻名全球。",
+        "ja": "セネガル生まれでイタリア・ミラノで育ち、現在も同地在住のクリエイター。2022年にイタリア国籍を取得。無駄に複雑な生活の知恵動画を皮肉る無言のリアクション動画で世界的に有名になった。"
+      },
+      "handles": {
+        "youtube": "UC86suRFnqiw8zN6LIYxddYQ",
+        "tiktok": "khaby.lame",
+        "instagram": "khaby00",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 13000000
+        }
+      }
+    },
+    {
+      "id": "favij",
+      "name": "Favij",
+      "country": "IT",
+      "topic": {
+        "es": "Videojuegos, vlogs",
+        "en": "Gaming, vlogs",
+        "pt": "Games, vlogs",
+        "fr": "Jeux vidéo, vlogs",
+        "de": "Gaming, Vlogs",
+        "ru": "Игры, влоги",
+        "ar": "ألعاب، فلوغات",
+        "hi": "गेमिंग, व्लॉग",
+        "zh": "游戏,视频博客",
+        "ja": "ゲーム実況、Vlog"
+      },
+      "about": {
+        "es": "Creador italiano cuyo canal FavijTV, centrado en videojuegos y vlogs, fue el primer canal de YouTube de un italiano en superar el millón de suscriptores, en 2014.",
+        "en": "An Italian creator whose channel FavijTV, focused on gaming and vlogs, became in 2014 the first Italian YouTube channel to surpass one million subscribers.",
+        "pt": "Criador italiano cujo canal FavijTV, focado em games e vlogs, foi o primeiro canal do YouTube de um italiano a ultrapassar um milhão de inscritos, em 2014.",
+        "fr": "Créateur italien dont la chaîne FavijTV, centrée sur les jeux vidéo et les vlogs, fut en 2014 la première chaîne YouTube italienne à dépasser le million d'abonnés.",
+        "de": "Italienischer Creator, dessen auf Gaming und Vlogs ausgerichteter Kanal FavijTV 2014 als erster italienischer YouTube-Kanal die Marke von einer Million Abonnenten überschritt.",
+        "ru": "Итальянский создатель контента, чей канал FavijTV, посвящённый играм и влогам, в 2014 году стал первым итальянским YouTube-каналом, преодолевшим отметку в миллион подписчиков.",
+        "ar": "صانع محتوى إيطالي قناته FavijTV، المتخصصة في الألعاب والفلوغات، كانت أول قناة يوتيوب إيطالية تتجاوز مليون مشترك في عام 2014.",
+        "hi": "इतालवी क्रिएटर जिनका चैनल FavijTV, गेमिंग और व्लॉग पर केंद्रित है, 2014 में दस लाख सब्सक्राइबर पार करने वाला पहला इतालवी यूट्यूब चैनल बना।",
+        "zh": "意大利创作者,其频道FavijTV专注于游戏和视频博客,于2014年成为首个订阅数突破一百万的意大利YouTube频道。",
+        "ja": "イタリアのクリエイターで、ゲーム実況とVlogを中心としたチャンネル「FavijTV」は、2014年にイタリア人として初めて登録者数100万人を超えたYouTubeチャンネルとなった。"
+      },
+      "handles": {
+        "youtube": "UCSFC5Cio8zaLQDFPxA7y_HQ",
+        "tiktok": null,
+        "instagram": "favij",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 6740000
+        }
+      }
+    },
+    {
+      "id": "theshow",
+      "name": "theShow",
+      "country": "IT",
+      "topic": {
+        "es": "Bromas, experimentos sociales",
+        "en": "Pranks, social experiments",
+        "pt": "Pegadinhas, experimentos sociais",
+        "fr": "Canulars, expériences sociales",
+        "de": "Streiche, soziale Experimente",
+        "ru": "Розыгрыши, социальные эксперименты",
+        "ar": "مقالب، تجارب اجتماعية",
+        "hi": "प्रैंक, सामाजिक प्रयोग",
+        "zh": "整蛊,社会实验",
+        "ja": "ドッキリ、社会実験"
+      },
+      "about": {
+        "es": "Dúo italiano de Milán, formado por Alessio Stigliano y Alessandro Tenace, que desde 2013 sube videos de bromas y experimentos sociales y que en 2016 ganó el reality show italiano Pechino Express.",
+        "en": "An Italian duo from Milan, made up of Alessio Stigliano and Alessandro Tenace, who have posted prank and social-experiment videos since 2013 and won the Italian reality show Pechino Express in 2016.",
+        "pt": "Dupla italiana de Milão, formada por Alessio Stigliano e Alessandro Tenace, que desde 2013 publica vídeos de pegadinhas e experimentos sociais e venceu o reality show italiano Pechino Express em 2016.",
+        "fr": "Duo italien de Milan, composé d'Alessio Stigliano et d'Alessandro Tenace, qui publie depuis 2013 des vidéos de canulars et d'expériences sociales et a remporté l'émission de téléréalité italienne Pechino Express en 2016.",
+        "de": "Italienisches Duo aus Mailand, bestehend aus Alessio Stigliano und Alessandro Tenace, das seit 2013 Streich- und Social-Experiment-Videos veröffentlicht und 2016 die italienische Reality-Show Pechino Express gewann.",
+        "ru": "Итальянский дуэт из Милана в составе Алессио Стильяно и Алессандро Теначе, публикующий с 2013 года видео с розыгрышами и социальными экспериментами; в 2016 году победил в итальянском реалити-шоу Pechino Express.",
+        "ar": "ثنائي إيطالي من ميلانو يتكون من أليسيو ستيليانو وأليساندرو تيناتشي، ينشر منذ 2013 مقاطع مقالب وتجارب اجتماعية، وفاز ببرنامج الواقع الإيطالي بيكينو إكسبرس عام 2016.",
+        "hi": "मिलान का इतालवी जोड़ी, एलेस्सियो स्तिग्लियानो और एलेसांद्रो तेनाचे, जो 2013 से प्रैंक और सामाजिक प्रयोग वीडियो पोस्ट करते हैं और 2016 में इतालवी रियलिटी शो पेकिनो एक्सप्रेस जीता।",
+        "zh": "来自米兰的意大利组合,由阿莱西奥·斯蒂利亚诺和亚历山德罗·特纳切组成,自2013年起发布整蛊和社会实验视频,并于2016年赢得意大利真人秀节目Pechino Express。",
+        "ja": "ミラノ出身のイタリア人デュオ、アレッシオ・スティリアーノとアレッサンドロ・テナーチェによるチャンネル。2013年からドッキリや社会実験動画を投稿し、2016年にはイタリアのリアリティ番組「Pechino Express」で優勝した。"
+      },
+      "handles": {
+        "youtube": "UCYZ3uwiIy1LrwrAywLeQSlQ",
+        "tiktok": null,
+        "instagram": "theshowisyou",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4290000
+        }
+      }
+    },
+    {
+      "id": "sofia-viscardi",
+      "name": "Sofia Viscardi",
+      "country": "IT",
+      "topic": {
+        "es": "Vlogs, escritura",
+        "en": "Vlogs, writing",
+        "pt": "Vlogs, escrita",
+        "fr": "Vlogs, écriture",
+        "de": "Vlogs, Schreiben",
+        "ru": "Влоги, писательство",
+        "ar": "فلوغات، كتابة",
+        "hi": "व्लॉग, लेखन",
+        "zh": "视频博客,写作",
+        "ja": "Vlog、執筆"
+      },
+      "about": {
+        "es": "Creadora y escritora italiana nacida en Milán que publica vlogs en YouTube desde 2014 (canal renombrado como Canale di Venti) y cuya novela 'Succede' fue adaptada al cine en 2018.",
+        "en": "An Italian creator and writer born in Milan who has posted vlogs on YouTube since 2014 (the channel later renamed Canale di Venti) and whose novel 'Succede' was adapted into a 2018 film.",
+        "pt": "Criadora e escritora italiana nascida em Milão que publica vlogs no YouTube desde 2014 (canal posteriormente renomeado Canale di Venti) e cujo romance 'Succede' foi adaptado para o cinema em 2018.",
+        "fr": "Créatrice et écrivaine italienne née à Milan qui publie des vlogs sur YouTube depuis 2014 (chaîne rebaptisée par la suite Canale di Venti) et dont le roman 'Succede' a été adapté au cinéma en 2018.",
+        "de": "Italienische Creatorin und Autorin aus Mailand, die seit 2014 Vlogs auf YouTube veröffentlicht (Kanal später in Canale di Venti umbenannt) und deren Roman 'Succede' 2018 verfilmt wurde.",
+        "ru": "Итальянская создательница контента и писательница, родившаяся в Милане, публикует влоги на YouTube с 2014 года (канал позже переименован в Canale di Venti); по её роману 'Succede' в 2018 году сняли фильм.",
+        "ar": "صانعة محتوى وكاتبة إيطالية وُلدت في ميلانو، تنشر مقاطع فلوغ على يوتيوب منذ 2014 (أُعيدت تسمية القناة لاحقًا إلى Canale di Venti)، وتم تحويل روايتها 'Succede' إلى فيلم عام 2018.",
+        "hi": "मिलान में जन्मी इतालवी क्रिएटर और लेखिका, जो 2014 से यूट्यूब पर व्लॉग पोस्ट करती हैं (चैनल बाद में Canale di Venti नाम रखा गया); उनके उपन्यास 'Succede' को 2018 में फिल्म रूप दिया गया।",
+        "zh": "出生于米兰的意大利创作者兼作家,自2014年起在YouTube发布视频博客(频道后更名为Canale di Venti),其小说《Succede》于2018年被改编为电影。",
+        "ja": "ミラノ生まれのイタリア人クリエイター兼作家。2014年からYouTubeでVlogを投稿している(チャンネルは後にCanale di Ventiに改名)。小説『Succede』は2018年に映画化された。"
+      },
+      "handles": {
+        "youtube": "UCkkcN04NIC0wwqNbcWlXNWQ",
+        "tiktok": "sofiaviscardi",
+        "instagram": "sofiaviscardi",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 793000
+        }
+      }
+    },
+    {
+      "id": "ipantellas",
+      "name": "iPantellas",
+      "country": "IT",
+      "topic": {
+        "es": "Dúo de comedia",
+        "en": "Comedy duo",
+        "pt": "Dupla de comédia",
+        "fr": "Duo comique",
+        "de": "Comedy-Duo",
+        "ru": "Комедийный дуэт",
+        "ar": "ثنائي كوميدي",
+        "hi": "कॉमेडी जोड़ी",
+        "zh": "喜剧组合",
+        "ja": "コメディデュオ"
+      },
+      "about": {
+        "es": "Dúo de comedia italiano formado por Jacopo Malnati y Daniel Marangiolo, activo en YouTube desde 2009, conocido por sus sketches y videos de retos.",
+        "en": "An Italian comedy duo made up of Jacopo Malnati and Daniel Marangiolo, active on YouTube since 2009, known for sketches and challenge videos.",
+        "pt": "Dupla de comédia italiana formada por Jacopo Malnati e Daniel Marangiolo, ativa no YouTube desde 2009, conhecida por esquetes e vídeos de desafios.",
+        "fr": "Duo comique italien composé de Jacopo Malnati et Daniel Marangiolo, actif sur YouTube depuis 2009, connu pour ses sketchs et ses vidéos de défis.",
+        "de": "Italienisches Comedy-Duo bestehend aus Jacopo Malnati und Daniel Marangiolo, seit 2009 auf YouTube aktiv, bekannt für Sketche und Challenge-Videos.",
+        "ru": "Итальянский комедийный дуэт в составе Якопо Мальнати и Даниэля Маранджоло, активный на YouTube с 2009 года, известный скетчами и видео с испытаниями.",
+        "ar": "ثنائي كوميدي إيطالي يتكون من ياكوبو مالناتي ودانيال مارانجيولو، نشط على يوتيوب منذ 2009، معروف بالمقاطع الكوميدية وفيديوهات التحديات.",
+        "hi": "याकोपो मालनाती और डैनियल मारांजियोलो से बनी इतालवी कॉमेडी जोड़ी, जो 2009 से यूट्यूब पर सक्रिय है और स्केच व चैलेंज वीडियो के लिए जानी जाती है।",
+        "zh": "由雅科波·马尔纳蒂和丹尼尔·马兰乔洛组成的意大利喜剧组合,自2009年起活跃于YouTube,以短剧和挑战视频著称。",
+        "ja": "ヤコポ・マルナーティとダニエル・マランジョーロによるイタリアのコメディデュオ。2009年からYouTubeで活動し、コントやチャレンジ動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCD-aXv7CMezGSTfxmKAD6Ag",
+        "tiktok": "ipantellas",
+        "instagram": "ipantellas",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 7060000
+        }
+      }
+    },
+    {
+      "id": "st3pny",
+      "name": "St3pNy",
+      "country": "IT",
+      "topic": {
+        "es": "Videojuegos, vlogs",
+        "en": "Gaming, vlogs",
+        "pt": "Games, vlogs",
+        "fr": "Jeux vidéo, vlogs",
+        "de": "Gaming, Vlogs",
+        "ru": "Игры, влоги",
+        "ar": "ألعاب، فلوغات",
+        "hi": "गेमिंग, व्लॉग",
+        "zh": "游戏,视频博客",
+        "ja": "ゲーム実況、Vlog"
+      },
+      "about": {
+        "es": "Creador italiano, nombre real Stefano Lepri, que publica videos en YouTube desde 2010, centrados principalmente en Fortnite y Minecraft.",
+        "en": "An Italian creator, real name Stefano Lepri, who has posted videos on YouTube since 2010, focused mainly on Fortnite and Minecraft.",
+        "pt": "Criador italiano, nome verdadeiro Stefano Lepri, que publica vídeos no YouTube desde 2010, focados principalmente em Fortnite e Minecraft.",
+        "fr": "Créateur italien, de son vrai nom Stefano Lepri, qui publie des vidéos sur YouTube depuis 2010, principalement centrées sur Fortnite et Minecraft.",
+        "de": "Italienischer Creator, bürgerlich Stefano Lepri, der seit 2010 Videos auf YouTube veröffentlicht, hauptsächlich zu Fortnite und Minecraft.",
+        "ru": "Итальянский создатель контента, настоящее имя Стефано Лепри, публикующий видео на YouTube с 2010 года, посвящённые в основном Fortnite и Minecraft.",
+        "ar": "صانع محتوى إيطالي، اسمه الحقيقي ستيفانو ليبري، ينشر مقاطع فيديو على يوتيوب منذ 2010، تركز بشكل أساسي على Fortnite وMinecraft.",
+        "hi": "इतालवी क्रिएटर, असली नाम स्तेफ़ानो लेप्री, जो 2010 से यूट्यूब पर मुख्यतः Fortnite और Minecraft पर केंद्रित वीडियो पोस्ट करते हैं।",
+        "zh": "意大利创作者,真名斯特凡诺·莱普里,自2010年起在YouTube发布视频,主要围绕《堡垒之夜》和《我的世界》。",
+        "ja": "本名ステファノ・レプリ、イタリアのクリエイター。2010年からYouTubeに動画を投稿しており、主に「フォートナイト」と「マインクラフト」を扱う。"
+      },
+      "handles": {
+        "youtube": "UCMggu4tZ2N6SD4FebIbMDpA",
+        "tiktok": "stefano.lepri",
+        "instagram": "stefanolepri",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4300000
+        }
+      }
     }
   ]
 }
