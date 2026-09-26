@@ -955,3 +955,27 @@ footer.site { border-color: #ffffff0d; font-size: 11px; }
 .profile-avatar img { display: block; width: 100%; height: 100%; object-fit: cover; }
 .profile-title .creator-name-text { font: inherit; color: var(--ink); max-width: 100%; }
 .profile-title .country-code { font-size: 12px; padding: 4px 7px; }
+
+/* Compact discovery controls and readable supporting information. */
+form.filters .advanced-filters { flex: 1 1 100%; }
+.advanced-filters summary { cursor: pointer; padding: 12px 0; min-height: 44px; font-size: 14px; color: var(--ink); }
+.advanced-fields { display: flex; gap: 16px; padding-block: 10px; }
+.advanced-fields > div { flex: 1; min-width: 0; }
+form.filters .creator-search { flex: 2 1 200px; }
+form.filters > div { flex: 1 1 140px; }
+form.filters .clear-filters { width: auto; }
+.result-count, .ranking-intro, .who small, .intro-film p, .trust { font-size: 13px; color: #acbdd1; }
+.pts small { font-size: 11px; }
+.sound-toggle { min-height: 44px; border-color: #ffffff35; }
+.metric-label { display: block; font-size: 12px; color: var(--muted); margin-block: 5px 2px; }
+@media(max-width:679px) {
+ form.filters { gap: 10px; padding: 12px; }
+ form.filters .creator-search { flex-basis: 100%; }
+ form.filters > div { flex-basis: 100%; }
+ form.filters .advanced-filters { flex-basis: 55%; }
+ form.filters .clear-filters { flex: 1; }
+ .advanced-fields { flex-direction: column; }
+ .who small { font-size: 12px; line-height: 1.5; white-space: normal; }
+ .who strong { font-size: 14px; }
+ .row { padding-block: 18px; }
+}

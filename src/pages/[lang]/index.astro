@@ -1,9 +1,10 @@
 ---
+import { categoryIds, categoryLabels, interfaceLabels } from "../../lib/exploration";
 import Layout from "../../components/Layout.astro";
 import RankingRow from "../../components/RankingRow.astro";
 import { siteConfig, type LanguageCode } from "../../../site.config";
 import { translator } from "../../lib/i18n";
-import { people, rankingMeta, getTopics } from "../../lib/data";
+import { people, rankingMeta } from "../../lib/data";
 import { formatDate } from "../../lib/format";
 import { PLATFORM_LABELS, type Platform } from "../../../pipeline/config.js";
 
@@ -15,7 +16,8 @@ const { lang } = Astro.params as { lang: LanguageCode };
 const t = translator(lang);
 const top100 = people;
 const platforms = [...new Set(top100.map((p) => p.mainPlatform).filter(Boolean))] as Platform[];
-const topics = getTopics(lang);
+const topics = categoryIds.map((id, index) => ({ id, label: categoryLabels[lang][index] }));
+const controls = interfaceLabels[lang];
 const uxLabels = {
   es: ["Buscar creador", "Nombre del creador…", "Limpiar filtros", "{shown} de {total} perfiles", "Explora los perfiles y descubre qué hay detrás de cada puntuación."],
   en: ["Find a creator", "Creator name…", "Clear filters", "{shown} of {total} profiles", "Explore profiles and discover what goes into each score."],
@@ -66,13 +68,14 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         <span class="phone-side-button" aria-hidden="true"></span>
         <div class="phone-screen">
           <div class="phone-top" aria-hidden="true"><span class="phone-island"></span></div>
-      <video controls playsinline preload="metadata" aria-label={lang === "es" ? `Presentación de ${siteConfig.brandName} en español` : `${siteConfig.brandName} introduction in English`}>
+      <video id="intro-video" autoplay muted controls playsinline preload="metadata" aria-label={lang === "es" ? `Presentación de ${siteConfig.brandName} en español` : `${siteConfig.brandName} introduction in English`}>
         <source src={`${base}/videos/intro-${lang === "es" ? "es" : "en"}.mp4`} type="video/mp4" />
         <a href={`${base}/videos/intro-${lang === "es" ? "es" : "en"}.mp4`}>{lang === "es" ? "Ver video" : "Watch video"}</a>
       </video>
           <div class="phone-bottom" aria-hidden="true"><span></span></div>
         </div>
       </div>
+      <button class="btn sound-toggle" type="button" hidden aria-controls="intro-video" data-on={controls[1]} data-off={controls[2]}>{controls[1]}</button>
       <p>{lang === "es" ? "Descubre una nueva forma de entender la influencia." : "Discover a new way to understand influence."}</p>
     </div>
   </section>
@@ -94,10 +97,20 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       <input id="f-search" type="search" name="creator" placeholder={uxLabels[1]} autocomplete="off" />
     </div>
     <div>
+      <label for="f-country">{coverageLabels[2]}</label>
+      <select id="f-country" name="country">
+        <option value="">{t("home.filterAllOption")}</option>
+        {countries.map(code => <option value={code}>{regionNames.of(code)}</option>)}
+      </select>
+    </div>
+    <details class="advanced-filters" id="advanced-filters">
+      <summary>{controls[0]} <span id="active-filter-count"></span></summary>
+      <div class="advanced-fields">
+    <div>
       <label for="f-topic">{t("home.filterTopicLabel")}</label>
       <select id="f-topic" name="topic">
         <option value="">{t("home.filterAllOption")}</option>
-        {topics.map((topic) => <option value={topic}>{topic}</option>)}
+        {topics.map((topic) => <option value={topic.id}>{topic.label}</option>)}
       </select>
     </div>
     <div>
@@ -107,13 +120,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
         {platforms.map((platform) => <option value={platform}>{PLATFORM_LABELS[platform]}</option>)}
       </select>
     </div>
-    <div>
-      <label for="f-country">{coverageLabels[2]}</label>
-      <select id="f-country" name="country">
-        <option value="">{t("home.filterAllOption")}</option>
-        {countries.map(code => <option value={code}>{regionNames.of(code)}</option>)}
-      </select>
-    </div>
+      </div>
+    </details>
     <button class="btn clear-filters" type="reset">{uxLabels[2]}</button>
   </form>
   <p class="result-count" id="result-count" role="status" aria-live="polite" aria-atomic="true" data-template={uxLabels[3]}>
@@ -173,12 +181,31 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
   const resultCount = document.getElementById("result-count")!;
   const normalize = (value: string) => value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase().trim();
   let visibleCount = 20;
+  const fields = { creator: searchInput, country: countrySelect, topic: topicSelect, platform: platformSelect };
+  function restoreFilters() {
+    const params = new URLSearchParams(location.search);
+    for (const [key, field] of Object.entries(fields)) field.value = params.get(key) ?? "";
+    const count = Number(params.get("shown"));
+    visibleCount = Number.isFinite(count) && count >= 20 ? Math.min(Math.floor(count), Math.max(20, rows.length)) : 20;
+    (document.getElementById("advanced-filters") as HTMLDetailsElement).open = !!(topicSelect.value || platformSelect.value);
+    applyFilters();
+  }
+  function saveFilters() {
+    const url = new URL(location.href);
+    for (const [key, field] of Object.entries(fields)) {
+      if (field.value) url.searchParams.set(key, field.value); else url.searchParams.delete(key);
+    }
+    if (visibleCount > 20) url.searchParams.set("shown", String(visibleCount)); else url.searchParams.delete("shown");
+    history.replaceState(history.state, "", url);
+  }
 
   function applyFilters() {
+    document.getElementById("active-filter-count")!.textContent =
+      [topicSelect.value, platformSelect.value].filter(Boolean).length ? `(${[topicSelect.value, platformSelect.value].filter(Boolean).length})` : "";
     const query = normalize(searchInput.value);
     const matches = rows.filter((row) =>
       (!countrySelect.value || row.dataset.country === countrySelect.value) &&
-      (!topicSelect.value || row.dataset.topic === topicSelect.value) &&
+      (!topicSelect.value || row.dataset.categories?.split(" ").includes(topicSelect.value)) &&
       (!platformSelect.value || row.dataset.platform === platformSelect.value) &&
       (!query || normalize(row.dataset.name ?? "").includes(query))
     );
@@ -190,18 +217,39 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       .replace("{shown}", String(visible.size)).replace("{total}", String(matches.length));
   }
   filterForm.addEventListener("submit", (event) => event.preventDefault());
-  filterForm.addEventListener("input", () => { visibleCount = 20; applyFilters(); });
-  filterForm.addEventListener("reset", () => {
+  filterForm.addEventListener("input", () => { visibleCount = 20; applyFilters(); saveFilters(); });
+  filterForm.addEventListener("reset", (event) => {
+    event.preventDefault();
     countrySelect.value = "";
     searchInput.value = "";
     topicSelect.value = "";
     platformSelect.value = "";
     visibleCount = 20;
     applyFilters();
+    saveFilters();
   });
   seeMoreBtn?.addEventListener("click", () => {
+    const previouslyShown = rows.filter(row => !row.hidden).length;
     visibleCount += 20;
     applyFilters();
+    saveFilters();
+    rows.filter(row => !row.hidden)[previouslyShown]?.focus({ preventScroll: true });
   });
-  applyFilters();
+  restoreFilters();
+  window.addEventListener("popstate", restoreFilters);
+  window.addEventListener("pageshow", restoreFilters);
+  const video = document.getElementById("intro-video") as HTMLVideoElement;
+  const soundButton = document.querySelector<HTMLButtonElement>(".sound-toggle")!;
+  soundButton.hidden = false;
+  const updateSound = () => {
+    soundButton.textContent = video.muted || video.volume === 0 ? soundButton.dataset.on! : soundButton.dataset.off!;
+  };
+  video.addEventListener("volumechange", updateSound);
+  soundButton.addEventListener("click", () => {
+    const enable = video.muted || video.volume === 0;
+    video.muted = !enable;
+    if (enable) { if (!video.volume) video.volume = 1; video.play().catch(() => {}); }
+    updateSound();
+  });
+  updateSound();
 </script>
