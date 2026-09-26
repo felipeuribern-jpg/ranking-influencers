@@ -3637,6 +3637,138 @@
           "youtube": 1160000
         }
       }
+    },
+    {
+      "id": "ashton-hall",
+      "name": "Ashton Hall",
+      "country": "US",
+      "topic": {
+        "es": "Fitness y bienestar",
+        "en": "Fitness and wellness",
+        "pt": "Fitness e bem-estar",
+        "fr": "Fitness et bien-être",
+        "de": "Fitness und Wellness",
+        "ru": "Фитнес и велнес",
+        "ar": "لياقة وعافية",
+        "hi": "फिटनेस और वेलनेस",
+        "zh": "健身与养生",
+        "ja": "フィットネスと健康"
+      },
+      "about": {
+        "es": "Creador de contenido estadounidense de fitness y bienestar, exjugador de fútbol americano universitario en Alcorn State University, que se volvió viral en 2025 por videos de su extrema rutina matutina.",
+        "en": "A US fitness and wellness content creator and former college football player at Alcorn State University who went viral in 2025 for videos documenting his extreme early-morning routine.",
+        "pt": "Criador de conteúdo americano de fitness e bem-estar, ex-jogador de futebol americano universitário na Alcorn State University, que viralizou em 2025 com vídeos de sua rotina matinal extrema.",
+        "fr": "Créateur de contenu américain spécialisé dans le fitness et le bien-être, ancien joueur de football américain universitaire à Alcorn State University, devenu viral en 2025 grâce à des vidéos de sa routine matinale extrême.",
+        "de": "US-amerikanischer Content Creator im Bereich Fitness und Wellness sowie ehemaliger College-Footballspieler an der Alcorn State University, der 2025 mit Videos seiner extremen Morgenroutine viral ging.",
+        "ru": "Американский автор контента о фитнесе и здоровье, бывший игрок студенческой команды по американскому футболу Alcorn State University, ставший вирусным в 2025 году благодаря видео о своём экстремальном утреннем распорядке.",
+        "ar": "صانع محتوى أمريكي في مجال اللياقة البدنية والعافية ولاعب كرة قدم أمريكية جامعي سابق في جامعة ألكورن ستيت، اشتهر عام 2025 بفيديوهات توثق روتينه الصباحي المتطرف.",
+        "hi": "अमेरिकी फिटनेस और वेलनेस कंटेंट क्रिएटर और अल्कॉर्न स्टेट यूनिवर्सिटी में पूर्व कॉलेज फुटबॉल खिलाड़ी, जो 2025 में अपने अत्यधिक सुबह की दिनचर्या के वीडियो के लिए वायरल हुए।",
+        "zh": "美国健身与养生内容创作者,曾是阿尔科恩州立大学的大学橄榄球运动员,2025年因记录其极端晨间日常的视频而走红。",
+        "ja": "アメリカのフィットネス・ウェルネス系コンテンツクリエイターで、元アルコーン州立大学のカレッジフットボール選手。2025年、極端な朝のルーティンを記録した動画で話題となった。"
+      },
+      "handles": {
+        "youtube": "UCq9DI1Mv2m-bCNL3tsTYRaw",
+        "tiktok": "ashtonhallofficial",
+        "instagram": "ashtonhall",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 5790000
+        }
+      }
+    },
+    {
+      "id": "cap",
+      "name": "Cap",
+      "country": "IT",
+      "topic": {
+        "es": "Gaming y retos",
+        "en": "Gaming and challenges",
+        "pt": "Games e desafios",
+        "fr": "Jeux vidéo et défis",
+        "de": "Gaming und Challenges",
+        "ru": "Игры и челленджи",
+        "ar": "الألعاب والتحديات",
+        "hi": "गेमिंग और चैलेंज",
+        "zh": "游戏与挑战",
+        "ja": "ゲームとチャレンジ"
+      },
+      "about": {
+        "es": "Creador italiano nacido en Rímini en 2004, conocido como Cap; se hizo popular con retos y bromas en su canal junto a su compañero Kazu antes de centrarse en contenido de videojuegos como Fortnite.",
+        "en": "An Italian creator born in Rimini in 2004, known as Cap; he gained popularity with challenges and pranks alongside his partner Kazu before focusing on gaming content such as Fortnite.",
+        "pt": "Criador italiano nascido em Rimini em 2004, conhecido como Cap; ficou popular com desafios e brincadeiras ao lado do parceiro Kazu antes de focar em conteúdo de games como Fortnite.",
+        "fr": "Créateur italien né à Rimini en 2004, connu sous le nom de Cap ; il s'est fait connaître avec des défis et des blagues aux côtés de son partenaire Kazu avant de se concentrer sur le contenu jeu vidéo comme Fortnite.",
+        "de": "Italienischer Creator, geboren 2004 in Rimini, bekannt als Cap; er wurde mit Challenges und Streichen zusammen mit seinem Partner Kazu bekannt, bevor er sich auf Gaming-Inhalte wie Fortnite konzentrierte.",
+        "ru": "Итальянский блогер, родившийся в Римини в 2004 году, известный как Cap; прославился челленджами и розыгрышами вместе с напарником Kazu, прежде чем сосредоточиться на контенте об играх, таких как Fortnite.",
+        "ar": "صانع محتوى إيطالي وُلد في ريميني عام 2004، يُعرف باسم Cap؛ اشتهر بالتحديات والمقالب مع شريكه Kazu قبل أن يركز على محتوى الألعاب مثل Fortnite.",
+        "hi": "इटली के रिमिनी में 2004 में जन्मे क्रिएटर, जिन्हें Cap के नाम से जाना जाता है; उन्होंने अपने साथी Kazu के साथ चैलेंज और मज़ाक वाले वीडियो से लोकप्रियता पाई, इससे पहले कि वे Fortnite जैसे गेमिंग कंटेंट पर केंद्रित हो गए।",
+        "zh": "这位意大利创作者2004年出生于里米尼，人称Cap；他最初与搭档Kazu一起制作挑战和整蛊视频而走红，后来专注于Fortnite等游戏内容。",
+        "ja": "2004年イタリア・リミニ生まれのクリエイター、Capとして知られる。相棒Kazuとのチャレンジ企画やドッキリで人気を集めた後、Fortniteなどのゲーム実況に注力している。"
+      },
+      "handles": {
+        "youtube": "UCxqKMjZNbikl4iZQ1TUJCxw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1070000
+        }
+      }
+    },
+    {
+      "id": "space-valley",
+      "name": "Space Valley",
+      "country": "IT",
+      "topic": {
+        "es": "Comedia y talk show",
+        "en": "Comedy talk show",
+        "pt": "Comédia e talk show",
+        "fr": "Comédie et talk-show",
+        "de": "Comedy-Talkshow",
+        "ru": "Комедийное ток-шоу",
+        "ar": "برنامج حواري كوميدي",
+        "hi": "कॉमेडी टॉक शो",
+        "zh": "喜剧脱口秀",
+        "ja": "コメディトーク番組"
+      },
+      "about": {
+        "es": "Colectivo cómico italiano de Bolonia formado por cinco amigos (entre ellos Nelson Venceslai y Cesare Cantelli) que desde 2016 produce un talk show con retos, comida rara y sketches.",
+        "en": "An Italian comedy collective from Bologna made up of five friends (including Nelson Venceslai and Cesare Cantelli) who have produced a talk show with challenges, bizarre food tastings and sketches since 2016.",
+        "pt": "Coletivo cômico italiano de Bolonha formado por cinco amigos (entre eles Nelson Venceslai e Cesare Cantelli) que desde 2016 produz um talk show com desafios, comidas estranhas e esquetes.",
+        "fr": "Collectif comique italien de Bologne composé de cinq amis (dont Nelson Venceslai et Cesare Cantelli) qui produit depuis 2016 un talk-show avec défis, dégustations insolites et sketchs.",
+        "de": "Italienisches Comedy-Kollektiv aus Bologna, bestehend aus fünf Freunden (darunter Nelson Venceslai und Cesare Cantelli), das seit 2016 eine Talkshow mit Challenges, ausgefallenen Verkostungen und Sketchen produziert.",
+        "ru": "Итальянский комедийный коллектив из Болоньи, состоящий из пяти друзей (среди них Нельсон Венчеслай и Чезаре Кантелли), с 2016 года выпускающий ток-шоу с испытаниями, странной едой и скетчами.",
+        "ar": "مجموعة كوميدية إيطالية من بولونيا تضم خمسة أصدقاء (من بينهم نيلسون فينشيسلاي وتشيزاري كانتيلي) تنتج منذ عام 2016 برنامجاً حوارياً يتضمن تحديات وتذوق أطعمة غريبة وسكتشات.",
+        "hi": "बोलोन्या का एक इतालवी कॉमेडी समूह, जिसमें पांच दोस्त (नेल्सन वेंचेस्लाई और चेज़ारे कैंटेली सहित) शामिल हैं, जो 2016 से चैलेंज, अजीब खाने की चीज़ें और स्केच वाला टॉक शो बनाते हैं।",
+        "zh": "来自博洛尼亚的意大利喜剧团体，由五位好友组成（包括Nelson Venceslai和Cesare Cantelli），自2016年起制作包含挑战、猎奇食物试吃和短剧的脱口秀节目。",
+        "ja": "ボローニャ出身のイタリア人コメディ集団で、Nelson VenceslaiやCesare Cantelliら5人の友人によって構成され、2016年からチャレンジ企画や奇妙な食べ物の実食、コントを含むトーク番組を制作している。"
+      },
+      "handles": {
+        "youtube": "UC6WJ32r35demIRvxV-xDU2g",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1240000
+        }
+      }
     }
   ]
 }
