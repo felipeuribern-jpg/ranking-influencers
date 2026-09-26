@@ -8627,6 +8627,490 @@
           "youtube": 604000
         }
       }
+    },
+    {
+      "id": "mrbeast",
+      "name": "MrBeast",
+      "country": "US",
+      "topic": {
+        "es": "Retos y filantropía",
+        "en": "Challenges and philanthropy",
+        "pt": "Desafios e filantropia",
+        "fr": "Défis et philanthropie",
+        "de": "Herausforderungen und Philanthropie",
+        "ru": "Челленджи и благотворительность",
+        "ar": "تحديات وأعمال خيرية",
+        "hi": "चुनौतियाँ और परोपकार",
+        "zh": "挑战与慈善",
+        "ja": "チャレンジ企画と慈善活動"
+      },
+      "about": {
+        "es": "Creador estadounidense nacido en Kansas y radicado en Carolina del Norte; produce videos de retos de alto presupuesto y proyectos filantrópicos a gran escala.",
+        "en": "An American creator born in Kansas and based in North Carolina; produces high-budget challenge videos and large-scale philanthropic projects.",
+        "pt": "Criador americano nascido no Kansas e radicado na Carolina do Norte; produz vídeos de desafios de alto orçamento e projetos filantrópicos em grande escala.",
+        "fr": "Créateur américain né au Kansas et basé en Caroline du Nord; produit des vidéos de défis à gros budget et des projets philanthropiques de grande envergure.",
+        "de": "Ein US-amerikanischer Creator, geboren in Kansas und ansässig in North Carolina; produziert aufwendige Challenge-Videos und groß angelegte philanthropische Projekte.",
+        "ru": "Американский автор, родившийся в Канзасе и проживающий в Северной Каролине; снимает дорогостоящие видео с испытаниями и крупные благотворительные проекты.",
+        "ar": "صانع محتوى أمريكي وُلد في كانساس ويقيم في نورث كارولاينا؛ ينتج مقاطع تحديات عالية الميزانية ومشاريع خيرية واسعة النطاق.",
+        "hi": "कैनसस में जन्मे और नॉर्थ कैरोलाइना में रहने वाले एक अमेरिकी क्रिएटर; बड़े बजट की चुनौती वीडियो और बड़े पैमाने पर परोपकारी परियोजनाएं बनाते हैं।",
+        "zh": "出生于堪萨斯州、现居北卡罗来纳州的美国创作者，制作高预算挑战视频并开展大规模慈善项目。",
+        "ja": "カンザス州生まれ、ノースカロライナ州在住のアメリカ人クリエイター。高予算のチャレンジ動画と大規模な慈善プロジェクトを制作している。"
+      },
+      "handles": {
+        "youtube": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 518000000
+        }
+      }
+    },
+    {
+      "id": "kai-cenat",
+      "name": "Kai Cenat",
+      "country": "US",
+      "topic": {
+        "es": "Streaming y comedia",
+        "en": "Streaming and comedy",
+        "pt": "Streaming e comédia",
+        "fr": "Streaming et comédie",
+        "de": "Streaming und Comedy",
+        "ru": "Стриминг и комедия",
+        "ar": "بث مباشر وكوميديا",
+        "hi": "स्ट्रीमिंग और कॉमेडी",
+        "zh": "直播与喜剧",
+        "ja": "配信とコメディ"
+      },
+      "about": {
+        "es": "Creador estadounidense nacido en Nueva York, conocido principalmente como streamer de Twitch y por sus videos de reacción y comedia en YouTube.",
+        "en": "An American creator from New York, known primarily as a Twitch streamer and for reaction and comedy videos on YouTube.",
+        "pt": "Criador americano nascido em Nova York, conhecido principalmente como streamer da Twitch e por vídeos de reação e comédia no YouTube.",
+        "fr": "Créateur américain originaire de New York, connu principalement comme streamer sur Twitch et pour ses vidéos de réaction et de comédie sur YouTube.",
+        "de": "Ein US-amerikanischer Creator aus New York, vor allem bekannt als Twitch-Streamer sowie für Reaction- und Comedy-Videos auf YouTube.",
+        "ru": "Американский автор из Нью-Йорка, известный прежде всего как стример Twitch и создатель реакций и комедийных видео на YouTube.",
+        "ar": "صانع محتوى أمريكي من نيويورك، معروف بشكل أساسي كبث مباشر على تويتش وبمقاطع ردود الفعل والكوميديا على يوتيوب.",
+        "hi": "न्यूयॉर्क के एक अमेरिकी क्रिएटर, जो मुख्य रूप से ट्विच स्ट्रीमर के रूप में और यूट्यूब पर रिएक्शन व कॉमेडी वीडियो के लिए जाने जाते हैं।",
+        "zh": "来自纽约的美国创作者，主要以Twitch直播主身份闻名，并在YouTube上发布反应和喜剧视频。",
+        "ja": "ニューヨーク出身のアメリカ人クリエイター。主にTwitchの配信者として、またYouTubeでのリアクション・コメディ動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCoEmptob-eEGKk18c2VplJg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 8230000
+        }
+      }
+    },
+    {
+      "id": "ishowspeed",
+      "name": "IShowSpeed",
+      "country": "US",
+      "topic": {
+        "es": "Gaming y reacciones",
+        "en": "Gaming and reactions",
+        "pt": "Games e reações",
+        "fr": "Jeux vidéo et réactions",
+        "de": "Gaming und Reaktionen",
+        "ru": "Гейминг и реакции",
+        "ar": "ألعاب الفيديو وردود الفعل",
+        "hi": "गेमिंग और रिएक्शन",
+        "zh": "游戏与反应视频",
+        "ja": "ゲーム実況とリアクション"
+      },
+      "about": {
+        "es": "Creador estadounidense nacido en Cincinnati, Ohio; comenzó con videos de fútbol y gaming y hoy es conocido por sus streams enérgicos y viajes internacionales.",
+        "en": "An American creator born in Cincinnati, Ohio; started with soccer and gaming videos and is now known for energetic livestreams and international travel content.",
+        "pt": "Criador americano nascido em Cincinnati, Ohio; começou com vídeos de futebol e games e hoje é conhecido por suas lives enérgicas e viagens internacionais.",
+        "fr": "Créateur américain né à Cincinnati, dans l'Ohio; a débuté avec des vidéos de football et de jeux vidéo, aujourd'hui connu pour ses lives énergiques et ses voyages internationaux.",
+        "de": "Ein US-amerikanischer Creator aus Cincinnati, Ohio; begann mit Fußball- und Gaming-Videos und ist heute für energiegeladene Livestreams und internationale Reiseinhalte bekannt.",
+        "ru": "Американский автор из Цинциннати, штат Огайо; начинал с видео о футболе и играх, сейчас известен энергичными стримами и контентом о путешествиях.",
+        "ar": "صانع محتوى أمريكي من سينسيناتي بولاية أوهايو؛ بدأ بمقاطع كرة القدم والألعاب، ويُعرف الآن ببثوثه المباشرة النشيطة ومحتوى السفر الدولي.",
+        "hi": "सिनसिनाटी, ओहायो में जन्मे एक अमेरिकी क्रिएटर; फुटबॉल और गेमिंग वीडियो से शुरुआत की, अब ऊर्जावान लाइवस्ट्रीम और अंतरराष्ट्रीय यात्रा सामग्री के लिए जाने जाते हैं।",
+        "zh": "出生于俄亥俄州辛辛那提的美国创作者，最初制作足球和游戏视频，现以充满活力的直播和国际旅行内容闻名。",
+        "ja": "オハイオ州シンシナティ出身のアメリカ人クリエイター。サッカーとゲーム動画から始まり、現在は活気あるライブ配信と海外渡航企画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCWsDFcIhY2DBi3GB5uykGXA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 61500000
+        }
+      }
+    },
+    {
+      "id": "emma-chamberlain",
+      "name": "Emma Chamberlain",
+      "country": "US",
+      "topic": {
+        "es": "Vlogs y estilo de vida",
+        "en": "Vlogs and lifestyle",
+        "pt": "Vlogs e estilo de vida",
+        "fr": "Vlogs et style de vie",
+        "de": "Vlogs und Lifestyle",
+        "ru": "Влоги и лайфстайл",
+        "ar": "مدونات فيديو ونمط حياة",
+        "hi": "व्लॉग और लाइफस्टाइल",
+        "zh": "视频博客与生活方式",
+        "ja": "Vlogとライフスタイル"
+      },
+      "about": {
+        "es": "Creadora estadounidense nacida en San Bruno, California; se hizo conocida por vlogs con un estilo de edición desenfadado y hoy también dirige una marca de café.",
+        "en": "An American creator born in San Bruno, California; became known for vlogs with a casual editing style and now also runs a coffee brand.",
+        "pt": "Criadora americana nascida em San Bruno, Califórnia; ficou conhecida por vlogs com um estilo de edição descontraído e hoje também dirige uma marca de café.",
+        "fr": "Créatrice américaine née à San Bruno, en Californie; s'est fait connaître par des vlogs au montage décontracté et dirige aujourd'hui aussi une marque de café.",
+        "de": "Eine US-amerikanische Creatorin aus San Bruno, Kalifornien; wurde bekannt durch Vlogs mit lockerem Schnittstil und betreibt heute zusätzlich eine Kaffeemarke.",
+        "ru": "Американская авторка из Сан-Бруно, Калифорния; прославилась влогами с непринужденным стилем монтажа, а сейчас также руководит собственным брендом кофе.",
+        "ar": "صانعة محتوى أمريكية من سان برونو بكاليفورنيا؛ اشتهرت بمدونات فيديو ذات أسلوب مونتاج غير رسمي، وتدير الآن أيضًا علامة قهوة تجارية.",
+        "hi": "सैन ब्रूनो, कैलिफ़ोर्निया में जन्मी एक अमेरिकी क्रिएटर; अनौपचारिक एडिटिंग शैली वाले व्लॉग के लिए जानी गईं और अब एक कॉफी ब्रांड भी चलाती हैं।",
+        "zh": "出生于加州圣布鲁诺的美国创作者，以随性剪辑风格的视频博客走红，如今还经营着自己的咖啡品牌。",
+        "ja": "カリフォルニア州サンブルーノ出身のアメリカ人クリエイター。ラフな編集スタイルのVlogで知られるようになり、現在は自身のコーヒーブランドも運営している。"
+      },
+      "handles": {
+        "youtube": "UC78cxCAcp7JfQPgKxYdyGrg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 12000000
+        }
+      }
+    },
+    {
+      "id": "mark-rober",
+      "name": "Mark Rober",
+      "country": "US",
+      "topic": {
+        "es": "Ciencia e ingeniería",
+        "en": "Science and engineering",
+        "pt": "Ciência e engenharia",
+        "fr": "Science et ingénierie",
+        "de": "Wissenschaft und Technik",
+        "ru": "Наука и инженерия",
+        "ar": "العلوم والهندسة",
+        "hi": "विज्ञान और इंजीनियरिंग",
+        "zh": "科学与工程",
+        "ja": "科学と工学"
+      },
+      "about": {
+        "es": "Creador estadounidense y exingeniero de la NASA (JPL); produce videos de ciencia e ingeniería con experimentos elaborados, como sus icónicos paquetes trampa para ladrones.",
+        "en": "An American creator and former NASA (JPL) engineer; produces science and engineering videos with elaborate experiments, including his well-known anti-theft package stunts.",
+        "pt": "Criador americano e ex-engenheiro da NASA (JPL); produz vídeos de ciência e engenharia com experimentos elaborados, incluindo seus conhecidos pacotes armadilha antifurto.",
+        "fr": "Créateur américain et ancien ingénieur de la NASA (JPL); produit des vidéos scientifiques et techniques avec des expériences élaborées, dont ses célèbres colis piégés anti-vol.",
+        "de": "Ein US-amerikanischer Creator und ehemaliger NASA-Ingenieur (JPL); produziert Wissenschafts- und Technikvideos mit aufwendigen Experimenten, darunter seine bekannten Anti-Diebstahl-Pakete.",
+        "ru": "Американский автор и бывший инженер NASA (JPL); снимает научно-технические видео со сложными экспериментами, включая свои известные посылки-ловушки для воров.",
+        "ar": "صانع محتوى أمريكي ومهندس سابق في وكالة ناسا (JPL)؛ ينتج مقاطع علمية وهندسية بتجارب متقنة، منها طروده الشهيرة المضادة للسرقة.",
+        "hi": "एक अमेरिकी क्रिएटर और नासा (JPL) के पूर्व इंजीनियर; विस्तृत प्रयोगों के साथ विज्ञान और इंजीनियरिंग वीडियो बनाते हैं, जिनमें उनके प्रसिद्ध चोरी-रोधी पैकेज शामिल हैं।",
+        "zh": "美国创作者，曾任NASA喷气推进实验室（JPL）工程师；制作带有精巧实验的科学与工程视频，包括其著名的防盗包裹陷阱。",
+        "ja": "アメリカ人クリエイターで元NASA（JPL）エンジニア。手の込んだ実験を用いた科学・工学系動画を制作しており、有名な盗難防止パッケージの企画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCY1kMZp36IQSyNx_9h4mpCg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 83100000
+        }
+      }
+    },
+    {
+      "id": "ninja",
+      "name": "Ninja",
+      "country": "US",
+      "topic": {
+        "es": "Gaming competitivo",
+        "en": "Competitive gaming",
+        "pt": "Games competitivos",
+        "fr": "Jeu vidéo compétitif",
+        "de": "Competitive Gaming",
+        "ru": "Киберспорт",
+        "ar": "الألعاب التنافسية",
+        "hi": "प्रतिस्पर्धी गेमिंग",
+        "zh": "竞技游戏",
+        "ja": "競技ゲーム実況"
+      },
+      "about": {
+        "es": "Tyler Blevins es un creador estadounidense nacido en Detroit, Michigan; se hizo mundialmente conocido como jugador y streamer de Fortnite.",
+        "en": "Tyler Blevins is an American creator born in Detroit, Michigan; became globally known as a Fortnite player and streamer.",
+        "pt": "Tyler Blevins é um criador americano nascido em Detroit, Michigan; ficou mundialmente conhecido como jogador e streamer de Fortnite.",
+        "fr": "Tyler Blevins est un créateur américain né à Détroit, dans le Michigan; devenu mondialement connu en tant que joueur et streamer de Fortnite.",
+        "de": "Tyler Blevins ist ein US-amerikanischer Creator aus Detroit, Michigan; wurde weltweit bekannt als Fortnite-Spieler und Streamer.",
+        "ru": "Тайлер Блевинс — американский автор из Детройта, штат Мичиган; получил всемирную известность как игрок и стример Fortnite.",
+        "ar": "تايلر بليفينز صانع محتوى أمريكي من ديترويت بولاية ميشيغان؛ اشتهر عالميًا كلاعب وبث مباشر للعبة فورتنايت.",
+        "hi": "टायलर ब्लेविंस डेट्रॉइट, मिशिगन में जन्मे एक अमेरिकी क्रिएटर हैं; वे फोर्टनाइट के खिलाड़ी और स्ट्रीमर के रूप में विश्वभर में मशहूर हुए।",
+        "zh": "泰勒·布莱文斯是出生于密歇根州底特律的美国创作者，因作为《堡垒之夜》玩家和主播而闻名全球。",
+        "ja": "タイラー・ブレビンスはミシガン州デトロイト出身のアメリカ人クリエイターで、フォートナイトのプレイヤー・配信者として世界的に有名になった。"
+      },
+      "handles": {
+        "youtube": "UCAW-NpUFkMyCNrvRSSGIvDQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 23500000
+        }
+      }
+    },
+    {
+      "id": "david-dobrik",
+      "name": "David Dobrik",
+      "country": "US",
+      "topic": {
+        "es": "Vlogs y comedia",
+        "en": "Vlogs and comedy",
+        "pt": "Vlogs e comédia",
+        "fr": "Vlogs et comédie",
+        "de": "Vlogs und Comedy",
+        "ru": "Влоги и комедия",
+        "ar": "مدونات فيديو وكوميديا",
+        "hi": "व्लॉग और कॉमेडी",
+        "zh": "视频博客与喜剧",
+        "ja": "Vlogとコメディ"
+      },
+      "about": {
+        "es": "Creador estadounidense nacido en Slovakia y criado en Vernon Hills, Illinois; es conocido por vlogs cortos y muy editados con su grupo de amigos.",
+        "en": "An American creator born in Slovakia and raised in Vernon Hills, Illinois; known for short, heavily edited vlogs featuring his group of friends.",
+        "pt": "Criador americano nascido na Eslováquia e criado em Vernon Hills, Illinois; conhecido por vlogs curtos e altamente editados com seu grupo de amigos.",
+        "fr": "Créateur américain né en Slovaquie et élevé à Vernon Hills, dans l'Illinois; connu pour ses vlogs courts et très montés avec son groupe d'amis.",
+        "de": "Ein US-amerikanischer Creator, geboren in der Slowakei und aufgewachsen in Vernon Hills, Illinois; bekannt für kurze, stark geschnittene Vlogs mit seiner Freundesgruppe.",
+        "ru": "Американский автор, родившийся в Словакии и выросший в Вернон-Хиллз, штат Иллинойс; известен короткими, динамично смонтированными влогами со своей компанией друзей.",
+        "ar": "صانع محتوى أمريكي وُلد في سلوفاكيا ونشأ في فيرنون هيلز بولاية إلينوي؛ معروف بمدوناته الفيديوية القصيرة والمُحررة بشكل مكثف مع مجموعة أصدقائه.",
+        "hi": "स्लोवाकिया में जन्मे और वर्नोन हिल्स, इलिनोइस में पले-बढ़े एक अमेरिकी क्रिएटर; अपने दोस्तों के समूह के साथ छोटे, भारी-संपादित व्लॉग के लिए जाने जाते हैं।",
+        "zh": "出生于斯洛伐克、在伊利诺伊州弗农山庄长大的美国创作者，以与朋友团体拍摄的短小、剪辑密集的视频博客闻名。",
+        "ja": "スロバキア生まれ、イリノイ州バーノンヒルズ育ちのアメリカ人クリエイター。友人グループと共に撮る、テンポの速い編集の短いVlogで知られる。"
+      },
+      "handles": {
+        "youtube": "UCmh5gdwCx6lN7gEC20leNVA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 17200000
+        }
+      }
+    },
+    {
+      "id": "logan-paul",
+      "name": "Logan Paul",
+      "country": "US",
+      "topic": {
+        "es": "Vlogs y deportes de combate",
+        "en": "Vlogs and combat sports",
+        "pt": "Vlogs e esportes de combate",
+        "fr": "Vlogs et sports de combat",
+        "de": "Vlogs und Kampfsport",
+        "ru": "Влоги и бойцовский спорт",
+        "ar": "مدونات فيديو ورياضات القتال",
+        "hi": "व्लॉग और मुक्केबाज़ी खेल",
+        "zh": "视频博客与格斗运动",
+        "ja": "Vlogと格闘技"
+      },
+      "about": {
+        "es": "Creador estadounidense nacido en Westlake, Ohio; comenzó con vlogs diarios y hoy también compite como boxeador y en lucha libre profesional (WWE).",
+        "en": "An American creator born in Westlake, Ohio; started with daily vlogs and now also competes as a professional boxer and in WWE wrestling.",
+        "pt": "Criador americano nascido em Westlake, Ohio; começou com vlogs diários e hoje também compete como boxeador profissional e na WWE.",
+        "fr": "Créateur américain né à Westlake, dans l'Ohio; a débuté avec des vlogs quotidiens et pratique aujourd'hui aussi la boxe professionnelle et le catch (WWE).",
+        "de": "Ein US-amerikanischer Creator aus Westlake, Ohio; begann mit täglichen Vlogs und tritt heute zudem als Profiboxer sowie bei der WWE an.",
+        "ru": "Американский автор из Уэстлейка, штат Огайо; начинал с ежедневных влогов, а сейчас также выступает как профессиональный боксер и рестлер WWE.",
+        "ar": "صانع محتوى أمريكي من ويستليك بولاية أوهايو؛ بدأ بمدونات فيديو يومية، ويخوض الآن أيضًا مباريات ملاكمة احترافية ومصارعة WWE.",
+        "hi": "वेस्टलेक, ओहायो में जन्मे एक अमेरिकी क्रिएटर; रोज़ाना व्लॉग से शुरुआत की और अब पेशेवर मुक्केबाज़ और WWE कुश्ती में भी हिस्सा लेते हैं।",
+        "zh": "出生于俄亥俄州韦斯特莱克的美国创作者，最初拍摄每日视频博客，如今也从事职业拳击并参与WWE摔角比赛。",
+        "ja": "オハイオ州ウェストレイク出身のアメリカ人クリエイター。毎日Vlogから始め、現在はプロボクサーおよびWWEレスラーとしても活動している。"
+      },
+      "handles": {
+        "youtube": "UCG8rbF3g2AMX70yOd8vqIZg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 23600000
+        }
+      }
+    },
+    {
+      "id": "jake-paul",
+      "name": "Jake Paul",
+      "country": "US",
+      "topic": {
+        "es": "Vlogs y boxeo",
+        "en": "Vlogs and boxing",
+        "pt": "Vlogs e boxe",
+        "fr": "Vlogs et boxe",
+        "de": "Vlogs und Boxen",
+        "ru": "Влоги и бокс",
+        "ar": "مدونات فيديو وملاكمة",
+        "hi": "व्लॉग और मुक्केबाज़ी",
+        "zh": "视频博客与拳击",
+        "ja": "Vlogとボクシング"
+      },
+      "about": {
+        "es": "Creador estadounidense nacido en Westlake, Ohio, y hermano de Logan Paul; pasó de los vlogs virales a una carrera activa como boxeador profesional.",
+        "en": "An American creator born in Westlake, Ohio, and brother of Logan Paul; moved from viral vlogging into an active career as a professional boxer.",
+        "pt": "Criador americano nascido em Westlake, Ohio, e irmão de Logan Paul; passou dos vlogs virais para uma carreira ativa como boxeador profissional.",
+        "fr": "Créateur américain né à Westlake, dans l'Ohio, et frère de Logan Paul; est passé des vlogs viraux à une carrière active de boxeur professionnel.",
+        "de": "Ein US-amerikanischer Creator aus Westlake, Ohio, und Bruder von Logan Paul; wechselte von viralen Vlogs zu einer aktiven Karriere als Profiboxer.",
+        "ru": "Американский автор из Уэстлейка, штат Огайо, брат Логана Пола; перешел от вирусных влогов к активной карьере профессионального боксера.",
+        "ar": "صانع محتوى أمريكي من ويستليك بولاية أوهايو وشقيق لوغان بول؛ انتقل من المدونات الفيديوية الفيروسية إلى مسيرة نشطة كملاكم محترف.",
+        "hi": "वेस्टलेक, ओहायो में जन्मे और लोगन पॉल के भाई, एक अमेरिकी क्रिएटर; वायरल व्लॉगिंग से पेशेवर मुक्केबाज़ी के सक्रिय करियर की ओर बढ़े।",
+        "zh": "出生于俄亥俄州韦斯特莱克的美国创作者，是洛根·保罗的弟弟；从爆红的视频博客转型为活跃的职业拳击手。",
+        "ja": "オハイオ州ウェストレイク出身のアメリカ人クリエイターで、ローガン・ポールの弟。バイラルなVlogからプロボクサーとしての活動へと軸足を移した。"
+      },
+      "handles": {
+        "youtube": "UCcgVECVN4OKV6DH1jLkqmcA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 21000000
+        }
+      }
+    },
+    {
+      "id": "dude-perfect",
+      "name": "Dude Perfect",
+      "country": "US",
+      "topic": {
+        "es": "Deportes y trucos",
+        "en": "Sports and trick shots",
+        "pt": "Esportes e arremessos incríveis",
+        "fr": "Sport et exploits improbables",
+        "de": "Sport und Trickschüsse",
+        "ru": "Спорт и трюковые броски",
+        "ar": "رياضة ورميات استعراضية",
+        "hi": "खेल और ट्रिक शॉट्स",
+        "zh": "运动与花式投掷",
+        "ja": "スポーツとトリックショット"
+      },
+      "about": {
+        "es": "Grupo estadounidense formado por cinco amigos de Texas, exalumnos de Texas A&M University, conocido por videos de trucos deportivos y retos físicos elaborados.",
+        "en": "An American group of five friends from Texas, former Texas A&M University roommates, known for elaborate trick-shot and sports challenge videos.",
+        "pt": "Grupo americano formado por cinco amigos do Texas, ex-colegas de quarto na Texas A&M University, conhecido por vídeos de arremessos incríveis e desafios esportivos elaborados.",
+        "fr": "Groupe américain composé de cinq amis originaires du Texas, anciens colocataires à la Texas A&M University, connu pour ses vidéos élaborées d'exploits sportifs.",
+        "de": "Eine US-amerikanische Gruppe aus fünf befreundeten Texanern, ehemalige Mitbewohner an der Texas A&M University, bekannt für aufwendige Trickschuss- und Sport-Challenge-Videos.",
+        "ru": "Американская группа из пяти друзей из Техаса, бывших соседей по общежитию в Texas A&M University; известна сложными трюковыми бросками и спортивными испытаниями.",
+        "ar": "مجموعة أمريكية مكونة من خمسة أصدقاء من تكساس، وزملاء سكن سابقين في جامعة تكساس إيه آند إم؛ معروفة بمقاطع الرميات الاستعراضية والتحديات الرياضية المتقنة.",
+        "hi": "टेक्सास के पांच दोस्तों का एक अमेरिकी समूह, जो टेक्सास ए एंड एम विश्वविद्यालय में पूर्व रूममेट रहे हैं; विस्तृत ट्रिक-शॉट और खेल चुनौती वीडियो के लिए प्रसिद्ध।",
+        "zh": "由五名德州好友组成的美国团体，曾是德州农工大学的室友，以精心制作的花式投掷和体育挑战视频闻名。",
+        "ja": "テキサス出身の5人の友人によるアメリカのグループで、テキサスA&M大学時代のルームメイト。手の込んだトリックショットとスポーツチャレンジ動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCRijo3ddMTht_IHyNSNXpNQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 62700000
+        }
+      }
+    },
+    {
+      "id": "ksi",
+      "name": "KSI",
+      "country": "GB",
+      "topic": {
+        "es": "Comedia y boxeo",
+        "en": "Comedy and boxing",
+        "pt": "Comédia e boxe",
+        "fr": "Comédie et boxe",
+        "de": "Comedy und Boxen",
+        "ru": "Комедия и бокс",
+        "ar": "كوميديا وملاكمة",
+        "hi": "कॉमेडी और मुक्केबाज़ी",
+        "zh": "喜剧与拳击",
+        "ja": "コメディとボクシング"
+      },
+      "about": {
+        "es": "Olajide Olayinka Williams Olatunji, creador británico nacido en Watford, Inglaterra; comenzó con videos de comedia sobre FIFA y hoy también es boxeador profesional y músico.",
+        "en": "Olajide Olayinka Williams Olatunji is a British creator born in Watford, England; started with comedic FIFA videos and is now also a professional boxer and musician.",
+        "pt": "Olajide Olayinka Williams Olatunji é um criador britânico nascido em Watford, Inglaterra; começou com vídeos cômicos de FIFA e hoje também é boxeador profissional e músico.",
+        "fr": "Olajide Olayinka Williams Olatunji est un créateur britannique né à Watford, en Angleterre; a débuté avec des vidéos comiques sur FIFA et est aujourd'hui aussi boxeur professionnel et musicien.",
+        "de": "Olajide Olayinka Williams Olatunji ist ein britischer Creator aus Watford, England; begann mit komödiantischen FIFA-Videos und ist heute zudem Profiboxer und Musiker.",
+        "ru": "Оладжиде Олайинка Уильямс Олатунджи — британский автор из Уотфорда, Англия; начинал с комедийных видео о FIFA, сейчас также профессиональный боксер и музыкант.",
+        "ar": "أولاجيدي أولايينكا ويليامز أولاتونجي صانع محتوى بريطاني من واتفورد بإنجلترا؛ بدأ بمقاطع كوميدية عن لعبة فيفا، وهو الآن أيضًا ملاكم محترف وموسيقي.",
+        "hi": "ओलाजिदे ओलायिंका विलियम्स ओलातुंजी वॉटफ़ोर्ड, इंग्लैंड में जन्मे एक ब्रिटिश क्रिएटर हैं; फीफा पर कॉमेडी वीडियो से शुरुआत की और अब पेशेवर मुक्केबाज़ व संगीतकार भी हैं।",
+        "zh": "奥拉吉德·奥拉因卡·威廉姆斯·奥拉通吉是出生于英格兰沃特福德的英国创作者，最初制作FIFA游戏喜剧视频，如今也是职业拳击手兼音乐人。",
+        "ja": "オラジデ・オラインカ・ウィリアムズ・オラトゥンジはイングランドのワトフォード出身のイギリス人クリエイター。FIFAのコメディ動画から始まり、現在はプロボクサー兼ミュージシャンでもある。"
+      },
+      "handles": {
+        "youtube": "UCGmnsW623G1r-Chmo5RB4Yw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 19100000
+        }
+      }
     }
   ]
 }
