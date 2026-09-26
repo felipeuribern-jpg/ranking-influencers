@@ -61,8 +61,16 @@ base.
 
 ## Cuota de YouTube
 
-`search.list` cuesta 100 unidades por llamada (muy caro frente a las ~3 unidades
-de una actualización normal de canal). Con la cuota gratuita diaria (10.000
-unidades) y las 4 búsquedas de `DISCOVERY_QUERIES`, el descubrimiento usa ~400
-unidades/día — deja margen de sobra para actualizar decenas de canales existentes
-el mismo día. Si se amplía la lista de búsquedas, revisar este presupuesto.
+`search.list` cuesta 100 unidades por llamada. **Corrección (2026-09-26):** el
+supuesto original de 10.000 unidades/día para todo el proyecto no aplica a
+`search.list` en particular — Google le pone a este endpoint una sub-cuota
+propia y mucho más baja (`defaultSearchListPerDayPerProject`), que se agotó por
+completo en un solo `runDiscovery()` con ~50 países en `DISCOVERY_QUERIES`. En
+la práctica: cada corrida de descubrimiento agota la cuota de búsqueda del día
+completo, sin importar cuántas búsquedas tenga la lista (5 o 50 cuestan igual
+de caro en la práctica: "no se puede correr una segunda vez el mismo día").
+Implicancia: si se agregan búsquedas nuevas a `DISCOVERY_QUERIES` (por ejemplo,
+para ampliar la cobertura de un país con pocos candidatos), quedan pendientes
+hasta el próximo día — no sirve reintentar corriendo `--discover` de nuevo el
+mismo día. La cuota de `channels.list`/`videos.list` (usada para actualizar
+canales ya conocidos) es independiente y no se ve afectada por esto.

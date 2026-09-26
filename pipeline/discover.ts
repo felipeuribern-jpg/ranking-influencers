@@ -48,6 +48,8 @@ export const DISCOVERY_QUERIES: DiscoveryQuery[] = [
   { countryCode: "PT", topicQuery: "influenciador português" },
   // Inglés
   { countryCode: "US", topicQuery: "American influencer" },
+  { countryCode: "US", topicQuery: "American YouTuber vlogger" },
+  { countryCode: "US", topicQuery: "American content creator lifestyle" },
   { countryCode: "GB", topicQuery: "British influencer" },
   { countryCode: "IN", topicQuery: "Indian influencer" },
   { countryCode: "CA", topicQuery: "Canadian influencer" },
@@ -69,6 +71,7 @@ export const DISCOVERY_QUERIES: DiscoveryQuery[] = [
   { countryCode: "CH", topicQuery: "Schweizer Influencer" },
   // Italiano
   { countryCode: "IT", topicQuery: "influencer italiano" },
+  { countryCode: "IT", topicQuery: "youtuber italiano vlogger" },
   // Otros idiomas/mercados grandes
   { countryCode: "RU", topicQuery: "русский блогер" },
   { countryCode: "TR", topicQuery: "Türk influencer" },
