@@ -121,6 +121,14 @@ export interface Candidate {
   handlesVerified: false;
   needsContent: true; // topic/about en 10 idiomas pendientes
   youtubeDescriptionSnippet: string;
+  /**
+   * true si el propio canal declaró su país en YouTube y coincide con
+   * `country` (dato oficial, no inferido). false si el canal no declaró país
+   * (search.list solo busca por idioma/tema, no filtra por país real: quien
+   * escriba topic/about igual debe confirmar el país con una búsqueda real
+   * antes de darlo por bueno — ver docs/DESCUBRIMIENTO.md).
+   */
+  countryDeclaredByChannel: boolean;
 }
 
 interface CandidatesFile {
@@ -157,6 +165,15 @@ export async function runDiscovery(
         continue;
       }
 
+      // search.list de YouTube busca por idioma/tema, no por país real del
+      // canal: un canal declarado con OTRO país es un descarte seguro (dato
+      // oficial que el propio dueño configuró). Se detectó esto en la
+      // práctica — varios lotes de descubrimiento salieron con el país mal
+      // etiquetado y hubo que investigar y descartar a mano uno por uno.
+      if (snapshot.country && snapshot.country.toUpperCase() !== countryCode.toUpperCase()) {
+        continue;
+      }
+
       const handles = extractHandlesFromDescription(snapshot.description);
 
       // Si además hay un handle de Instagram en la descripción, se verifica de
@@ -183,6 +200,7 @@ export async function runDiscovery(
         handlesVerified: false,
         needsContent: true,
         youtubeDescriptionSnippet: snapshot.description.slice(0, 280),
+        countryDeclaredByChannel: snapshot.country === countryCode.toUpperCase(),
       };
       newCandidates.push(candidate);
       alreadyQueued.add(channelId);

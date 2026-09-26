@@ -33,6 +33,8 @@ export interface YoutubeChannelSnapshot {
   description: string;
   uploadsPlaylistId: string | null;
   url: string;
+  /** País declarado por el propio canal (snippet.country), si lo configuró. */
+  country: string | null;
 }
 
 /**
@@ -69,6 +71,7 @@ export async function fetchChannelSnapshot(
     description: item.snippet?.description ?? "",
     uploadsPlaylistId: item.contentDetails?.relatedPlaylists?.uploads ?? null,
     url: `https://www.youtube.com/channel/${channelId}`,
+    country: item.snippet?.country ?? null,
   };
 }
 

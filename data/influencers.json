@@ -2097,6 +2097,1062 @@
           "youtube": 838000
         }
       }
+    },
+    {
+      "id": "raiam-santos-mcarn",
+      "name": "Raiam Santos McArn",
+      "country": "BR",
+      "topic": {
+        "es": "Viajes y geopolítica",
+        "en": "Travel & geopolitics",
+        "pt": "Viagens e geopolítica",
+        "fr": "Voyage et géopolitique",
+        "de": "Reisen & Geopolitik",
+        "ru": "Путешествия и геополитика",
+        "ar": "سفر وجيوسياسة",
+        "hi": "यात्रा और भू-राजनीति",
+        "zh": "旅行与地缘政治",
+        "ja": "旅行と地政学"
+      },
+      "about": {
+        "es": "Creador brasileño que combina viajes de bajo presupuesto con análisis de geopolítica y economía en su serie 'Classe Econômica', además de contenido sobre emprendimiento digital.",
+        "en": "A Brazilian creator who combines budget travel with geopolitics and economics analysis in his 'Classe Econômica' series, alongside content on digital entrepreneurship.",
+        "pt": "Criador brasileiro que combina viagens de baixo custo com análises de geopolítica e economia em sua série 'Classe Econômica', além de conteúdo sobre empreendedorismo digital.",
+        "fr": "Créateur brésilien qui allie voyages à petit budget et analyses de géopolitique et d'économie dans sa série 'Classe Econômica', ainsi que du contenu sur l'entrepreneuriat numérique.",
+        "de": "Ein brasilianischer Creator, der in seiner Serie 'Classe Econômica' Billigreisen mit geopolitischen und wirtschaftlichen Analysen verbindet und außerdem Inhalte zu digitalem Unternehmertum veröffentlicht.",
+        "ru": "Бразильский блогер, сочетающий бюджетные путешествия с анализом геополитики и экономики в своей серии 'Classe Econômica', а также контент о цифровом предпринимательстве.",
+        "ar": "صانع محتوى برازيلي يجمع بين السفر منخفض التكلفة وتحليل الجيوسياسة والاقتصاد في سلسلته 'Classe Econômica'، إضافة إلى محتوى عن ريادة الأعمال الرقمية.",
+        "hi": "एक ब्राज़ीलियाई क्रिएटर जो अपनी सीरीज़ 'Classe Econômica' में किफायती यात्रा को भू-राजनीति और अर्थशास्त्र के विश्लेषण के साथ जोड़ता है, साथ ही डिजिटल उद्यमिता पर सामग्री भी बनाता है।",
+        "zh": "一位巴西创作者,在其系列节目《Classe Econômica》中将低成本旅行与地缘政治和经济分析结合,同时也制作关于数字创业的内容。",
+        "ja": "ブラジル出身のクリエイターで、シリーズ「Classe Econômica」で低予算旅行と地政学・経済分析を組み合わせ、デジタル起業に関するコンテンツも発信している。"
+      },
+      "handles": {
+        "youtube": "UCYj1jy66peKPzEp808TK5ww",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1150000
+        }
+      }
+    },
+    {
+      "id": "gaba",
+      "name": "Gaba",
+      "country": "BR",
+      "topic": {
+        "es": "Gastronomía",
+        "en": "Food",
+        "pt": "Gastronomia",
+        "fr": "Gastronomie",
+        "de": "Gastronomie",
+        "ru": "Гастрономия",
+        "ar": "طعام",
+        "hi": "भोजन",
+        "zh": "美食",
+        "ja": "グルメ"
+      },
+      "about": {
+        "es": "Creador brasileño que reseña y prueba comida en restaurantes de todo Brasil, con un canal de gastronomía que inició en 2016.",
+        "en": "A Brazilian creator who reviews and tastes food at restaurants across Brazil, running a gastronomy channel he started in 2016.",
+        "pt": "Criador brasileiro que resenha e experimenta comidas em restaurantes de todo o Brasil, com um canal de gastronomia iniciado em 2016.",
+        "fr": "Créateur brésilien qui teste et critique la nourriture dans des restaurants à travers le Brésil, sur une chaîne de gastronomie lancée en 2016.",
+        "de": "Ein brasilianischer Creator, der Essen in Restaurants in ganz Brasilien testet und bewertet, mit einem 2016 gestarteten Gastronomie-Kanal.",
+        "ru": "Бразильский блогер, пробующий и оценивающий еду в ресторанах по всей Бразилии на гастрономическом канале, запущенном в 2016 году.",
+        "ar": "صانع محتوى برازيلي يجرب ويقيّم الطعام في مطاعم في جميع أنحاء البرازيل، عبر قناة طهي أطلقها عام 2016.",
+        "hi": "एक ब्राज़ीलियाई क्रिएटर जो पूरे ब्राज़ील के रेस्तरां में खाने का स्वाद चखता और समीक्षा करता है, जिसने 2016 में अपना फूड चैनल शुरू किया था।",
+        "zh": "一位巴西创作者,在巴西各地的餐厅试吃并评价美食,其美食频道创办于2016年。",
+        "ja": "ブラジル各地のレストランで食事を試食・レビューするブラジル人クリエイターで、2016年に開設したグルメチャンネルを運営している。"
+      },
+      "handles": {
+        "youtube": "UCTTKtO5pU4OC7dqxG2bZflw",
+        "tiktok": null,
+        "instagram": "gabrielbruno",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2700000
+        }
+      }
+    },
+    {
+      "id": "brino",
+      "name": "Brino",
+      "country": "BR",
+      "topic": {
+        "es": "Streaming y reacciones",
+        "en": "Streaming & reactions",
+        "pt": "Streaming e reações",
+        "fr": "Streaming et réactions",
+        "de": "Streaming & Reactions",
+        "ru": "Стриминг и реакции",
+        "ar": "بث مباشر وردود فعل",
+        "hi": "स्ट्रीमिंग और रिएक्शन",
+        "zh": "直播与反应视频",
+        "ja": "配信とリアクション"
+      },
+      "about": {
+        "es": "Creador y streamer brasileño nacido en 1996 en Peruíbe, São Paulo, conocido por sus reacciones y cortes de transmisiones en vivo tras iniciar como community manager de celebridades.",
+        "en": "A Brazilian creator and streamer born in 1996 in Peruíbe, São Paulo, known for livestream reaction clips after starting his career as a social media manager for celebrities.",
+        "pt": "Criador e streamer brasileiro nascido em 1996 em Peruíbe, São Paulo, conhecido por cortes e reações de suas lives após começar a carreira como gestor de redes sociais de celebridades.",
+        "fr": "Créateur et streamer brésilien né en 1996 à Peruíbe, à São Paulo, connu pour ses clips de réaction en direct après avoir débuté comme gestionnaire de réseaux sociaux de célébrités.",
+        "de": "Ein brasilianischer Creator und Streamer, geboren 1996 in Peruíbe, São Paulo, bekannt für Livestream-Reaction-Clips, nachdem er seine Karriere als Social-Media-Manager für Prominente begann.",
+        "ru": "Бразильский блогер и стример, родившийся в 1996 году в Перуибе, штат Сан-Паулу, известный клипами-реакциями со своих трансляций; начинал карьеру как менеджер соцсетей знаменитостей.",
+        "ar": "صانع محتوى ومذيع بث مباشر برازيلي وُلد عام 1996 في بيرويبي بولاية ساو باولو، يُعرف بمقاطع ردود الفعل من بثوثه المباشرة بعد أن بدأ مسيرته كمدير حسابات تواصل اجتماعي للمشاهير.",
+        "hi": "1996 में साओ पाउलो के पेरुइबे में जन्मे एक ब्राज़ीलियाई क्रिएटर और स्ट्रीमर, जो हस्तियों के सोशल मीडिया प्रबंधक के रूप में करियर शुरू करने के बाद अपनी लाइव स्ट्रीम रिएक्शन क्लिप्स के लिए जाने जाते हैं।",
+        "zh": "一位1996年出生于圣保罗州佩鲁伊贝的巴西创作者兼主播,曾担任名人社交媒体经理,后以直播反应剪辑内容闻名。",
+        "ja": "1996年サンパウロ州ペルイーベ生まれのブラジル人クリエイター兼ストリーマーで、著名人のSNSマネージャーとして活動を始めた後、ライブ配信のリアクションクリップで知られるようになった。"
+      },
+      "handles": {
+        "youtube": "UCk7PLqymO8AziWRbBu8jeOA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 7660000
+        }
+      }
+    },
+    {
+      "id": "mel-noleto",
+      "name": "mel noleto",
+      "country": "BR",
+      "topic": {
+        "es": "Estilo de vida",
+        "en": "Lifestyle",
+        "pt": "Estilo de vida",
+        "fr": "Style de vie",
+        "de": "Lifestyle",
+        "ru": "Лайфстайл",
+        "ar": "أسلوب حياة",
+        "hi": "लाइफस्टाइल",
+        "zh": "生活方式",
+        "ja": "ライフスタイル"
+      },
+      "about": {
+        "es": "Creadora brasileña radicada en Estados Unidos que comparte su rutina diaria, moda y maquillaje, además de conversaciones dirigidas a una audiencia femenina.",
+        "en": "A Brazilian creator based in the United States who shares her daily routine, fashion and makeup, along with conversational content aimed at a female audience.",
+        "pt": "Criadora brasileira radicada nos Estados Unidos que compartilha sua rotina diária, moda e maquiagem, além de conteúdo de conversa voltado ao público feminino.",
+        "fr": "Créatrice brésilienne installée aux États-Unis qui partage son quotidien, la mode et le maquillage, ainsi que du contenu conversationnel destiné à un public féminin.",
+        "de": "Eine brasilianische Creatorin mit Wohnsitz in den USA, die ihren Alltag, Mode und Make-up teilt sowie Gesprächsinhalte für ein weibliches Publikum produziert.",
+        "ru": "Бразильская блогерша, проживающая в США, делится своей повседневной жизнью, модой и макияжем, а также создаёт разговорный контент для женской аудитории.",
+        "ar": "صانعة محتوى برازيلية مقيمة في الولايات المتحدة تشارك روتينها اليومي والموضة والمكياج، إلى جانب محتوى حواري موجّه للجمهور النسائي.",
+        "hi": "अमेरिका में रहने वाली एक ब्राज़ीलियाई क्रिएटर जो अपनी दैनिक दिनचर्या, फैशन और मेकअप के साथ-साथ महिला दर्शकों के लिए बातचीत आधारित सामग्री साझा करती है।",
+        "zh": "一位现居美国的巴西创作者,分享她的日常生活、时尚和化妆内容,并制作面向女性观众的谈话类内容。",
+        "ja": "アメリカ在住のブラジル人クリエイターで、日常生活やファッション、メイクを発信するほか、女性視聴者向けのトーク系コンテンツも手がけている。"
+      },
+      "handles": {
+        "youtube": "UC400YmyPPgPB6JgVW2DViwg",
+        "tiktok": "melnoleto",
+        "instagram": "melnoleto",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 190000
+        }
+      }
+    },
+    {
+      "id": "ismael",
+      "name": "Ismael",
+      "country": "BR",
+      "topic": {
+        "es": "Comentarios y reacciones",
+        "en": "Commentary & reactions",
+        "pt": "Comentários e reações",
+        "fr": "Commentaire et réactions",
+        "de": "Kommentar & Reactions",
+        "ru": "Комментарии и реакции",
+        "ar": "تعليق وردود فعل",
+        "hi": "कमेंट्री और रिएक्शन",
+        "zh": "评论与反应视频",
+        "ja": "コメンタリーとリアクション"
+      },
+      "about": {
+        "es": "Segundo canal del creador brasileño Ismael Serafim (conocido como Ismeiow), lanzado en 2023 para comentarios y reacciones fuera de su personaje drag.",
+        "en": "The second channel of Brazilian creator Ismael Serafim (known as Ismeiow), launched in 2023 for commentary and reaction videos outside his drag persona.",
+        "pt": "Segundo canal do criador brasileiro Ismael Serafim (conhecido como Ismeiow), lançado em 2023 para vídeos de comentário e reação fora de sua persona drag.",
+        "fr": "Deuxième chaîne du créateur brésilien Ismael Serafim (connu sous le nom d'Ismeiow), lancée en 2023 pour des vidéos de commentaire et de réaction en dehors de son personnage drag.",
+        "de": "Der zweite Kanal des brasilianischen Creators Ismael Serafim (bekannt als Ismeiow), der 2023 für Kommentar- und Reaction-Videos außerhalb seiner Drag-Persona gestartet wurde.",
+        "ru": "Второй канал бразильского блогера Исмаэла Серафима (известного как Ismeiow), запущенный в 2023 году для комментариев и реакций вне его драг-образа.",
+        "ar": "القناة الثانية لصانع المحتوى البرازيلي إسماعيل سيرافيم (المعروف باسم Ismeiow)، أُطلقت عام 2023 لمقاطع التعليق وردود الفعل خارج شخصيته كـ'دراغ كوين'.",
+        "hi": "ब्राज़ीलियाई क्रिएटर इस्माएल सेराफिम (जिन्हें इस्मियो के नाम से जाना जाता है) का दूसरा चैनल, जिसे 2023 में उनके ड्रैग व्यक्तित्व से अलग कमेंट्री और रिएक्शन वीडियो के लिए शुरू किया गया।",
+        "zh": "巴西创作者伊斯梅尔·塞拉芬(艺名Ismeiow)的第二频道,于2023年创立,用于发布脱离其变装角色的评论和反应视频。",
+        "ja": "ブラジル人クリエイター、イズマエル・セラフィン(通称Ismeiow)のセカンドチャンネルで、2023年にドラァグクイーンのペルソナとは別にコメンタリーやリアクション動画を発信するために開設された。"
+      },
+      "handles": {
+        "youtube": "UCLDBEDXQDUcchFUCZgMDRYg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2750000
+        }
+      }
+    },
+    {
+      "id": "nomade-raiz",
+      "name": "Nômade Raiz",
+      "country": "BR",
+      "topic": {
+        "es": "Viajes",
+        "en": "Travel",
+        "pt": "Viagens",
+        "fr": "Voyage",
+        "de": "Reisen",
+        "ru": "Путешествия",
+        "ar": "سفر",
+        "hi": "यात्रा",
+        "zh": "旅行",
+        "ja": "旅行"
+      },
+      "about": {
+        "es": "Creador brasileño de viajes cuyo canal, lanzado en mayo de 2023, superó el millón de suscriptores en menos de un año bajo el lema de 'mostrar el mundo como es'.",
+        "en": "A Brazilian travel creator whose channel, launched in May 2023, passed one million subscribers in under a year under the motto of 'showing the world as it is'.",
+        "pt": "Criador brasileiro de viagens cujo canal, lançado em maio de 2023, ultrapassou um milhão de inscritos em menos de um ano sob o lema de 'mostrar o mundo como ele é'.",
+        "fr": "Créateur brésilien de voyage dont la chaîne, lancée en mai 2023, a dépassé le million d'abonnés en moins d'un an, sous la devise 'montrer le monde tel qu'il est'.",
+        "de": "Ein brasilianischer Reise-Creator, dessen im Mai 2023 gestarteter Kanal unter dem Motto 'die Welt zeigen, wie sie ist' in weniger als einem Jahr eine Million Abonnenten erreichte.",
+        "ru": "Бразильский блогер-путешественник, чей канал, запущенный в мае 2023 года, менее чем за год набрал миллион подписчиков под девизом 'показывать мир таким, какой он есть'.",
+        "ar": "صانع محتوى سفر برازيلي بدأت قناته في مايو 2023 وتجاوزت مليون مشترك خلال أقل من عام، تحت شعار 'إظهار العالم كما هو'.",
+        "hi": "एक ब्राज़ीलियाई यात्रा क्रिएटर जिसका चैनल मई 2023 में शुरू हुआ और एक वर्ष से भी कम समय में दस लाख सब्सक्राइबर तक पहुँच गया, जिसका आदर्श वाक्य है 'दुनिया को वैसी ही दिखाना जैसी वह है'।",
+        "zh": "一位巴西旅行创作者,其频道于2023年5月上线,以'展现世界本来的样子'为口号,不到一年订阅数便突破一百万。",
+        "ja": "2023年5月に開設されたチャンネルが1年足らずで登録者100万人を突破した、ブラジル人トラベルクリエイター。「世界をあるがままに見せる」をモットーとしている。"
+      },
+      "handles": {
+        "youtube": "UC5sMjGaQJXkQdZTzGkSjYDg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2070000
+        }
+      }
+    },
+    {
+      "id": "iae-break",
+      "name": "iae break",
+      "country": "BR",
+      "topic": {
+        "es": "Río de Janeiro y reacciones",
+        "en": "Rio de Janeiro & reactions",
+        "pt": "Rio de Janeiro e reações",
+        "fr": "Rio de Janeiro et réactions",
+        "de": "Rio de Janeiro & Reactions",
+        "ru": "Рио-де-Жанейро и реакции",
+        "ar": "ريو دي جانيرو وردود فعل",
+        "hi": "रियो डी जनेरियो और रिएक्शन",
+        "zh": "里约热内卢与反应视频",
+        "ja": "リオデジャネイロとリアクション"
+      },
+      "about": {
+        "es": "Creador carioca (Matheus Alcântara) que desde 2018 publica reacciones y contenido de entretenimiento sobre Río de Janeiro, incluyendo videos de turistas extranjeros recorriendo los morros de la ciudad.",
+        "en": "A creator from Rio de Janeiro (Matheus Alcântara) who has posted reaction and entertainment content about Rio de Janeiro since 2018, including videos of foreign tourists exploring the city's favelas.",
+        "pt": "Criador carioca (Matheus Alcântara) que desde 2018 publica reações e conteúdo de entretenimento sobre o Rio de Janeiro, incluindo vídeos de turistas estrangeiros subindo os morros da cidade.",
+        "fr": "Créateur originaire de Rio de Janeiro (Matheus Alcântara) qui publie depuis 2018 des vidéos de réaction et de divertissement sur Rio, notamment des vidéos de touristes étrangers explorant les favelas de la ville.",
+        "de": "Ein Creator aus Rio de Janeiro (Matheus Alcântara), der seit 2018 Reaction- und Unterhaltungsinhalte über Rio veröffentlicht, darunter Videos ausländischer Touristen, die die Favelas der Stadt besuchen.",
+        "ru": "Блогер из Рио-де-Жанейро (Матеус Алкантара), с 2018 года публикующий развлекательный контент и реакции о Рио, включая видео с иностранными туристами, посещающими фавелы города.",
+        "ar": "صانع محتوى من ريو دي جانيرو (ماتيوس ألكانتارا) ينشر منذ عام 2018 مقاطع ردود فعل وترفيه عن ريو، بما في ذلك فيديوهات لسياح أجانب يستكشفون أحياء المدينة الفقيرة (فافيلات).",
+        "hi": "रियो डी जनेरियो के एक क्रिएटर (मातेउस अल्कांतारा) जो 2018 से रियो के बारे में रिएक्शन और मनोरंजन सामग्री पोस्ट कर रहे हैं, जिसमें शहर की फेवेला बस्तियों में घूमते विदेशी पर्यटकों के वीडियो शामिल हैं।",
+        "zh": "来自里约热内卢的创作者(马特乌斯·阿尔坎塔拉),自2018年起发布关于里约的反应和娱乐内容,包括外国游客探索该市贫民窟的视频。",
+        "ja": "リオデジャネイロ出身のクリエイター(マテウス・アルカンタラ)で、2018年からリオに関するリアクション・エンタメ動画を投稿しており、外国人観光客が市内のファベーラを訪れる様子を収めた動画も含まれる。"
+      },
+      "handles": {
+        "youtube": "UCrQ_gVJvIHxN6JHd2bmpxgw",
+        "tiktok": "iae.break",
+        "instagram": "iae.break",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 4100000
+        }
+      }
+    },
+    {
+      "id": "nando-moura",
+      "name": "Nando Moura",
+      "country": "BR",
+      "topic": {
+        "es": "Música y política",
+        "en": "Music & politics",
+        "pt": "Música e política",
+        "fr": "Musique et politique",
+        "de": "Musik & Politik",
+        "ru": "Музыка и политика",
+        "ar": "موسيقى وسياسة",
+        "hi": "संगीत और राजनीति",
+        "zh": "音乐与政治",
+        "ja": "音楽と政治"
+      },
+      "about": {
+        "es": "Músico y youtuber brasileño nacido en 1984 que comenzó su canal en 2011 centrado en heavy metal y cultura pop, y que desde 2014 también aborda temas de política y conservadurismo.",
+        "en": "A Brazilian musician and YouTuber born in 1984 who started his channel in 2011 focused on heavy metal and pop culture, and has covered political and conservative commentary since 2014.",
+        "pt": "Músico e youtuber brasileiro nascido em 1984 que iniciou seu canal em 2011 voltado para heavy metal e cultura pop, passando a abordar também política e conservadorismo a partir de 2014.",
+        "fr": "Musicien et youtubeur brésilien né en 1984, qui a lancé sa chaîne en 2011 centrée sur le heavy metal et la culture pop, avant d'aborder aussi la politique et le conservatisme à partir de 2014.",
+        "de": "Ein brasilianischer Musiker und YouTuber, geboren 1984, der 2011 seinen auf Heavy Metal und Popkultur ausgerichteten Kanal startete und seit 2014 auch politische und konservative Themen behandelt.",
+        "ru": "Бразильский музыкант и ютубер, родившийся в 1984 году; начал канал в 2011 году, посвящённый хэви-метал и поп-культуре, а с 2014 года также освещает политические и консервативные темы.",
+        "ar": "موسيقي ويوتيوبر برازيلي وُلد عام 1984، أطلق قناته عام 2011 مركزًا على موسيقى الهيفي ميتال والثقافة الشعبية، وبدأ منذ 2014 يتناول أيضًا مواضيع سياسية ومحافظة.",
+        "hi": "1984 में जन्मे एक ब्राज़ीलियाई संगीतकार और यूट्यूबर, जिन्होंने 2011 में हेवी मेटल और पॉप संस्कृति पर केंद्रित अपना चैनल शुरू किया और 2014 से राजनीति व रूढ़िवादी विचारधारा पर भी सामग्री बनाने लगे।",
+        "zh": "1984年出生的巴西音乐人兼YouTuber,2011年创办以重金属和流行文化为主题的频道,自2014年起也涉及政治与保守主义话题。",
+        "ja": "1984年生まれのブラジル人ミュージシャン兼YouTuberで、2011年にヘビーメタルとポップカルチャーを中心としたチャンネルを開設し、2014年以降は政治や保守主義に関する内容も扱っている。"
+      },
+      "handles": {
+        "youtube": "UCOOCeqi5txwviDZ4M5W9QSg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 3470000
+        }
+      }
+    },
+    {
+      "id": "millie-t",
+      "name": "Millie T",
+      "country": "GB",
+      "topic": {
+        "es": "Estilo de vida y DIY",
+        "en": "Lifestyle & DIY",
+        "pt": "Estilo de vida e DIY",
+        "fr": "Style de vie et DIY",
+        "de": "Lifestyle & DIY",
+        "ru": "Лайфстайл и DIY",
+        "ar": "أسلوب حياة وDIY",
+        "hi": "लाइफस्टाइल और DIY",
+        "zh": "生活方式与DIY",
+        "ja": "ライフスタイル・DIY"
+      },
+      "about": {
+        "es": "YouTuber inglesa (nombre real Millie Taylforth) conocida por sus proyectos DIY, tutoriales de maquillaje y contenido de estilo de vida, con más de 1,3 millones de suscriptores.",
+        "en": "An English YouTuber (real name Millie Taylforth) known for DIY projects, makeup tutorials and lifestyle content, with over 1.3 million subscribers.",
+        "pt": "YouTuber inglesa (nome real Millie Taylforth) conhecida por projetos DIY, tutoriais de maquiagem e conteúdo de estilo de vida, com mais de 1,3 milhão de inscritos.",
+        "fr": "YouTubeuse anglaise (de son vrai nom Millie Taylforth) connue pour ses projets DIY, ses tutoriels de maquillage et son contenu lifestyle, avec plus de 1,3 million d'abonnés.",
+        "de": "Englische YouTuberin (bürgerlicher Name Millie Taylforth), bekannt für DIY-Projekte, Make-up-Tutorials und Lifestyle-Inhalte, mit über 1,3 Millionen Abonnenten.",
+        "ru": "Английская ютубер (настоящее имя Милли Тэйлфорт), известная своими DIY-проектами, уроками макияжа и лайфстайл-контентом, с более чем 1,3 млн подписчиков.",
+        "ar": "يوتيوبر إنجليزية (اسمها الحقيقي ميلي تايلفورث) اشتهرت بمشاريع DIY ودروس المكياج ومحتوى نمط الحياة، ولديها أكثر من 1.3 مليون مشترك.",
+        "hi": "एक अंग्रेज़ यूट्यूबर (असली नाम मिली टेलफोर्थ) जो DIY प्रोजेक्ट्स, मेकअप ट्यूटोरियल और लाइफस्टाइल कंटेंट के लिए जानी जाती हैं, जिनके 1.3 मिलियन से अधिक सब्सक्राइबर हैं।",
+        "zh": "英国YouTuber（真名Millie Taylforth），以DIY手工、化妆教程和生活方式内容闻名，拥有超过130万订阅者。",
+        "ja": "イギリス出身のYouTuber（本名ミリー・テイルフォース）で、DIYプロジェクトやメイクチュートリアル、ライフスタイルコンテンツで知られ、登録者数は130万人を超える。"
+      },
+      "handles": {
+        "youtube": "UChmPDnOUiWx4FrfiljzR_WA",
+        "tiktok": "@milliet24",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1350000
+        }
+      }
+    },
+    {
+      "id": "honey-rose-loves",
+      "name": "Honey Rose Loves",
+      "country": "GB",
+      "topic": {
+        "es": "Belleza y moda",
+        "en": "Beauty & fashion",
+        "pt": "Beleza e moda",
+        "fr": "Beauté et mode",
+        "de": "Beauty & Mode",
+        "ru": "Красота и мода",
+        "ar": "جمال وموضة",
+        "hi": "सौंदर्य और फैशन",
+        "zh": "美妆与时尚",
+        "ja": "美容・ファッション"
+      },
+      "about": {
+        "es": "YouTuber británica que comparte contenido de moda, belleza y maquillaje, tras aparecer por primera vez en videos del canal de su hermano mayor, Jake Jamie.",
+        "en": "A British YouTuber who shares fashion, beauty and makeup content, having first appeared in videos on her older brother Jake Jamie's channel.",
+        "pt": "YouTuber britânica que compartilha conteúdo de moda, beleza e maquiagem, tendo aparecido pela primeira vez em vídeos do canal de seu irmão mais velho, Jake Jamie.",
+        "fr": "YouTubeuse britannique qui partage du contenu de mode, de beauté et de maquillage, apparue pour la première fois dans les vidéos de la chaîne de son frère aîné, Jake Jamie.",
+        "de": "Britische YouTuberin, die Mode-, Beauty- und Make-up-Inhalte teilt und erstmals in Videos des Kanals ihres älteren Bruders Jake Jamie auftrat.",
+        "ru": "Британская ютубер, публикующая контент о моде, красоте и макияже; впервые появилась в видео на канале своего старшего брата Джейка Джейми.",
+        "ar": "يوتيوبر بريطانية تشارك محتوى عن الموضة والجمال والمكياج، وقد ظهرت لأول مرة في مقاطع فيديو على قناة شقيقها الأكبر جيك جيمي.",
+        "hi": "एक ब्रिटिश यूट्यूबर जो फैशन, सौंदर्य और मेकअप से जुड़ा कंटेंट साझा करती हैं, जिन्होंने पहली बार अपने बड़े भाई जेक जेमी के चैनल के वीडियो में दिखाई दीं।",
+        "zh": "英国YouTuber，分享时尚、美妆和化妆相关内容，最初是在其兄长Jake Jamie的频道视频中露面。",
+        "ja": "ファッション、美容、メイクに関するコンテンツを発信するイギリスのYouTuberで、兄であるジェイク・ジェイミーのチャンネルの動画に初めて出演したことがきっかけで活動を始めた。"
+      },
+      "handles": {
+        "youtube": "UClnGIsJFainRGByKUEbGWpQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 707000
+        }
+      }
+    },
+    {
+      "id": "zeliha-akpinar",
+      "name": "Zeliha Akpinar",
+      "country": "GB",
+      "topic": {
+        "es": "Medicina y estilo de vida",
+        "en": "Medicine & lifestyle",
+        "pt": "Medicina e estilo de vida",
+        "fr": "Médecine et style de vie",
+        "de": "Medizin & Lifestyle",
+        "ru": "Медицина и лайфстайл",
+        "ar": "الطب ونمط الحياة",
+        "hi": "चिकित्सा और लाइफस्टाइल",
+        "zh": "医学与生活方式",
+        "ja": "医学・ライフスタイル"
+      },
+      "about": {
+        "es": "Médica de origen turco que ejerce en el Reino Unido y documenta sus estudios de medicina, productividad y temas de estilo de vida en YouTube.",
+        "en": "A Turkish-born medical doctor practicing in the United Kingdom who documents medical studies, productivity and lifestyle topics on YouTube.",
+        "pt": "Médica de origem turca que atua no Reino Unido e documenta seus estudos de medicina, produtividade e temas de estilo de vida no YouTube.",
+        "fr": "Médecin d'origine turque exerçant au Royaume-Uni, qui documente ses études de médecine, la productivité et des sujets lifestyle sur YouTube.",
+        "de": "Ärztin türkischer Herkunft, die im Vereinigten Königreich praktiziert und auf YouTube über ihr Medizinstudium, Produktivität und Lifestyle-Themen berichtet.",
+        "ru": "Врач турецкого происхождения, практикующая в Великобритании, которая рассказывает на YouTube об учёбе в медицинском вузе, продуктивности и лайфстайл-темах.",
+        "ar": "طبيبة من أصل تركي تمارس مهنتها في المملكة المتحدة، وتوثق على يوتيوب رحلتها في دراسة الطب والإنتاجية ومواضيع نمط الحياة.",
+        "hi": "तुर्की मूल की एक चिकित्सक जो यूनाइटेड किंगडम में प्रैक्टिस करती हैं और यूट्यूब पर मेडिकल पढ़ाई, प्रोडक्टिविटी और लाइफस्टाइल से जुड़े विषयों पर वीडियो बनाती हैं।",
+        "zh": "一位土耳其裔医生，在英国执业，在YouTube上记录医学学习、效率方法和生活方式相关话题。",
+        "ja": "トルコ出身でイギリスで働く医師であり、YouTubeで医学の勉強や生産性、ライフスタイルについての内容を発信している。"
+      },
+      "handles": {
+        "youtube": "UChME7blpRpX1ViN-oPBpNmw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1530000
+        }
+      }
+    },
+    {
+      "id": "ethannn",
+      "name": "Ethannn",
+      "country": "GB",
+      "topic": {
+        "es": "Comedia y reacciones",
+        "en": "Comedy & reactions",
+        "pt": "Comédia e reações",
+        "fr": "Comédie et réactions",
+        "de": "Comedy & Reactions",
+        "ru": "Комедия и реакции",
+        "ar": "كوميديا وردود أفعال",
+        "hi": "कॉमेडी और रिएक्शन",
+        "zh": "喜剧与反应视频",
+        "ja": "コメディ・リアクション"
+      },
+      "about": {
+        "es": "Comediante y YouTuber británico conocido por sus videos de reacciones y comentarios, en los que suele aparecer su loro mascota.",
+        "en": "A British comedian and YouTuber known for reaction and commentary videos, often featuring his pet parrot.",
+        "pt": "Comediante e YouTuber britânico conhecido por seus vídeos de reações e comentários, frequentemente com a participação de seu papagaio de estimação.",
+        "fr": "Humoriste et YouTubeur britannique connu pour ses vidéos de réactions et de commentaires, souvent accompagné de son perroquet de compagnie.",
+        "de": "Britischer Comedian und YouTuber, bekannt für Reaction- und Kommentarvideos, häufig mit seinem Haustier-Papagei.",
+        "ru": "Британский комик и ютубер, известный видео-реакциями и комментариями, в которых часто появляется его домашний попугай.",
+        "ar": "كوميدي ويوتيوبر بريطاني معروف بمقاطع فيديو ردود الأفعال والتعليقات، وغالبًا ما يظهر فيها ببغاؤه الأليف.",
+        "hi": "एक ब्रिटिश कॉमेडियन और यूट्यूबर जो रिएक्शन और कमेंट्री वीडियो के लिए जाने जाते हैं, जिनमें अक्सर उनका पालतू तोता भी नज़र आता है।",
+        "zh": "英国喜剧演员兼YouTuber，以反应和评论类视频闻名，视频中常出现他饲养的鹦鹉。",
+        "ja": "リアクション動画やコメンタリーで知られるイギリスのコメディアン・YouTuberで、飼っているオウムがしばしば登場する。"
+      },
+      "handles": {
+        "youtube": "UChEc_GJv8dMRoCm169cqcpg",
+        "tiktok": "@ethannnyt",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 574000
+        }
+      }
+    },
+    {
+      "id": "rikki",
+      "name": "rikki",
+      "country": "GB",
+      "topic": {
+        "es": "Comentario de belleza",
+        "en": "Beauty commentary",
+        "pt": "Comentário sobre beleza",
+        "fr": "Critique beauté",
+        "de": "Beauty-Kommentar",
+        "ru": "Бьюти-комментарии",
+        "ar": "تعليقات عن الجمال",
+        "hi": "ब्यूटी कमेंट्री",
+        "zh": "美妆评论",
+        "ja": "ビューティー評論"
+      },
+      "about": {
+        "es": "Creadora de belleza radicada en el Reino Unido que utiliza su plataforma para hablar sobre identidad, ética y responsabilidad dentro de la industria de influencers de belleza.",
+        "en": "A UK-based beauty creator who uses her platform to discuss identity, ethics and accountability within the beauty influencer industry.",
+        "pt": "Criadora de conteúdo de beleza baseada no Reino Unido que usa sua plataforma para discutir identidade, ética e responsabilidade dentro da indústria de influenciadores de beleza.",
+        "fr": "Créatrice beauté basée au Royaume-Uni qui utilise sa plateforme pour aborder l'identité, l'éthique et la responsabilité au sein de l'industrie des influenceurs beauté.",
+        "de": "Im Vereinigten Königreich ansässige Beauty-Creatorin, die ihre Plattform nutzt, um über Identität, Ethik und Verantwortlichkeit in der Beauty-Influencer-Branche zu sprechen.",
+        "ru": "Бьюти-блогер из Великобритании, которая использует свою платформу для обсуждения идентичности, этики и ответственности в индустрии бьюти-инфлюенсеров.",
+        "ar": "صانعة محتوى جمال مقيمة في المملكة المتحدة تستخدم منصتها للحديث عن الهوية والأخلاقيات والمساءلة داخل صناعة مؤثري الجمال.",
+        "hi": "यूके-आधारित ब्यूटी क्रिएटर जो अपने प्लेटफ़ॉर्म का उपयोग पहचान, नैतिकता और ब्यूटी इन्फ्लुएंसर इंडस्ट्री में जवाबदेही जैसे विषयों पर बात करने के लिए करती हैं।",
+        "zh": "一位居住在英国的美妆博主，利用自己的平台探讨美妆网红行业中的身份认同、道德与责任问题。",
+        "ja": "イギリス在住の美容系クリエイターで、美容インフルエンサー業界におけるアイデンティティや倫理、説明責任について発信している。"
+      },
+      "handles": {
+        "youtube": "UCht5FFyauRQuaMfVRMnc2fg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2140000
+        }
+      }
+    },
+    {
+      "id": "jordan-lipscombe",
+      "name": "Jordan Lipscombe",
+      "country": "GB",
+      "topic": {
+        "es": "Belleza y estilo de vida",
+        "en": "Beauty & lifestyle",
+        "pt": "Beleza e estilo de vida",
+        "fr": "Beauté et lifestyle",
+        "de": "Beauty & Lifestyle",
+        "ru": "Красота и лайфстайл",
+        "ar": "جمال ونمط حياة",
+        "hi": "सौंदर्य और लाइफस्टाइल",
+        "zh": "美妆与生活方式",
+        "ja": "美容・ライフスタイル"
+      },
+      "about": {
+        "es": "Vlogger británica de belleza y estilo de vida de Hampshire, Inglaterra, que creó su canal de YouTube en 2014 y alcanzó 100.000 suscriptores en seis meses.",
+        "en": "A British beauty and lifestyle vlogger from Hampshire, England, who started her YouTube channel in 2014 and gained 100,000 subscribers within six months.",
+        "pt": "Vlogueira britânica de beleza e estilo de vida de Hampshire, Inglaterra, que criou seu canal no YouTube em 2014 e alcançou 100 mil inscritos em seis meses.",
+        "fr": "Vlogueuse britannique de beauté et lifestyle originaire du Hampshire, en Angleterre, qui a lancé sa chaîne YouTube en 2014 et atteint 100 000 abonnés en six mois.",
+        "de": "Britische Beauty- und Lifestyle-Vloggerin aus Hampshire, England, die ihren YouTube-Kanal 2014 startete und innerhalb von sechs Monaten 100.000 Abonnenten erreichte.",
+        "ru": "Британский бьюти- и лайфстайл-блогер из Хэмпшира, Англия, запустившая канал на YouTube в 2014 году и набравшая 100 000 подписчиков за шесть месяцев.",
+        "ar": "مدوّنة فيديو بريطانية متخصصة في الجمال ونمط الحياة من مقاطعة هامبشير بإنجلترا، أطلقت قناتها على يوتيوب عام 2014 ووصلت إلى 100 ألف مشترك خلال ستة أشهر.",
+        "hi": "इंग्लैंड के हैम्पशायर से एक ब्रिटिश ब्यूटी और लाइफस्टाइल व्लॉगर, जिन्होंने 2014 में अपना यूट्यूब चैनल शुरू किया और छह महीनों के भीतर 1 लाख सब्सक्राइबर हासिल किए।",
+        "zh": "来自英格兰汉普郡的英国美妆与生活方式视频博主，2014年开设YouTube频道，六个月内订阅数突破10万。",
+        "ja": "イングランド・ハンプシャー出身のイギリスの美容・ライフスタイル系ブロガーで、2014年にYouTubeチャンネルを開設し、半年で登録者数10万人を達成した。"
+      },
+      "handles": {
+        "youtube": "UChOvNDmOmOW_xekEf45MeRw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1860000
+        }
+      }
+    },
+    {
+      "id": "alfie-deyes",
+      "name": "Alfie Deyes",
+      "country": "GB",
+      "topic": {
+        "es": "Estilo de vida y vlogs",
+        "en": "Lifestyle & vlogging",
+        "pt": "Estilo de vida e vlogs",
+        "fr": "Lifestyle et vlogs",
+        "de": "Lifestyle & Vlogs",
+        "ru": "Лайфстайл и влоги",
+        "ar": "أسلوب حياة وفلوجينج",
+        "hi": "लाइफस्टाइल और व्लॉगिंग",
+        "zh": "生活方式与视频博客",
+        "ja": "ライフスタイル・Vlog"
+      },
+      "about": {
+        "es": "YouTuber inglés conocido como PointlessBlog, que inició su canal en 2009 y es autor de la exitosa serie de libros The Pointless Book.",
+        "en": "An English YouTuber known as PointlessBlog, who began his channel in 2009 and has authored the bestselling Pointless Book series.",
+        "pt": "YouTuber inglês conhecido como PointlessBlog, que iniciou seu canal em 2009 e é autor da bem-sucedida série de livros The Pointless Book.",
+        "fr": "YouTubeur anglais connu sous le nom de PointlessBlog, qui a lancé sa chaîne en 2009 et est l'auteur de la série à succès The Pointless Book.",
+        "de": "Englischer YouTuber, bekannt als PointlessBlog, der seinen Kanal 2009 startete und Autor der erfolgreichen Buchreihe The Pointless Book ist.",
+        "ru": "Английский ютубер, известный как PointlessBlog, запустивший канал в 2009 году и являющийся автором популярной серии книг The Pointless Book.",
+        "ar": "يوتيوبر إنجليزي معروف باسم PointlessBlog، أطلق قناته عام 2009 وهو مؤلف سلسلة الكتب الناجحة The Pointless Book.",
+        "hi": "PointlessBlog नाम से मशहूर एक अंग्रेज़ यूट्यूबर, जिन्होंने 2009 में अपना चैनल शुरू किया और वे बेस्टसेलिंग The Pointless Book श्रृंखला के लेखक हैं।",
+        "zh": "英国YouTuber，艺名PointlessBlog，2009年开设频道，并著有畅销书系列The Pointless Book。",
+        "ja": "PointlessBlogとして知られるイギリスのYouTuberで、2009年にチャンネルを開設し、ベストセラーとなった書籍シリーズThe Pointless Bookの著者でもある。"
+      },
+      "handles": {
+        "youtube": "UCF5UrKfIq5ap9skGOgm4W7w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 4530000
+        }
+      }
+    },
+    {
+      "id": "mortalcio",
+      "name": "MORTALCIO",
+      "country": "PL",
+      "topic": {
+        "es": "Retos y música",
+        "en": "Challenges & music",
+        "pt": "Desafios e música",
+        "fr": "Défis et musique",
+        "de": "Challenges & Musik",
+        "ru": "Челленджи и музыка",
+        "ar": "تحديات وموسيقى",
+        "hi": "चैलेंज और संगीत",
+        "zh": "挑战与音乐",
+        "ja": "チャレンジと音楽"
+      },
+      "about": {
+        "es": "Creador polaco nacido y radicado en Cracovia; empezó con retos y vlogs en YouTube y también publica música bajo el nombre 'Mortal', incluido el álbum certificado platino 'Maze'.",
+        "en": "A Polish creator born and based in Kraków; he started with challenges and vlogs on YouTube and also releases music as 'Mortal', including the platinum-certified album 'Maze'.",
+        "pt": "Criador polonês nascido e radicado em Cracóvia; começou com desafios e vlogs no YouTube e também lança música como 'Mortal', incluindo o álbum certificado platina 'Maze'.",
+        "fr": "Créateur polonais né et basé à Cracovie ; il a débuté avec des défis et des vlogs sur YouTube et publie aussi de la musique sous le nom 'Mortal', dont l'album certifié platine 'Maze'.",
+        "de": "Ein polnischer Creator, geboren und ansässig in Krakau; er begann mit Challenges und Vlogs auf YouTube und veröffentlicht auch Musik als 'Mortal', darunter das mit Platin ausgezeichnete Album 'Maze'.",
+        "ru": "Польский блогер, родившийся и живущий в Кракове; начинал с челленджей и влогов на YouTube, а также выпускает музыку под именем 'Mortal', включая платиновый альбом 'Maze'.",
+        "ar": "صانع محتوى بولندي وُلِد ويقيم في كراكوف؛ بدأ بتحديات ومدونات فيديو على يوتيوب، ويصدر أيضًا موسيقى باسم 'Mortal'، بما في ذلك ألبوم 'Maze' الحائز على شهادة البلاتين.",
+        "hi": "पोलैंड के क्राकोव में जन्मे और वहीं रहने वाले क्रिएटर; उन्होंने यूट्यूब पर चैलेंज और व्लॉग से शुरुआत की और 'Mortal' नाम से संगीत भी जारी करते हैं, जिसमें प्लैटिनम प्रमाणित एल्बम 'Maze' शामिल है।",
+        "zh": "出生并定居于波兰克拉科夫的创作者;他最初在YouTube上发布挑战和vlog内容,也以'Mortal'之名发行音乐,其中包括获得白金认证的专辑《Maze》。",
+        "ja": "ポーランドのクラクフ出身、同地在住のクリエイター。YouTubeでのチャレンジ動画やVlogから活動を始め、'Mortal'名義でも音楽を発表しており、プラチナ認定を受けたアルバム『Maze』もある。"
+      },
+      "handles": {
+        "youtube": "UCkME4oyw3ADSkfhISmVNZ7w",
+        "tiktok": "mortalcioyt",
+        "instagram": "mortalcioyt",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1840000
+        }
+      }
+    },
+    {
+      "id": "sesenti",
+      "name": "Sesenti",
+      "country": "PL",
+      "topic": {
+        "es": "Estilo de vida y belleza",
+        "en": "Lifestyle & beauty",
+        "pt": "Estilo de vida e beleza",
+        "fr": "Style de vie et beauté",
+        "de": "Lifestyle & Beauty",
+        "ru": "Лайфстайл и красота",
+        "ar": "أسلوب حياة وجمال",
+        "hi": "लाइफस्टाइल और ब्यूटी",
+        "zh": "生活方式与美妆",
+        "ja": "ライフスタイル&ビューティー"
+      },
+      "about": {
+        "es": "Creadora polaca, Sara Drewnowska, radicada en Varsovia; comparte contenido de estilo de vida y belleza en YouTube, Instagram y Twitch.",
+        "en": "Polish creator Sara Drewnowska, based in Warsaw; she shares lifestyle and beauty content across YouTube, Instagram and Twitch.",
+        "pt": "A criadora polonesa Sara Drewnowska, radicada em Varsóvia; compartilha conteúdo de estilo de vida e beleza no YouTube, Instagram e Twitch.",
+        "fr": "La créatrice polonaise Sara Drewnowska, basée à Varsovie ; elle partage du contenu lifestyle et beauté sur YouTube, Instagram et Twitch.",
+        "de": "Die polnische Creatorin Sara Drewnowska, ansässig in Warschau; sie teilt Lifestyle- und Beauty-Inhalte auf YouTube, Instagram und Twitch.",
+        "ru": "Польская блогерша Сара Древновска, живущая в Варшаве; публикует контент о стиле жизни и красоте на YouTube, в Instagram и на Twitch.",
+        "ar": "صانعة المحتوى البولندية سارة دريفنوفسكا، تقيم في وارسو؛ تشارك محتوى عن أسلوب الحياة والجمال عبر يوتيوب وإنستغرام وتويتش.",
+        "hi": "पोलैंड की क्रिएटर सारा ड्रेवनोवस्का, वारसॉ में रहती हैं; वे यूट्यूब, इंस्टाग्राम और ट्विच पर लाइफस्टाइल और ब्यूटी कंटेंट साझा करती हैं।",
+        "zh": "波兰创作者萨拉·德雷夫诺夫斯卡,居住在华沙;她在YouTube、Instagram和Twitch上分享生活方式与美妆内容。",
+        "ja": "ポーランドのクリエイター、サラ・ドレヴノフスカはワルシャワ在住。YouTube、Instagram、Twitchでライフスタイルやビューティー系のコンテンツを発信している。"
+      },
+      "handles": {
+        "youtube": "UCY7A_kxf6XhsiMJZet5rTEQ",
+        "tiktok": "sesentii",
+        "instagram": "sesentii",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 319000
+        }
+      }
+    },
+    {
+      "id": "konopskyy",
+      "name": "Konopskyy",
+      "country": "PL",
+      "topic": {
+        "es": "Noticias e investigación",
+        "en": "News & investigations",
+        "pt": "Notícias e investigações",
+        "fr": "Actualités et enquêtes",
+        "de": "Nachrichten & Recherchen",
+        "ru": "Новости и расследования",
+        "ar": "أخبار وتحقيقات",
+        "hi": "समाचार और जांच",
+        "zh": "新闻与调查",
+        "ja": "ニュース&調査報道"
+      },
+      "about": {
+        "es": "Creador polaco, Mikołaj Tylko, radicado en Breslavia (Wrocław); es conocido por sus videos de noticias del mundo y por una investigación de 2023 sobre el caso Pandora Gate en el YouTube polaco.",
+        "en": "Polish creator Mikołaj Tylko, based in Wrocław; known for his world-news videos and for a 2023 investigation into the Pandora Gate scandal on Polish YouTube.",
+        "pt": "O criador polonês Mikołaj Tylko, radicado em Wrocław; é conhecido por seus vídeos de notícias mundiais e por uma investigação de 2023 sobre o caso Pandora Gate no YouTube polonês.",
+        "fr": "Le créateur polonais Mikołaj Tylko, basé à Wrocław ; connu pour ses vidéos d'actualité internationale et pour une enquête de 2023 sur le scandale Pandora Gate sur le YouTube polonais.",
+        "de": "Der polnische Creator Mikołaj Tylko, ansässig in Wrocław; bekannt für seine Weltnachrichten-Videos und eine 2023 veröffentlichte Recherche zum Pandora-Gate-Skandal im polnischen YouTube.",
+        "ru": "Польский блогер Миколай Тылко, живущий во Вроцлаве; известен видео о мировых новостях и расследованием 2023 года о скандале Pandora Gate в польском YouTube.",
+        "ar": "صانع المحتوى البولندي ميكواي تيلكو، يقيم في فروتسواف؛ معروف بمقاطع الأخبار العالمية وبتحقيق عام 2023 حول فضيحة 'Pandora Gate' في يوتيوب البولندي.",
+        "hi": "पोलैंड के क्रिएटर मिकोवाय टिल्को, व्रोत्स्वाफ में रहते हैं; वे विश्व समाचार वीडियो और पोलिश यूट्यूब पर 2023 के 'पांडोरा गेट' कांड की जांच के लिए जाने जाते हैं।",
+        "zh": "波兰创作者米科瓦伊·蒂尔科,居住在弗罗茨瓦夫;因制作世界新闻视频以及2023年对波兰YouTube界'Pandora Gate'丑闻的调查报道而闻名。",
+        "ja": "ポーランドのクリエイター、ミコワイ・ティルコはヴロツワフ在住。世界のニュースを扱う動画や、2023年にポーランドのYouTube界における「パンドラゲート」事件を追及した調査報道で知られる。"
+      },
+      "handles": {
+        "youtube": "UCR7uLtPuXsDpN8N6ocFQyeg",
+        "tiktok": null,
+        "instagram": "konopskyy_",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2120000
+        }
+      }
+    },
+    {
+      "id": "eva-zu-beck",
+      "name": "Eva zu Beck",
+      "country": "PL",
+      "topic": {
+        "es": "Viajes y aventura",
+        "en": "Travel & adventure",
+        "pt": "Viagens e aventura",
+        "fr": "Voyage et aventure",
+        "de": "Reisen & Abenteuer",
+        "ru": "Путешествия и приключения",
+        "ar": "سفر ومغامرات",
+        "hi": "यात्रा और साहसिक कार्य",
+        "zh": "旅行与冒险",
+        "ja": "旅と冒険"
+      },
+      "about": {
+        "es": "Creadora polaca radicada en una cabaña en los Cárpatos, en Polonia; comparte viajes de aventura y ha presentado programas de National Geographic, incluida una nominación al Daytime Emmy 2026 por 'Superskilled with Eva zu Beck'.",
+        "en": "A Polish creator based in a cabin in the Carpathian Mountains, Poland; she shares adventure travel content and has hosted National Geographic shows, including a 2026 Daytime Emmy nomination for 'Superskilled with Eva zu Beck'.",
+        "pt": "Criadora polonesa radicada em uma cabana nos Cárpatos, na Polônia; compartilha viagens de aventura e já apresentou programas da National Geographic, incluindo uma indicação ao Daytime Emmy 2026 por 'Superskilled with Eva zu Beck'.",
+        "fr": "Créatrice polonaise basée dans un chalet des Carpates, en Pologne ; elle partage des voyages d'aventure et a présenté des émissions National Geographic, dont une nomination aux Daytime Emmy 2026 pour 'Superskilled with Eva zu Beck'.",
+        "de": "Eine polnische Creatorin, die in einer Hütte in den Karpaten in Polen lebt; sie teilt Abenteuerreisen und moderierte National-Geographic-Sendungen, darunter eine Daytime-Emmy-Nominierung 2026 für 'Superskilled with Eva zu Beck'.",
+        "ru": "Польская путешественница, живущая в хижине в Карпатах в Польше; делится контентом о приключенческих путешествиях и вела передачи National Geographic, включая номинацию на Daytime Emmy 2026 за 'Superskilled with Eva zu Beck'.",
+        "ar": "صانعة محتوى بولندية تقيم في كوخ في جبال الكاربات في بولندا؛ تشارك محتوى عن السفر والمغامرة وقدّمت برامج على ناشيونال جيوغرافيك، بما في ذلك ترشيح لجائزة دايتايم إيمي 2026 عن برنامج 'Superskilled with Eva zu Beck'.",
+        "hi": "पोलैंड के कार्पेथियन पर्वतों में एक केबिन में रहने वाली क्रिएटर; वे साहसिक यात्रा से जुड़ी सामग्री साझा करती हैं और नेशनल जियोग्राफिक के शो होस्ट कर चुकी हैं, जिनमें 'Superskilled with Eva zu Beck' के लिए 2026 डेटाइम एमी नामांकन शामिल है।",
+        "zh": "居住在波兰喀尔巴阡山一间小屋中的波兰创作者;她分享冒险旅行内容,并主持过国家地理频道的节目,其中《Superskilled with Eva zu Beck》曾获2026年日间艾美奖提名。",
+        "ja": "ポーランドのカルパティア山脈の山小屋に暮らすクリエイター。冒険旅行のコンテンツを発信し、ナショナル ジオグラフィックの番組も担当。『Superskilled with Eva zu Beck』で2026年デイタイム・エミー賞にノミネートされた。"
+      },
+      "handles": {
+        "youtube": "UCDTINI9skkeZNY2ZXnBqIkQ",
+        "tiktok": null,
+        "instagram": "evazubeck",
+        "facebook": "evazubeck",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1930000
+        }
+      }
+    },
+    {
+      "id": "danla-bilic",
+      "name": "Danla Bilic",
+      "country": "TR",
+      "topic": {
+        "es": "Belleza y vlogs",
+        "en": "Beauty & vlogs",
+        "pt": "Beleza e vlogs",
+        "fr": "Beauté et vlogs",
+        "de": "Beauty & Vlogs",
+        "ru": "Красота и влоги",
+        "ar": "الجمال والمدونات",
+        "hi": "ब्यूटी और व्लॉग",
+        "zh": "美妆与视频博客",
+        "ja": "美容とVlog"
+      },
+      "about": {
+        "es": "Creadora turca nacida en Kütahya; abrió su canal de YouTube en 2016 con videos de maquillaje y hoy conduce el programa DanlaCast.",
+        "en": "Turkish creator born in Kütahya; she opened her YouTube channel in 2016 with makeup videos and now hosts the show DanlaCast.",
+        "pt": "Criadora turca nascida em Kütahya; abriu seu canal no YouTube em 2016 com vídeos de maquiagem e hoje apresenta o programa DanlaCast.",
+        "fr": "Créatrice turque née à Kütahya ; elle a ouvert sa chaîne YouTube en 2016 avec des vidéos de maquillage et anime aujourd'hui l'émission DanlaCast.",
+        "de": "Türkische Creatorin, geboren in Kütahya; sie eröffnete 2016 ihren YouTube-Kanal mit Make-up-Videos und moderiert heute die Sendung DanlaCast.",
+        "ru": "Турецкая создательница контента, родилась в Кютахье; в 2016 году открыла канал на YouTube с видео о макияже, а сейчас ведёт шоу DanlaCast.",
+        "ar": "صانعة محتوى تركية وُلدت في كوتاهية؛ أطلقت قناتها على يوتيوب عام 2016 بمقاطع عن المكياج وتقدّم اليوم برنامج DanlaCast.",
+        "hi": "कुताह्या में जन्मी तुर्की क्रिएटर; उन्होंने 2016 में मेकअप वीडियो के साथ अपना यूट्यूब चैनल शुरू किया और अब DanlaCast शो होस्ट करती हैं।",
+        "zh": "出生于库塔希亚的土耳其创作者;2016年以美妆视频开设YouTube频道,如今主持节目DanlaCast。",
+        "ja": "クタヒヤ出身のトルコ人クリエイター。2016年にメイク動画でYouTubeチャンネルを開設し、現在は番組DanlaCastの司会を務めている。"
+      },
+      "handles": {
+        "youtube": "UCJXKKGzjjqnHAEkJsdC7ZKw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2970000
+        }
+      }
+    },
+    {
+      "id": "luther",
+      "name": "luther",
+      "country": "TR",
+      "topic": {
+        "es": "Experimentos sociales",
+        "en": "Social experiments",
+        "pt": "Experimentos sociais",
+        "fr": "Expériences sociales",
+        "de": "Soziale Experimente",
+        "ru": "Социальные эксперименты",
+        "ar": "تجارب اجتماعية",
+        "hi": "सामाजिक प्रयोग",
+        "zh": "社会实验",
+        "ja": "社会実験"
+      },
+      "about": {
+        "es": "Creador turco conocido por sus videos de experimentos sociales al estilo cámara oculta, grabados con desconocidos en las calles de Turquía.",
+        "en": "Turkish creator known for candid-camera style social experiment videos, filmed with strangers on the streets of Turkey.",
+        "pt": "Criador turco conhecido por vídeos de experimentos sociais estilo câmera escondida, filmados com desconhecidos nas ruas da Turquia.",
+        "fr": "Créateur turc connu pour ses vidéos d'expériences sociales façon caméra cachée, tournées avec des inconnus dans les rues de Turquie.",
+        "de": "Türkischer Creator, bekannt für Social-Experiment-Videos im Versteckte-Kamera-Stil, gedreht mit Passanten auf den Straßen der Türkei.",
+        "ru": "Турецкий блогер, известный видео с социальными экспериментами в стиле скрытой камеры, снятыми с прохожими на улицах Турции.",
+        "ar": "صانع محتوى تركي معروف بمقاطع التجارب الاجتماعية على طريقة الكاميرا الخفية، يتم تصويرها مع غرباء في شوارع تركيا.",
+        "hi": "तुर्की क्रिएटर, जो तुर्की की सड़कों पर अजनबियों के साथ फिल्माए गए छिपे कैमरे शैली के सामाजिक प्रयोग वीडियो के लिए जाने जाते हैं।",
+        "zh": "土耳其创作者,以在土耳其街头对陌生人拍摄的偷拍式社会实验视频而闻名。",
+        "ja": "トルコの路上で通行人を相手に撮影する、隠しカメラ形式の社会実験動画で知られるトルコ人クリエイター。"
+      },
+      "handles": {
+        "youtube": "UCBtUeAWavdyNeOEzduE2ObA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 364000
+        }
+      }
+    },
+    {
+      "id": "murat-donmez",
+      "name": "Murat Dönmez",
+      "country": "TR",
+      "topic": {
+        "es": "Vlogs familiares",
+        "en": "Family vlogs",
+        "pt": "Vlogs familiares",
+        "fr": "Vlogs familiaux",
+        "de": "Familien-Vlogs",
+        "ru": "Семейные влоги",
+        "ar": "مدونات عائلية",
+        "hi": "फैमिली व्लॉग",
+        "zh": "家庭视频博客",
+        "ja": "家族Vlog"
+      },
+      "about": {
+        "es": "Creador turco que comparte en su canal vlogs de vida diaria y de pareja junto a su esposa Gizem.",
+        "en": "Turkish creator who shares daily-life and couple vlogs on his channel together with his wife Gizem.",
+        "pt": "Criador turco que compartilha em seu canal vlogs do dia a dia e de casal ao lado da esposa Gizem.",
+        "fr": "Créateur turc qui partage sur sa chaîne des vlogs du quotidien et de couple avec sa femme Gizem.",
+        "de": "Türkischer Creator, der auf seinem Kanal zusammen mit seiner Frau Gizem Alltags- und Paar-Vlogs teilt.",
+        "ru": "Турецкий блогер, который вместе с женой Гизем публикует на канале влоги о повседневной жизни и отношениях.",
+        "ar": "صانع محتوى تركي يشارك في قناته يوميات ومقاطع حياة زوجية مع زوجته جيزيم.",
+        "hi": "तुर्की क्रिएटर जो अपनी पत्नी गिज़ेम के साथ चैनल पर दैनिक जीवन और कपल व्लॉग साझा करते हैं।",
+        "zh": "土耳其创作者,在频道中与妻子吉泽姆分享日常生活与夫妻Vlog。",
+        "ja": "妻ギゼムと共に日常生活やカップルVlogをチャンネルで発信するトルコ人クリエイター。"
+      },
+      "handles": {
+        "youtube": "UCmuZN6GFSWYdBbKsrOYbV7w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 127000
+        }
+      }
+    },
+    {
+      "id": "alexsa",
+      "name": "Alexsa",
+      "country": "TR",
+      "topic": {
+        "es": "Bromas y entrevistas",
+        "en": "Pranks & interviews",
+        "pt": "Pegadinhas e entrevistas",
+        "fr": "Canulars et interviews",
+        "de": "Streiche & Interviews",
+        "ru": "Розыгрыши и интервью",
+        "ar": "مقالب ومقابلات",
+        "hi": "प्रैंक और इंटरव्यू",
+        "zh": "整蛊与街头采访",
+        "ja": "ドッキリとインタビュー"
+      },
+      "about": {
+        "es": "Creadora nacida en Moscú, Rusia, que se mudó a Turquía alrededor de los 10 años y produce contenido en turco de bromas y entrevistas callejeras.",
+        "en": "Creator born in Moscow, Russia, who moved to Turkey around age 10 and now makes Turkish-language pranks and street-interview content.",
+        "pt": "Criadora nascida em Moscou, Rússia, que se mudou para a Turquia por volta dos 10 anos e produz conteúdo em turco de pegadinhas e entrevistas de rua.",
+        "fr": "Créatrice née à Moscou, en Russie, qui a déménagé en Turquie vers l'âge de 10 ans et réalise aujourd'hui des canulars et des interviews de rue en turc.",
+        "de": "Creatorin, geboren in Moskau, Russland, die im Alter von etwa 10 Jahren in die Türkei zog und heute türkischsprachige Streiche und Straßeninterviews produziert.",
+        "ru": "Создательница контента, родившаяся в Москве, переехала в Турцию примерно в 10 лет и сейчас снимает розыгрыши и уличные интервью на турецком языке.",
+        "ar": "صانعة محتوى وُلدت في موسكو بروسيا، وانتقلت إلى تركيا في نحو العاشرة من عمرها، وتنتج الآن مقالب ومقابلات في الشارع باللغة التركية.",
+        "hi": "मॉस्को, रूस में जन्मी क्रिएटर, जो लगभग 10 साल की उम्र में तुर्की चली गईं और अब तुर्की भाषा में प्रैंक और स्ट्रीट इंटरव्यू कंटेंट बनाती हैं।",
+        "zh": "出生于俄罗斯莫斯科的创作者,约10岁时移居土耳其,现制作土耳其语整蛊及街头采访内容。",
+        "ja": "ロシア・モスクワ生まれで10歳頃にトルコへ移住し、現在はトルコ語でドッキリや街頭インタビュー動画を制作しているクリエイター。"
+      },
+      "handles": {
+        "youtube": "UCmTrEHkkSxNY-63qEJpyijg",
+        "tiktok": "alexsa.143",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2410000
+        }
+      }
+    },
+    {
+      "id": "turkan-atay",
+      "name": "Türkan Atay",
+      "country": "TR",
+      "topic": {
+        "es": "Viajes y cultura",
+        "en": "Travel & culture",
+        "pt": "Viagens e cultura",
+        "fr": "Voyage et culture",
+        "de": "Reisen & Kultur",
+        "ru": "Путешествия и культура",
+        "ar": "سفر وثقافة",
+        "hi": "यात्रा और संस्कृति",
+        "zh": "旅行与文化",
+        "ja": "旅行と文化"
+      },
+      "about": {
+        "es": "Creadora turca radicada en Turquía, casada con un ciudadano pakistaní, que comparte vlogs sobre vida cotidiana, gastronomía y cultura turcas dirigidos en parte a audiencias de Pakistán e India.",
+        "en": "Turkish creator based in Turkey, married to a Pakistani man, who shares vlogs about Turkish daily life, food and culture aimed partly at Pakistani and Indian audiences.",
+        "pt": "Criadora turca radicada na Turquia, casada com um cidadão paquistanês, que compartilha vlogs sobre o dia a dia, a culinária e a cultura turcas voltados em parte para públicos do Paquistão e da Índia.",
+        "fr": "Créatrice turque installée en Turquie, mariée à un Pakistanais, qui partage des vlogs sur la vie quotidienne, la gastronomie et la culture turques, en partie destinés aux publics pakistanais et indien.",
+        "de": "Türkische Creatorin mit Wohnsitz in der Türkei, verheiratet mit einem pakistanischen Mann; sie teilt Vlogs über türkischen Alltag, Küche und Kultur, die sich teils an ein pakistanisches und indisches Publikum richten.",
+        "ru": "Турецкая создательница контента, живёт в Турции, замужем за пакистанцем; публикует влоги о турецкой повседневной жизни, кухне и культуре, отчасти ориентированные на аудиторию Пакистана и Индии.",
+        "ar": "صانعة محتوى تركية مقيمة في تركيا ومتزوجة من رجل باكستاني، تشارك مدونات فيديو عن الحياة اليومية والطعام والثقافة التركية موجهة جزئيًا لجمهور باكستان والهند.",
+        "hi": "तुर्की में रहने वाली तुर्की क्रिएटर, जो एक पाकिस्तानी पुरुष से विवाहित हैं और तुर्की की दैनिक जीवनशैली, खान-पान व संस्कृति पर व्लॉग साझा करती हैं, जो आंशिक रूप से पाकिस्तानी और भारतीय दर्शकों के लिए हैं।",
+        "zh": "居住在土耳其的土耳其创作者,嫁给了一名巴基斯坦男子,分享关于土耳其日常生活、美食与文化的Vlog,部分内容面向巴基斯坦和印度观众。",
+        "ja": "トルコ在住のトルコ人クリエイターで、パキスタン人男性と結婚しており、トルコの日常生活・食文化・文化を紹介するVlogを、一部パキスタンやインドの視聴者向けに発信している。"
+      },
+      "handles": {
+        "youtube": "UCB67zocIbaTNGfSPqnWT3Pw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 799000
+        }
+      }
     }
   ]
 }
