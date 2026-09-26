@@ -1,1 +1,131 @@
-{ "version": 1, "entries": [] }
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "bambuchiatv",
+      "platform": "youtube",
+      "followers": 108000,
+      "source": "https://www.youtube.com/channel/UC3dLCSqP-KvOLC6pg_x4IvA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "jexs",
+      "platform": "youtube",
+      "followers": 13700000,
+      "source": "https://www.youtube.com/channel/UCapRTMkO4n3LP5dkmIayy5A (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "raouf-belkacemi",
+      "platform": "youtube",
+      "followers": 1200000,
+      "source": "https://www.youtube.com/channel/UCnoN3upJZ1DPFgX9Y0CA8SA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "rifka",
+      "platform": "youtube",
+      "followers": 995000,
+      "source": "https://www.youtube.com/channel/UCXts-9x_n6jQ-ZOAvJ1JqNw (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "faycal-kerchouche",
+      "platform": "youtube",
+      "followers": 211000,
+      "source": "https://www.youtube.com/channel/UCUzIU6_JZ91XqX9IUr3oaTg (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "kelvin-steviano",
+      "platform": "youtube",
+      "followers": 1960000,
+      "source": "https://www.youtube.com/channel/UCnJfb_g1FHci2m2QEy1pCDQ (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "master-zikry",
+      "platform": "youtube",
+      "followers": 121000,
+      "source": "https://www.youtube.com/channel/UC9F93FXZ-N-lcNDtYHFL4iw (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "onebitebigbite",
+      "platform": "youtube",
+      "followers": 609000,
+      "source": "https://www.youtube.com/channel/UCdexMq24o2d2GFlL73VkUuQ (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "jonna-jinton",
+      "platform": "youtube",
+      "followers": 5250000,
+      "source": "https://www.youtube.com/channel/UCAk3t7WHs2zjsZpopox8Taw (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "abdul-abuhabaya",
+      "platform": "youtube",
+      "followers": 1260000,
+      "source": "https://www.youtube.com/channel/UCl5t8JqHD_0ISO8uZ9pLfTA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "dastan",
+      "platform": "youtube",
+      "followers": 4470000,
+      "source": "https://www.youtube.com/channel/UC2BgXv9ado4lNpr0TyKHtcA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "felix-aldosari",
+      "platform": "youtube",
+      "followers": 294000,
+      "source": "https://www.youtube.com/channel/UCC_5X-6fx4G5YdCIwsT2p0A (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "maher-mahran",
+      "platform": "youtube",
+      "followers": 1850000,
+      "source": "https://www.youtube.com/channel/UCAKrTVN4DwNwhZ-jxgt2fjg (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "mohamed-shoala",
+      "platform": "youtube",
+      "followers": 505000,
+      "source": "https://www.youtube.com/channel/UCHIDuNeDo_Jfo2pTcbJqvvA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "mohamed-almasry",
+      "platform": "youtube",
+      "followers": 112000,
+      "source": "https://www.youtube.com/channel/UCVTxYtLFAgNCMGheZ9kX_Vg (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "moroccan-egyptian-family",
+      "platform": "youtube",
+      "followers": 207000,
+      "source": "https://www.youtube.com/channel/UCBiye8rwi0ntTklJh-wQ-hw (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "sarasongbird",
+      "platform": "youtube",
+      "followers": 101000,
+      "source": "https://www.youtube.com/channel/UCZ4ZHu8YANH6p97GcKg5S3Q (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "tazer",
+      "platform": "youtube",
+      "followers": 187000,
+      "source": "https://www.youtube.com/channel/UCdp4qjUE3yra17FrBBXRauQ (YouTube Data API v3)",
+      "date": "2026-09-26"
+    }
+  ]
+}

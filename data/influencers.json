@@ -7377,6 +7377,816 @@
           "youtube": 1420000
         }
       }
+    },
+    {
+      "id": "bambuchiatv",
+      "name": "BambuchiaTV",
+      "country": "GT",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Comedy",
+        "ru": "Юмор",
+        "ar": "كوميديا",
+        "hi": "हास्य",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, BambuchiaTV comparte contenido sobre Humor.",
+        "en": "On their YouTube channel, BambuchiaTV shares content about Comedy.",
+        "pt": "No seu canal do YouTube, BambuchiaTV compartilha conteúdo sobre Humor.",
+        "fr": "Sur sa chaîne YouTube, BambuchiaTV partage du contenu sur le thème : Humour.",
+        "de": "Auf dem YouTube-Kanal von BambuchiaTV geht es um Comedy.",
+        "ru": "На YouTube-канале BambuchiaTV публикуются видео на тему «Юмор».",
+        "ar": "ينشر BambuchiaTV على قناته في يوتيوب محتوى عن كوميديا.",
+        "hi": "BambuchiaTV अपने YouTube चैनल पर हास्य से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "BambuchiaTV 的 YouTube 频道分享有关喜剧的内容。",
+        "ja": "BambuchiaTVのYouTubeチャンネルでは、コメディに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UC3dLCSqP-KvOLC6pg_x4IvA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 108000
+        }
+      }
+    },
+    {
+      "id": "jexs",
+      "name": "Jexs",
+      "country": "GT",
+      "topic": {
+        "es": "Vlogs y retos",
+        "en": "Vlogs and challenges",
+        "pt": "Vlogs e desafios",
+        "fr": "Vlogs et défis",
+        "de": "Vlogs und Challenges",
+        "ru": "Влоги и челленджи",
+        "ar": "فلوقات وتحديات",
+        "hi": "व्लॉग और चुनौतियाँ",
+        "zh": "生活记录与挑战",
+        "ja": "Vlogとチャレンジ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Jexs comparte contenido sobre Vlogs y retos.",
+        "en": "On their YouTube channel, Jexs shares content about Vlogs and challenges.",
+        "pt": "No seu canal do YouTube, Jexs compartilha conteúdo sobre Vlogs e desafios.",
+        "fr": "Sur sa chaîne YouTube, Jexs partage du contenu sur le thème : Vlogs et défis.",
+        "de": "Auf dem YouTube-Kanal von Jexs geht es um Vlogs und Challenges.",
+        "ru": "На YouTube-канале Jexs публикуются видео на тему «Влоги и челленджи».",
+        "ar": "ينشر Jexs على قناته في يوتيوب محتوى عن فلوقات وتحديات.",
+        "hi": "Jexs अपने YouTube चैनल पर व्लॉग और चुनौतियाँ से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Jexs 的 YouTube 频道分享有关生活记录与挑战的内容。",
+        "ja": "JexsのYouTubeチャンネルでは、Vlogとチャレンジに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCapRTMkO4n3LP5dkmIayy5A",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 13700000
+        }
+      }
+    },
+    {
+      "id": "raouf-belkacemi",
+      "name": "Raouf Belkacemi",
+      "country": "DZ",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Raouf Belkacemi comparte contenido sobre Entretenimiento.",
+        "en": "On their YouTube channel, Raouf Belkacemi shares content about Entertainment.",
+        "pt": "No seu canal do YouTube, Raouf Belkacemi compartilha conteúdo sobre Entretenimento.",
+        "fr": "Sur sa chaîne YouTube, Raouf Belkacemi partage du contenu sur le thème : Divertissement.",
+        "de": "Auf dem YouTube-Kanal von Raouf Belkacemi geht es um Unterhaltung.",
+        "ru": "На YouTube-канале Raouf Belkacemi публикуются видео на тему «Развлечения».",
+        "ar": "ينشر Raouf Belkacemi على قناته في يوتيوب محتوى عن ترفيه.",
+        "hi": "Raouf Belkacemi अपने YouTube चैनल पर मनोरंजन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Raouf Belkacemi 的 YouTube 频道分享有关娱乐的内容。",
+        "ja": "Raouf BelkacemiのYouTubeチャンネルでは、エンターテインメントに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCnoN3upJZ1DPFgX9Y0CA8SA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 1200000
+        }
+      }
+    },
+    {
+      "id": "rifka",
+      "name": "RIFKA",
+      "country": "DZ",
+      "topic": {
+        "es": "Vlogs y retos",
+        "en": "Vlogs and challenges",
+        "pt": "Vlogs e desafios",
+        "fr": "Vlogs et défis",
+        "de": "Vlogs und Challenges",
+        "ru": "Влоги и челленджи",
+        "ar": "فلوقات وتحديات",
+        "hi": "व्लॉग और चुनौतियाँ",
+        "zh": "生活记录与挑战",
+        "ja": "Vlogとチャレンジ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, RIFKA comparte contenido sobre Vlogs y retos.",
+        "en": "On their YouTube channel, RIFKA shares content about Vlogs and challenges.",
+        "pt": "No seu canal do YouTube, RIFKA compartilha conteúdo sobre Vlogs e desafios.",
+        "fr": "Sur sa chaîne YouTube, RIFKA partage du contenu sur le thème : Vlogs et défis.",
+        "de": "Auf dem YouTube-Kanal von RIFKA geht es um Vlogs und Challenges.",
+        "ru": "На YouTube-канале RIFKA публикуются видео на тему «Влоги и челленджи».",
+        "ar": "ينشر RIFKA على قناته في يوتيوب محتوى عن فلوقات وتحديات.",
+        "hi": "RIFKA अपने YouTube चैनल पर व्लॉग और चुनौतियाँ से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "RIFKA 的 YouTube 频道分享有关生活记录与挑战的内容。",
+        "ja": "RIFKAのYouTubeチャンネルでは、Vlogとチャレンジに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCXts-9x_n6jQ-ZOAvJ1JqNw",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 995000
+        }
+      }
+    },
+    {
+      "id": "faycal-kerchouche",
+      "name": "الإعلامي فيصل كرشوش 1",
+      "country": "DZ",
+      "topic": {
+        "es": "Actualidad y opinión",
+        "en": "Current affairs and opinion",
+        "pt": "Atualidades e opinião",
+        "fr": "Actualité et opinion",
+        "de": "Aktuelles und Meinungen",
+        "ru": "События и мнения",
+        "ar": "أحداث وآراء",
+        "hi": "समसामयिक विषय और राय",
+        "zh": "时事与观点",
+        "ja": "時事と意見"
+      },
+      "about": {
+        "es": "En su canal de YouTube, الإعلامي فيصل كرشوش 1 comparte contenido sobre Actualidad y opinión.",
+        "en": "On their YouTube channel, الإعلامي فيصل كرشوش 1 shares content about Current affairs and opinion.",
+        "pt": "No seu canal do YouTube, الإعلامي فيصل كرشوش 1 compartilha conteúdo sobre Atualidades e opinião.",
+        "fr": "Sur sa chaîne YouTube, الإعلامي فيصل كرشوش 1 partage du contenu sur le thème : Actualité et opinion.",
+        "de": "Auf dem YouTube-Kanal von الإعلامي فيصل كرشوش 1 geht es um Aktuelles und Meinungen.",
+        "ru": "На YouTube-канале الإعلامي فيصل كرشوش 1 публикуются видео на тему «События и мнения».",
+        "ar": "ينشر الإعلامي فيصل كرشوش 1 على قناته في يوتيوب محتوى عن أحداث وآراء.",
+        "hi": "الإعلامي فيصل كرشوش 1 अपने YouTube चैनल पर समसामयिक विषय और राय से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "الإعلامي فيصل كرشوش 1 的 YouTube 频道分享有关时事与观点的内容。",
+        "ja": "الإعلامي فيصل كرشوش 1のYouTubeチャンネルでは、時事と意見に関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCUzIU6_JZ91XqX9IUr3oaTg",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 211000
+        }
+      }
+    },
+    {
+      "id": "kelvin-steviano",
+      "name": "Kelvin Steviano",
+      "country": "ID",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Comedy",
+        "ru": "Юмор",
+        "ar": "كوميديا",
+        "hi": "हास्य",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Kelvin Steviano comparte contenido sobre Humor.",
+        "en": "On their YouTube channel, Kelvin Steviano shares content about Comedy.",
+        "pt": "No seu canal do YouTube, Kelvin Steviano compartilha conteúdo sobre Humor.",
+        "fr": "Sur sa chaîne YouTube, Kelvin Steviano partage du contenu sur le thème : Humour.",
+        "de": "Auf dem YouTube-Kanal von Kelvin Steviano geht es um Comedy.",
+        "ru": "На YouTube-канале Kelvin Steviano публикуются видео на тему «Юмор».",
+        "ar": "ينشر Kelvin Steviano على قناته في يوتيوب محتوى عن كوميديا.",
+        "hi": "Kelvin Steviano अपने YouTube चैनल पर हास्य से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Kelvin Steviano 的 YouTube 频道分享有关喜剧的内容。",
+        "ja": "Kelvin StevianoのYouTubeチャンネルでは、コメディに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCnJfb_g1FHci2m2QEy1pCDQ",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 1960000
+        }
+      }
+    },
+    {
+      "id": "master-zikry",
+      "name": "MASTER ZIKRY",
+      "country": "ID",
+      "topic": {
+        "es": "Videojuegos",
+        "en": "Gaming",
+        "pt": "Jogos",
+        "fr": "Jeux vidéo",
+        "de": "Gaming",
+        "ru": "Видеоигры",
+        "ar": "ألعاب فيديو",
+        "hi": "वीडियो गेम",
+        "zh": "电子游戏",
+        "ja": "ゲーム"
+      },
+      "about": {
+        "es": "En su canal de YouTube, MASTER ZIKRY comparte contenido sobre Videojuegos.",
+        "en": "On their YouTube channel, MASTER ZIKRY shares content about Gaming.",
+        "pt": "No seu canal do YouTube, MASTER ZIKRY compartilha conteúdo sobre Jogos.",
+        "fr": "Sur sa chaîne YouTube, MASTER ZIKRY partage du contenu sur le thème : Jeux vidéo.",
+        "de": "Auf dem YouTube-Kanal von MASTER ZIKRY geht es um Gaming.",
+        "ru": "На YouTube-канале MASTER ZIKRY публикуются видео на тему «Видеоигры».",
+        "ar": "ينشر MASTER ZIKRY على قناته في يوتيوب محتوى عن ألعاب فيديو.",
+        "hi": "MASTER ZIKRY अपने YouTube चैनल पर वीडियो गेम से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "MASTER ZIKRY 的 YouTube 频道分享有关电子游戏的内容。",
+        "ja": "MASTER ZIKRYのYouTubeチャンネルでは、ゲームに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UC9F93FXZ-N-lcNDtYHFL4iw",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 121000
+        }
+      }
+    },
+    {
+      "id": "onebitebigbite",
+      "name": "onebitebigbite",
+      "country": "ID",
+      "topic": {
+        "es": "Gastronomía",
+        "en": "Food",
+        "pt": "Gastronomia",
+        "fr": "Gastronomie",
+        "de": "Essen",
+        "ru": "Еда",
+        "ar": "طعام",
+        "hi": "खान-पान",
+        "zh": "美食",
+        "ja": "グルメ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, onebitebigbite comparte contenido sobre Gastronomía.",
+        "en": "On their YouTube channel, onebitebigbite shares content about Food.",
+        "pt": "No seu canal do YouTube, onebitebigbite compartilha conteúdo sobre Gastronomia.",
+        "fr": "Sur sa chaîne YouTube, onebitebigbite partage du contenu sur le thème : Gastronomie.",
+        "de": "Auf dem YouTube-Kanal von onebitebigbite geht es um Essen.",
+        "ru": "На YouTube-канале onebitebigbite публикуются видео на тему «Еда».",
+        "ar": "ينشر onebitebigbite على قناته في يوتيوب محتوى عن طعام.",
+        "hi": "onebitebigbite अपने YouTube चैनल पर खान-पान से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "onebitebigbite 的 YouTube 频道分享有关美食的内容。",
+        "ja": "onebitebigbiteのYouTubeチャンネルでは、グルメに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCdexMq24o2d2GFlL73VkUuQ",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 609000
+        }
+      }
+    },
+    {
+      "id": "jonna-jinton",
+      "name": "Jonna Jinton",
+      "country": "SE",
+      "topic": {
+        "es": "Arte y vida en la naturaleza",
+        "en": "Art and life in nature",
+        "pt": "Arte e vida na natureza",
+        "fr": "Art et vie dans la nature",
+        "de": "Kunst und Leben in der Natur",
+        "ru": "Искусство и жизнь на природе",
+        "ar": "فن وحياة في الطبيعة",
+        "hi": "कला और प्रकृति में जीवन",
+        "zh": "艺术与自然生活",
+        "ja": "芸術と自然の暮らし"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Jonna Jinton comparte contenido sobre Arte y vida en la naturaleza.",
+        "en": "On their YouTube channel, Jonna Jinton shares content about Art and life in nature.",
+        "pt": "No seu canal do YouTube, Jonna Jinton compartilha conteúdo sobre Arte e vida na natureza.",
+        "fr": "Sur sa chaîne YouTube, Jonna Jinton partage du contenu sur le thème : Art et vie dans la nature.",
+        "de": "Auf dem YouTube-Kanal von Jonna Jinton geht es um Kunst und Leben in der Natur.",
+        "ru": "На YouTube-канале Jonna Jinton публикуются видео на тему «Искусство и жизнь на природе».",
+        "ar": "ينشر Jonna Jinton على قناته في يوتيوب محتوى عن فن وحياة في الطبيعة.",
+        "hi": "Jonna Jinton अपने YouTube चैनल पर कला और प्रकृति में जीवन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Jonna Jinton 的 YouTube 频道分享有关艺术与自然生活的内容。",
+        "ja": "Jonna JintonのYouTubeチャンネルでは、芸術と自然の暮らしに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCAk3t7WHs2zjsZpopox8Taw",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 5250000
+        }
+      }
+    },
+    {
+      "id": "abdul-abuhabaya",
+      "name": "عبدالرحمن ابوحبايه",
+      "country": "SA",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Comedy",
+        "ru": "Юмор",
+        "ar": "كوميديا",
+        "hi": "हास्य",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, عبدالرحمن ابوحبايه comparte contenido sobre Humor.",
+        "en": "On their YouTube channel, عبدالرحمن ابوحبايه shares content about Comedy.",
+        "pt": "No seu canal do YouTube, عبدالرحمن ابوحبايه compartilha conteúdo sobre Humor.",
+        "fr": "Sur sa chaîne YouTube, عبدالرحمن ابوحبايه partage du contenu sur le thème : Humour.",
+        "de": "Auf dem YouTube-Kanal von عبدالرحمن ابوحبايه geht es um Comedy.",
+        "ru": "На YouTube-канале عبدالرحمن ابوحبايه публикуются видео на тему «Юмор».",
+        "ar": "ينشر عبدالرحمن ابوحبايه على قناته في يوتيوب محتوى عن كوميديا.",
+        "hi": "عبدالرحمن ابوحبايه अपने YouTube चैनल पर हास्य से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "عبدالرحمن ابوحبايه 的 YouTube 频道分享有关喜剧的内容。",
+        "ja": "عبدالرحمن ابوحبايهのYouTubeチャンネルでは、コメディに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCl5t8JqHD_0ISO8uZ9pLfTA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 1260000
+        }
+      }
+    },
+    {
+      "id": "dastan",
+      "name": "DASTAN - داستان",
+      "country": "SA",
+      "topic": {
+        "es": "Historias de misterio",
+        "en": "Mystery stories",
+        "pt": "Histórias de mistério",
+        "fr": "Histoires mystérieuses",
+        "de": "Mysteriöse Geschichten",
+        "ru": "Загадочные истории",
+        "ar": "قصص غامضة",
+        "hi": "रहस्य कथाएँ",
+        "zh": "悬疑故事",
+        "ja": "ミステリーの物語"
+      },
+      "about": {
+        "es": "En su canal de YouTube, DASTAN - داستان comparte contenido sobre Historias de misterio.",
+        "en": "On their YouTube channel, DASTAN - داستان shares content about Mystery stories.",
+        "pt": "No seu canal do YouTube, DASTAN - داستان compartilha conteúdo sobre Histórias de mistério.",
+        "fr": "Sur sa chaîne YouTube, DASTAN - داستان partage du contenu sur le thème : Histoires mystérieuses.",
+        "de": "Auf dem YouTube-Kanal von DASTAN - داستان geht es um Mysteriöse Geschichten.",
+        "ru": "На YouTube-канале DASTAN - داستان публикуются видео на тему «Загадочные истории».",
+        "ar": "ينشر DASTAN - داستان على قناته في يوتيوب محتوى عن قصص غامضة.",
+        "hi": "DASTAN - داستان अपने YouTube चैनल पर रहस्य कथाएँ से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "DASTAN - داستان 的 YouTube 频道分享有关悬疑故事的内容。",
+        "ja": "DASTAN - داستانのYouTubeチャンネルでは、ミステリーの物語に関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UC2BgXv9ado4lNpr0TyKHtcA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 4470000
+        }
+      }
+    },
+    {
+      "id": "felix-aldosari",
+      "name": "فيلكس الدوسري",
+      "country": "SA",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "En su canal de YouTube, فيلكس الدوسري comparte contenido sobre Entretenimiento.",
+        "en": "On their YouTube channel, فيلكس الدوسري shares content about Entertainment.",
+        "pt": "No seu canal do YouTube, فيلكس الدوسري compartilha conteúdo sobre Entretenimento.",
+        "fr": "Sur sa chaîne YouTube, فيلكس الدوسري partage du contenu sur le thème : Divertissement.",
+        "de": "Auf dem YouTube-Kanal von فيلكس الدوسري geht es um Unterhaltung.",
+        "ru": "На YouTube-канале فيلكس الدوسري публикуются видео на тему «Развлечения».",
+        "ar": "ينشر فيلكس الدوسري على قناته في يوتيوب محتوى عن ترفيه.",
+        "hi": "فيلكس الدوسري अपने YouTube चैनल पर मनोरंजन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "فيلكس الدوسري 的 YouTube 频道分享有关娱乐的内容。",
+        "ja": "فيلكس الدوسريのYouTubeチャンネルでは、エンターテインメントに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCC_5X-6fx4G5YdCIwsT2p0A",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 294000
+        }
+      }
+    },
+    {
+      "id": "maher-mahran",
+      "name": "Maher Mahran",
+      "country": "EG",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Comedy",
+        "ru": "Юмор",
+        "ar": "كوميديا",
+        "hi": "हास्य",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Maher Mahran comparte contenido sobre Humor.",
+        "en": "On their YouTube channel, Maher Mahran shares content about Comedy.",
+        "pt": "No seu canal do YouTube, Maher Mahran compartilha conteúdo sobre Humor.",
+        "fr": "Sur sa chaîne YouTube, Maher Mahran partage du contenu sur le thème : Humour.",
+        "de": "Auf dem YouTube-Kanal von Maher Mahran geht es um Comedy.",
+        "ru": "На YouTube-канале Maher Mahran публикуются видео на тему «Юмор».",
+        "ar": "ينشر Maher Mahran على قناته في يوتيوب محتوى عن كوميديا.",
+        "hi": "Maher Mahran अपने YouTube चैनल पर हास्य से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Maher Mahran 的 YouTube 频道分享有关喜剧的内容。",
+        "ja": "Maher MahranのYouTubeチャンネルでは、コメディに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCAKrTVN4DwNwhZ-jxgt2fjg",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 1850000
+        }
+      }
+    },
+    {
+      "id": "mohamed-shoala",
+      "name": "محمد شعلة 🔥",
+      "country": "EG",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Comedy",
+        "ru": "Юмор",
+        "ar": "كوميديا",
+        "hi": "हास्य",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, محمد شعلة 🔥 comparte contenido sobre Humor.",
+        "en": "On their YouTube channel, محمد شعلة 🔥 shares content about Comedy.",
+        "pt": "No seu canal do YouTube, محمد شعلة 🔥 compartilha conteúdo sobre Humor.",
+        "fr": "Sur sa chaîne YouTube, محمد شعلة 🔥 partage du contenu sur le thème : Humour.",
+        "de": "Auf dem YouTube-Kanal von محمد شعلة 🔥 geht es um Comedy.",
+        "ru": "На YouTube-канале محمد شعلة 🔥 публикуются видео на тему «Юмор».",
+        "ar": "ينشر محمد شعلة 🔥 على قناته في يوتيوب محتوى عن كوميديا.",
+        "hi": "محمد شعلة 🔥 अपने YouTube चैनल पर हास्य से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "محمد شعلة 🔥 的 YouTube 频道分享有关喜剧的内容。",
+        "ja": "محمد شعلة 🔥のYouTubeチャンネルでは、コメディに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCHIDuNeDo_Jfo2pTcbJqvvA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 505000
+        }
+      }
+    },
+    {
+      "id": "mohamed-almasry",
+      "name": "دكتور محمد المصري",
+      "country": "EG",
+      "topic": {
+        "es": "Religión y oraciones",
+        "en": "Religion and prayers",
+        "pt": "Religião e orações",
+        "fr": "Religion et prières",
+        "de": "Religion und Gebete",
+        "ru": "Религия и молитвы",
+        "ar": "دين وأدعية",
+        "hi": "धर्म और प्रार्थनाएँ",
+        "zh": "宗教与祈祷",
+        "ja": "宗教と祈り"
+      },
+      "about": {
+        "es": "En su canal de YouTube, دكتور محمد المصري comparte contenido sobre Religión y oraciones.",
+        "en": "On their YouTube channel, دكتور محمد المصري shares content about Religion and prayers.",
+        "pt": "No seu canal do YouTube, دكتور محمد المصري compartilha conteúdo sobre Religião e orações.",
+        "fr": "Sur sa chaîne YouTube, دكتور محمد المصري partage du contenu sur le thème : Religion et prières.",
+        "de": "Auf dem YouTube-Kanal von دكتور محمد المصري geht es um Religion und Gebete.",
+        "ru": "На YouTube-канале دكتور محمد المصري публикуются видео на тему «Религия и молитвы».",
+        "ar": "ينشر دكتور محمد المصري على قناته في يوتيوب محتوى عن دين وأدعية.",
+        "hi": "دكتور محمد المصري अपने YouTube चैनल पर धर्म और प्रार्थनाएँ से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "دكتور محمد المصري 的 YouTube 频道分享有关宗教与祈祷的内容。",
+        "ja": "دكتور محمد المصريのYouTubeチャンネルでは、宗教と祈りに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCVTxYtLFAgNCMGheZ9kX_Vg",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 112000
+        }
+      }
+    },
+    {
+      "id": "moroccan-egyptian-family",
+      "name": "عائلة مغربية مصرية",
+      "country": "EG",
+      "topic": {
+        "es": "Vida familiar",
+        "en": "Family life",
+        "pt": "Vida familiar",
+        "fr": "Vie de famille",
+        "de": "Familienleben",
+        "ru": "Семейная жизнь",
+        "ar": "حياة عائلية",
+        "hi": "पारिवारिक जीवन",
+        "zh": "家庭生活",
+        "ja": "家族の暮らし"
+      },
+      "about": {
+        "es": "En su canal de YouTube, عائلة مغربية مصرية comparte contenido sobre Vida familiar.",
+        "en": "On their YouTube channel, عائلة مغربية مصرية shares content about Family life.",
+        "pt": "No seu canal do YouTube, عائلة مغربية مصرية compartilha conteúdo sobre Vida familiar.",
+        "fr": "Sur sa chaîne YouTube, عائلة مغربية مصرية partage du contenu sur le thème : Vie de famille.",
+        "de": "Auf dem YouTube-Kanal von عائلة مغربية مصرية geht es um Familienleben.",
+        "ru": "На YouTube-канале عائلة مغربية مصرية публикуются видео на тему «Семейная жизнь».",
+        "ar": "ينشر عائلة مغربية مصرية على قناته في يوتيوب محتوى عن حياة عائلية.",
+        "hi": "عائلة مغربية مصرية अपने YouTube चैनल पर पारिवारिक जीवन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "عائلة مغربية مصرية 的 YouTube 频道分享有关家庭生活的内容。",
+        "ja": "عائلة مغربية مصريةのYouTubeチャンネルでは、家族の暮らしに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCBiye8rwi0ntTklJh-wQ-hw",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 207000
+        }
+      }
+    },
+    {
+      "id": "sarasongbird",
+      "name": "SaraSongbird",
+      "country": "SE",
+      "topic": {
+        "es": "Hogar y estilo de vida",
+        "en": "Home and lifestyle",
+        "pt": "Casa e estilo de vida",
+        "fr": "Maison et mode de vie",
+        "de": "Wohnen und Lifestyle",
+        "ru": "Дом и образ жизни",
+        "ar": "منزل وأسلوب حياة",
+        "hi": "घर और जीवनशैली",
+        "zh": "家居与生活方式",
+        "ja": "住まいとライフスタイル"
+      },
+      "about": {
+        "es": "En su canal de YouTube, SaraSongbird comparte contenido sobre Hogar y estilo de vida.",
+        "en": "On their YouTube channel, SaraSongbird shares content about Home and lifestyle.",
+        "pt": "No seu canal do YouTube, SaraSongbird compartilha conteúdo sobre Casa e estilo de vida.",
+        "fr": "Sur sa chaîne YouTube, SaraSongbird partage du contenu sur le thème : Maison et mode de vie.",
+        "de": "Auf dem YouTube-Kanal von SaraSongbird geht es um Wohnen und Lifestyle.",
+        "ru": "На YouTube-канале SaraSongbird публикуются видео на тему «Дом и образ жизни».",
+        "ar": "ينشر SaraSongbird على قناته في يوتيوب محتوى عن منزل وأسلوب حياة.",
+        "hi": "SaraSongbird अपने YouTube चैनल पर घर और जीवनशैली से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "SaraSongbird 的 YouTube 频道分享有关家居与生活方式的内容。",
+        "ja": "SaraSongbirdのYouTubeチャンネルでは、住まいとライフスタイルに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCZ4ZHu8YANH6p97GcKg5S3Q",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 101000
+        }
+      }
+    },
+    {
+      "id": "tazer",
+      "name": "TaZer",
+      "country": "SE",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Comedy",
+        "ru": "Юмор",
+        "ar": "كوميديا",
+        "hi": "हास्य",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, TaZer comparte contenido sobre Humor.",
+        "en": "On their YouTube channel, TaZer shares content about Comedy.",
+        "pt": "No seu canal do YouTube, TaZer compartilha conteúdo sobre Humor.",
+        "fr": "Sur sa chaîne YouTube, TaZer partage du contenu sur le thème : Humour.",
+        "de": "Auf dem YouTube-Kanal von TaZer geht es um Comedy.",
+        "ru": "На YouTube-канале TaZer публикуются видео на тему «Юмор».",
+        "ar": "ينشر TaZer على قناته في يوتيوب محتوى عن كوميديا.",
+        "hi": "TaZer अपने YouTube चैनल पर हास्य से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "TaZer 的 YouTube 频道分享有关喜剧的内容。",
+        "ja": "TaZerのYouTubeチャンネルでは、コメディに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCdp4qjUE3yra17FrBBXRauQ",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
+        "followers": {
+          "youtube": 187000
+        }
+      }
     }
   ]
 }
