@@ -10035,6 +10035,710 @@
           "youtube": 6190000
         }
       }
+    },
+    {
+      "id": "squeezie",
+      "name": "Squeezie",
+      "country": "FR",
+      "topic": {
+        "es": "Gaming y humor",
+        "en": "Gaming and comedy",
+        "pt": "Games e humor",
+        "fr": "Jeux vidéo et humour",
+        "de": "Gaming und Comedy",
+        "ru": "Игры и юмор",
+        "ar": "الألعاب والكوميديا",
+        "hi": "गेमिंग और कॉमेडी",
+        "zh": "游戏与喜剧",
+        "ja": "ゲームとコメディ"
+      },
+      "about": {
+        "es": "Creador francés nacido Lucas Hauchard en Savigny-sur-Orge; empezó con let's plays y hoy combina humor, música y grandes producciones de entretenimiento.",
+        "en": "A French creator born Lucas Hauchard in Savigny-sur-Orge; started with let's-play commentary and now mixes comedy, music and large-scale entertainment productions.",
+        "pt": "Criador francês nascido Lucas Hauchard em Savigny-sur-Orge; começou com let's plays e hoje mistura humor, música e grandes produções de entretenimento.",
+        "fr": "Créateur français né Lucas Hauchard à Savigny-sur-Orge ; débuts en let's play, aujourd'hui mêlant humour, musique et grandes productions de divertissement.",
+        "de": "Französischer Creator, geboren als Lucas Hauchard in Savigny-sur-Orge; begann mit Let's-Play-Kommentaren und kombiniert heute Comedy, Musik und große Unterhaltungsproduktionen.",
+        "ru": "Французский автор, урождённый Лука Ошар из Савиньи-сюр-Орж; начинал с летсплеев, сейчас сочетает юмор, музыку и крупные развлекательные проекты.",
+        "ar": "صانع محتوى فرنسي وُلد باسم لوكاس أوشار في سافينيي-سور-أورج؛ بدأ بتعليقات الألعاب وأصبح يمزج الآن بين الكوميديا والموسيقى والإنتاجات الترفيهية الكبرى.",
+        "hi": "फ्रांसीसी क्रिएटर, जन्म का नाम लूकास ओशार, सावीनी-सुर-ऑर्ज में जन्मे; लेट्स-प्ले कमेंट्री से शुरुआत की और अब कॉमेडी, संगीत व बड़े मनोरंजन प्रोडक्शन को मिलाते हैं।",
+        "zh": "法国创作者,本名卢卡斯·奥沙尔,出生于萨维尼-苏尔-奥尔日;从游戏实况解说起步,如今融合喜剧、音乐与大型娱乐制作。",
+        "ja": "フランスのクリエイター、本名リュカ・オシャール。サヴィニー=シュル=オルジュ出身で、実況プレイから始まり、現在はコメディ、音楽、大規模なエンターテインメント企画を手掛ける。"
+      },
+      "handles": {
+        "youtube": "UCWeg2Pkate69NFdBeuRFTAw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 20200000
+        }
+      }
+    },
+    {
+      "id": "cyprien",
+      "name": "Cyprien",
+      "country": "FR",
+      "topic": {
+        "es": "Sketches de humor",
+        "en": "Comedy sketches",
+        "pt": "Esquetes de humor",
+        "fr": "Sketchs humoristiques",
+        "de": "Comedy-Sketche",
+        "ru": "Комедийные скетчи",
+        "ar": "سكتشات كوميدية",
+        "hi": "कॉमेडी स्केच",
+        "zh": "喜剧短剧",
+        "ja": "コメディスケッチ"
+      },
+      "about": {
+        "es": "Creador francés nacido Cyprien Iov, radicado en Niza; conocido por sketches cortos de humor observacional desde inicios de los 2010.",
+        "en": "A French creator born Cyprien Iov, based in Nice; known for short observational-comedy sketches since the early 2010s.",
+        "pt": "Criador francês nascido Cyprien Iov, radicado em Nice; conhecido por esquetes curtos de humor observacional desde o início dos anos 2010.",
+        "fr": "Créateur français né Cyprien Iov, installé à Nice ; connu pour ses courts sketchs d'humour observationnel depuis le début des années 2010.",
+        "de": "Französischer Creator, geboren als Cyprien Iov, ansässig in Nizza; bekannt für kurze Comedy-Sketche mit Alltagsbeobachtungen seit den frühen 2010er Jahren.",
+        "ru": "Французский автор, урождённый Сипрьен Иов, живёт в Ницце; известен короткими скетчами в жанре бытового юмора с начала 2010-х годов.",
+        "ar": "صانع محتوى فرنسي وُلد باسم سيبريان يوف، يقيم في نيس؛ اشتهر بسكتشات كوميدية قصيرة تعتمد على الملاحظة اليومية منذ أوائل العقد الثاني من الألفية الثالثة.",
+        "hi": "फ्रांसीसी क्रिएटर, जन्म का नाम सिप्रियां इओव, नीस में रहते हैं; 2010 के दशक की शुरुआत से रोजमर्रा के अवलोकन पर आधारित छोटे कॉमेडी स्केच के लिए जाने जाते हैं।",
+        "zh": "法国创作者,本名西普里安·约夫,居住在尼斯;自2010年代初以来以观察式幽默短剧著称。",
+        "ja": "フランスのクリエイター、本名シプリアン・イオヴ。ニース在住で、2010年代初頭から日常観察型のコメディスケッチで知られる。"
+      },
+      "handles": {
+        "youtube": "UCyWqModMQlbIo8274Wh_ZsQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 14500000
+        }
+      }
+    },
+    {
+      "id": "norman",
+      "name": "Norman",
+      "country": "FR",
+      "topic": {
+        "es": "Comedia y vlogs",
+        "en": "Comedy and vlogs",
+        "pt": "Comédia e vlogs",
+        "fr": "Humour et vlogs",
+        "de": "Comedy und Vlogs",
+        "ru": "Комедия и влоги",
+        "ar": "كوميديا ومدونات فيديو",
+        "hi": "कॉमेडी और व्लॉग",
+        "zh": "喜剧与视频博客",
+        "ja": "コメディとVlog"
+      },
+      "about": {
+        "es": "Creador francés nacido Norman Thavaud en Arras; lanzó su canal 'Norman fait des vidéos' en 2011 y es uno de los pioneros del humor en YouTube francés.",
+        "en": "A French creator born Norman Thavaud in Arras; launched his channel 'Norman fait des vidéos' in 2011 and is one of the pioneers of French YouTube comedy.",
+        "pt": "Criador francês nascido Norman Thavaud em Arras; lançou seu canal 'Norman fait des vidéos' em 2011 e é um dos pioneiros do humor no YouTube francês.",
+        "fr": "Créateur français né Norman Thavaud à Arras ; a lancé sa chaîne 'Norman fait des vidéos' en 2011 et fait figure de pionnier de l'humour sur YouTube en France.",
+        "de": "Französischer Creator, geboren als Norman Thavaud in Arras; startete 2011 seinen Kanal 'Norman fait des vidéos' und gilt als Pionier der französischen YouTube-Comedy.",
+        "ru": "Французский автор, урождённый Норман Тавод из Арраса; в 2011 году запустил канал 'Norman fait des vidéos' и считается одним из пионеров французского юмористического YouTube.",
+        "ar": "صانع محتوى فرنسي وُلد باسم نورمان تافو في أراس؛ أطلق قناته 'Norman fait des vidéos' عام 2011 ويُعد من رواد الكوميديا على يوتيوب الفرنسي.",
+        "hi": "फ्रांसीसी क्रिएटर, जन्म का नाम नॉर्मन थावो, अरास में जन्मे; 2011 में अपना चैनल 'Norman fait des vidéos' शुरू किया और फ्रेंच यूट्यूब कॉमेडी के अग्रदूतों में से एक हैं।",
+        "zh": "法国创作者,本名诺曼·塔沃,出生于阿拉斯;2011年创办频道'Norman fait des vidéos',是法语YouTube喜剧的先驱之一。",
+        "ja": "フランスのクリエイター、本名ノルマン・タヴォー。アラス出身で、2011年にチャンネル「Norman fait des vidéos」を開設し、フランス語圏YouTubeコメディの先駆者の一人。"
+      },
+      "handles": {
+        "youtube": "UCww2zZWg4Cf5xcRKG-ThmXQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 11200000
+        }
+      }
+    },
+    {
+      "id": "michou",
+      "name": "Michou",
+      "country": "FR",
+      "topic": {
+        "es": "Gaming y vlogs",
+        "en": "Gaming and vlogs",
+        "pt": "Games e vlogs",
+        "fr": "Jeux vidéo et vlogs",
+        "de": "Gaming und Vlogs",
+        "ru": "Игры и влоги",
+        "ar": "الألعاب ومدونات الفيديو",
+        "hi": "गेमिंग और व्लॉग",
+        "zh": "游戏与视频博客",
+        "ja": "ゲームとVlog"
+      },
+      "about": {
+        "es": "Creador francés nacido Miguel Mattioli en Amiens en 2001; empezó su canal en 2015 con contenido de videojuegos y hoy hace vlogs y retos con otros creadores.",
+        "en": "A French creator born Miguel Mattioli in Amiens in 2001; started his channel in 2015 with gaming content and now makes vlogs and challenges with other creators.",
+        "pt": "Criador francês nascido Miguel Mattioli em Amiens em 2001; iniciou seu canal em 2015 com conteúdo de games e hoje faz vlogs e desafios com outros criadores.",
+        "fr": "Créateur français né Miguel Mattioli à Amiens en 2001 ; a lancé sa chaîne en 2015 avec du contenu jeu vidéo, aujourd'hui vlogs et défis avec d'autres créateurs.",
+        "de": "Französischer Creator, geboren als Miguel Mattioli 2001 in Amiens; startete seinen Kanal 2015 mit Gaming-Inhalten und macht heute Vlogs und Challenges mit anderen Creators.",
+        "ru": "Французский автор, урождённый Мигель Маттиоли из Амьена, 2001 года рождения; начал канал в 2015 году с игрового контента, сейчас снимает влоги и челленджи с другими блогерами.",
+        "ar": "صانع محتوى فرنسي وُلد باسم ميغيل ماتيولي في أميان عام 2001؛ أطلق قناته عام 2015 بمحتوى ألعاب فيديو، ويقدم الآن مدونات فيديو وتحديات مع صناع محتوى آخرين.",
+        "hi": "फ्रांसीसी क्रिएटर, जन्म का नाम मिगेल मात्तियोली, 2001 में अमीयां में जन्मे; 2015 में गेमिंग सामग्री के साथ चैनल शुरू किया और अब अन्य क्रिएटर्स के साथ व्लॉग व चैलेंज बनाते हैं।",
+        "zh": "法国创作者,本名米格尔·马蒂奥利,2001年出生于亚眠;2015年以游戏内容开设频道,如今与其他创作者合作制作视频博客和挑战内容。",
+        "ja": "フランスのクリエイター、本名ミゲル・マティオリ。2001年アミアン生まれで、2015年にゲーム実況チャンネルを開設し、現在は他クリエイターとのVlogや企画動画を制作している。"
+      },
+      "handles": {
+        "youtube": "UCo3i0nUzZjjLuM7VjAVz4zA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 11000000
+        }
+      }
+    },
+    {
+      "id": "amixem",
+      "name": "Amixem",
+      "country": "FR",
+      "topic": {
+        "es": "Humor y vlogs",
+        "en": "Comedy and vlogs",
+        "pt": "Humor e vlogs",
+        "fr": "Humour et vlogs",
+        "de": "Comedy und Vlogs",
+        "ru": "Юмор и влоги",
+        "ar": "كوميديا ومدونات فيديو",
+        "hi": "कॉमेडी और व्लॉग",
+        "zh": "喜剧与视频博客",
+        "ja": "コメディとVlog"
+      },
+      "about": {
+        "es": "Creador francés nacido Maxime Chabroud en Lyon en 1991, cuyo nombre artístico es un anagrama de su primer nombre; empezó con videojuegos antes de pasar a vlogs y humor.",
+        "en": "A French creator born Maxime Chabroud in Lyon in 1991, whose stage name is an anagram of his first name; started with gaming content before moving into vlogs and comedy.",
+        "pt": "Criador francês nascido Maxime Chabroud em Lyon em 1991, cujo nome artístico é um anagrama de seu primeiro nome; começou com videogames antes de migrar para vlogs e humor.",
+        "fr": "Créateur français né Maxime Chabroud à Lyon en 1991, pseudonyme formé par anagramme de son prénom ; débuts dans le jeu vidéo avant de passer aux vlogs et à l'humour.",
+        "de": "Französischer Creator, geboren als Maxime Chabroud 1991 in Lyon; sein Künstlername ist ein Anagramm seines Vornamens, begann mit Gaming-Inhalten, bevor er zu Vlogs und Comedy wechselte.",
+        "ru": "Французский автор, урождённый Максим Шаброд из Лиона, 1991 года рождения; псевдоним — анаграмма его имени; начинал с игрового контента, позже перешёл к влогам и юмору.",
+        "ar": "صانع محتوى فرنسي وُلد باسم ماكسيم شابرو في ليون عام 1991، واسمه الفني هو جناس لاسمه الأول؛ بدأ بمحتوى الألعاب قبل الانتقال إلى المدونات الفيديو والكوميديا.",
+        "hi": "फ्रांसीसी क्रिएटर, जन्म का नाम मैक्सिम शाब्रू, 1991 में ल्योन में जन्मे; उनका स्टेज नाम उनके पहले नाम का एनाग्राम है; गेमिंग सामग्री से शुरुआत की और बाद में व्लॉग व कॉमेडी की ओर बढ़े।",
+        "zh": "法国创作者,本名马克西姆·沙布鲁,1991年出生于里昂;艺名是其名字的字母重组;最初制作游戏内容,后转向视频博客和喜剧。",
+        "ja": "フランスのクリエイター、本名マキシム・シャブルー。1991年リヨン生まれで、芸名は自身のファーストネームのアナグラム。ゲーム実況から始まり、後にVlogやコメディへ移行した。"
+      },
+      "handles": {
+        "youtube": "UCgvqvBoSHB1ctlyyhoHrGwQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 9560000
+        }
+      }
+    },
+    {
+      "id": "inoxtag",
+      "name": "Inoxtag",
+      "country": "FR",
+      "topic": {
+        "es": "Gaming y documentales",
+        "en": "Gaming and documentaries",
+        "pt": "Games e documentários",
+        "fr": "Jeux vidéo et documentaires",
+        "de": "Gaming und Dokumentationen",
+        "ru": "Игры и документальные проекты",
+        "ar": "الألعاب والأفلام الوثائقية",
+        "hi": "गेमिंग और डॉक्यूमेंट्री",
+        "zh": "游戏与纪录片",
+        "ja": "ゲームとドキュメンタリー"
+      },
+      "about": {
+        "es": "Creador francés nacido Inès Benazzouz en Levallois-Perret en 2002; alcanzó notoriedad masiva en 2024 con 'Kaizen', un documental sobre su preparación para escalar el Everest.",
+        "en": "A French creator born Inès Benazzouz in Levallois-Perret in 2002; gained mainstream notoriety in 2024 with 'Kaizen', a documentary chronicling his preparation to climb Mount Everest.",
+        "pt": "Criador francês nascido Inès Benazzouz em Levallois-Perret em 2002; ganhou notoriedade em 2024 com 'Kaizen', um documentário sobre sua preparação para escalar o Everest.",
+        "fr": "Créateur français né Inès Benazzouz à Levallois-Perret en 2002 ; a connu une notoriété grand public en 2024 avec 'Kaizen', documentaire sur sa préparation à l'ascension de l'Everest.",
+        "de": "Französischer Creator, geboren als Inès Benazzouz 2002 in Levallois-Perret; erlangte 2024 mit 'Kaizen', einer Dokumentation über seine Vorbereitung auf die Besteigung des Mount Everest, breite Bekanntheit.",
+        "ru": "Французский автор, урождённый Инес Беназзуз из Левалуа-Перре, 2002 года рождения; получил широкую известность в 2024 году благодаря документальному фильму 'Kaizen' о подготовке к восхождению на Эверест.",
+        "ar": "صانع محتوى فرنسي وُلد باسم إينيس بنزوز في ليفالوا-بيريه عام 2002؛ حقق شهرة واسعة عام 2024 بفيلمه الوثائقي 'Kaizen' الذي يوثق استعداده لتسلق جبل إيفرست.",
+        "hi": "फ्रांसीसी क्रिएटर, जन्म का नाम इनेस बेनज़ुज़, 2002 में लेवालोआ-पेरे में जन्मे; 2024 में 'काइज़ेन' डॉक्यूमेंट्री से व्यापक पहचान मिली, जो एवरेस्ट चढ़ाई की तैयारी पर आधारित है।",
+        "zh": "法国创作者,本名伊内斯·贝纳祖兹,2002年出生于勒瓦卢瓦-佩雷;2024年因纪录片《Kaizen》广受关注,该片记录了他为攀登珠穆朗玛峰所做的准备。",
+        "ja": "フランスのクリエイター、本名イネス・ベナズーズ。2002年ルヴァロワ=ペレ生まれで、2024年にエベレスト登頂への準備を追ったドキュメンタリー「Kaizen」で広く知られるようになった。"
+      },
+      "handles": {
+        "youtube": "UCL9aTJb0ur4sovxcppAopEw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 9510000
+        }
+      }
+    },
+    {
+      "id": "mcfly-et-carlito",
+      "name": "McFly et Carlito",
+      "country": "FR",
+      "topic": {
+        "es": "Humor y retos",
+        "en": "Comedy and challenges",
+        "pt": "Humor e desafios",
+        "fr": "Humour et défis",
+        "de": "Comedy und Challenges",
+        "ru": "Юмор и челленджи",
+        "ar": "كوميديا وتحديات",
+        "hi": "कॉमेडी और चैलेंज",
+        "zh": "喜剧与挑战",
+        "ja": "コメディとチャレンジ"
+      },
+      "about": {
+        "es": "Dúo francés de creadores formado por David Coscas y Raphaël Carlier; su canal, activo desde 2012, combina retos, cámaras ocultas y un podcast.",
+        "en": "A French creator duo formed by David Coscas and Raphaël Carlier; their channel, active since 2012, mixes challenges, hidden-camera pranks and a podcast.",
+        "pt": "Dupla francesa de criadores formada por David Coscas e Raphaël Carlier; seu canal, ativo desde 2012, mistura desafios, pegadinhas de câmera escondida e um podcast.",
+        "fr": "Duo français de créateurs formé par David Coscas et Raphaël Carlier ; leur chaîne, active depuis 2012, mêle défis, caméras cachées et un podcast.",
+        "de": "Französisches Creator-Duo, gebildet von David Coscas und Raphaël Carlier; ihr seit 2012 aktiver Kanal kombiniert Challenges, versteckte-Kamera-Streiche und einen Podcast.",
+        "ru": "Французский дуэт авторов, состоящий из Давида Коска и Рафаэля Карлье; их канал, работающий с 2012 года, сочетает челленджи, розыгрыши со скрытой камерой и подкаст.",
+        "ar": "ثنائي فرنسي من صناع المحتوى يتكون من ديفيد كوسكاس ورافائيل كارلييه؛ قناتهما النشطة منذ عام 2012 تجمع بين التحديات ومقالب الكاميرا الخفية وبودكاست.",
+        "hi": "फ्रांसीसी क्रिएटर जोड़ी, डेविड कोस्कस और राफाएल कार्लिये द्वारा गठित; 2012 से सक्रिय उनका चैनल चैलेंज, हिडन-कैमरा प्रैंक और एक पॉडकास्ट का मिश्रण है।",
+        "zh": "法国创作者组合,由大卫·科斯卡斯和拉斐尔·卡利耶组成;自2012年活跃至今的频道内容融合挑战、隐藏摄像机整蛊和播客节目。",
+        "ja": "フランスのクリエイターデュオで、ダヴィド・コスカスとラファエル・カルリエによって結成。2012年から活動するチャンネルは、チャレンジ企画、隠しカメラのドッキリ、ポッドキャストを組み合わせている。"
+      },
+      "handles": {
+        "youtube": "UCDPK_MTu3uTUFJXRVcTJcEw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 7660000
+        }
+      }
+    },
+    {
+      "id": "enes-batur",
+      "name": "Enes Batur",
+      "country": "TR",
+      "topic": {
+        "es": "Gaming y comedia",
+        "en": "Gaming and comedy",
+        "pt": "Games e comédia",
+        "fr": "Jeux vidéo et humour",
+        "de": "Gaming und Comedy",
+        "ru": "Игры и юмор",
+        "ar": "الألعاب والكوميديا",
+        "hi": "गेमिंग और कॉमेडी",
+        "zh": "游戏与喜剧",
+        "ja": "ゲームとコメディ"
+      },
+      "about": {
+        "es": "Creador turco nacido en Ankara que publica videos de videojuegos, comedia y vlogs; tiene uno de los canales personales más suscritos de Turquía.",
+        "en": "A Turkish creator born in Ankara who posts gaming, comedy and vlog content; he runs one of Turkey's most-subscribed personal YouTube channels.",
+        "pt": "Criador turco nascido em Ancara que publica vídeos de games, comédia e vlogs; mantém um dos canais pessoais mais inscritos da Turquia.",
+        "fr": "Créateur turc né à Ankara qui publie du contenu jeux vidéo, humour et vlogs ; il tient l'une des chaînes personnelles les plus suivies de Turquie.",
+        "de": "Türkischer Creator aus Ankara, der Gaming-, Comedy- und Vlog-Inhalte veröffentlicht; er betreibt einen der abonnentenstärksten persönlichen Kanäle der Türkei.",
+        "ru": "Турецкий блогер родом из Анкары, публикующий контент об играх, юморе и влоги; ведёт один из самых популярных личных каналов Турции.",
+        "ar": "صانع محتوى تركي وُلد في أنقرة وينشر محتوى الألعاب والكوميديا والفلوجات؛ يدير أحد أكثر القنوات الشخصية اشتراكًا في تركيا.",
+        "hi": "अंकारा में जन्मे तुर्की क्रिएटर जो गेमिंग, कॉमेडी और व्लॉग सामग्री पोस्ट करते हैं; तुर्की के सबसे अधिक सब्सक्राइब किए गए व्यक्तिगत चैनलों में से एक चलाते हैं।",
+        "zh": "出生于安卡拉的土耳其创作者,发布游戏、喜剧和视频博客内容;运营着土耳其订阅量最高的个人频道之一。",
+        "ja": "アンカラ出身のトルコ人クリエイターで、ゲーム実況、コメディ、ブログ動画を投稿しており、トルコで最も登録者数の多い個人チャンネルの一つを運営している。"
+      },
+      "handles": {
+        "youtube": "UCG0HA4uyuuzPzeq_US_ywVg",
+        "tiktok": null,
+        "instagram": "enesbatur",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 17800000
+        }
+      }
+    },
+    {
+      "id": "orkun-is-tmak",
+      "name": "Orkun Işıtmak",
+      "country": "TR",
+      "topic": {
+        "es": "Retos y entretenimiento",
+        "en": "Challenges and entertainment",
+        "pt": "Desafios e entretenimento",
+        "fr": "Défis et divertissement",
+        "de": "Herausforderungen und Unterhaltung",
+        "ru": "Челленджи и развлечения",
+        "ar": "تحديات وترفيه",
+        "hi": "चैलेंज और मनोरंजन",
+        "zh": "挑战与娱乐",
+        "ja": "チャレンジとエンタメ"
+      },
+      "about": {
+        "es": "Creador turco nacido en Esmirna y radicado en Estambul que produce retos, vlogs y entrevistas con actores y cantantes.",
+        "en": "A Turkish creator born in Izmir and based in Istanbul who produces challenge videos, vlogs and interviews with actors and singers.",
+        "pt": "Criador turco nascido em Esmirna e radicado em Istambul que produz vídeos de desafios, vlogs e entrevistas com atores e cantores.",
+        "fr": "Créateur turc né à Izmir et basé à Istanbul qui produit des vidéos de défis, des vlogs et des interviews d'acteurs et de chanteurs.",
+        "de": "Türkischer Creator, geboren in Izmir und ansässig in Istanbul, der Challenge-Videos, Vlogs und Interviews mit Schauspielern und Sängern produziert.",
+        "ru": "Турецкий блогер, родившийся в Измире и живущий в Стамбуле, снимает челленджи, влоги и интервью с актёрами и певцами.",
+        "ar": "صانع محتوى تركي وُلد في إزمير ويقيم في إسطنبول، ينتج فيديوهات تحديات ومدونات فيديو ومقابلات مع ممثلين ومغنين.",
+        "hi": "इज़मीर में जन्मे और इस्तांबुल में रहने वाले तुर्की क्रिएटर जो चैलेंज वीडियो, व्लॉग और अभिनेताओं-गायकों के साथ इंटरव्यू बनाते हैं।",
+        "zh": "出生于伊兹密尔、现居伊斯坦布尔的土耳其创作者,制作挑战视频、视频博客以及与演员和歌手的访谈。",
+        "ja": "イズミル出身でイスタンブールを拠点とするトルコ人クリエイターで、チャレンジ動画やブログ動画、俳優や歌手へのインタビューを制作している。"
+      },
+      "handles": {
+        "youtube": "UCIXYyHANDvinQMIdauzSNJA",
+        "tiktok": null,
+        "instagram": "orkunisitmak",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 12700000
+        }
+      }
+    },
+    {
+      "id": "reynmen",
+      "name": "Reynmen",
+      "country": "TR",
+      "topic": {
+        "es": "Música y vlogs",
+        "en": "Music and vlogs",
+        "pt": "Música e vlogs",
+        "fr": "Musique et vlogs",
+        "de": "Musik und Vlogs",
+        "ru": "Музыка и влоги",
+        "ar": "الموسيقى والفلوجات",
+        "hi": "संगीत और व्लॉग",
+        "zh": "音乐与视频博客",
+        "ja": "音楽とブログ動画"
+      },
+      "about": {
+        "es": "Nombre real Yusuf Aktaş, cantante y ex vlogger turco nacido y radicado en Estambul que pasó de los vlogs a lanzar sencillos y álbumes de música.",
+        "en": "Real name Yusuf Aktaş, a Turkish singer and former vlogger born and based in Istanbul who moved from vlogging into releasing music singles and albums.",
+        "pt": "Nome verdadeiro Yusuf Aktaş, cantor e ex-vlogger turco nascido e radicado em Istambul que migrou dos vlogs para o lançamento de singles e álbuns musicais.",
+        "fr": "De son vrai nom Yusuf Aktaş, chanteur turc et ex-vlogueur né et basé à Istanbul, passé des vlogs à la sortie de singles et d'albums musicaux.",
+        "de": "Bürgerlicher Name Yusuf Aktaş, türkischer Sänger und ehemaliger Vlogger, geboren und ansässig in Istanbul, der vom Vloggen zur Veröffentlichung von Musiksingles und Alben wechselte.",
+        "ru": "Настоящее имя Юсуф Актаж, турецкий певец и бывший влогер, родившийся и живущий в Стамбуле, перешедший от влогов к выпуску синглов и альбомов.",
+        "ar": "اسمه الحقيقي يوسف أكطاش، مغنٍّ تركي ومدون فيديو سابق وُلد ويقيم في إسطنبول، انتقل من الفلوجات إلى إصدار أغانٍ منفردة وألبومات موسيقية.",
+        "hi": "असली नाम युसुफ अकताश, तुर्की गायक और पूर्व व्लॉगर जो इस्तांबुल में जन्मे और वहीं रहते हैं, व्लॉगिंग से संगीत सिंगल्स और एल्बम जारी करने की ओर बढ़े।",
+        "zh": "真名尤苏夫·阿克塔什,土耳其歌手兼前视频博主,出生并定居伊斯坦布尔,从拍视频博客转向发行音乐单曲和专辑。",
+        "ja": "本名ユスフ・アクタシュ、イスタンブール生まれ・在住のトルコ人歌手で元ブロガー。ブログ動画からシングルやアルバムのリリースへと活動を移した。"
+      },
+      "handles": {
+        "youtube": "UCRBLdLVbiPnKYZ94qE4z3gg",
+        "tiktok": null,
+        "instagram": "reynmen",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 6360000
+        }
+      }
+    },
+    {
+      "id": "lazarbeam",
+      "name": "LazarBeam",
+      "country": "AU",
+      "topic": {
+        "es": "Gaming y comedia",
+        "en": "Gaming and comedy",
+        "pt": "Games e comédia",
+        "fr": "Jeux vidéo et humour",
+        "de": "Gaming und Comedy",
+        "ru": "Игры и комедия",
+        "ar": "الألعاب والكوميديا",
+        "hi": "गेमिंग और कॉमेडी",
+        "zh": "游戏与喜剧",
+        "ja": "ゲームとコメディ"
+      },
+      "about": {
+        "es": "Creador nacido en Central Coast, Nueva Gales del Sur (Australia), conocido por sus videos de comedia sobre Fortnite y otros videojuegos.",
+        "en": "A creator born in Central Coast, New South Wales (Australia), known for comedic gaming videos centered on Fortnite and other titles.",
+        "pt": "Criador nascido em Central Coast, Nova Gales do Sul (Austrália), conhecido por vídeos de comédia sobre Fortnite e outros jogos.",
+        "fr": "Créateur né à Central Coast, en Nouvelle-Galles du Sud (Australie), connu pour ses vidéos comiques sur Fortnite et d'autres jeux.",
+        "de": "Ein in Central Coast, New South Wales (Australien) geborener Creator, bekannt für komödiantische Gaming-Videos rund um Fortnite und andere Titel.",
+        "ru": "Создатель контента, родившийся в Центральном побережье, Новый Южный Уэльс (Австралия), известен комедийными видео об играх, в основном о Fortnite.",
+        "ar": "صانع محتوى وُلد في سنترال كوست بولاية نيو ساوث ويلز الأسترالية، يشتهر بمقاطع فيديو كوميدية عن لعبة فورتنايت وألعاب أخرى.",
+        "hi": "सेंट्रल कोस्ट, न्यू साउथ वेल्स (ऑस्ट्रेलिया) में जन्मे क्रिएटर, फोर्टनाइट और अन्य गेम्स पर हास्यपूर्ण गेमिंग वीडियो के लिए जाने जाते हैं।",
+        "zh": "出生于澳大利亚新南威尔士州中央海岸的创作者,以关于《堡垒之夜》等游戏的喜剧视频闻名。",
+        "ja": "オーストラリア・ニューサウスウェールズ州セントラルコースト出身のクリエイターで、フォートナイトなどのゲームを題材にしたコメディ動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCw1SQ6QRRtfAhrN_cjkrOgA",
+        "tiktok": null,
+        "instagram": "lazarbeamyt",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 23300000
+        }
+      }
+    },
+    {
+      "id": "muselk",
+      "name": "Muselk",
+      "country": "AU",
+      "topic": {
+        "es": "Gaming",
+        "en": "Gaming",
+        "pt": "Games",
+        "fr": "Jeux vidéo",
+        "de": "Gaming",
+        "ru": "Игры",
+        "ar": "الألعاب",
+        "hi": "गेमिंग",
+        "zh": "游戏",
+        "ja": "ゲーム"
+      },
+      "about": {
+        "es": "Creador de contenido de videojuegos radicado en Sídney (Australia), conocido por sus videos cómicos sobre Fortnite y otros títulos multijugador.",
+        "en": "A gaming content creator based in Sydney, Australia, known for comedic videos about Fortnite and other multiplayer titles.",
+        "pt": "Criador de conteúdo de games radicado em Sydney (Austrália), conhecido por vídeos cômicos sobre Fortnite e outros títulos multiplayer.",
+        "fr": "Créateur de contenu gaming basé à Sydney (Australie), connu pour ses vidéos comiques sur Fortnite et d'autres jeux multijoueurs.",
+        "de": "Ein in Sydney, Australien, ansässiger Gaming-Creator, bekannt für komödiantische Videos über Fortnite und andere Multiplayer-Titel.",
+        "ru": "Создатель игрового контента из Сиднея (Австралия), известен комедийными видео о Fortnite и других многопользовательских играх.",
+        "ar": "صانع محتوى ألعاب مقيم في سيدني بأستراليا، يشتهر بمقاطع فيديو كوميدية عن فورتنايت وألعاب جماعية أخرى.",
+        "hi": "सिडनी, ऑस्ट्रेलिया में रहने वाले गेमिंग कंटेंट क्रिएटर, फोर्टनाइट और अन्य मल्टीप्लेयर गेम्स पर हास्यपूर्ण वीडियो के लिए जाने जाते हैं।",
+        "zh": "常驻澳大利亚悉尼的游戏内容创作者,以关于《堡垒之夜》等多人游戏的喜剧视频闻名。",
+        "ja": "オーストラリア・シドニーを拠点とするゲーム系クリエイターで、フォートナイトなどのマルチプレイヤーゲームを題材にしたコメディ動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCd534c_ehOvrLVL2v7Nl61w",
+        "tiktok": null,
+        "instagram": "mrmuselk",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 8770000
+        }
+      }
+    },
+    {
+      "id": "ozzy-man-reviews",
+      "name": "Ozzy Man Reviews",
+      "country": "AU",
+      "topic": {
+        "es": "Comedia y comentario",
+        "en": "Comedy commentary",
+        "pt": "Comédia e comentário",
+        "fr": "Commentaire humoristique",
+        "de": "Comedy-Kommentare",
+        "ru": "Комедийные комментарии",
+        "ar": "تعليقات كوميدية",
+        "hi": "कॉमेडी कमेंट्री",
+        "zh": "喜剧解说",
+        "ja": "コメディ実況"
+      },
+      "about": {
+        "es": "Canal de comedia creado por un australiano de Perth, Australia Occidental, conocido por narrar videos virales y reseñas con un marcado acento y humor australiano.",
+        "en": "A comedy channel created by an Australian from Perth, Western Australia, known for narrating viral clips and reviews in a distinctive Australian comedic voice.",
+        "pt": "Canal de comédia criado por um australiano de Perth, Austrália Ocidental, conhecido por narrar vídeos virais e resenhas com humor australiano marcante.",
+        "fr": "Chaîne humoristique créée par un Australien originaire de Perth, en Australie-Occidentale, connu pour commenter des vidéos virales avec un humour typiquement australien.",
+        "de": "Ein Comedy-Kanal, erstellt von einem Australier aus Perth, Western Australia, bekannt für die Kommentierung viraler Clips mit unverkennbarem australischem Humor.",
+        "ru": "Комедийный канал, созданный австралийцем из Перта (Западная Австралия), известен озвучкой вирусных роликов и обзоров с характерным австралийским юмором.",
+        "ar": "قناة كوميدية أنشأها أسترالي من بيرث بغرب أستراليا، يشتهر بالتعليق على مقاطع فيديو رائجة بأسلوب فكاهي أسترالي مميز.",
+        "hi": "पर्थ, पश्चिमी ऑस्ट्रेलिया के एक ऑस्ट्रेलियाई द्वारा बनाया गया कॉमेडी चैनल, जो वायरल वीडियो और समीक्षाओं पर विशिष्ट ऑस्ट्रेलियाई हास्य अंदाज़ में टिप्पणी के लिए जाना जाता है।",
+        "zh": "由来自澳大利亚西澳州珀斯的澳大利亚人创办的喜剧频道,以带有鲜明澳式幽默的病毒视频解说和点评闻名。",
+        "ja": "西オーストラリア州パース出身のオーストラリア人が手がけるコメディチャンネルで、独特のオーストラリア風ユーモアでバイラル動画やレビューを実況することで知られる。"
+      },
+      "handles": {
+        "youtube": "UCeE3lj6pLX_gCd0Yvns517Q",
+        "tiktok": "ozzymanreviews",
+        "instagram": "ozzymanreviews",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 6370000
+        }
+      }
+    },
+    {
+      "id": "how-ridiculous",
+      "name": "How Ridiculous",
+      "country": "AU",
+      "topic": {
+        "es": "Trucos y experimentos",
+        "en": "Trick shots and experiments",
+        "pt": "Truques e experimentos",
+        "fr": "Trick shots et expériences",
+        "de": "Trickschüsse und Experimente",
+        "ru": "Трюки и эксперименты",
+        "ar": "حركات بهلوانية وتجارب",
+        "hi": "ट्रिक शॉट्स और प्रयोग",
+        "zh": "花式挑战与实验",
+        "ja": "トリックショットと実験"
+      },
+      "about": {
+        "es": "Canal formado por un trío de amigos de Perth, Australia Occidental, conocido por lanzar objetos desde grandes alturas y realizar experimentos de trucos poco convencionales.",
+        "en": "A channel run by a trio of friends from Perth, Western Australia, known for dropping objects from great heights and performing unconventional trick-shot experiments.",
+        "pt": "Canal comandado por um trio de amigos de Perth, Austrália Ocidental, conhecido por lançar objetos de grandes alturas e realizar experimentos de truques inusitados.",
+        "fr": "Chaîne animée par un trio d'amis originaires de Perth, en Australie-Occidentale, connu pour faire tomber des objets de grandes hauteurs et réaliser des expériences de trick shots insolites.",
+        "de": "Ein Kanal von drei Freunden aus Perth, Western Australia, bekannt dafür, Objekte aus großer Höhe fallen zu lassen und ungewöhnliche Trickschuss-Experimente durchzuführen.",
+        "ru": "Канал, который ведут трое друзей из Перта (Западная Австралия), известны сбрасыванием предметов с большой высоты и необычными трюковыми экспериментами.",
+        "ar": "قناة يديرها ثلاثة أصدقاء من بيرث بغرب أستراليا، تشتهر بإسقاط الأشياء من ارتفاعات كبيرة وإجراء تجارب حركات بهلوانية غير تقليدية.",
+        "hi": "पर्थ, पश्चिमी ऑस्ट्रेलिया के तीन दोस्तों द्वारा संचालित चैनल, जो बड़ी ऊंचाइयों से वस्तुएं गिराने और असामान्य ट्रिक-शॉट प्रयोगों के लिए जाना जाता है।",
+        "zh": "由三位来自澳大利亚西澳州珀斯的朋友共同运营的频道,以从高处投掷物品和进行非常规花式挑战实验而闻名。",
+        "ja": "西オーストラリア州パース出身の3人組の友人が運営するチャンネルで、高所から物を落としたり、型破りなトリックショット実験を行うことで知られる。"
+      },
+      "handles": {
+        "youtube": "UC5f5IV0Bf79YLp_p9nfInRA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 24000000
+        }
+      }
+    },
+    {
+      "id": "willwoosh",
+      "name": "Willwoosh",
+      "country": "IT",
+      "topic": {
+        "es": "Comedia y actuación",
+        "en": "Comedy and acting",
+        "pt": "Comédia e atuação",
+        "fr": "Comédie et jeu d'acteur",
+        "de": "Comedy und Schauspiel",
+        "ru": "Комедия и актёрская игра",
+        "ar": "الكوميديا والتمثيل",
+        "hi": "कॉमेडी और अभिनय",
+        "zh": "喜剧与表演",
+        "ja": "コメディと演技"
+      },
+      "about": {
+        "es": "Creador nacido en Roma, uno de los pioneros del YouTube italiano de comedia, que además ha trabajado como actor en producciones de la RAI como la serie 'Baciato dal Sole'.",
+        "en": "A creator born in Rome, one of the pioneers of Italian comedy YouTube, who has also worked as an actor in RAI productions such as the series 'Baciato dal Sole'.",
+        "pt": "Criador nascido em Roma, um dos pioneiros do YouTube de comédia italiano, que também atuou como ator em produções da RAI como a série 'Baciato dal Sole'.",
+        "fr": "Créateur né à Rome, l'un des pionniers du YouTube comique italien, qui a également joué comme acteur dans des productions de la RAI telles que la série 'Baciato dal Sole'.",
+        "de": "Ein in Rom geborener Creator, einer der Pioniere des italienischen Comedy-YouTube, der auch als Schauspieler in RAI-Produktionen wie der Serie 'Baciato dal Sole' mitwirkte.",
+        "ru": "Создатель контента, родившийся в Риме, один из пионеров итальянского комедийного YouTube, также снимавшийся как актёр в постановках RAI, включая сериал 'Baciato dal Sole'.",
+        "ar": "مبدع محتوى وُلد في روما، ويُعد من رواد يوتيوب الكوميدي الإيطالي، وعمل أيضًا كممثل في إنتاجات قناة RAI مثل مسلسل 'Baciato dal Sole'.",
+        "hi": "रोम में जन्मे यह क्रिएटर इतालवी कॉमेडी यूट्यूब के अग्रदूतों में से एक हैं, और उन्होंने RAI की प्रस्तुतियों जैसे 'Baciato dal Sole' श्रृंखला में अभिनेता के रूप में भी काम किया है।",
+        "zh": "这位创作者出生于罗马,是意大利喜剧YouTube的先驱之一,也曾在RAI电视台的作品中担任演员,例如剧集《Baciato dal Sole》。",
+        "ja": "ローマ生まれのクリエイターで、イタリアのコメディ系YouTubeの先駆者の一人。RAI制作のドラマ『Baciato dal Sole』などで俳優としても活動している。"
+      },
+      "handles": {
+        "youtube": "UCaGuBORcUpmUltC1_ZNp-SA",
+        "tiktok": null,
+        "instagram": "guglielmoscilla",
+        "facebook": "willwoosh",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1140000
+        }
+      }
+    },
+    {
+      "id": "elisa-maino",
+      "name": "Elisa Maino",
+      "country": "IT",
+      "topic": {
+        "es": "Moda y estilo de vida",
+        "en": "Fashion and lifestyle",
+        "pt": "Moda e estilo de vida",
+        "fr": "Mode et style de vie",
+        "de": "Mode und Lifestyle",
+        "ru": "Мода и стиль жизни",
+        "ar": "الموضة وأسلوب الحياة",
+        "hi": "फैशन और लाइफस्टाइल",
+        "zh": "时尚与生活方式",
+        "ja": "ファッションとライフスタイル"
+      },
+      "about": {
+        "es": "Creadora nacida en Rovereto y radicada en Milán, una de las primeras influencers italianas en destacar en Musical.ly/TikTok, donde comparte contenido de moda y estilo de vida.",
+        "en": "A creator born in Rovereto and based in Milan, one of the first Italian influencers to break through on Musical.ly/TikTok, sharing fashion and lifestyle content.",
+        "pt": "Criadora nascida em Rovereto e radicada em Milão, uma das primeiras influenciadoras italianas a se destacar no Musical.ly/TikTok, compartilhando conteúdo de moda e estilo de vida.",
+        "fr": "Créatrice née à Rovereto et installée à Milan, l'une des premières influenceuses italiennes à percer sur Musical.ly/TikTok, partageant du contenu mode et lifestyle.",
+        "de": "Eine in Rovereto geborene und in Mailand ansässige Creatorin, eine der ersten italienischen Influencerinnen, die auf Musical.ly/TikTok bekannt wurde, und teilt Mode- und Lifestyle-Inhalte.",
+        "ru": "Создательница контента, родившаяся в Роверето и живущая в Милане, одна из первых итальянских инфлюенсеров, добившихся успеха в Musical.ly/TikTok, публикует контент о моде и стиле жизни.",
+        "ar": "مبدعة محتوى وُلدت في روفيريتو وتقيم في ميلانو، وهي من أوائل المؤثرات الإيطاليات اللواتي برزن على منصة Musical.ly/TikTok، وتشارك محتوى عن الموضة وأسلوب الحياة.",
+        "hi": "रोवेरेतो में जन्मी और मिलान में रहने वाली यह क्रिएटर, Musical.ly/TikTok पर सफलता पाने वाली शुरुआती इतालवी इन्फ्लुएंसर्स में से एक हैं, जो फैशन और लाइफस्टाइल कंटेंट साझा करती हैं।",
+        "zh": "这位创作者出生于罗韦雷托,现居米兰,是最早在Musical.ly/TikTok上走红的意大利网红之一,主要分享时尚与生活方式内容。",
+        "ja": "ロヴェレート生まれでミラノを拠点とするクリエイター。Musical.ly/TikTokでブレイクしたイタリア人インフルエンサーの先駆けの一人で、ファッションやライフスタイル系のコンテンツを発信している。"
+      },
+      "handles": {
+        "youtube": "UC-t5nDUtYyZ-F3QI2NGL7Uw",
+        "tiktok": null,
+        "instagram": "la_mainoo",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 714000
+        }
+      }
     }
   ]
 }
