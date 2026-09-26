@@ -3769,6 +3769,1502 @@
           "youtube": 1240000
         }
       }
+    },
+    {
+      "id": "chorny-russkiy",
+      "name": "Чёрный Русский",
+      "country": "RU",
+      "topic": {
+        "es": "Comedia y viajes",
+        "en": "Comedy & travel vlog",
+        "pt": "Comédia e viagens",
+        "fr": "Humour et voyages",
+        "de": "Comedy & Reisen",
+        "ru": "Юмор и путешествия",
+        "ar": "كوميديا وسفر",
+        "hi": "हास्य और यात्रा",
+        "zh": "喜剧与旅行",
+        "ja": "コメディと旅"
+      },
+      "about": {
+        "es": "Creador nacido en el Congo que se mudó a Rusia en 2010 y hoy vive en Vladivostok, donde comparte contenido de humor sobre la vida cotidiana y un programa de viajes sobre el Lejano Oriente ruso.",
+        "en": "A Congo-born creator who moved to Russia in 2010 and now lives in Vladivostok, sharing comedic takes on daily life and a travel show exploring Russia's Far East.",
+        "pt": "Criador nascido no Congo que se mudou para a Rússia em 2010 e hoje vive em Vladivostoque, compartilhando conteúdo de humor sobre o cotidiano e um programa de viagens pelo Extremo Oriente russo.",
+        "fr": "Créateur né au Congo, installé en Russie depuis 2010 et vivant aujourd'hui à Vladivostok, où il partage un humour du quotidien ainsi qu'une émission de voyage consacrée à l'Extrême-Orient russe.",
+        "de": "Ein in Kongo geborener Creator, der 2010 nach Russland zog und heute in Wladiwostok lebt, wo er humorvolle Einblicke in den Alltag sowie eine Reisesendung über den russischen Fernen Osten teilt.",
+        "ru": "Уроженец Конго, переехавший в Россию в 2010 году и живущий сейчас во Владивостоке, снимает юмористические ролики о повседневной жизни и travel-шоу о Дальнем Востоке России.",
+        "ar": "صانع محتوى وُلد في الكونغو وانتقل إلى روسيا عام 2010، ويعيش حاليًا في فلاديفوستوك، حيث يشارك محتوى كوميديًا عن الحياة اليومية وبرنامجًا للسفر يستكشف الشرق الأقصى الروسي.",
+        "hi": "कांगो में जन्मे एक क्रिएटर, जो 2010 में रूस चले गए और अब व्लादिवोस्तोक में रहते हैं, रोज़मर्रा की ज़िंदगी पर हास्यपूर्ण सामग्री और रूस के सुदूर पूर्व पर एक यात्रा शो साझा करते हैं।",
+        "zh": "这位出生于刚果的创作者于2010年移居俄罗斯,现居符拉迪沃斯托克(海参崴),分享关于日常生活的幽默内容以及探索俄罗斯远东地区的旅行节目。",
+        "ja": "コンゴ生まれのクリエイターで、2010年にロシアへ移住し、現在はウラジオストクに住みながら、日常生活を題材にしたコメディ動画とロシア極東を巡る旅番組を発信している。"
+      },
+      "handles": {
+        "youtube": "UCGIb6tDyOTAD1OB7Z2LLLtQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 314000
+        }
+      }
+    },
+    {
+      "id": "russkiy-dukh",
+      "name": "РУССКИЙ ДУХ",
+      "country": "RU",
+      "topic": {
+        "es": "Vida rural",
+        "en": "Rural life vlog",
+        "pt": "Vida rural",
+        "fr": "Vie rurale",
+        "de": "Landleben",
+        "ru": "Сельская жизнь",
+        "ar": "الحياة الريفية",
+        "hi": "ग्रामीण जीवन",
+        "zh": "乡村生活",
+        "ja": "田舎暮らし"
+      },
+      "about": {
+        "es": "Creador que documenta la vida rural cotidiana en Rusia, incluyendo la crianza de animales de granja, la jardinería y las infusiones de hierbas tradicionales.",
+        "en": "A creator documenting everyday rural life in Russia, including raising farm animals, gardening and traditional herbal teas.",
+        "pt": "Criador que documenta a vida rural cotidiana na Rússia, incluindo a criação de animais de fazenda, jardinagem e chás de ervas tradicionais.",
+        "fr": "Créateur qui documente la vie rurale quotidienne en Russie, entre élevage d'animaux de ferme, jardinage et tisanes traditionnelles.",
+        "de": "Ein Creator, der den ländlichen Alltag in Russland dokumentiert, darunter die Haltung von Hoftieren, Gartenarbeit und traditionelle Kräutertees.",
+        "ru": "Автор документирует повседневную сельскую жизнь в России: уход за домашними животными и птицей, огородничество и приготовление травяных чаёв.",
+        "ar": "صانع محتوى يوثّق الحياة الريفية اليومية في روسيا، بما في ذلك تربية حيوانات المزرعة والبستنة وتحضير الشاي العشبي التقليدي.",
+        "hi": "एक क्रिएटर जो रूस के ग्रामीण जीवन को दर्शाता है, जिसमें पालतू पशुओं की देखभाल, बागवानी और पारंपरिक हर्बल चाय शामिल हैं।",
+        "zh": "这位创作者记录俄罗斯乡村的日常生活,内容包括饲养家畜家禽、园艺以及传统草本茶饮。",
+        "ja": "ロシアの農村での日常生活を記録するクリエイターで、家畜の飼育や家庭菜園、伝統的なハーブティー作りなどを紹介している。"
+      },
+      "handles": {
+        "youtube": "UClEo83olggZaxtzR6G0EASw",
+        "tiktok": null,
+        "instagram": "alex_from_firulevka",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 158000
+        }
+      }
+    },
+    {
+      "id": "blog-russkogo-musulmanina",
+      "name": "Блог Русского Мусульманина",
+      "country": "RU",
+      "topic": {
+        "es": "Fe y cultura",
+        "en": "Faith & culture",
+        "pt": "Fé e cultura",
+        "fr": "Foi et culture",
+        "de": "Glaube und Kultur",
+        "ru": "Вера и культура",
+        "ar": "الإيمان والثقافة",
+        "hi": "आस्था और संस्कृति",
+        "zh": "信仰与文化",
+        "ja": "信仰と文化"
+      },
+      "about": {
+        "es": "Creador de etnia rusa que se convirtió al islam y comparte su experiencia sobre fe, cultura y su matrimonio con una mujer de Daguestán.",
+        "en": "An ethnically Russian creator who converted to Islam and shares his experience navigating faith, culture and marriage to a Dagestani woman.",
+        "pt": "Criador de etnia russa que se converteu ao islamismo e compartilha sua experiência sobre fé, cultura e seu casamento com uma mulher do Daguestão.",
+        "fr": "Créateur d'origine russe converti à l'islam, qui partage son expérience entre foi, culture et son mariage avec une femme originaire du Daghestan.",
+        "de": "Ein ethnisch russischer Creator, der zum Islam konvertierte und über seine Erfahrungen mit Glaube, Kultur und seiner Ehe mit einer Frau aus Dagestan berichtet.",
+        "ru": "Этнический русский, принявший ислам, рассказывает о своём опыте веры, культуры и браке с девушкой из Дагестана.",
+        "ar": "صانع محتوى من أصل روسي اعتنق الإسلام، يشارك تجربته في التعامل مع الإيمان والثقافة وزواجه من امرأة داغستانية.",
+        "hi": "एक जातीय रूसी क्रिएटर जिसने इस्लाम अपनाया और आस्था, संस्कृति तथा दागिस्तान की एक महिला से अपनी शादी के अनुभव साझा करता है।",
+        "zh": "这位俄罗斯族创作者皈依伊斯兰教,分享他在信仰、文化以及与达吉斯坦女性婚姻方面的经历。",
+        "ja": "ロシア民族出身でイスラム教に改宗したクリエイターで、信仰や文化、ダゲスタン出身の女性との結婚にまつわる経験を発信している。"
+      },
+      "handles": {
+        "youtube": "UCveZ02-3Vf9M-9-r5qo8NYA",
+        "tiktok": null,
+        "instagram": "kirill_jabrail",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 475000
+        }
+      }
+    },
+    {
+      "id": "lana",
+      "name": "lana ♡",
+      "country": "CA",
+      "topic": {
+        "es": "Vida en soledad",
+        "en": "Solo living",
+        "pt": "Vida solitária",
+        "fr": "Vie en solo",
+        "de": "Alleinleben",
+        "ru": "Жизнь в одиночестве",
+        "ar": "الحياة الفردية",
+        "hi": "अकेले जीवन",
+        "zh": "独居生活",
+        "ja": "一人暮らし"
+      },
+      "about": {
+        "es": "Creadora canadiense de 24 años que documenta su vida en soledad, con contenido dirigido principalmente a una audiencia femenina.",
+        "en": "A 24-year-old Canadian creator who documents her solo life, with content aimed mainly at a female audience.",
+        "pt": "Criadora canadense de 24 anos que documenta sua vida solitária, com conteúdo voltado principalmente para o público feminino.",
+        "fr": "Créatrice canadienne de 24 ans qui documente sa vie en solo, avec un contenu destiné principalement à un public féminin.",
+        "de": "Eine 24-jährige kanadische Creatorin, die ihr Alleinleben dokumentiert, mit Inhalten, die sich vor allem an ein weibliches Publikum richten.",
+        "ru": "24-летняя канадская создательница контента, документирующая свою жизнь в одиночестве; контент рассчитан в основном на женскую аудиторию.",
+        "ar": "صانعة محتوى كندية تبلغ من العمر 24 عامًا توثّق حياتها في العيش بمفردها، بمحتوى موجّه أساسًا للجمهور النسائي.",
+        "hi": "24 वर्षीय कनाडाई क्रिएटर जो अपने अकेले जीवन का दस्तावेजीकरण करती हैं, जिनकी सामग्री मुख्य रूप से महिला दर्शकों के लिए है।",
+        "zh": "一位24岁的加拿大创作者,记录自己的独居生活,内容主要面向女性观众。",
+        "ja": "一人暮らしの日常を記録する24歳のカナダ人クリエイターで、主に女性視聴者向けにコンテンツを発信している。"
+      },
+      "handles": {
+        "youtube": "UCyZ4IStyXcaQwx7Xgl3TmWA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 152000
+        }
+      }
+    },
+    {
+      "id": "brianna-renee",
+      "name": "Brianna Renee",
+      "country": "CA",
+      "topic": {
+        "es": "Belleza y estilo de vida",
+        "en": "Beauty and lifestyle",
+        "pt": "Beleza e estilo de vida",
+        "fr": "Beauté et style de vie",
+        "de": "Beauty und Lifestyle",
+        "ru": "Красота и стиль жизни",
+        "ar": "الجمال ونمط الحياة",
+        "hi": "ब्यूटी और लाइफस्टाइल",
+        "zh": "美妆与生活方式",
+        "ja": "美容とライフスタイル"
+      },
+      "about": {
+        "es": "Creadora nacida en 1997 en una pequeña ciudad de New Brunswick, Canadá, que desde 2014 comparte tutoriales de belleza y contenido de estilo de vida.",
+        "en": "A creator born in 1997 in a small city in New Brunswick, Canada, who has shared beauty tutorials and lifestyle content since launching her channel in 2014.",
+        "pt": "Criadora nascida em 1997 em uma pequena cidade de New Brunswick, Canadá, que desde 2014 compartilha tutoriais de beleza e conteúdo de estilo de vida.",
+        "fr": "Créatrice née en 1997 dans une petite ville du Nouveau-Brunswick, au Canada, qui partage des tutoriels beauté et du contenu lifestyle depuis 2014.",
+        "de": "Eine 1997 in einer Kleinstadt in New Brunswick, Kanada, geborene Creatorin, die seit 2014 Beauty-Tutorials und Lifestyle-Inhalte teilt.",
+        "ru": "Создательница контента, родившаяся в 1997 году в небольшом городе провинции Нью-Брансуик, Канада; с 2014 года публикует бьюти-туториалы и лайфстайл-контент.",
+        "ar": "صانعة محتوى وُلدت عام 1997 في مدينة صغيرة في نيو برونزويك بكندا، وتشارك منذ عام 2014 دروس مكياج ومحتوى نمط حياة.",
+        "hi": "1997 में कनाडा के न्यू ब्रंसविक की एक छोटी शहर में जन्मी क्रिएटर, जो 2014 से ब्यूटी ट्यूटोरियल और लाइफस्टाइल कंटेंट साझा कर रही हैं।",
+        "zh": "这位创作者1997年出生于加拿大新不伦瑞克省的一个小城市,自2014年起分享美妆教程和生活方式内容。",
+        "ja": "1997年にカナダ・ニューブランズウィック州の小さな町で生まれ、2014年からビューティーチュートリアルとライフスタイルコンテンツを発信しているクリエイター。"
+      },
+      "handles": {
+        "youtube": "UCInSzlia-kS-XTHPaAoBObA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2000000
+        }
+      }
+    },
+    {
+      "id": "pooja-gulati",
+      "name": "Pooja Gulati",
+      "country": "CA",
+      "topic": {
+        "es": "Vida de inmigrante",
+        "en": "Immigrant life",
+        "pt": "Vida de imigrante",
+        "fr": "Vie d'immigrée",
+        "de": "Immigrantenleben",
+        "ru": "Жизнь иммигрантки",
+        "ar": "حياة المهاجرين",
+        "hi": "प्रवासी जीवन",
+        "zh": "移民生活",
+        "ja": "移民としての生活"
+      },
+      "about": {
+        "es": "Creadora de origen indio radicada en Toronto, Canadá, que comparte su vida cotidiana como inmigrante y sus viajes.",
+        "en": "A creator of Indian origin based in Toronto, Canada, who shares her everyday life as an immigrant and her travels.",
+        "pt": "Criadora de origem indiana radicada em Toronto, Canadá, que compartilha sua vida cotidiana como imigrante e suas viagens.",
+        "fr": "Créatrice d'origine indienne installée à Toronto, au Canada, qui partage son quotidien d'immigrée et ses voyages.",
+        "de": "Eine Creatorin indischer Herkunft mit Sitz in Toronto, Kanada, die ihren Alltag als Immigrantin und ihre Reisen teilt.",
+        "ru": "Создательница контента индийского происхождения, живущая в Торонто, Канада; делится повседневной жизнью иммигрантки и своими путешествиями.",
+        "ar": "صانعة محتوى من أصل هندي مقيمة في تورونتو بكندا، تشارك حياتها اليومية كمهاجرة ورحلاتها.",
+        "hi": "टोरंटो, कनाडा में रहने वाली भारतीय मूल की क्रिएटर, जो एक प्रवासी के रूप में अपना रोज़मर्रा का जीवन और यात्राएं साझा करती हैं।",
+        "zh": "这位印度裔创作者定居于加拿大多伦多,分享她作为移民的日常生活和旅行经历。",
+        "ja": "カナダ・トロント在住のインド系クリエイターで、移民としての日常生活と旅行の様子を発信している。"
+      },
+      "handles": {
+        "youtube": "UCJG0J-JW7N8O9pIixuzKzcg",
+        "tiktok": null,
+        "instagram": "poojaagulati",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 132000
+        }
+      }
+    },
+    {
+      "id": "linda-sun",
+      "name": "Linda Sun",
+      "country": "CA",
+      "topic": {
+        "es": "Fitness y estilo de vida",
+        "en": "Fitness and lifestyle",
+        "pt": "Fitness e estilo de vida",
+        "fr": "Fitness et style de vie",
+        "de": "Fitness und Lifestyle",
+        "ru": "Фитнес и стиль жизни",
+        "ar": "اللياقة ونمط الحياة",
+        "hi": "फिटनेस और लाइफस्टाइल",
+        "zh": "健身与生活方式",
+        "ja": "フィットネスとライフスタイル"
+      },
+      "about": {
+        "es": "Creadora nacida en Vancouver, Canadá, en 2001, que produce contenido de fitness y estilo de vida centrado en el amor propio hacia el ejercicio.",
+        "en": "A creator born in Vancouver, Canada, in 2001, who produces fitness and lifestyle content centered on self-love toward exercise.",
+        "pt": "Criadora nascida em Vancouver, Canadá, em 2001, que produz conteúdo de fitness e estilo de vida focado no amor próprio em relação ao exercício.",
+        "fr": "Créatrice née à Vancouver, au Canada, en 2001, qui produit du contenu fitness et lifestyle axé sur l'amour de soi à travers l'exercice.",
+        "de": "Eine 2001 in Vancouver, Kanada, geborene Creatorin, die Fitness- und Lifestyle-Inhalte rund um Selbstliebe beim Sport produziert.",
+        "ru": "Создательница контента, родившаяся в Ванкувере, Канада, в 2001 году; создаёт фитнес- и лайфстайл-контент, посвящённый любви к себе через спорт.",
+        "ar": "صانعة محتوى وُلدت في فانكوفر بكندا عام 2001، تنتج محتوى لياقة بدنية ونمط حياة يركز على حب الذات من خلال الرياضة.",
+        "hi": "2001 में वैंकूवर, कनाडा में जन्मी क्रिएटर, जो व्यायाम के प्रति आत्म-प्रेम पर केंद्रित फिटनेस और लाइफस्टाइल कंटेंट बनाती हैं।",
+        "zh": "这位创作者2001年出生于加拿大温哥华,制作以运动中的自我关爱为核心的健身与生活方式内容。",
+        "ja": "2001年にカナダ・バンクーバーで生まれたクリエイターで、運動を通じた自己愛をテーマにしたフィットネス&ライフスタイルコンテンツを制作している。"
+      },
+      "handles": {
+        "youtube": "UCpEcZL5B7i6gJYGfqLvMCbg",
+        "tiktok": null,
+        "instagram": "lindasunyt",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1600000
+        }
+      }
+    },
+    {
+      "id": "sadie-aldis",
+      "name": "Sadie Aldis",
+      "country": "CA",
+      "topic": {
+        "es": "Vlogs de estilo de vida",
+        "en": "Lifestyle vlogs",
+        "pt": "Vlogs de estilo de vida",
+        "fr": "Vlogs lifestyle",
+        "de": "Lifestyle-Vlogs",
+        "ru": "Влоги о стиле жизни",
+        "ar": "مدونات فيديو لأسلوب الحياة",
+        "hi": "लाइफस्टाइल व्लॉग",
+        "zh": "生活方式视频博客",
+        "ja": "ライフスタイルVlog"
+      },
+      "about": {
+        "es": "Creadora nacida en 2002 en Aurora, Ontario, Canadá, conocida por sus vlogs de estilo de vida, belleza y moda desde 2016.",
+        "en": "A creator born in 2002 in Aurora, Ontario, Canada, known for her lifestyle, beauty and fashion vlogs since 2016.",
+        "pt": "Criadora nascida em 2002 em Aurora, Ontário, Canadá, conhecida por seus vlogs de estilo de vida, beleza e moda desde 2016.",
+        "fr": "Créatrice née en 2002 à Aurora, en Ontario, au Canada, connue pour ses vlogs lifestyle, beauté et mode depuis 2016.",
+        "de": "Eine 2002 in Aurora, Ontario, Kanada, geborene Creatorin, bekannt für ihre Lifestyle-, Beauty- und Mode-Vlogs seit 2016.",
+        "ru": "Создательница контента, родившаяся в 2002 году в Авроре, Онтарио, Канада; известна влогами о стиле жизни, красоте и моде с 2016 года.",
+        "ar": "صانعة محتوى وُلدت عام 2002 في أورورا بمقاطعة أونتاريو الكندية، واشتهرت بمدوناتها المصورة عن نمط الحياة والجمال والموضة منذ عام 2016.",
+        "hi": "2002 में ओंटारियो, कनाडा के ऑरोरा में जन्मी क्रिएटर, जो 2016 से लाइफस्टाइल, ब्यूटी और फैशन व्लॉग के लिए जानी जाती हैं।",
+        "zh": "这位创作者2002年出生于加拿大安大略省奥罗拉,自2016年起以生活方式、美妆和时尚视频博客闻名。",
+        "ja": "2002年にカナダ・オンタリオ州オーロラで生まれたクリエイターで、2016年からライフスタイル、美容、ファッションのVlogで知られている。"
+      },
+      "handles": {
+        "youtube": "UC-8yLb1K-DEC6dCYlLOJfiQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 989000
+        }
+      }
+    },
+    {
+      "id": "wendy-outdoors",
+      "name": "Wendy Outdoors",
+      "country": "CA",
+      "topic": {
+        "es": "Camping en solitario",
+        "en": "Solo camping",
+        "pt": "Camping solo",
+        "fr": "Camping en solo",
+        "de": "Solo-Camping",
+        "ru": "Соло-кемпинг",
+        "ar": "التخييم الفردي",
+        "hi": "अकेले कैंपिंग",
+        "zh": "独自露营",
+        "ja": "ソロキャンプ"
+      },
+      "about": {
+        "es": "Wendy Eden, de 77 años, documenta sus viajes de camping en solitario por la isla de Vancouver, en Columbia Británica, Canadá.",
+        "en": "Wendy Eden, 77, documents her solo camping trips around Vancouver Island, British Columbia, Canada.",
+        "pt": "Wendy Eden, de 77 anos, documenta suas viagens de acampamento solo pela Ilha de Vancouver, na Colúmbia Britânica, Canadá.",
+        "fr": "Wendy Eden, 77 ans, documente ses voyages de camping en solo sur l'île de Vancouver, en Colombie-Britannique, au Canada.",
+        "de": "Wendy Eden, 77, dokumentiert ihre Solo-Camping-Reisen auf Vancouver Island, British Columbia, Kanada.",
+        "ru": "77-летняя Венди Иден документирует свои соло-походы с палаткой по острову Ванкувер, Британская Колумбия, Канада.",
+        "ar": "وندي إيدن، 77 عامًا، توثّق رحلات التخييم الفردي التي تقوم بها في جزيرة فانكوفر بمقاطعة كولومبيا البريطانية الكندية.",
+        "hi": "77 वर्षीय वेंडी ईडन कनाडा के ब्रिटिश कोलंबिया स्थित वैंकूवर द्वीप पर अपनी अकेले कैंपिंग यात्राओं का दस्तावेजीकरण करती हैं।",
+        "zh": "77岁的温迪·伊登(Wendy Eden)记录她在加拿大不列颠哥伦比亚省温哥华岛独自露营的旅程。",
+        "ja": "77歳のウェンディ・イーデンは、カナダ・ブリティッシュコロンビア州のバンクーバー島でのソロキャンプの旅を記録している。"
+      },
+      "handles": {
+        "youtube": "UCpnzfVWZrXeU5S0jrWSiIcw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 540000
+        }
+      }
+    },
+    {
+      "id": "according-to-nicole",
+      "name": "According To Nicole",
+      "country": "CA",
+      "topic": {
+        "es": "Minimalismo y finanzas",
+        "en": "Minimalism and finance",
+        "pt": "Minimalismo e finanças",
+        "fr": "Minimalisme et finances",
+        "de": "Minimalismus und Finanzen",
+        "ru": "Минимализм и финансы",
+        "ar": "النمط البسيط والمالية",
+        "hi": "मिनिमलिज़्म और वित्त",
+        "zh": "极简主义与理财",
+        "ja": "ミニマリズムと金融"
+      },
+      "about": {
+        "es": "Creadora canadiense que desde 2020 produce contenido sobre minimalismo, finanzas personales y vida sencilla.",
+        "en": "A Canadian creator who has produced content on minimalism, personal finance and simple living since 2020.",
+        "pt": "Criadora canadense que desde 2020 produz conteúdo sobre minimalismo, finanças pessoais e vida simples.",
+        "fr": "Créatrice canadienne qui produit depuis 2020 du contenu sur le minimalisme, les finances personnelles et la vie simple.",
+        "de": "Eine kanadische Creatorin, die seit 2020 Inhalte zu Minimalismus, persönlichen Finanzen und einfachem Leben produziert.",
+        "ru": "Канадская создательница контента, с 2020 года публикующая материалы о минимализме, личных финансах и простой жизни.",
+        "ar": "صانعة محتوى كندية تنتج منذ عام 2020 محتوى عن النمط البسيط والمالية الشخصية والحياة البسيطة.",
+        "hi": "एक कनाडाई क्रिएटर जो 2020 से मिनिमलिज़्म, व्यक्तिगत वित्त और सादा जीवन पर कंटेंट बना रही हैं।",
+        "zh": "这位加拿大创作者自2020年起制作有关极简主义、个人理财和简朴生活的内容。",
+        "ja": "2020年からミニマリズム、個人の資産管理、シンプルな暮らしに関するコンテンツを制作しているカナダ人クリエイター。"
+      },
+      "handles": {
+        "youtube": "UC5G8poc4XLNeS-8PJ19j9jg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 241000
+        }
+      }
+    },
+    {
+      "id": "mia-maples",
+      "name": "Mia Maples",
+      "country": "CA",
+      "topic": {
+        "es": "DIY y belleza",
+        "en": "DIY and beauty",
+        "pt": "DIY e beleza",
+        "fr": "Bricolage et beauté",
+        "de": "DIY und Beauty",
+        "ru": "DIY и красота",
+        "ar": "الحرف اليدوية والجمال",
+        "hi": "डीआईवाई और ब्यूटी",
+        "zh": "DIY与美妆",
+        "ja": "DIYと美容"
+      },
+      "about": {
+        "es": "Creadora canadiense nacida en 1999 que inició su canal en 2013 y es conocida por sus tutoriales de bricolaje, renovaciones del hogar y hauls.",
+        "en": "A Canadian creator born in 1999 who started her channel in 2013 and is known for her DIY tutorials, home makeovers and haul videos.",
+        "pt": "Criadora canadense nascida em 1999 que iniciou seu canal em 2013 e é conhecida por seus tutoriais de DIY, reformas de casa e vídeos de haul.",
+        "fr": "Créatrice canadienne née en 1999, qui a lancé sa chaîne en 2013 et est connue pour ses tutoriels bricolage, ses relookings de maison et ses vidéos de haul.",
+        "de": "Eine 1999 geborene kanadische Creatorin, die ihren Kanal 2013 startete und für ihre DIY-Tutorials, Wohnungs-Makeovers und Haul-Videos bekannt ist.",
+        "ru": "Канадская создательница контента, родившаяся в 1999 году; начала вести канал в 2013 году и известна видео о рукоделии, ремонте дома и покупках (haul).",
+        "ar": "صانعة محتوى كندية وُلدت عام 1999، أطلقت قناتها عام 2013 واشتهرت بدروس الحرف اليدوية وتجديد المنزل ومقاطع عرض المشتريات.",
+        "hi": "1999 में जन्मी कनाडाई क्रिएटर, जिन्होंने 2013 में अपना चैनल शुरू किया और डीआईवाई ट्यूटोरियल, घर के नवीनीकरण और हॉल वीडियो के लिए जानी जाती हैं।",
+        "zh": "这位加拿大创作者1999年出生,2013年开设频道,以DIY教程、家居翻新和购物分享视频而闻名。",
+        "ja": "1999年生まれのカナダ人クリエイターで、2013年にチャンネルを開設し、DIYチュートリアルや自宅リノベーション、購入品紹介動画で知られている。"
+      },
+      "handles": {
+        "youtube": "UCzzOKT1SkE7qdycJvPCR3Gg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 4770000
+        }
+      }
+    },
+    {
+      "id": "spencer-barbosa",
+      "name": "spencer barbosa",
+      "country": "CA",
+      "topic": {
+        "es": "Belleza y actuación",
+        "en": "Beauty and acting",
+        "pt": "Beleza e atuação",
+        "fr": "Beauté et jeu d'acteur",
+        "de": "Beauty und Schauspiel",
+        "ru": "Красота и актёрство",
+        "ar": "الجمال والتمثيل",
+        "hi": "ब्यूटी और अभिनय",
+        "zh": "美妆与表演",
+        "ja": "美容と演技"
+      },
+      "about": {
+        "es": "Creadora canadiense nacida en 2002, conocida por su contenido de belleza y por su papel en la serie de televisión We Are Savvy.",
+        "en": "A Canadian creator born in 2002, known for her beauty content and for her role in the television series We Are Savvy.",
+        "pt": "Criadora canadense nascida em 2002, conhecida por seu conteúdo de beleza e por seu papel na série de televisão We Are Savvy.",
+        "fr": "Créatrice canadienne née en 2002, connue pour son contenu beauté et pour son rôle dans la série télévisée We Are Savvy.",
+        "de": "Eine 2002 geborene kanadische Creatorin, bekannt für ihre Beauty-Inhalte und ihre Rolle in der Fernsehserie We Are Savvy.",
+        "ru": "Канадская создательница контента, родившаяся в 2002 году; известна бьюти-контентом и ролью в телесериале We Are Savvy.",
+        "ar": "صانعة محتوى كندية وُلدت عام 2002، واشتهرت بمحتواها في مجال الجمال وبدورها في المسلسل التلفزيوني We Are Savvy.",
+        "hi": "2002 में जन्मी कनाडाई क्रिएटर, जो अपने ब्यूटी कंटेंट और टीवी सीरीज़ We Are Savvy में अपनी भूमिका के लिए जानी जाती हैं।",
+        "zh": "这位加拿大创作者2002年出生,以美妆内容和在电视剧We Are Savvy中的角色而闻名。",
+        "ja": "2002年生まれのカナダ人クリエイターで、美容コンテンツとテレビシリーズ「We Are Savvy」での出演で知られている。"
+      },
+      "handles": {
+        "youtube": "UCU5-kIGMu3q86x4VfThBLzQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 3420000
+        }
+      }
+    },
+    {
+      "id": "hanwe",
+      "name": "Hanwe",
+      "country": "NL",
+      "topic": {
+        "es": "Vlogs y humor",
+        "en": "Vlogs and comedy",
+        "pt": "Vlogs e humor",
+        "fr": "Vlogs et humour",
+        "de": "Vlogs und Humor",
+        "ru": "Влоги и юмор",
+        "ar": "فلوجات وكوميديا",
+        "hi": "व्लॉग और हास्य",
+        "zh": "Vlog与幽默",
+        "ja": "Vlogとコメディ"
+      },
+      "about": {
+        "es": "Creador neerlandés de contenido de entretenimiento y vlogs, con más de 1 millón de suscriptores en YouTube.",
+        "en": "A Dutch creator of entertainment content and vlogs, with more than 1 million subscribers on YouTube.",
+        "pt": "Criador neerlandês de conteúdo de entretenimento e vlogs, com mais de 1 milhão de inscritos no YouTube.",
+        "fr": "Créateur néerlandais de contenu de divertissement et de vlogs, avec plus d'un million d'abonnés sur YouTube.",
+        "de": "Niederländischer Creator für Unterhaltungsinhalte und Vlogs mit mehr als 1 Million Abonnenten auf YouTube.",
+        "ru": "Нидерландский автор развлекательного контента и влогов, имеющий более 1 миллиона подписчиков на YouTube.",
+        "ar": "صانع محتوى هولندي للترفيه والفلوجات، يمتلك أكثر من مليون مشترك على يوتيوب.",
+        "hi": "मनोरंजन और व्लॉग सामग्री के डच क्रिएटर, जिनके यूट्यूब पर 10 लाख से अधिक सब्सक्राइबर हैं।",
+        "zh": "荷兰内容创作者,制作娱乐类vlog,YouTube订阅者超过100万。",
+        "ja": "エンターテインメントとVlogを制作するオランダ人クリエイターで、YouTube登録者数は100万人を超える。"
+      },
+      "handles": {
+        "youtube": "UCJx1izJJh2GSQnn9Rmh3mAQ",
+        "tiktok": null,
+        "instagram": "hanwe",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1150000
+        }
+      }
+    },
+    {
+      "id": "dutchtuber",
+      "name": "Dutchtuber",
+      "country": "NL",
+      "topic": {
+        "es": "Gaming y vlogs",
+        "en": "Gaming and vlogs",
+        "pt": "Games e vlogs",
+        "fr": "Jeux vidéo et vlogs",
+        "de": "Gaming und Vlogs",
+        "ru": "Игры и влоги",
+        "ar": "ألعاب وفلوجات",
+        "hi": "गेमिंग और व्लॉग",
+        "zh": "游戏与Vlog",
+        "ja": "ゲームとVlog"
+      },
+      "about": {
+        "es": "Vlogger y gamer neerlandés nacido en Harderwijk en 1999, conocido por su canal de gaming DoeMaarGamen antes de convertirse en Dutchtuber.",
+        "en": "A Dutch vlogger and gamer born in Harderwijk in 1999, known for his gaming channel DoeMaarGamen before becoming Dutchtuber.",
+        "pt": "Vlogger e gamer neerlandês nascido em Harderwijk em 1999, conhecido pelo canal de games DoeMaarGamen antes de se tornar Dutchtuber.",
+        "fr": "Vlogueur et gamer néerlandais né à Harderwijk en 1999, connu pour sa chaîne de jeu vidéo DoeMaarGamen avant de devenir Dutchtuber.",
+        "de": "Niederländischer Vlogger und Gamer, geboren 1999 in Harderwijk, bekannt für seinen Gaming-Kanal DoeMaarGamen, bevor er zu Dutchtuber wurde.",
+        "ru": "Нидерландский влогер и геймер, родившийся в 1999 году в Харлервейке, известен своим игровым каналом DoeMaarGamen, прежде чем стать Dutchtuber.",
+        "ar": "مدون فيديو ولاعب ألعاب هولندي وُلد في هاردرفايك عام 1999، اشتهر بقناته للألعاب DoeMaarGamen قبل أن يصبح Dutchtuber.",
+        "hi": "1999 में हार्डरवाइक में जन्मे डच व्लॉगर और गेमर, जो Dutchtuber बनने से पहले अपने गेमिंग चैनल DoeMaarGamen के लिए जाने जाते थे।",
+        "zh": "出生于1999年、来自哈尔德韦克的荷兰视频博主兼游戏玩家,在成为Dutchtuber之前以游戏频道DoeMaarGamen闻名。",
+        "ja": "1999年にハルデルウェイクで生まれたオランダ人Vlogger兼ゲーマーで、Dutchtuberになる前はゲーム実況チャンネルDoeMaarGamenで知られていた。"
+      },
+      "handles": {
+        "youtube": "UCzWgtYoa3X7p8zJk5pEr6ww",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1390000
+        }
+      }
+    },
+    {
+      "id": "mallu-vs-dutch",
+      "name": "Mallu vs Dutch",
+      "country": "NL",
+      "topic": {
+        "es": "Vlogs de pareja",
+        "en": "Couple vlogs",
+        "pt": "Vlogs de casal",
+        "fr": "Vlogs de couple",
+        "de": "Paar-Vlogs",
+        "ru": "Влоги пары",
+        "ar": "فلوجات زوجين",
+        "hi": "जोड़े के व्लॉग",
+        "zh": "情侣Vlog",
+        "ja": "カップルVlog"
+      },
+      "about": {
+        "es": "Canal de vlogs de una pareja formada por Sandra P. Manoj, de origen Mallu (India), y su pareja neerlandesa, que documentan su vida y viajes desde los Países Bajos.",
+        "en": "A vlog channel by a couple, Sandra P. Manoj of Mallu (Indian) origin and her Dutch partner, documenting their life and travels from the Netherlands.",
+        "pt": "Canal de vlogs de um casal formado por Sandra P. Manoj, de origem Mallu (Índia), e seu parceiro neerlandês, que documentam sua vida e viagens a partir dos Países Baixos.",
+        "fr": "Chaîne de vlogs d'un couple, Sandra P. Manoj d'origine Mallu (Inde) et son partenaire néerlandais, qui documentent leur vie et leurs voyages depuis les Pays-Bas.",
+        "de": "Vlog-Kanal eines Paares, Sandra P. Manoj mallu-indischer Herkunft und ihr niederländischer Partner, die ihr Leben und ihre Reisen von den Niederlanden aus dokumentieren.",
+        "ru": "Влог-канал пары: Сандра П. Манодж малаяльского (индийского) происхождения и её нидерландский партнёр, документирующие свою жизнь и путешествия из Нидерландов.",
+        "ar": "قناة فلوجات لزوجين، ساندرا پي مانوج من أصل مالايالامي (هندي) وشريكها الهولندي، يوثقان حياتهما وأسفارهما من هولندا.",
+        "hi": "एक जोड़े का व्लॉग चैनल—मल्लू (भारतीय) मूल की सैंड्रा पी. मनोज और उनके डच साथी—जो नीदरलैंड से अपने जीवन और यात्राओं को दिखाते हैं।",
+        "zh": "由马拉雅利(印度)裔的桑德拉·P·马诺伊与其荷兰伴侣共同经营的情侣vlog频道,记录他们在荷兰的生活与旅行。",
+        "ja": "マラヤーリ(インド)出身のサンドラ・P・マノージとオランダ人パートナーによるカップルVlogチャンネルで、オランダでの生活と旅行を記録している。"
+      },
+      "handles": {
+        "youtube": "UCcMasHLw7SW7cZLH6zDcRsA",
+        "tiktok": null,
+        "instagram": "mallu.vs.dutch",
+        "facebook": "mallu.vs.dutch",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 601000
+        }
+      }
+    },
+    {
+      "id": "gio",
+      "name": "Gio",
+      "country": "NL",
+      "topic": {
+        "es": "Vlogs de estilo de vida",
+        "en": "Lifestyle vlogs",
+        "pt": "Vlogs de estilo de vida",
+        "fr": "Vlogs lifestyle",
+        "de": "Lifestyle-Vlogs",
+        "ru": "Влоги о жизни",
+        "ar": "فلوجات نمط الحياة",
+        "hi": "लाइफस्टाइल व्लॉग",
+        "zh": "生活方式Vlog",
+        "ja": "ライフスタイルVlog"
+      },
+      "about": {
+        "es": "Vlogger neerlandés nacido en Rotterdam en 1998, uno de los creadores de contenido más populares de los Países Bajos, superó el millón de suscriptores en 2018.",
+        "en": "A Dutch vlogger born in Rotterdam in 1998, one of the most popular content creators in the Netherlands, who passed one million subscribers in 2018.",
+        "pt": "Vlogger neerlandês nascido em Roterdã em 1998, um dos criadores de conteúdo mais populares dos Países Baixos, que ultrapassou 1 milhão de inscritos em 2018.",
+        "fr": "Vlogueur néerlandais né à Rotterdam en 1998, l'un des créateurs de contenu les plus populaires des Pays-Bas, ayant dépassé le million d'abonnés en 2018.",
+        "de": "Niederländischer Vlogger, geboren 1998 in Rotterdam, einer der beliebtesten Content-Creator der Niederlande, der 2018 die Marke von einer Million Abonnenten überschritt.",
+        "ru": "Нидерландский влогер, родившийся в 1998 году в Роттердаме, один из самых популярных авторов Нидерландов, преодолевший отметку в миллион подписчиков в 2018 году.",
+        "ar": "مدون فيديو هولندي وُلد في روتردام عام 1998، من أشهر صناع المحتوى في هولندا، تجاوز مليون مشترك عام 2018.",
+        "hi": "1998 में रॉटरडैम में जन्मे डच व्लॉगर, नीदरलैंड के सबसे लोकप्रिय कंटेंट क्रिएटर्स में से एक, जिन्होंने 2018 में 10 लाख सब्सक्राइबर का आंकड़ा पार किया।",
+        "zh": "1998年出生于鹿特丹的荷兰视频博主,是荷兰最受欢迎的内容创作者之一,于2018年订阅数突破100万。",
+        "ja": "1998年にロッテルダムで生まれたオランダ人Vloggerで、オランダで最も人気のあるクリエイターの一人。2018年に登録者100万人を突破した。"
+      },
+      "handles": {
+        "youtube": "UCzK9UevsDrNpuPON_H1EepA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1380000
+        }
+      }
+    },
+    {
+      "id": "politievlogger-jan-willem",
+      "name": "Politievlogger Jan-Willem",
+      "country": "NL",
+      "topic": {
+        "es": "Vlogs policiales",
+        "en": "Police vlogs",
+        "pt": "Vlogs policiais",
+        "fr": "Vlogs policiers",
+        "de": "Polizei-Vlogs",
+        "ru": "Влоги о полиции",
+        "ar": "فلوجات الشرطة",
+        "hi": "पुलिस व्लॉग",
+        "zh": "警务Vlog",
+        "ja": "警察Vlog"
+      },
+      "about": {
+        "es": "Agente de policía neerlandés que desde 2016 documenta su trabajo diario como policía en vlogs de YouTube, acumulando millones de visualizaciones mensuales.",
+        "en": "A Dutch police officer who has documented his daily police work in YouTube vlogs since 2016, drawing millions of monthly views.",
+        "pt": "Policial neerlandês que desde 2016 documenta seu trabalho diário como policial em vlogs no YouTube, acumulando milhões de visualizações mensais.",
+        "fr": "Policier néerlandais qui documente depuis 2016 son travail quotidien de policier dans des vlogs YouTube, cumulant des millions de vues par mois.",
+        "de": "Niederländischer Polizist, der seit 2016 seinen Arbeitsalltag als Polizist in YouTube-Vlogs dokumentiert und dabei Millionen von Aufrufen im Monat erzielt.",
+        "ru": "Нидерландский полицейский, который с 2016 года документирует свою повседневную работу в видеоблогах на YouTube, набирая миллионы просмотров ежемесячно.",
+        "ar": "ضابط شرطة هولندي يوثق منذ عام 2016 عمله اليومي كشرطي في فلوجات على يوتيوب، ويحصد ملايين المشاهدات شهرياً.",
+        "hi": "एक डच पुलिस अधिकारी जो 2016 से यूट्यूब व्लॉग में अपने दैनिक पुलिस कार्य को दिखा रहे हैं, जिन्हें हर महीने लाखों व्यूज़ मिलते हैं।",
+        "zh": "一名荷兰警官,自2016年起在YouTube上以vlog记录自己的日常警务工作,每月观看量达数百万。",
+        "ja": "2016年からYouTubeのVlogで日々の警察業務を記録しているオランダ人警察官で、毎月数百万回の再生数を集めている。"
+      },
+      "handles": {
+        "youtube": "UCmxePybUpZj8RRuWz6r8uTQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 445000
+        }
+      }
+    },
+    {
+      "id": "rijk-hofman",
+      "name": "Rijk Hofman",
+      "country": "NL",
+      "topic": {
+        "es": "Vlogs y presentación",
+        "en": "Vlogs and hosting",
+        "pt": "Vlogs e apresentação",
+        "fr": "Vlogs et animation",
+        "de": "Vlogs und Moderation",
+        "ru": "Влоги и ведение",
+        "ar": "فلوجات وتقديم",
+        "hi": "व्लॉग और प्रस्तुति",
+        "zh": "Vlog与主持",
+        "ja": "Vlogと司会"
+      },
+      "about": {
+        "es": "Presentador y youtuber neerlandés nacido en Vlaardingen en 1997, conocido por sus vlogs y su trabajo como presentador en MTV Países Bajos.",
+        "en": "A Dutch presenter and YouTuber born in Vlaardingen in 1997, known for his vlogs and his work as a host on MTV Netherlands.",
+        "pt": "Apresentador e youtuber neerlandês nascido em Vlaardingen em 1997, conhecido por seus vlogs e por seu trabalho como apresentador na MTV Países Baixos.",
+        "fr": "Présentateur et youtubeur néerlandais né à Vlaardingen en 1997, connu pour ses vlogs et son travail d'animateur sur MTV Pays-Bas.",
+        "de": "Niederländischer Moderator und YouTuber, geboren 1997 in Vlaardingen, bekannt für seine Vlogs und seine Arbeit als Moderator bei MTV Niederlande.",
+        "ru": "Нидерландский телеведущий и ютубер, родившийся в 1997 году в Влардингене, известен своими влогами и работой ведущего на MTV Нидерланды.",
+        "ar": "مقدم برامج ويوتيوبر هولندي وُلد في فلاردينجن عام 1997، اشتهر بفلوجاته وعمله كمقدم في MTV هولندا.",
+        "hi": "1997 में व्लार्डिंगन में जन्मे डच प्रस्तुतकर्ता और यूट्यूबर, जो अपने व्लॉग्स और MTV नीदरलैंड्स पर प्रस्तुतकर्ता के काम के लिए जाने जाते हैं।",
+        "zh": "1997年出生于弗拉尔丁根的荷兰主持人兼YouTuber,以其vlog和在MTV荷兰担任主持人的工作而闻名。",
+        "ja": "1997年にフラールディンゲンで生まれたオランダ人司会者兼YouTuberで、Vlogとオランダ版MTVの司会者としての仕事で知られる。"
+      },
+      "handles": {
+        "youtube": "UClOXnNzA9RI2dWd-bhIrwKg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 517000
+        }
+      }
+    },
+    {
+      "id": "creators-fc",
+      "name": "Creators FC",
+      "country": "NL",
+      "topic": {
+        "es": "Fútbol de youtubers",
+        "en": "YouTuber football",
+        "pt": "Futebol de youtubers",
+        "fr": "Football de youtubeurs",
+        "de": "YouTuber-Fußball",
+        "ru": "Футбол ютуберов",
+        "ar": "كرة قدم اليوتيوبرز",
+        "hi": "यूट्यूबर फुटबॉल",
+        "zh": "YouTuber足球队",
+        "ja": "YouTuberサッカー"
+      },
+      "about": {
+        "es": "Equipo de fútbol formado por youtubers neerlandeses y belgas, fundado en 2016 por Roy van Rossum, que ha recaudado más de 1,5 millones de euros para causas benéficas.",
+        "en": "A football team made up of Dutch and Belgian YouTubers, founded in 2016 by Roy van Rossum, which has raised more than 1.5 million euros for charity.",
+        "pt": "Time de futebol formado por youtubers neerlandeses e belgas, fundado em 2016 por Roy van Rossum, que já arrecadou mais de 1,5 milhão de euros para causas beneficentes.",
+        "fr": "Équipe de football composée de youtubeurs néerlandais et belges, fondée en 2016 par Roy van Rossum, qui a récolté plus de 1,5 million d'euros pour des œuvres caritatives.",
+        "de": "Fußballteam aus niederländischen und belgischen YouTubern, 2016 von Roy van Rossum gegründet, das bereits mehr als 1,5 Millionen Euro für wohltätige Zwecke gesammelt hat.",
+        "ru": "Футбольная команда, состоящая из нидерландских и бельгийских ютуберов, основанная в 2016 году Роем ван Россумом, которая собрала более 1,5 миллиона евро на благотворительность.",
+        "ar": "فريق كرة قدم يضم يوتيوبرز هولنديين وبلجيكيين، أسسه روي فان روسوم عام 2016، وجمع أكثر من 1.5 مليون يورو للأعمال الخيرية.",
+        "hi": "डच और बेल्जियम के यूट्यूबर्स से बनी एक फुटबॉल टीम, जिसे 2016 में रॉय वैन रोसम ने स्थापित किया, जिसने चैरिटी के लिए 15 लाख यूरो से अधिक जुटाए हैं।",
+        "zh": "由荷兰和比利时YouTuber组成的足球队,由罗伊·范·罗苏姆于2016年创立,已为慈善事业筹集超过150万欧元。",
+        "ja": "オランダとベルギーのYouTuberで構成されたサッカーチームで、2016年にロイ・ファン・ロッサムが設立し、慈善活動のために150万ユーロ以上を集めてきた。"
+      },
+      "handles": {
+        "youtube": "UC3ti7uwGRjnWNcUCeIphdHA",
+        "tiktok": null,
+        "instagram": "creatorsfcnl",
+        "facebook": "creatorsfc",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 246000
+        }
+      }
+    },
+    {
+      "id": "dutchpilotgirl",
+      "name": "DutchPilotGirl",
+      "country": "NL",
+      "topic": {
+        "es": "Aviación y vuelos",
+        "en": "Aviation and flying",
+        "pt": "Aviação e voos",
+        "fr": "Aviation et vols",
+        "de": "Luftfahrt und Fliegen",
+        "ru": "Авиация и полёты",
+        "ar": "طيران ورحلات",
+        "hi": "विमानन और उड़ान",
+        "zh": "航空与飞行",
+        "ja": "航空とフライト"
+      },
+      "about": {
+        "es": "Piloto de aerolínea neerlandesa nacida en 1991 que comparte en YouTube su vida como piloto desde 2014, buscando inspirar a futuras aviadoras.",
+        "en": "A Dutch airline pilot born in 1991 who has shared her life as a pilot on YouTube since 2014, aiming to inspire future aviators.",
+        "pt": "Piloto de companhia aérea neerlandesa, nascida em 1991, que compartilha no YouTube sua vida como piloto desde 2014, buscando inspirar futuras aviadoras.",
+        "fr": "Pilote de ligne néerlandaise née en 1991 qui partage sur YouTube sa vie de pilote depuis 2014, dans le but d'inspirer de futures aviatrices.",
+        "de": "Niederländische Linienpilotin, geboren 1991, die seit 2014 auf YouTube ihr Leben als Pilotin zeigt, um künftige Pilotinnen zu inspirieren.",
+        "ru": "Нидерландская пилот авиакомпании, родившаяся в 1991 году, которая с 2014 года рассказывает на YouTube о своей жизни пилота, вдохновляя будущих летчиц.",
+        "ar": "طيارة خطوط جوية هولندية وُلدت عام 1991، تشارك على يوتيوب حياتها كطيارة منذ عام 2014 بهدف إلهام طيارات المستقبل.",
+        "hi": "1991 में जन्मी डच एयरलाइन पायलट, जो 2014 से यूट्यूब पर एक पायलट के रूप में अपना जीवन साझा कर रही हैं, ताकि भविष्य की महिला पायलटों को प्रेरित कर सकें।",
+        "zh": "1991年出生的荷兰航空公司飞行员,自2014年起在YouTube上分享她作为飞行员的生活,希望激励未来的女性飞行员。",
+        "ja": "1991年生まれのオランダ人旅客機パイロットで、2014年からYouTubeでパイロットとしての生活を発信し、未来の女性パイロットたちを鼓舞している。"
+      },
+      "handles": {
+        "youtube": "UCKUNiU0D2u3yxNZZxBqa6bQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 415000
+        }
+      }
+    },
+    {
+      "id": "adhamyy",
+      "name": "Adhamyy",
+      "country": "NL",
+      "topic": {
+        "es": "Comedia familiar",
+        "en": "Family comedy",
+        "pt": "Comédia em família",
+        "fr": "Comédie familiale",
+        "de": "Familien-Comedy",
+        "ru": "Семейная комедия",
+        "ar": "كوميديا عائلية",
+        "hi": "पारिवारिक कॉमेडी",
+        "zh": "家庭喜剧",
+        "ja": "家族コメディ"
+      },
+      "about": {
+        "es": "Creador egipcio-neerlandés que vive en los Países Bajos y comparte contenido de comedia junto a sus hermanas Anna y Ayten.",
+        "en": "An Egyptian-Dutch creator living in the Netherlands who shares comedy content together with his sisters Anna and Ayten.",
+        "pt": "Criador egípcio-neerlandês que vive nos Países Baixos e compartilha conteúdo de comédia ao lado de suas irmãs Anna e Ayten.",
+        "fr": "Créateur égypto-néerlandais vivant aux Pays-Bas qui partage du contenu comique avec ses sœurs Anna et Ayten.",
+        "de": "Ägyptisch-niederländischer Creator, der in den Niederlanden lebt und zusammen mit seinen Schwestern Anna und Ayten Comedy-Inhalte teilt.",
+        "ru": "Египетско-нидерландский автор, живущий в Нидерландах, который вместе со своими сёстрами Анной и Айтен создаёт комедийный контент.",
+        "ar": "صانع محتوى مصري-هولندي يعيش في هولندا ويشارك محتوى كوميدياً برفقة شقيقتيه آنا وآيتن.",
+        "hi": "एक मिस्री-डच क्रिएटर जो नीदरलैंड में रहते हैं और अपनी बहनों अन्ना और आयटेन के साथ कॉमेडी कंटेंट साझा करते हैं।",
+        "zh": "一位居住在荷兰的埃及裔荷兰创作者,与姐妹安娜和艾登一起制作喜剧内容。",
+        "ja": "オランダに住むエジプト系オランダ人クリエイターで、姉妹のアンナとアイテンと一緒にコメディコンテンツを発信している。"
+      },
+      "handles": {
+        "youtube": "UC_-vk2ULme8CO2CImRaQN9g",
+        "tiktok": "therealadhamyy",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 113000
+        }
+      }
+    },
+    {
+      "id": "simply-nikki",
+      "name": "Simply Nikki",
+      "country": "AU",
+      "topic": {
+        "es": "Estilo de vida y decoración",
+        "en": "Lifestyle & decor",
+        "pt": "Estilo de vida e decoração",
+        "fr": "Style de vie et déco",
+        "de": "Lifestyle & Wohndeko",
+        "ru": "Лайфстайл и декор",
+        "ar": "نمط الحياة والديكور",
+        "hi": "जीवनशैली और सजावट",
+        "zh": "生活方式与家居",
+        "ja": "ライフスタイルとインテリア"
+      },
+      "about": {
+        "es": "Creadora australiana y madre de tres hijos que comparte contenido de estilo de vida sobre decoración del hogar, belleza y vida familiar bajo el nombre Simply Nikki.",
+        "en": "An Australian mother of three who shares lifestyle content on home decor, beauty and family life under the name Simply Nikki.",
+        "pt": "Criadora australiana e mãe de três filhos que compartilha conteúdo de estilo de vida sobre decoração, beleza e vida familiar sob o nome Simply Nikki.",
+        "fr": "Créatrice australienne et mère de trois enfants qui partage du contenu lifestyle sur la décoration, la beauté et la vie de famille sous le nom Simply Nikki.",
+        "de": "Eine australische Mutter von drei Kindern, die unter dem Namen Simply Nikki Lifestyle-Inhalte zu Wohndekoration, Beauty und Familienleben teilt.",
+        "ru": "Австралийская создательница контента и мать троих детей, которая делится лайфстайл-контентом о декоре дома, красоте и семейной жизни под именем Simply Nikki.",
+        "ar": "صانعة محتوى أسترالية وأم لثلاثة أطفال تشارك محتوى نمط الحياة حول ديكور المنزل والجمال والحياة الأسرية تحت اسم Simply Nikki.",
+        "hi": "एक ऑस्ट्रेलियाई क्रिएटर और तीन बच्चों की मां, जो Simply Nikki नाम से घर की सजावट, सौंदर्य और पारिवारिक जीवन पर लाइफस्टाइल सामग्री साझा करती हैं।",
+        "zh": "一位澳大利亚三个孩子的母亲,以Simply Nikki的名义分享家居装饰、美妆和家庭生活方面的生活方式内容。",
+        "ja": "オーストラリア人で3児の母である彼女は、Simply Nikkiという名前でインテリア、美容、家族の日常についてのライフスタイルコンテンツを発信している。"
+      },
+      "handles": {
+        "youtube": "UCI1GM5H-H-F_vcNlZo_D6ug",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 530000
+        }
+      }
+    },
+    {
+      "id": "brianne-worth",
+      "name": "Brianne Worth",
+      "country": "AU",
+      "topic": {
+        "es": "Comedia y estilo de vida",
+        "en": "Comedy & lifestyle",
+        "pt": "Comédia e estilo de vida",
+        "fr": "Humour et style de vie",
+        "de": "Comedy & Lifestyle",
+        "ru": "Комедия и лайфстайл",
+        "ar": "كوميديا وأسلوب حياة",
+        "hi": "कॉमेडी और लाइफस्टाइल",
+        "zh": "喜剧与生活方式",
+        "ja": "コメディとライフスタイル"
+      },
+      "about": {
+        "es": "Creadora australiana conocida por su comedia de observación y comentarios de estilo de vida, que además fundó la marca de ropa Rift Supply Co.",
+        "en": "An Australian creator known for observational comedy and lifestyle commentary who also founded the clothing label Rift Supply Co.",
+        "pt": "Criadora australiana conhecida por sua comédia de observação e comentários sobre estilo de vida, que também fundou a marca de roupas Rift Supply Co.",
+        "fr": "Créatrice australienne connue pour son humour d'observation et ses commentaires lifestyle, qui a également fondé la marque de vêtements Rift Supply Co.",
+        "de": "Eine australische Creatorin, bekannt für Beobachtungshumor und Lifestyle-Kommentare, die außerdem das Modelabel Rift Supply Co. gegründet hat.",
+        "ru": "Австралийская создательница контента, известная наблюдательным юмором и комментариями о стиле жизни, основавшая также бренд одежды Rift Supply Co.",
+        "ar": "صانعة محتوى أسترالية معروفة بالكوميديا الملاحظاتية والتعليقات على نمط الحياة، وأسست أيضًا علامة الملابس Rift Supply Co.",
+        "hi": "एक ऑस्ट्रेलियाई क्रिएटर जो अवलोकनात्मक कॉमेडी और लाइफस्टाइल टिप्पणी के लिए जानी जाती हैं, जिन्होंने कपड़ों का ब्रांड Rift Supply Co. भी स्थापित किया।",
+        "zh": "一位以观察式喜剧和生活方式评论著称的澳大利亚创作者,她还创立了服装品牌Rift Supply Co.。",
+        "ja": "観察系コメディやライフスタイルに関する発言で知られるオーストラリア人クリエイターで、アパレルブランドRift Supply Co.も設立した。"
+      },
+      "handles": {
+        "youtube": "UCu5kDNnaotVbtpXRch5K83Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 310000
+        }
+      }
+    },
+    {
+      "id": "stephanie-lange",
+      "name": "Stephanie Lange",
+      "country": "AU",
+      "topic": {
+        "es": "Belleza y maquillaje",
+        "en": "Beauty & makeup",
+        "pt": "Beleza e maquiagem",
+        "fr": "Beauté et maquillage",
+        "de": "Beauty & Make-up",
+        "ru": "Красота и макияж",
+        "ar": "الجمال والمكياج",
+        "hi": "सौंदर्य और मेकअप",
+        "zh": "美妆",
+        "ja": "美容とメイク"
+      },
+      "about": {
+        "es": "Maquilladora profesional australiana que publica tutoriales de belleza cruelty-free y ha hecho crecer su canal a más de dos millones de suscriptores.",
+        "en": "An Australian professional makeup artist who posts cruelty-free beauty tutorials and has grown her channel to over two million subscribers.",
+        "pt": "Maquiadora profissional australiana que publica tutoriais de beleza cruelty-free e fez seu canal crescer para mais de dois milhões de inscritos.",
+        "fr": "Maquilleuse professionnelle australienne qui publie des tutoriels beauté cruelty-free et a fait grandir sa chaîne à plus de deux millions d'abonnés.",
+        "de": "Eine australische professionelle Make-up-Artistin, die tierversuchsfreie Beauty-Tutorials postet und ihren Kanal auf über zwei Millionen Abonnenten ausgebaut hat.",
+        "ru": "Профессиональный австралийский визажист, публикующая туториалы по красоте без тестирования на животных и развившая свой канал до более чем двух миллионов подписчиков.",
+        "ar": "خبيرة مكياج محترفة أسترالية تنشر دروسًا للجمال خالية من القسوة على الحيوانات وقد وسّعت قناتها لتتجاوز مليوني مشترك.",
+        "hi": "एक ऑस्ट्रेलियाई पेशेवर मेकअप आर्टिस्ट जो क्रूरता-मुक्त ब्यूटी ट्यूटोरियल पोस्ट करती हैं और जिनका चैनल दो मिलियन से अधिक सब्सक्राइबर तक पहुंच चुका है।",
+        "zh": "一位澳大利亚专业化妆师,发布无动物测试的美妆教程,其频道订阅人数已超过两百万。",
+        "ja": "クルエルティフリーの美容チュートリアルを投稿するオーストラリア人プロメイクアップアーティストで、チャンネル登録者数は200万人を超えている。"
+      },
+      "handles": {
+        "youtube": "UCZQ0XPE7wxMafUf8dIHOxgQ",
+        "tiktok": null,
+        "instagram": "stephanielange",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2100000
+        }
+      }
+    },
+    {
+      "id": "james-smith",
+      "name": "James Smith",
+      "country": "AU",
+      "topic": {
+        "es": "Fitness y entrenamiento",
+        "en": "Fitness & training",
+        "pt": "Fitness e treino",
+        "fr": "Fitness et entraînement",
+        "de": "Fitness & Training",
+        "ru": "Фитнес и тренировки",
+        "ar": "اللياقة والتدريب",
+        "hi": "फिटनेस और ट्रेनिंग",
+        "zh": "健身训练",
+        "ja": "フィットネスとトレーニング"
+      },
+      "about": {
+        "es": "Entrenador personal nacido en Reino Unido y radicado en Sídney desde 2016, conocido por sus francos consejos de fitness y su libro superventas \"Not a Diet Book\".",
+        "en": "A British-born personal trainer based in Sydney since 2016, known for outspoken fitness advice and his bestselling book \"Not a Diet Book.\"",
+        "pt": "Personal trainer nascido no Reino Unido e radicado em Sydney desde 2016, conhecido por seus conselhos diretos sobre fitness e por seu livro best-seller \"Not a Diet Book\".",
+        "fr": "Coach sportif né au Royaume-Uni et installé à Sydney depuis 2016, connu pour ses conseils fitness sans détour et son livre à succès \"Not a Diet Book\".",
+        "de": "Ein in Großbritannien geborener Personal Trainer, der seit 2016 in Sydney lebt und für seine unverblümten Fitness-Ratschläge sowie sein Bestseller-Buch \"Not a Diet Book\" bekannt ist.",
+        "ru": "Британский по происхождению персональный тренер, живущий в Сиднее с 2016 года, известный своими прямолинейными советами по фитнесу и бестселлером \"Not a Diet Book\".",
+        "ar": "مدرب شخصي وُلد في بريطانيا ويقيم في سيدني منذ عام 2016، معروف بنصائحه الصريحة في اللياقة البدنية وكتابه الأكثر مبيعًا \"Not a Diet Book\".",
+        "hi": "ब्रिटेन में जन्मे एक पर्सनल ट्रेनर जो 2016 से सिडनी में रह रहे हैं, अपनी बेबाक फिटनेस सलाह और बेस्टसेलर किताब \"Not a Diet Book\" के लिए जाने जाते हैं।",
+        "zh": "一位出生于英国、自2016年起定居悉尼的私人教练,以直言不讳的健身建议和畅销书《Not a Diet Book》而闻名。",
+        "ja": "英国生まれで2016年からシドニーを拠点とするパーソナルトレーナーで、率直なフィットネスアドバイスとベストセラー本「Not a Diet Book」で知られる。"
+      },
+      "handles": {
+        "youtube": "UCOFxOq3mmdMly4A9JSzcf6Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 470000
+        }
+      }
+    },
+    {
+      "id": "lauren-curtis",
+      "name": "Lauren Curtis",
+      "country": "AU",
+      "topic": {
+        "es": "Belleza y maquillaje",
+        "en": "Beauty & makeup",
+        "pt": "Beleza e maquiagem",
+        "fr": "Beauté et maquillage",
+        "de": "Beauty & Make-up",
+        "ru": "Красота и макияж",
+        "ar": "الجمال والمكياج",
+        "hi": "सौंदर्य और मेकअप",
+        "zh": "美妆",
+        "ja": "美容とメイク"
+      },
+      "about": {
+        "es": "YouTuber de belleza nacida en Perth y una de las pioneras del maquillaje en Australia, que lanzó su propia marca de cosméticos, LOUNGEFACE, en 2021.",
+        "en": "A Perth-born beauty YouTuber and one of Australia's original makeup vloggers who launched her own cosmetics brand, LOUNGEFACE, in 2021.",
+        "pt": "YouTuber de beleza nascida em Perth e uma das pioneiras dos vlogs de maquiagem na Austrália, que lançou sua própria marca de cosméticos, LOUNGEFACE, em 2021.",
+        "fr": "YouTubeuse beauté née à Perth et l'une des pionnières du maquillage en Australie, qui a lancé sa propre marque de cosmétiques, LOUNGEFACE, en 2021.",
+        "de": "Eine in Perth geborene Beauty-YouTuberin und eine der ursprünglichen australischen Make-up-Vloggerinnen, die 2021 ihre eigene Kosmetikmarke LOUNGEFACE gründete.",
+        "ru": "Бьюти-блогер родом из Перта, одна из первых австралийских визажисток на YouTube, запустившая в 2021 году собственный косметический бренд LOUNGEFACE.",
+        "ar": "يوتيوبر جمال وُلدت في بيرث وواحدة من أوائل مدونات المكياج في أستراليا، أطلقت علامتها التجارية الخاصة للمستحضرات LOUNGEFACE عام 2021.",
+        "hi": "पर्थ में जन्मी एक ब्यूटी यूट्यूबर और ऑस्ट्रेलिया की शुरुआती मेकअप व्लॉगर्स में से एक, जिन्होंने 2021 में अपना खुद का कॉस्मेटिक्स ब्रांड LOUNGEFACE लॉन्च किया।",
+        "zh": "一位出生于珀斯的美妆YouTuber,是澳大利亚最早的美妆博主之一,于2021年推出了自己的化妆品品牌LOUNGEFACE。",
+        "ja": "パースで生まれた美容系YouTuberで、オーストラリアの草分け的メイクアップブロガーの一人。2021年には自身のコスメブランドLOUNGEFACEを立ち上げた。"
+      },
+      "handles": {
+        "youtube": "UCXbQzhqSvgVZTUyi1T4AU3w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": "laurenbeautyy",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 3340000
+        }
+      }
+    },
+    {
+      "id": "nikita-thakur",
+      "name": "Nikita Thakur",
+      "country": "IN",
+      "topic": {
+        "es": "Comentario político",
+        "en": "Political commentary",
+        "pt": "Comentário político",
+        "fr": "Commentaire politique",
+        "de": "Politischer Kommentar",
+        "ru": "Политический комментарий",
+        "ar": "تعليق سياسي",
+        "hi": "राजनीतिक टिप्पणी",
+        "zh": "政治评论",
+        "ja": "政治解説"
+      },
+      "about": {
+        "es": "Creadora india conocida por sus comentarios políticos de corte nacionalista en su canal de YouTube, activo desde 2020.",
+        "en": "An Indian creator known for nationalist political commentary on her YouTube channel, active since 2020.",
+        "pt": "Criadora indiana conhecida por comentários políticos de cunho nacionalista em seu canal do YouTube, ativo desde 2020.",
+        "fr": "Créatrice indienne connue pour ses commentaires politiques nationalistes sur sa chaîne YouTube, active depuis 2020.",
+        "de": "Indische Creatorin, bekannt für nationalistisch geprägte politische Kommentare auf ihrem YouTube-Kanal, der seit 2020 aktiv ist.",
+        "ru": "Индийская создательница контента, известная политическими комментариями националистического толка на своём YouTube-канале, активном с 2020 года.",
+        "ar": "صانعة محتوى هندية معروفة بتعليقاتها السياسية ذات الطابع القومي على قناتها في يوتيوب، النشطة منذ عام 2020.",
+        "hi": "भारतीय क्रिएटर, जो अपने यूट्यूब चैनल पर राष्ट्रवादी राजनीतिक टिप्पणियों के लिए जानी जाती हैं; यह चैनल 2020 से सक्रिय है।",
+        "zh": "印度内容创作者,以其YouTube频道上的民族主义政治评论著称,该频道自2020年起活跃。",
+        "ja": "2020年から活動するYouTubeチャンネルで、ナショナリズム的な政治解説を発信しているインドのクリエイター。"
+      },
+      "handles": {
+        "youtube": "UC5n-0ihUiOuuvZSSUnMNZLw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1970000
+        }
+      }
+    },
+    {
+      "id": "kaizer",
+      "name": "KAIzER",
+      "country": "IN",
+      "topic": {
+        "es": "Reacciones y streaming",
+        "en": "Reaction & streaming",
+        "pt": "Reações e streaming",
+        "fr": "Réactions et streaming",
+        "de": "Reaktionen & Streaming",
+        "ru": "Реакции и стриминг",
+        "ar": "ردود أفعال وبث",
+        "hi": "रिएक्शन और स्ट्रीमिंग",
+        "zh": "反应视频与直播",
+        "ja": "リアクション配信"
+      },
+      "about": {
+        "es": "Creador indio conocido por sus videos de reacción y contenido de entretenimiento sobre streamers, con un canal activo desde 2020.",
+        "en": "An India-based creator known for reaction videos and entertainment content about streamers, with a channel active since 2020.",
+        "pt": "Criador indiano conhecido por vídeos de reação e conteúdo de entretenimento sobre streamers, com canal ativo desde 2020.",
+        "fr": "Créateur indien connu pour ses vidéos de réaction et son contenu de divertissement sur des streamers, avec une chaîne active depuis 2020.",
+        "de": "Indischer Creator, bekannt für Reaction-Videos und Unterhaltungsinhalte über Streamer, dessen Kanal seit 2020 aktiv ist.",
+        "ru": "Индийский создатель контента, известный реакциями и развлекательными видео о стримерах; канал активен с 2020 года.",
+        "ar": "صانع محتوى هندي معروف بمقاطع ردود الأفعال والمحتوى الترفيهي حول الستريمرز، وقناته نشطة منذ عام 2020.",
+        "hi": "भारत के एक क्रिएटर, जो स्ट्रीमर्स पर रिएक्शन वीडियो और मनोरंजन कंटेंट के लिए जाने जाते हैं; उनका चैनल 2020 से सक्रिय है।",
+        "zh": "总部位于印度的创作者,以针对主播的反应视频和娱乐内容而闻名,其频道自2020年起活跃。",
+        "ja": "インド拠点のクリエイターで、ストリーマーに関するリアクション動画やエンタメコンテンツで知られ、チャンネルは2020年から活動している。"
+      },
+      "handles": {
+        "youtube": "UCgEatFZXBkPnOnXPYxAUPcQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1100000
+        }
+      }
+    },
+    {
+      "id": "kk-create",
+      "name": "KK Create",
+      "country": "IN",
+      "topic": {
+        "es": "Documentales sociales",
+        "en": "Social documentaries",
+        "pt": "Documentários sociais",
+        "fr": "Documentaires sociaux",
+        "de": "Sozialdokumentationen",
+        "ru": "Социальные документалки",
+        "ar": "وثائقيات اجتماعية",
+        "hi": "सामाजिक वृत्तचित्र",
+        "zh": "社会纪实",
+        "ja": "社会派ドキュメンタリー"
+      },
+      "about": {
+        "es": "Dirigido por Kavya Karnatac, creadora de Uttarakhand con un título en estudios de medios del Tata Institute of Social Sciences, que recorre los distritos de India documentando temas sociales e historias cotidianas.",
+        "en": "Run by Kavya Karnatac, a creator from Uttarakhand with a media studies degree from the Tata Institute of Social Sciences, who travels India's districts documenting social issues and everyday stories.",
+        "pt": "Conduzido por Kavya Karnatac, criadora de Uttarakhand com formação em estudos de mídia pelo Tata Institute of Social Sciences, que percorre os distritos da Índia documentando questões sociais e histórias cotidianas.",
+        "fr": "Animée par Kavya Karnatac, créatrice originaire de l'Uttarakhand titulaire d'un diplôme en études des médias du Tata Institute of Social Sciences, qui parcourt les districts de l'Inde pour documenter des enjeux sociaux et des histoires du quotidien.",
+        "de": "Geleitet von Kavya Karnatac, einer Creatorin aus Uttarakhand mit einem Medienstudienabschluss des Tata Institute of Social Sciences, die durch Indiens Distrikte reist und soziale Themen sowie Alltagsgeschichten dokumentiert.",
+        "ru": "Канал ведёт Кавья Карнатак, создательница из штата Уттаракханд с дипломом по медиаисследованиям Института социальных наук Тата, которая путешествует по округам Индии, документируя социальные проблемы и истории повседневной жизни.",
+        "ar": "تديره كافيا كارناتاك، صانعة محتوى من ولاية أوتارآخاند حاصلة على شهادة في دراسات الإعلام من معهد تاتا للعلوم الاجتماعية، وتجوب مقاطعات الهند لتوثيق القضايا الاجتماعية والقصص اليومية.",
+        "hi": "इसे कव्या कर्नाटक चलाती हैं, जो उत्तराखंड की क्रिएटर हैं और टाटा इंस्टीट्यूट ऑफ सोशल साइंसेज से मीडिया स्टडीज़ में डिग्री रखती हैं; वे भारत के जिलों में घूमकर सामाजिक मुद्दों और आम लोगों की कहानियाँ दर्ज करती हैं।",
+        "zh": "由卡薇娅·卡纳塔克(Kavya Karnatac)主持,她来自北阿坎德邦,拥有塔塔社会科学研究所的媒体研究学位,走访印度各县记录社会议题与日常故事。",
+        "ja": "ウッタラーカンド州出身でタタ社会科学研究所でメディア研究の学位を持つカヴィヤ・カルナタックが運営し、インド各地の県を巡って社会問題や人々の日常を記録している。"
+      },
+      "handles": {
+        "youtube": "UCkw1tYo7k8t-Y99bOXuZwhg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 5530000
+        }
+      }
+    },
+    {
+      "id": "indian-ashtonhall",
+      "name": "Indian Ashtonhall",
+      "country": "IN",
+      "topic": {
+        "es": "Fitness rural",
+        "en": "Rural fitness",
+        "pt": "Fitness rural",
+        "fr": "Fitness rural",
+        "de": "Ländliches Fitness",
+        "ru": "Сельский фитнес",
+        "ar": "لياقة ريفية",
+        "hi": "ग्रामीण फिटनेस",
+        "zh": "乡村健身",
+        "ja": "田舎フィットネス"
+      },
+      "about": {
+        "es": "Yogendra Kushwah, nacido en la aldea de Parsota, en el distrito de Morena, Madhya Pradesh, es conocido por recrear rutinas de fitness y bienestar en un entorno rural indio inspirado en el influencer estadounidense Ashton Hall.",
+        "en": "Yogendra Kushwah, born in Parsota village in Madhya Pradesh's Morena district, is known for recreating fitness and wellness routines in a rural Indian setting inspired by American influencer Ashton Hall.",
+        "pt": "Yogendra Kushwah, nascido na aldeia de Parsota, no distrito de Morena, em Madhya Pradesh, é conhecido por recriar rotinas de fitness e bem-estar em um cenário rural indiano inspirado no influenciador americano Ashton Hall.",
+        "fr": "Yogendra Kushwah, né dans le village de Parsota, dans le district de Morena au Madhya Pradesh, est connu pour recréer des routines de fitness et de bien-être dans un cadre rural indien, inspirées de l'influenceur américain Ashton Hall.",
+        "de": "Yogendra Kushwah, geboren im Dorf Parsota im Distrikt Morena in Madhya Pradesh, ist dafür bekannt, Fitness- und Wellness-Routinen in ländlicher indischer Umgebung nachzustellen, inspiriert vom amerikanischen Influencer Ashton Hall.",
+        "ru": "Йогендра Кушвах, родившийся в деревне Парсота округа Морена штата Мадхья-Прадеш, известен воссозданием фитнес- и оздоровительных рутин в сельской индийской обстановке, вдохновлённых американским блогером Эштоном Холлом.",
+        "ar": "يوغيندرا كوشواه، المولود في قرية بارسوتا بمقاطعة مورينا في ولاية ماديا براديش، معروف بإعادة تمثيل روتينات اللياقة والعافية في بيئة ريفية هندية مستوحاة من المؤثر الأمريكي آشتون هول.",
+        "hi": "योगेंद्र कुशवाह, जिनका जन्म मध्य प्रदेश के मुरैना जिले के परसोटा गाँव में हुआ, अमेरिकी इन्फ्लुएंसर एश्टन हॉल से प्रेरित होकर ग्रामीण भारतीय परिवेश में फिटनेस और वेलनेस रूटीन दोहराने के लिए जाने जाते हैं।",
+        "zh": "约根德拉·库什瓦哈出生于中央邦莫雷纳县帕尔索塔村,以在印度乡村环境中重现受美国网红阿什顿·霍尔启发的健身与养生日常而闻名。",
+        "ja": "マディヤ・プラデーシュ州モレーナ県パルソタ村生まれのヨーゲンドラ・クシュワは、アメリカのインフルエンサー、アシュトン・ホールに触発され、インドの農村環境でフィットネスとウェルネスのルーティンを再現することで知られる。"
+      },
+      "handles": {
+        "youtube": "UCdFe1dl34vnctXDWH3B113w",
+        "tiktok": null,
+        "instagram": "indian_ashtonhall",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 509000
+        }
+      }
+    },
+    {
+      "id": "ishani-mitra",
+      "name": "Ishani Mitra",
+      "country": "IN",
+      "topic": {
+        "es": "Belleza y maquillaje",
+        "en": "Beauty & makeup",
+        "pt": "Beleza e maquiagem",
+        "fr": "Beauté et maquillage",
+        "de": "Beauty & Make-up",
+        "ru": "Красота и макияж",
+        "ar": "جمال ومكياج",
+        "hi": "ब्यूटी और मेकअप",
+        "zh": "美妆",
+        "ja": "美容・メイク"
+      },
+      "about": {
+        "es": "Creadora india de contenido de belleza y maquillaje, conocida por sus tutoriales y videos centrados en tendencias.",
+        "en": "An India-based beauty and makeup content creator known for tutorials and trend-focused videos.",
+        "pt": "Criadora indiana de conteúdo de beleza e maquiagem, conhecida por tutoriais e vídeos sobre tendências.",
+        "fr": "Créatrice indienne de contenu beauté et maquillage, connue pour ses tutoriels et ses vidéos sur les tendances.",
+        "de": "Indische Beauty- und Make-up-Creatorin, bekannt für Tutorials und trendorientierte Videos.",
+        "ru": "Индийская создательница контента о красоте и макияже, известная обучающими роликами и видео о трендах.",
+        "ar": "صانعة محتوى هندية في مجال الجمال والمكياج، معروفة بدروسها التعليمية ومقاطع الفيديو التي تركز على صيحات الموضة.",
+        "hi": "भारत की एक ब्यूटी और मेकअप कंटेंट क्रिएटर, जो अपने ट्यूटोरियल और ट्रेंड-केंद्रित वीडियो के लिए जानी जाती हैं।",
+        "zh": "印度美妆内容创作者,以教程和潮流主题视频著称。",
+        "ja": "インドの美容・メイク系クリエイターで、チュートリアルやトレンド重視の動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCGfm1t68P9t9M6JGnE2hlMg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 547000
+        }
+      }
+    },
+    {
+      "id": "mahesh-chavan",
+      "name": "Mahesh Chavan",
+      "country": "IN",
+      "topic": {
+        "es": "Arte del tatuaje",
+        "en": "Tattoo art",
+        "pt": "Arte da tatuagem",
+        "fr": "Art du tatouage",
+        "de": "Tattoo-Kunst",
+        "ru": "Тату-искусство",
+        "ar": "فن الوشم",
+        "hi": "टैटू कला",
+        "zh": "纹身艺术",
+        "ja": "タトゥーアート"
+      },
+      "about": {
+        "es": "Tatuador con sede en Mumbai, conocido como el 'Tattoo King', propietario de The Mustache Tattoo & Art Studio con más de 16 años de experiencia, que comparte su trabajo y vlogs diarios en YouTube.",
+        "en": "A Mumbai-based tattoo artist known as the 'Tattoo King,' owner of The Mustache Tattoo & Art Studio with over 16 years of experience, who shares his work and daily vlogs on YouTube.",
+        "pt": "Tatuador com sede em Mumbai, conhecido como o 'Tattoo King', proprietário do The Mustache Tattoo & Art Studio com mais de 16 anos de experiência, que compartilha seu trabalho e vlogs diários no YouTube.",
+        "fr": "Tatoueur basé à Mumbai, surnommé le « Tattoo King », propriétaire de The Mustache Tattoo & Art Studio avec plus de 16 ans d'expérience, qui partage son travail et ses vlogs quotidiens sur YouTube.",
+        "de": "In Mumbai ansässiger Tätowierer, bekannt als „Tattoo King“, Inhaber des The Mustache Tattoo & Art Studio mit über 16 Jahren Erfahrung, der seine Arbeiten und tägliche Vlogs auf YouTube teilt.",
+        "ru": "Тату-мастер из Мумбаи, известный как «Tattoo King», владелец студии The Mustache Tattoo & Art Studio с более чем 16-летним опытом, публикующий на YouTube свои работы и ежедневные влоги.",
+        "ar": "فنان وشم مقيم في مومباي يُعرف بـ'Tattoo King'، ومالك استوديو The Mustache Tattoo & Art Studio بخبرة تتجاوز 16 عامًا، يشارك أعماله ويومياته على يوتيوب.",
+        "hi": "मुंबई के एक टैटू कलाकार, जिन्हें 'टैटू किंग' कहा जाता है और जो The Mustache Tattoo & Art Studio के मालिक हैं तथा 16 वर्षों से अधिक का अनुभव रखते हैं; वे अपने काम और रोज़ाना के व्लॉग यूट्यूब पर साझा करते हैं।",
+        "zh": "常驻孟买的纹身师,人称“纹身之王”,经营The Mustache Tattoo & Art Studio,拥有16年以上从业经验,在YouTube上分享作品和日常Vlog。",
+        "ja": "ムンバイを拠点とするタトゥーアーティストで「タトゥーキング」と呼ばれ、16年以上の経験を持つThe Mustache Tattoo & Art Studioのオーナー。YouTubeで作品と日常のVlogを公開している。"
+      },
+      "handles": {
+        "youtube": "UCqTmCuf2W7IMrvYrxFlmufQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 12100000
+        }
+      }
+    },
+    {
+      "id": "muskan-karia",
+      "name": "Muskan karia",
+      "country": "IN",
+      "topic": {
+        "es": "Reseñas de snacks",
+        "en": "Snack reviews",
+        "pt": "Resenhas de snacks",
+        "fr": "Critiques de snacks",
+        "de": "Snack-Reviews",
+        "ru": "Обзоры снеков",
+        "ar": "مراجعات وجبات خفيفة",
+        "hi": "स्नैक रिव्यू",
+        "zh": "零食测评",
+        "ja": "スナックレビュー"
+      },
+      "about": {
+        "es": "Creadora de Thane, Maharashtra, conocida como la exploradora de snacks de la India, que reseña bocadillos peculiares y comparte vlogs; posee un título en estudios de gestión del R.D. & S.H. National College de Mumbai.",
+        "en": "A creator from Thane, Maharashtra, known as India's snack explorer, reviewing unique snacks and sharing vlogs; she holds a management studies degree from R.D. & S.H. National College in Mumbai.",
+        "pt": "Criadora de Thane, Maharashtra, conhecida como a exploradora de lanches da Índia, que resenha snacks incomuns e compartilha vlogs; possui graduação em administração pelo R.D. & S.H. National College, em Mumbai.",
+        "fr": "Créatrice originaire de Thane, dans le Maharashtra, connue comme l'exploratrice de snacks de l'Inde, qui teste des en-cas insolites et partage des vlogs; elle est diplômée en gestion du R.D. & S.H. National College de Mumbai.",
+        "de": "Creatorin aus Thane, Maharashtra, bekannt als Indiens Snack-Entdeckerin, die ungewöhnliche Snacks testet und Vlogs teilt; sie hat einen Abschluss in Management Studies vom R.D. & S.H. National College in Mumbai.",
+        "ru": "Создательница контента из Тхане, штат Махараштра, известная как «исследовательница снеков Индии»: она пробует необычные снеки и публикует влоги; имеет диплом по менеджменту колледжа R.D. & S.H. National College в Мумбаи.",
+        "ar": "صانعة محتوى من ثاني بولاية ماهاراشترا، معروفة بلقب مستكشفة الوجبات الخفيفة في الهند، تراجع وجبات خفيفة غير معتادة وتشارك يومياتها؛ حاصلة على شهادة في إدارة الأعمال من كلية R.D. & S.H. الوطنية في مومباي.",
+        "hi": "महाराष्ट्र के ठाणे की एक क्रिएटर, जिन्हें भारत की 'स्नैक एक्सप्लोरर' के रूप में जाना जाता है; वे अनोखे स्नैक्स की समीक्षा करती हैं और व्लॉग साझा करती हैं; उन्होंने मुंबई के आर.डी. एंड एस.एच. नेशनल कॉलेज से मैनेजमेंट स्टडीज़ में डिग्री ली है।",
+        "zh": "来自马哈拉施特拉邦塔那市的创作者,人称“印度零食探索者”,评测各种特色零食并分享Vlog;毕业于孟买R.D. & S.H.国立学院管理学专业。",
+        "ja": "マハーラーシュトラ州ターネー出身のクリエイターで、「インドのスナック探検家」として知られ、珍しいスナックのレビューやVlogを発信している。ムンバイのR.D. & S.H.ナショナルカレッジで経営学の学位を取得。"
+      },
+      "handles": {
+        "youtube": "UCufwebJMr-l6MqwkXaXDpsg",
+        "tiktok": null,
+        "instagram": "muskankaria",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 477000
+        }
+      }
+    },
+    {
+      "id": "nitish-rajput",
+      "name": "Nitish Rajput",
+      "country": "IN",
+      "topic": {
+        "es": "Narrativa e historia",
+        "en": "Storytelling & history",
+        "pt": "Narrativas e história",
+        "fr": "Récits et histoire",
+        "de": "Storytelling & Geschichte",
+        "ru": "Истории и история",
+        "ar": "سرد قصصي وتاريخ",
+        "hi": "कहानी और इतिहास",
+        "zh": "故事与历史",
+        "ja": "ストーリーテリングと歴史"
+      },
+      "about": {
+        "es": "Creador indio conocido por sus videos narrativos sobre historia, temas sociales y actualidad, activo en YouTube desde 2020.",
+        "en": "An India-based creator known for storytelling videos on history, social issues and current affairs, active on YouTube since 2020.",
+        "pt": "Criador indiano conhecido por vídeos narrativos sobre história, questões sociais e atualidades, ativo no YouTube desde 2020.",
+        "fr": "Créateur indien connu pour ses vidéos narratives sur l'histoire, les enjeux sociaux et l'actualité, actif sur YouTube depuis 2020.",
+        "de": "Indischer Creator, bekannt für erzählerische Videos zu Geschichte, sozialen Themen und aktuellen Ereignissen, seit 2020 auf YouTube aktiv.",
+        "ru": "Индийский создатель контента, известный повествовательными видео об истории, социальных проблемах и текущих событиях; на YouTube с 2020 года.",
+        "ar": "صانع محتوى هندي معروف بمقاطع فيديو سردية عن التاريخ والقضايا الاجتماعية والشؤون الجارية، نشط على يوتيوب منذ عام 2020.",
+        "hi": "भारत के एक क्रिएटर, जो इतिहास, सामाजिक मुद्दों और समसामयिक घटनाओं पर कहानी के अंदाज़ में वीडियो बनाने के लिए जाने जाते हैं; वे 2020 से यूट्यूब पर सक्रिय हैं।",
+        "zh": "印度内容创作者,以讲述历史、社会议题与时事的叙事性视频著称,自2020年起活跃于YouTube。",
+        "ja": "歴史、社会問題、時事問題を物語形式で伝える動画で知られるインドのクリエイターで、2020年からYouTubeで活動している。"
+      },
+      "handles": {
+        "youtube": "UC6WzPg6yxF9dQx2_O6R4lww",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 8600000
+        }
+      }
     }
   ]
 }
