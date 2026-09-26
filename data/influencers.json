@@ -9639,6 +9639,402 @@
           "youtube": 4300000
         }
       }
+    },
+    {
+      "id": "enzo-knol",
+      "name": "Enzo Knol",
+      "country": "NL",
+      "topic": {
+        "es": "Vlogs diarios y gaming",
+        "en": "Daily vlogs and gaming",
+        "pt": "Vlogs diários e gaming",
+        "fr": "Vlogs quotidiens et gaming",
+        "de": "Tägliche Vlogs und Gaming",
+        "ru": "Ежедневные влоги и гейминг",
+        "ar": "فلوجات يومية وألعاب",
+        "hi": "रोज़ाना व्लॉग और गेमिंग",
+        "zh": "每日视频博客与游戏",
+        "ja": "日常Vlogとゲーム実況"
+      },
+      "about": {
+        "es": "Creador neerlandés nacido como Enzo Erkelens el 8 de junio de 1993, que adoptó el apellido Knol tras el divorcio de sus padres; publica vlogs diarios desde 2014 y un canal de gaming desde 2019.",
+        "en": "A Dutch creator born Enzo Erkelens on 8 June 1993, who took the surname Knol after his parents' divorce; he has posted daily vlogs since 2014 and runs a gaming channel since 2019.",
+        "pt": "Criador neerlandês nascido como Enzo Erkelens em 8 de junho de 1993, que adotou o sobrenome Knol após o divórcio dos pais; publica vlogs diários desde 2014 e mantém um canal de games desde 2019.",
+        "fr": "Créateur néerlandais né Enzo Erkelens le 8 juin 1993, ayant adopté le nom Knol après le divorce de ses parents ; il publie des vlogs quotidiens depuis 2014 et anime une chaîne de jeu vidéo depuis 2019.",
+        "de": "Niederländischer Creator, geboren als Enzo Erkelens am 8. Juni 1993, der nach der Scheidung seiner Eltern den Nachnamen Knol annahm; er veröffentlicht seit 2014 tägliche Vlogs und betreibt seit 2019 einen Gaming-Kanal.",
+        "ru": "Нидерландский блогер, родившийся как Энцо Эркеленс 8 июня 1993 года и взявший фамилию Кнол после развода родителей; с 2014 года публикует ежедневные влоги, а с 2019 года ведёт игровой канал.",
+        "ar": "صانع محتوى هولندي وُلد باسم إنزو إركيلنس في 8 يونيو 1993، وحمل لقب كنول بعد طلاق والديه؛ ينشر فلوجات يومية منذ 2014 ويدير قناة ألعاب منذ 2019.",
+        "hi": "एक डच क्रिएटर, जिसका जन्म एंज़ो एर्केलेंस के रूप में 8 जून 1993 को हुआ और माता-पिता के तलाक के बाद उपनाम नॉल अपनाया; वह 2014 से रोज़ाना व्लॉग और 2019 से गेमिंग चैनल चला रहे हैं।",
+        "zh": "这位荷兰创作者原名恩佐·埃尔克伦斯,生于1993年6月8日,父母离婚后改用母姓诺尔;自2014年起坚持每日更新视频博客,并自2019年起运营游戏频道。",
+        "ja": "オランダ人クリエイター、本名エンゾ・エルケレンスは1993年6月8日生まれで、両親の離婚後に母方の姓クノルを名乗るようになった。2014年から毎日Vlogを投稿し、2019年からゲーム実況チャンネルも運営している。"
+      },
+      "handles": {
+        "youtube": "UCh8bTHe4T8o7RIU7R5EPX-w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2990000
+        }
+      }
+    },
+    {
+      "id": "jusreign",
+      "name": "JusReign",
+      "country": "CA",
+      "topic": {
+        "es": "Comedia y cultura pop",
+        "en": "Comedy & pop culture",
+        "pt": "Comédia e cultura pop",
+        "fr": "Comédie et culture pop",
+        "de": "Comedy & Popkultur",
+        "ru": "Комедия и поп-культура",
+        "ar": "كوميديا وثقافة شعبية",
+        "hi": "कॉमेडी और पॉप कल्चर",
+        "zh": "喜剧与流行文化",
+        "ja": "コメディとポップカルチャー"
+      },
+      "about": {
+        "es": "Comediante y youtuber nacido en Guelph, Ontario, y radicado en Toronto (Canadá); conocido por sus parodias de cultura pop y su comedia sobre raza e identidad punjabi-sij, hoy protagoniza la serie de Crave 'Late Bloomer'.",
+        "en": "A comedian and YouTuber born in Guelph, Ontario and based in Toronto, Canada; known for pop-culture parody videos and comedy exploring race and Punjabi-Sikh identity, and now stars in the Crave series 'Late Bloomer'.",
+        "pt": "Comediante e youtuber nascido em Guelph, Ontário, radicado em Toronto, Canadá; conhecido por vídeos de paródia de cultura pop e comédia sobre raça e identidade punjabi-sikh, hoje protagoniza a série da Crave 'Late Bloomer'.",
+        "fr": "Humoriste et youtubeur né à Guelph, en Ontario, et basé à Toronto, au Canada; connu pour ses parodies de culture pop et son humour sur la race et l'identité pendjabi-sikh, il est aujourd'hui la vedette de la série Crave 'Late Bloomer'.",
+        "de": "Comedian und YouTuber, geboren in Guelph, Ontario, wohnhaft in Toronto, Kanada; bekannt für Popkultur-Parodien und Comedy über Rasse und punjabisch-sikhische Identität, spielt heute die Hauptrolle in der Crave-Serie 'Late Bloomer'.",
+        "ru": "Комик и ютубер, родившийся в Гуэлфе, Онтарио, живущий в Торонто, Канада; известен пародиями на поп-культуру и комедией о расе и панджабско-сикхской идентичности, сейчас снимается в сериале Crave 'Late Bloomer'.",
+        "ar": "كوميدي ويوتيوبر وُلد في غويلف بأونتاريو ويقيم في تورونتو، كندا؛ اشتهر بمقاطع محاكاة الثقافة الشعبية والكوميديا حول العرق والهوية البنجابية السيخية، ويؤدي حالياً الدور الرئيسي في مسلسل 'Late Bloomer' على Crave.",
+        "hi": "गुएल्फ़, ओंटारियो में जन्मे और टोरंटो, कनाडा में रहने वाले कॉमेडियन और यूट्यूबर; पॉप कल्चर पैरोडी वीडियो और नस्ल तथा पंजाबी-सिख पहचान पर आधारित कॉमेडी के लिए जाने जाते हैं, अब Crave की सीरीज़ 'Late Bloomer' में मुख्य भूमिका निभाते हैं।",
+        "zh": "出生于安大略省圭尔夫、现居加拿大多伦多的喜剧演员兼YouTuber;以流行文化模仿视频以及探讨种族与旁遮普锡克身份的喜剧内容闻名,目前主演Crave剧集《Late Bloomer》。",
+        "ja": "オンタリオ州グエルフ生まれ、カナダ・トロント在住のコメディアン兼YouTuber。ポップカルチャーのパロディ動画や人種・パンジャブ系シク教徒としてのアイデンティティを扱うコメディで知られ、現在はCraveのドラマ『Late Bloomer』の主演を務める。"
+      },
+      "handles": {
+        "youtube": "UCJ98xGeWxpuKDAb2-Xs01Ug",
+        "tiktok": null,
+        "instagram": "jusreign",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 961000
+        }
+      }
+    },
+    {
+      "id": "soysuco",
+      "name": "SoySuco",
+      "country": "EC",
+      "topic": {
+        "es": "Gaming, Free Fire",
+        "en": "Gaming, Free Fire",
+        "pt": "Games, Free Fire",
+        "fr": "Jeux vidéo, Free Fire",
+        "de": "Gaming, Free Fire",
+        "ru": "Игры, Free Fire",
+        "ar": "ألعاب، Free Fire",
+        "hi": "गेमिंग, Free Fire",
+        "zh": "游戏,Free Fire",
+        "ja": "ゲーム、Free Fire"
+      },
+      "about": {
+        "es": "Creador ecuatoriano nacido en Azuay y radicado en Guayaquil, conocido por sus videos de gameplay de Free Fire; en septiembre de 2024 se convirtió en el canal de YouTube con más suscriptores de Ecuador.",
+        "en": "An Ecuadorian creator born in Azuay and based in Guayaquil, known for Free Fire gameplay videos; in September 2024 his channel became the most-subscribed YouTube channel in Ecuador.",
+        "pt": "Criador equatoriano nascido em Azuay e radicado em Guayaquil, conhecido por vídeos de gameplay de Free Fire; em setembro de 2024 seu canal se tornou o mais inscrito do Equador no YouTube.",
+        "fr": "Créateur équatorien né à Azuay et basé à Guayaquil, connu pour ses vidéos de gameplay Free Fire ; en septembre 2024, sa chaîne est devenue la plus suivie d'Équateur sur YouTube.",
+        "de": "Ein ecuadorianischer Creator, geboren in Azuay und wohnhaft in Guayaquil, bekannt für Free-Fire-Gameplay-Videos; im September 2024 wurde sein Kanal zum meistabonnierten YouTube-Kanal Ecuadors.",
+        "ru": "Эквадорский создатель контента, родившийся в Асуае и живущий в Гуаякиле, известен видео с геймплеем Free Fire; в сентябре 2024 года его канал стал самым популярным на YouTube в Эквадоре.",
+        "ar": "صانع محتوى إكوادوري وُلد في أزواي ويقيم في غواياكيل، معروف بمقاطع فيديو للعبة Free Fire؛ في سبتمبر 2024 أصبحت قناته الأكثر اشتراكاً في الإكوادور على يوتيوب.",
+        "hi": "इक्वाडोर के अज़्वाय में जन्मे और ग्वायाकिल में रहने वाले क्रिएटर, जो Free Fire गेमप्ले वीडियो के लिए जाने जाते हैं; सितंबर 2024 में उनका चैनल इक्वाडोर का सबसे अधिक सब्सक्राइब किया गया यूट्यूब चैनल बन गया।",
+        "zh": "这位厄瓜多尔创作者出生于阿苏艾省,现居瓜亚基尔,以制作《Free Fire》游戏视频而闻名;2024年9月他的频道成为厄瓜多尔订阅数最多的YouTube频道。",
+        "ja": "アスアイ州出身、グアヤキル在住のエクアドル人クリエイターで、Free Fireのゲームプレイ動画で知られる。2024年9月、彼のチャンネルはエクアドルで最も登録者数の多いYouTubeチャンネルとなった。"
+      },
+      "handles": {
+        "youtube": "UCIpp0Pb8H3K-Htb-WOF9DBw",
+        "tiktok": "soysuco",
+        "instagram": null,
+        "facebook": "soysuco24",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 31300000
+        }
+      }
+    },
+    {
+      "id": "criss-huera",
+      "name": "Criss Huera",
+      "country": "EC",
+      "topic": {
+        "es": "Humor, retos, vlogs",
+        "en": "Comedy, challenges, vlogs",
+        "pt": "Humor, desafios, vlogs",
+        "fr": "Humour, défis, vlogs",
+        "de": "Comedy, Challenges, Vlogs",
+        "ru": "Юмор, челленджи, влоги",
+        "ar": "كوميديا، تحديات، فلوجات",
+        "hi": "कॉमेडी, चैलेंज, व्लॉग",
+        "zh": "喜剧、挑战、视频博客",
+        "ja": "コメディ、チャレンジ、Vlog"
+      },
+      "about": {
+        "es": "Cristina Huera, nacida en Santo Domingo, Ecuador, y radicada en Guayaquil, es considerada la youtuber más popular de Ecuador entre creadoras mujeres, con contenido de humor, retos y vlogs.",
+        "en": "Cristina Huera, born in Santo Domingo, Ecuador, and based in Guayaquil, is regarded as Ecuador's most popular female YouTuber, making comedy, challenge and vlog content.",
+        "pt": "Cristina Huera, nascida em Santo Domingo, Equador, e radicada em Guayaquil, é considerada a youtuber mais popular do Equador entre criadoras mulheres, com conteúdo de humor, desafios e vlogs.",
+        "fr": "Cristina Huera, née à Santo Domingo, en Équateur, et basée à Guayaquil, est considérée comme la YouTubeuse la plus populaire d'Équateur, avec un contenu humoristique, des défis et des vlogs.",
+        "de": "Cristina Huera, geboren in Santo Domingo, Ecuador, und wohnhaft in Guayaquil, gilt als Ecuadors beliebteste weibliche YouTuberin mit Comedy-, Challenge- und Vlog-Inhalten.",
+        "ru": "Кристина Уэра, родившаяся в Санто-Доминго, Эквадор, и живущая в Гуаякиле, считается самой популярной эквадорской видеоблогершей, снимающей юмористический контент, челленджи и влоги.",
+        "ar": "كريستينا هويرا، وُلدت في سانتو دومينغو بالإكوادور وتقيم في غواياكيل، وتُعتبر أشهر يوتيوبر إكوادورية بمحتوى كوميدي وتحديات وفلوجات.",
+        "hi": "क्रिस्टीना हुएरा, इक्वाडोर के सांतो डोमिंगो में जन्मीं और ग्वायाकिल में रहती हैं, इक्वाडोर की सबसे लोकप्रिय महिला यूट्यूबर मानी जाती हैं, जो कॉमेडी, चैलेंज और व्लॉग बनाती हैं।",
+        "zh": "克里斯蒂娜·韦拉出生于厄瓜多尔圣多明各,现居瓜亚基尔,被认为是厄瓜多尔最受欢迎的女性YouTuber,制作喜剧、挑战和视频博客内容。",
+        "ja": "エクアドルのサント・ドミンゴ出身、グアヤキル在住のクリスティーナ・ウエラは、コメディやチャレンジ、Vlogコンテンツで知られ、エクアドルで最も人気のある女性YouTuberとされる。"
+      },
+      "handles": {
+        "youtube": "UCClxZEJ70xeFGCpYQYn_QEA",
+        "tiktok": "crisshuera",
+        "instagram": "crisshuera",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4790000
+        }
+      }
+    },
+    {
+      "id": "gronkh",
+      "name": "Gronkh",
+      "country": "DE",
+      "topic": {
+        "es": "Let's Play y gaming",
+        "en": "Let's Play and gaming",
+        "pt": "Let's Play e games",
+        "fr": "Let's Play et gaming",
+        "de": "Let's Play und Gaming",
+        "ru": "Let's Play и игры",
+        "ar": "لعب الفيديو والتعليق",
+        "hi": "लेट्स प्ले और गेमिंग",
+        "zh": "实况解说与游戏",
+        "ja": "実況プレイとゲーム"
+      },
+      "about": {
+        "es": "Youtuber alemán nacido Erik Range en Braunschweig en 1977; es el creador de contenido de Let's Play más conocido de Alemania y publica videos de comentario de videojuegos desde 2010.",
+        "en": "German YouTuber born Erik Range in Braunschweig in 1977; he is Germany's best-known Let's Play creator and has published gaming commentary videos since 2010.",
+        "pt": "Youtuber alemão nascido Erik Range em Braunschweig em 1977; e o criador de conteudo de Let's Play mais conhecido da Alemanha e publica videos de comentario de jogos desde 2010.",
+        "fr": "YouTubeur allemand ne Erik Range a Braunschweig en 1977 ; il est le createur de contenu Let's Play le plus connu d'Allemagne et publie des videos de commentaire de jeux video depuis 2010.",
+        "de": "Deutscher YouTuber, geboren als Erik Range 1977 in Braunschweig; er ist Deutschlands bekanntester Let's-Play-Creator und veroeffentlicht seit 2010 Videospiel-Kommentarvideos.",
+        "ru": "Немецкий ютубер, урождённый Эрик Ранге, родился в Брауншвейге в 1977 году; он самый известный в Германии автор Let's Play и с 2010 года публикует видео с комментариями к играм.",
+        "ar": "يوتيوبر ألماني وُلد باسم إريك رانغه في براونشفايغ عام 1977؛ يُعد أشهر صانع محتوى Let's Play في ألمانيا وينشر مقاطع تعليق على ألعاب الفيديو منذ عام 2010.",
+        "hi": "जर्मन यूट्यूबर, जिनका जन्म एरिक रांगे के नाम से 1977 में ब्राउनश्वाइग में हुआ; वे जर्मनी के सबसे प्रसिद्ध लेट्स प्ले क्रिएटर हैं और 2010 से गेमिंग कमेंट्री वीडियो प्रकाशित कर रहे हैं।",
+        "zh": "这位德国YouTuber原名埃里克·兰格,1977年出生于不伦瑞克;他是德国最知名的实况解说创作者,自2010年起发布游戏解说视频。",
+        "ja": "本名エリック・ランゲ、1977年ブラウンシュヴァイク生まれのドイツ人YouTuber。ドイツで最も有名な実況プレイクリエイターで、2010年からゲーム実況動画を発表している。"
+      },
+      "handles": {
+        "youtube": "UCYJ61XIK64sp6ZFFS8sctxw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5040000
+        }
+      }
+    },
+    {
+      "id": "montanablack",
+      "name": "MontanaBlack",
+      "country": "DE",
+      "topic": {
+        "es": "Streaming y reacciones",
+        "en": "Streaming and reactions",
+        "pt": "Streaming e reacoes",
+        "fr": "Streaming et reactions",
+        "de": "Streaming und Reactions",
+        "ru": "Стриминг и реакции",
+        "ar": "بث مباشر وردود فعل",
+        "hi": "स्ट्रीमिंग और रिएक्शन",
+        "zh": "直播与反应视频",
+        "ja": "配信とリアクション"
+      },
+      "about": {
+        "es": "Streamer aleman nacido Marcel Eris en Buxtehude en 1988, de padre aleman y madre turca; se hizo conocido con videos de gaming y reaccion y es uno de los streamers de Twitch mas seguidos de Alemania.",
+        "en": "German streamer born Marcel Eris in Buxtehude in 1988, to a German father and Turkish mother; he built his following through gaming and reaction content and is one of Germany's most-followed Twitch streamers.",
+        "pt": "Streamer alemao nascido Marcel Eris em Buxtehude em 1988, filho de pai alemao e mae turca; construiu seu publico com conteudo de games e reacao e e um dos streamers da Twitch mais seguidos da Alemanha.",
+        "fr": "Streameur allemand ne Marcel Eris a Buxtehude en 1988, d'un pere allemand et d'une mere turque ; il a construit son audience avec du contenu gaming et reaction et est l'un des streamers Twitch les plus suivis d'Allemagne.",
+        "de": "Deutscher Streamer, geboren als Marcel Eris 1988 in Buxtehude, Sohn eines deutschen Vaters und einer tuerkischen Mutter; er baute sein Publikum mit Gaming- und Reaction-Inhalten auf und ist einer der meistgefolgten Twitch-Streamer Deutschlands.",
+        "ru": "Немецкий стример, урождённый Марсель Эрис, родился в Букстехуде в 1988 году в семье немецкого отца и турецкой матери; он набрал аудиторию благодаря игровому контенту и реакциям и является одним из самых популярных стримеров Twitch в Германии.",
+        "ar": "ستريمر ألماني وُلد باسم مارسيل إريس في بوكستيهوده عام 1988 لأب ألماني وأم تركية؛ بنى جمهوره من خلال محتوى الألعاب وردود الفعل وهو من أكثر مذيعي Twitch متابعة في ألمانيا.",
+        "hi": "जर्मन स्ट्रीमर, जिनका जन्म मार्सेल एरिस के नाम से 1988 में बक्सटेहूडे में हुआ, पिता जर्मन और माँ तुर्की मूल की हैं; उन्होंने गेमिंग और रिएक्शन कंटेंट से अपनी लोकप्रियता बनाई और जर्मनी के सबसे लोकप्रिय ट्विच स्ट्रीमरों में से एक हैं।",
+        "zh": "这位德国主播原名马塞尔·埃里斯,1988年出生于布克斯特胡德,父亲是德国人,母亲是土耳其人;他凭借游戏和反应类内容积累人气,是德国Twitch上关注量最高的主播之一。",
+        "ja": "本名マルセル・エリス、1988年ブクステフーデ生まれのドイツ人配信者(父はドイツ人、母はトルコ系)。ゲーム実況とリアクション動画で人気を集め、ドイツで最もフォロワーの多いTwitch配信者の一人。"
+      },
+      "handles": {
+        "youtube": "UCpAMOlA_0hFXopIxMq8ar0w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2980000
+        }
+      }
+    },
+    {
+      "id": "rezo",
+      "name": "Rezo",
+      "country": "DE",
+      "topic": {
+        "es": "Musica y comentario",
+        "en": "Music and commentary",
+        "pt": "Musica e comentario",
+        "fr": "Musique et commentaire",
+        "de": "Musik und Kommentar",
+        "ru": "Музыка и комментарии",
+        "ar": "موسيقى وتعليق",
+        "hi": "संगीत और टिप्पणी",
+        "zh": "音乐与时评",
+        "ja": "音楽と時事コメント"
+      },
+      "about": {
+        "es": "Creador aleman nacido en Wuppertal en 1992 y radicado en Aquisgran; conocido por videos musicales y por un video politico de 2019 que critico a los partidos alemanes antes de las elecciones europeas.",
+        "en": "German creator born in Wuppertal in 1992 and based in Aachen; known for music-related videos and for a 2019 political video that criticized German parties ahead of the European elections.",
+        "pt": "Criador alemao nascido em Wuppertal em 1992 e radicado em Aachen; conhecido por videos musicais e por um video politico de 2019 que criticou os partidos alemaes antes das eleicoes europeias.",
+        "fr": "Createur allemand ne a Wuppertal en 1992 et base a Aix-la-Chapelle ; connu pour ses videos musicales et pour une video politique de 2019 critiquant les partis allemands avant les elections europeennes.",
+        "de": "Deutscher Creator, geboren 1992 in Wuppertal und ansaessig in Aachen; bekannt fuer musikbezogene Videos und ein politisches Video von 2019, das vor der Europawahl deutsche Parteien kritisierte.",
+        "ru": "Немецкий блогер родился в Вуппертале в 1992 году, живёт в Ахене; известен музыкальными видео и политическим роликом 2019 года, в котором критиковал немецкие партии перед выборами в Европарламент.",
+        "ar": "صانع محتوى ألماني وُلد في فوبرتال عام 1992 ويقيم في آخن؛ يُعرف بمقاطع موسيقية وبفيديو سياسي عام 2019 انتقد فيه الأحزاب الألمانية قبيل انتخابات البرلمان الأوروبي.",
+        "hi": "जर्मन क्रिएटर, जिनका जन्म 1992 में वुपरटाल में हुआ और जो आखेन में रहते हैं; संगीत वीडियो और 2019 के एक राजनीतिक वीडियो के लिए जाने जाते हैं जिसमें यूरोपीय चुनावों से पहले जर्मन पार्टियों की आलोचना की गई थी।",
+        "zh": "这位德国创作者1992年出生于伍珀塔尔,现居亚琛;以音乐类视频著称,并因2019年欧洲议会选举前批评德国各政党的一段政治视频而广为人知。",
+        "ja": "1992年ヴッパータール生まれ、アーヘン在住のドイツ人クリエイター。音楽関連の動画で知られ、2019年の欧州議会選挙前にドイツの政党を批判した政治的動画で大きな話題となった。"
+      },
+      "handles": {
+        "youtube": "UCLCb_YDL9XfSYsWpS5xrO5Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1700000
+        }
+      }
+    },
+    {
+      "id": "trymacs",
+      "name": "Trymacs",
+      "country": "DE",
+      "topic": {
+        "es": "Streaming variado",
+        "en": "Variety streaming",
+        "pt": "Streaming variado",
+        "fr": "Streaming varie",
+        "de": "Variety-Streaming",
+        "ru": "Разноплановый стриминг",
+        "ar": "بث متنوع",
+        "hi": "वैरायटी स्ट्रीमिंग",
+        "zh": "综合类直播",
+        "ja": "バラエティ配信"
+      },
+      "about": {
+        "es": "Streamer aleman nacido Maximilian Stemmler cerca de Hamburgo en 1994, donde reside; transmite contenido variado que incluye gaming, reacciones y desafios en Twitch y YouTube.",
+        "en": "German streamer born Maximilian Stemmler near Hamburg in 1994, where he still lives; he streams varied content on Twitch and YouTube including gaming, reactions and challenges.",
+        "pt": "Streamer alemao nascido Maximilian Stemmler perto de Hamburgo em 1994, onde ainda vive; transmite conteudo variado na Twitch e no YouTube, incluindo games, reacoes e desafios.",
+        "fr": "Streameur allemand ne Maximilian Stemmler pres de Hambourg en 1994, ou il vit toujours ; il diffuse du contenu varie sur Twitch et YouTube, dont du gaming, des reactions et des defis.",
+        "de": "Deutscher Streamer, geboren als Maximilian Stemmler 1994 in der Naehe von Hamburg, wo er noch lebt; er streamt auf Twitch und YouTube abwechslungsreiche Inhalte wie Gaming, Reactions und Challenges.",
+        "ru": "Немецкий стример, урождённый Максимилиан Штеммлер, родился под Гамбургом в 1994 году, где живёт и сейчас; ведёт разноплановые трансляции на Twitch и YouTube, включая игры, реакции и челленджи.",
+        "ar": "ستريمر ألماني وُلد باسم ماكسيميليان شتيملر بالقرب من هامبورغ عام 1994 حيث لا يزال يقيم؛ يبث محتوى متنوعا على Twitch وYouTube يشمل الألعاب وردود الفعل والتحديات.",
+        "hi": "जर्मन स्ट्रीमर, जिनका जन्म मैक्सिमिलियन स्टेमलर के नाम से 1994 में हैम्बर्ग के निकट हुआ, जहाँ वे अब भी रहते हैं; वे ट्विच और यूट्यूब पर गेमिंग, रिएक्शन और चैलेंज सहित विविध कंटेंट स्ट्रीम करते हैं।",
+        "zh": "这位德国主播原名马克西米利安·施特姆勒,1994年出生于汉堡附近并至今仍居住在那里;他在Twitch和YouTube上直播游戏、反应视频和挑战等多样内容。",
+        "ja": "本名マクシミリアン・シュテムラー、1994年ハンブルク近郊生まれで現在も同地在住のドイツ人配信者。TwitchとYouTubeでゲーム、リアクション、チャレンジなど多彩なコンテンツを配信している。"
+      },
+      "handles": {
+        "youtube": "UC6Gc4KQ1ueDnh8x7plaAD3w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2540000
+        }
+      }
+    },
+    {
+      "id": "julien-bam",
+      "name": "Julien Bam",
+      "country": "DE",
+      "topic": {
+        "es": "Comedia, danza y musica",
+        "en": "Comedy, dance and music",
+        "pt": "Comedia, danca e musica",
+        "fr": "Comedie, danse et musique",
+        "de": "Comedy, Tanz und Musik",
+        "ru": "Комедия, танцы и музыка",
+        "ar": "كوميديا ورقص وموسيقى",
+        "hi": "कॉमेडी, नृत्य और संगीत",
+        "zh": "喜剧、舞蹈与音乐",
+        "ja": "コメディ・ダンス・音楽"
+      },
+      "about": {
+        "es": "Creador aleman nacido en Aquisgran en 1988 y radicado en Colonia; construyo su canal con videos de comedia, danza y musica antes de anunciar en 2025 el fin de sus grandes producciones en YouTube.",
+        "en": "German creator born in Aachen in 1988 and based in Cologne; he built his channel around comedy, dance and music videos before announcing the end of his large-scale YouTube productions in 2025.",
+        "pt": "Criador alemao nascido em Aachen em 1988 e radicado em Colonia; construiu seu canal com videos de comedia, danca e musica antes de anunciar em 2025 o fim de suas grandes producoes no YouTube.",
+        "fr": "Createur allemand ne a Aix-la-Chapelle en 1988 et base a Cologne ; il a construit sa chaine autour de videos de comedie, de danse et de musique avant d'annoncer en 2025 la fin de ses grandes productions YouTube.",
+        "de": "Deutscher Creator, geboren 1988 in Aachen und ansaessig in Koeln; er baute seinen Kanal mit Comedy-, Tanz- und Musikvideos auf, bevor er 2025 das Ende seiner grossen YouTube-Produktionen ankuendigte.",
+        "ru": "Немецкий блогер родился в Ахене в 1988 году, живёт в Кёльне; создал канал на основе комедийных, танцевальных и музыкальных видео, а в 2025 году объявил о завершении своих масштабных проектов на YouTube.",
+        "ar": "صانع محتوى ألماني وُلد في آخن عام 1988 ويقيم في كولونيا؛ بنى قناته حول مقاطع كوميدية وراقصة وموسيقية قبل أن يعلن عام 2025 نهاية إنتاجاته الكبرى على يوتيوب.",
+        "hi": "जर्मन क्रिएटर, जिनका जन्म 1988 में आखेन में हुआ और जो कोलोन में रहते हैं; उन्होंने अपना चैनल कॉमेडी, नृत्य और संगीत वीडियो पर बनाया, इससे पहले कि उन्होंने 2025 में यूट्यूब पर अपनी बड़ी प्रोडक्शन का अंत घोषित किया।",
+        "zh": "这位德国创作者1988年出生于亚琛,现居科隆;他以喜剧、舞蹈和音乐视频建立了自己的频道,并于2025年宣布结束其大型YouTube制作项目。",
+        "ja": "1988年アーヘン生まれ、ケルン在住のドイツ人クリエイター。コメディ、ダンス、音楽動画でチャンネルを築き上げ、2025年に大規模なYouTube制作プロジェクトの終了を発表した。"
+      },
+      "handles": {
+        "youtube": "UCTXeJ33DzXI2veQpKfrvaYw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 6190000
+        }
+      }
     }
   ]
 }
