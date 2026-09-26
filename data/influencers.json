@@ -8187,6 +8187,446 @@
           "youtube": 187000
         }
       }
+    },
+    {
+      "id": "garfieldzar",
+      "name": "Garfieldzar",
+      "country": "ZA",
+      "topic": {
+        "es": "Comedia y sketches",
+        "en": "Comedy skits",
+        "pt": "Comédia e esquetes",
+        "fr": "Sketchs comiques",
+        "de": "Comedy-Sketche",
+        "ru": "Комедийные скетчи",
+        "ar": "سكتشات كوميدية",
+        "hi": "कॉमेडी स्किट्स",
+        "zh": "喜剧短剧",
+        "ja": "コメディスケッチ"
+      },
+      "about": {
+        "es": "Creador nacido como Luke Field y radicado en Durban, Sudáfrica; se hizo viral por videos de comedia y sketches sobre la vida cotidiana sudafricana.",
+        "en": "A creator born Luke Field and based in Durban, South Africa; went viral for comedy skits about everyday South African life.",
+        "pt": "Criador nascido Luke Field e radicado em Durban, África do Sul; viralizou com esquetes de comédia sobre o cotidiano sul-africano.",
+        "fr": "Créateur né Luke Field et basé à Durban, en Afrique du Sud ; devenu viral grâce à des sketchs comiques sur le quotidien sud-africain.",
+        "de": "Ersteller, geboren als Luke Field und ansässig in Durban, Südafrika; wurde mit Comedy-Sketchen über den südafrikanischen Alltag viral.",
+        "ru": "Создатель по имени Люк Филд, живущий в Дурбане, ЮАР; стал известен благодаря комедийным скетчам о повседневной жизни в Южной Африке.",
+        "ar": "صانع محتوى يُدعى في الأصل لوك فيلد ويقيم في ديربان بجنوب أفريقيا؛ اشتهر بمقاطع كوميدية عن الحياة اليومية في جنوب أفريقيا.",
+        "hi": "लूक फील्ड नाम से जन्मे और दक्षिण अफ्रीका के डरबन में रहने वाले क्रिएटर; दक्षिण अफ्रीकी रोज़मर्रा जीवन पर कॉमेडी स्किट्स से वायरल हुए।",
+        "zh": "本名卢克·菲尔德，居住在南非德班的创作者；凭借关于南非日常生活的喜剧短剧走红。",
+        "ja": "本名ルーク・フィールド、南アフリカ・ダーバン在住のクリエイター。南アフリカの日常生活を描いたコメディスケッチでバズった。"
+      },
+      "handles": {
+        "youtube": "UCAh1ZtejVlCkSLi8KEVr8YA",
+        "tiktok": "garfieldzar",
+        "instagram": "garfieldzars",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 113000
+        }
+      }
+    },
+    {
+      "id": "madam-speaker",
+      "name": "Madam Speaker",
+      "country": "ZA",
+      "topic": {
+        "es": "Oratoria motivacional",
+        "en": "Motivational speaking",
+        "pt": "Palestras motivacionais",
+        "fr": "Discours motivationnel",
+        "de": "Motivationsreden",
+        "ru": "Мотивационные выступления",
+        "ar": "خطابات تحفيزية",
+        "hi": "प्रेरक वक्तृत्व",
+        "zh": "励志演讲",
+        "ja": "モチベーショナルスピーキング"
+      },
+      "about": {
+        "es": "Perseverance Maremeni, conocida como Madam Speaker, es una oradora motivacional sudafricana y fundadora del podcast Safe Space Chats centrado en la violencia de género.",
+        "en": "Perseverance Maremeni, known as Madam Speaker, is a South African motivational speaker and founder of the Safe Space Chats podcast focused on gender-based violence.",
+        "pt": "Perseverance Maremeni, conhecida como Madam Speaker, é uma palestrante motivacional sul-africana e fundadora do podcast Safe Space Chats, voltado à violência de gênero.",
+        "fr": "Perseverance Maremeni, connue sous le nom de Madam Speaker, est une conférencière motivationnelle sud-africaine et fondatrice du podcast Safe Space Chats consacré aux violences basées sur le genre.",
+        "de": "Perseverance Maremeni, bekannt als Madam Speaker, ist eine südafrikanische Motivationsrednerin und Gründerin des Podcasts Safe Space Chats zum Thema geschlechtsspezifische Gewalt.",
+        "ru": "Персеверанс Маремени, известная как Madam Speaker, — южноафриканский мотивационный спикер и основательница подкаста Safe Space Chats о гендерном насилии.",
+        "ar": "بيرسيفيرانس ماريميني، المعروفة باسم Madam Speaker، متحدثة تحفيزية من جنوب أفريقيا ومؤسسة بودكاست Safe Space Chats الذي يتناول العنف القائم على النوع الاجتماعي.",
+        "hi": "पर्सिवरेंस मारेमेनी, जिन्हें मैडम स्पीकर के नाम से जाना जाता है, दक्षिण अफ्रीकी प्रेरक वक्ता और लैंगिक हिंसा पर केंद्रित पॉडकास्ट Safe Space Chats की संस्थापक हैं।",
+        "zh": "珀西维兰斯·马雷梅尼，人称Madam Speaker，是南非励志演讲者，创办了关注性别暴力议题的播客Safe Space Chats。",
+        "ja": "パーセベランス・マレメニは「マダム・スピーカー」として知られる南アフリカのモチベーショナルスピーカーで、ジェンダーに基づく暴力を扱うポッドキャスト「Safe Space Chats」の創設者。"
+      },
+      "handles": {
+        "youtube": "UCRCrHlm35Ju4w0HtQN6vbpw",
+        "tiktok": "madam___speaker",
+        "instagram": "madam____speaker",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 199000
+        }
+      }
+    },
+    {
+      "id": "kurt-caz",
+      "name": "Kurt Caz",
+      "country": "ZA",
+      "topic": {
+        "es": "Vlogs de viaje",
+        "en": "Travel vlogs",
+        "pt": "Vlogs de viagem",
+        "fr": "Vlogs de voyage",
+        "de": "Reise-Vlogs",
+        "ru": "Тревел-влоги",
+        "ar": "مدونات سفر",
+        "hi": "ट्रैवल व्लॉग",
+        "zh": "旅行视频",
+        "ja": "旅行Vlog"
+      },
+      "about": {
+        "es": "Creador sudafricano de Jeffreys Bay especializado en vlogs de viaje que exploran países como Egipto, Irak y Bangladés.",
+        "en": "A South African creator from Jeffreys Bay specializing in travel vlogs exploring countries such as Egypt, Iraq and Bangladesh.",
+        "pt": "Criador sul-africano de Jeffreys Bay especializado em vlogs de viagem que exploram países como Egito, Iraque e Bangladesh.",
+        "fr": "Créateur sud-africain originaire de Jeffreys Bay, spécialisé dans les vlogs de voyage explorant des pays comme l'Égypte, l'Irak et le Bangladesh.",
+        "de": "Südafrikanischer Creator aus Jeffreys Bay, spezialisiert auf Reise-Vlogs, die Länder wie Ägypten, Irak und Bangladesch erkunden.",
+        "ru": "Южноафриканский автор из Джеффрис-Бей, специализирующийся на тревел-влогах о таких странах, как Египет, Ирак и Бангладеш.",
+        "ar": "صانع محتوى من جنوب أفريقيا من مدينة جيفريز باي، متخصص في مدونات فيديو عن السفر تستكشف دولاً مثل مصر والعراق وبنغلاديش.",
+        "hi": "जेफ्रीज़ बे, दक्षिण अफ्रीका के क्रिएटर, जो मिस्र, इराक़ और बांग्लादेश जैसे देशों की यात्रा पर आधारित ट्रैवल व्लॉग के लिए जाने जाते हैं।",
+        "zh": "来自南非杰弗里斯湾的创作者，专注于探索埃及、伊拉克和孟加拉国等国家的旅行视频。",
+        "ja": "南アフリカのジェフリーズ・ベイ出身のクリエイターで、エジプト、イラク、バングラデシュなどを巡る旅行系Vlogを専門とする。"
+      },
+      "handles": {
+        "youtube": "UC29vLPlafHcsqZu3L-Rk_pA",
+        "tiktok": null,
+        "instagram": "kurtcazyoutube",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 4190000
+        }
+      }
+    },
+    {
+      "id": "petchz",
+      "name": "PetchZ",
+      "country": "TH",
+      "topic": {
+        "es": "Idiomas y cultura china",
+        "en": "Chinese language & culture",
+        "pt": "Idiomas e cultura chinesa",
+        "fr": "Langue et culture chinoises",
+        "de": "Chinesische Sprache & Kultur",
+        "ru": "Китайский язык и культура",
+        "ar": "اللغة والثقافة الصينية",
+        "hi": "चीनी भाषा और संस्कृति",
+        "zh": "中文语言与文化",
+        "ja": "中国語と文化"
+      },
+      "about": {
+        "es": "Creadora tailandesa que comparte lecciones de chino y contenido cultural tras haber estudiado y vivido en China.",
+        "en": "A Thai creator who shares Chinese-language lessons and cultural content after having studied and lived in China.",
+        "pt": "Criadora tailandesa que compartilha aulas de chinês e conteúdo cultural após ter estudado e morado na China.",
+        "fr": "Créatrice thaïlandaise qui partage des leçons de chinois et du contenu culturel après avoir étudié et vécu en Chine.",
+        "de": "Thailändische Creatorin, die nach einem Studien- und Lebensaufenthalt in China Chinesischunterricht und kulturelle Inhalte teilt.",
+        "ru": "Тайская создательница контента, которая делится уроками китайского языка и материалами о культуре Китая, пожив и поучившись в Китае.",
+        "ar": "صانعة محتوى تايلاندية تشارك دروسًا في اللغة الصينية ومحتوى ثقافيًا بعد أن درست وعاشت في الصين.",
+        "hi": "एक थाई क्रिएटर जो चीन में पढ़ाई और रहने के बाद चीनी भाषा की कक्षाएं और सांस्कृतिक सामग्री साझा करती हैं।",
+        "zh": "一位泰国创作者,曾在中国学习和生活,分享中文教学和文化内容。",
+        "ja": "中国での留学・生活経験を持つタイ人クリエイターで、中国語のレッスンや文化コンテンツを発信している。"
+      },
+      "handles": {
+        "youtube": "UCtqzfvy3SMX-kHJC85HB7jA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 461000
+        }
+      }
+    },
+    {
+      "id": "fndiary",
+      "name": "FNDiary",
+      "country": "TH",
+      "topic": {
+        "es": "Relatos de terror",
+        "en": "Horror storytelling",
+        "pt": "Narrativas de terror",
+        "fr": "Récits d'horreur",
+        "de": "Horrorgeschichten",
+        "ru": "Хоррор-истории",
+        "ar": "قصص الرعب",
+        "hi": "डरावनी कहानियाँ",
+        "zh": "恐怖故事",
+        "ja": "ホラー怪談"
+      },
+      "about": {
+        "es": "Canal de YouTube tailandés que narra historias de terror y misterio paranormal para una audiencia de habla tailandesa.",
+        "en": "A Thai YouTube channel that narrates horror and paranormal mystery stories to a Thai-speaking audience.",
+        "pt": "Canal do YouTube tailandês que narra histórias de terror e mistério paranormal para um público de língua tailandesa.",
+        "fr": "Chaîne YouTube thaïlandaise qui raconte des histoires d'horreur et de mystère paranormal à un public thaïlandophone.",
+        "de": "Ein thailändischer YouTube-Kanal, der Horror- und paranormale Mystery-Geschichten für ein thailändischsprachiges Publikum erzählt.",
+        "ru": "Тайский YouTube-канал, рассказывающий истории ужасов и паранормальные мистические истории для тайскоязычной аудитории.",
+        "ar": "قناة يوتيوب تايلاندية تروي قصص رعب وغموض خارق للطبيعة لجمهور ناطق بالتايلاندية.",
+        "hi": "एक थाई यूट्यूब चैनल जो थाई भाषी दर्शकों के लिए डरावनी और अलौकिक रहस्य कहानियाँ सुनाता है।",
+        "zh": "一个泰国YouTube频道,面向泰语观众讲述恐怖与灵异悬疑故事。",
+        "ja": "タイ語話者向けにホラーや心霊ミステリーの物語を語るタイのYouTubeチャンネル。"
+      },
+      "handles": {
+        "youtube": "UC82wrC2KPf1T07-LKmfatng",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2610000
+        }
+      }
+    },
+    {
+      "id": "grace-maneerat",
+      "name": "Grace Maneerat",
+      "country": "TH",
+      "topic": {
+        "es": "Vlogs de estilo de vida",
+        "en": "Lifestyle vlogs",
+        "pt": "Vlogs de estilo de vida",
+        "fr": "Vlogs lifestyle",
+        "de": "Lifestyle-Vlogs",
+        "ru": "Влоги о жизни",
+        "ar": "مدونات فيديو لأسلوب الحياة",
+        "hi": "लाइफस्टाइल व्लॉग",
+        "zh": "生活方式视频博客",
+        "ja": "ライフスタイルVlog"
+      },
+      "about": {
+        "es": "Joven vlogger tailandesa que comparte contenido cotidiano de estilo de vida, incluidos videos sobre aprendizaje de inglés y confianza personal.",
+        "en": "A young Thai vlogger who shares everyday lifestyle content, including English-learning and confidence-building videos.",
+        "pt": "Jovem vlogueira tailandesa que compartilha conteúdo de estilo de vida do dia a dia, incluindo vídeos sobre aprendizado de inglês e autoconfiança.",
+        "fr": "Jeune vlogueuse thaïlandaise qui partage du contenu lifestyle quotidien, y compris des vidéos sur l'apprentissage de l'anglais et la confiance en soi.",
+        "de": "Junge thailändische Vloggerin, die alltägliche Lifestyle-Inhalte teilt, darunter Videos zum Englischlernen und zur Stärkung des Selbstvertrauens.",
+        "ru": "Молодая тайская видеоблогерша, которая делится повседневным лайфстайл-контентом, включая видео об изучении английского и уверенности в себе.",
+        "ar": "مدونة فيديو تايلاندية شابة تشارك محتوى نمط الحياة اليومي، بما في ذلك مقاطع عن تعلم الإنجليزية وبناء الثقة بالنفس.",
+        "hi": "एक युवा थाई व्लॉगर जो रोज़मर्रा की लाइफस्टाइल सामग्री साझा करती है, जिसमें अंग्रेज़ी सीखने और आत्मविश्वास बढ़ाने वाले वीडियो शामिल हैं।",
+        "zh": "一位年轻的泰国视频博主,分享日常生活方式内容,包括英语学习和自信心培养的视频。",
+        "ja": "日常のライフスタイルコンテンツを発信するタイの若手ブイロガーで、英語学習や自信づくりに関する動画も投稿している。"
+      },
+      "handles": {
+        "youtube": "UC7e3Krtw6AHasOuaaTAnSEw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1090000
+        }
+      }
+    },
+    {
+      "id": "tang-makkaporn",
+      "name": "Tang Makkaporn",
+      "country": "TH",
+      "topic": {
+        "es": "Crímenes reales y misterio",
+        "en": "True crime & mystery",
+        "pt": "Crimes reais e mistério",
+        "fr": "Crimes réels et mystère",
+        "de": "True Crime & Mystery",
+        "ru": "Реальные преступления и тайны",
+        "ar": "جرائم حقيقية وغموض",
+        "hi": "ट्रू क्राइम और रहस्य",
+        "zh": "真实犯罪与悬疑",
+        "ja": "実録犯罪とミステリー"
+      },
+      "about": {
+        "es": "Médico tailandés que narra casos reales de crímenes y misterios históricos en YouTube, apoyándose en su formación médica.",
+        "en": "A Thai doctor who narrates true-crime and historical mystery cases on YouTube, drawing on his medical background.",
+        "pt": "Médico tailandês que narra casos reais de crimes e mistérios históricos no YouTube, com base em sua formação médica.",
+        "fr": "Médecin thaïlandais qui raconte des affaires de crimes réels et de mystères historiques sur YouTube, en s'appuyant sur sa formation médicale.",
+        "de": "Thailändischer Arzt, der auf YouTube True-Crime-Fälle und historische Mystery-Geschichten erzählt und dabei sein medizinisches Wissen einbringt.",
+        "ru": "Тайский врач, который рассказывает на YouTube о реальных преступлениях и исторических тайнах, опираясь на своё медицинское образование.",
+        "ar": "طبيب تايلاندي يروي على يوتيوب قضايا جرائم حقيقية وألغازًا تاريخية مستندًا إلى خلفيته الطبية.",
+        "hi": "एक थाई डॉक्टर जो अपने चिकित्सा ज्ञान के आधार पर यूट्यूब पर सच्ची अपराध और ऐतिहासिक रहस्य की कहानियाँ सुनाते हैं।",
+        "zh": "一位泰国医生,凭借其医学背景在YouTube上讲述真实犯罪案件与历史谜案。",
+        "ja": "医療の知識を活かし、YouTubeで実録犯罪や歴史的な謎の事件を語るタイの医師。"
+      },
+      "handles": {
+        "youtube": "UCL_xrnvh9vjQPDYUAu0sL_w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1850000
+        }
+      }
+    },
+    {
+      "id": "billy",
+      "name": "Billy",
+      "country": "FR",
+      "topic": {
+        "es": "Humor, vlogs de viajes",
+        "en": "Humor, travel vlogs",
+        "pt": "Humor, vlogs de viagem",
+        "fr": "Humour, vlogs de voyage",
+        "de": "Humor, Reise-Vlogs",
+        "ru": "Юмор, влоги о путешествиях",
+        "ar": "فكاهة، مدونات سفر",
+        "hi": "हास्य, यात्रा व्लॉग",
+        "zh": "幽默、旅行视频",
+        "ja": "ユーモア、旅行ブログ"
+      },
+      "about": {
+        "es": "Creador de contenido francés nacido como Billal Hakkar en 1997, también conocido como RebeuDeter, que creció en Suresnes y Nanterre, cerca de París, y construyó su audiencia con contenido de humor y viajes en Twitch, YouTube, TikTok e Instagram.",
+        "en": "A French content creator born Billal Hakkar in 1997, also known as RebeuDeter, who grew up in Suresnes and Nanterre near Paris and built his audience through humor and travel content across Twitch, YouTube, TikTok and Instagram.",
+        "pt": "Criador de conteúdo francês nascido Billal Hakkar em 1997, também conhecido como RebeuDeter, que cresceu em Suresnes e Nanterre, perto de Paris, e construiu seu público com conteúdo de humor e viagens no Twitch, YouTube, TikTok e Instagram.",
+        "fr": "Créateur de contenu français né Billal Hakkar en 1997, également connu sous le nom de RebeuDeter, qui a grandi à Suresnes et Nanterre près de Paris et a construit son audience grâce à un contenu humoristique et de voyage sur Twitch, YouTube, TikTok et Instagram.",
+        "de": "Ein französischer Content-Creator, geboren 1997 als Billal Hakkar und auch bekannt als RebeuDeter, der in Suresnes und Nanterre bei Paris aufwuchs und sein Publikum mit humorvollen Inhalten und Reiseinhalten auf Twitch, YouTube, TikTok und Instagram aufbaute.",
+        "ru": "Французский автор контента, родившийся как Билаль Хаккар в 1997 году и также известный как RebeuDeter, вырос в Сюрене и Нантере под Парижем и собрал аудиторию благодаря юмористическому и тревел-контенту на Twitch, YouTube, TikTok и Instagram.",
+        "ar": "صانع محتوى فرنسي وُلد باسم بلال حكار عام 1997، ويُعرف أيضاً باسم RebeuDeter، نشأ في سورين ونانتير بالقرب من باريس وبنى جمهوره من خلال محتوى فكاهي ومحتوى عن السفر على تويتش ويوتيوب وتيك توك وإنستغرام.",
+        "hi": "फ्रांसीसी कंटेंट क्रिएटर, जिनका जन्म 1997 में बिलाल हक्कार के नाम से हुआ और जिन्हें RebeuDeter के नाम से भी जाना जाता है, पेरिस के पास स्युरेन और नैनटेर में पले-बढ़े और उन्होंने Twitch, YouTube, TikTok और Instagram पर हास्य और यात्रा सामग्री के जरिए अपने दर्शक वर्ग का निर्माण किया।",
+        "zh": "法国内容创作者,1997年出生,原名比拉尔·哈卡尔(Billal Hakkar),艺名RebeuDeter,在巴黎附近的絮雷讷和楠泰尔长大,凭借在Twitch、YouTube、TikTok和Instagram上的幽默与旅行内容积累了大量粉丝。",
+        "ja": "1997年生まれ、本名ビラル・ハカール、通称RebeuDeterとして知られるフランスのコンテンツクリエイターで、パリ近郊のシュレーヌとナンテールで育ち、Twitch、YouTube、TikTok、Instagramでのユーモアや旅行系コンテンツでファンを増やした。"
+      },
+      "handles": {
+        "youtube": "UCoIMjxXuS6SKj-olGy3wc7Q",
+        "tiktok": "billy_linfluenceur",
+        "instagram": "billy_linfluenceur",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 723000
+        }
+      }
+    },
+    {
+      "id": "strykagram",
+      "name": "strykagram",
+      "country": "FR",
+      "topic": {
+        "es": "Entrevistas callejeras, retos",
+        "en": "Street interviews, challenges",
+        "pt": "Entrevistas de rua, desafios",
+        "fr": "Interviews de rue, défis",
+        "de": "Straßeninterviews, Challenges",
+        "ru": "Уличные интервью, челленджи",
+        "ar": "مقابلات شارع، تحديات",
+        "hi": "सड़क साक्षात्कार, चैलेंज",
+        "zh": "街头采访、挑战",
+        "ja": "街頭インタビュー、チャレンジ"
+      },
+      "about": {
+        "es": "YouTuber nacido en 1999 en París, Francia, conocido por sus enérgicos videos de entrevistas callejeras y retos sociales grabados con desconocidos.",
+        "en": "A YouTuber born in 1999 in Paris, France, known for energetic street-interview videos and social challenges filmed with strangers.",
+        "pt": "YouTuber nascido em 1999 em Paris, França, conhecido por seus enérgicos vídeos de entrevistas de rua e desafios sociais filmados com desconhecidos.",
+        "fr": "YouTubeur né en 1999 à Paris, en France, connu pour ses vidéos énergiques d'interviews de rue et de défis sociaux filmés avec des inconnus.",
+        "de": "Ein 1999 in Paris, Frankreich, geborener YouTuber, bekannt für energiegeladene Straßeninterview-Videos und soziale Challenges mit Fremden.",
+        "ru": "Ютубер, родившийся в 1999 году в Париже (Франция), известен энергичными видео с уличными интервью и социальными челленджами, снятыми с незнакомцами.",
+        "ar": "يوتيوبر وُلد عام 1999 في باريس بفرنسا، اشتهر بمقاطع فيديو نابضة بالحيوية لمقابلات في الشارع وتحديات اجتماعية يصورها مع غرباء.",
+        "hi": "1999 में पेरिस, फ्रांस में जन्मे एक यूट्यूबर, जो अजनबियों के साथ फिल्माए गए ऊर्जावान सड़क-साक्षात्कार वीडियो और सामाजिक चैलेंज के लिए जाने जाते हैं।",
+        "zh": "1999年出生于法国巴黎的YouTuber,以充满活力的街头采访视频和与陌生人拍摄的社交挑战而闻名。",
+        "ja": "1999年フランス・パリ生まれのYouTuberで、見知らぬ人と撮影する街頭インタビュー動画や社会的チャレンジ企画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCDLeZAhkNdl96vyXLIE2BbA",
+        "tiktok": null,
+        "instagram": "strykagram",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 576000
+        }
+      }
+    },
+    {
+      "id": "diego",
+      "name": "Diego",
+      "country": "FR",
+      "topic": {
+        "es": "Vlogs, retos",
+        "en": "Vlogs, challenges",
+        "pt": "Vlogs, desafios",
+        "fr": "Vlogs, défis",
+        "de": "Vlogs, Challenges",
+        "ru": "Влоги, челленджи",
+        "ar": "مدونات فيديو، تحديات",
+        "hi": "व्लॉग, चैलेंज",
+        "zh": "视频博客、挑战",
+        "ja": "ブイログ、チャレンジ"
+      },
+      "about": {
+        "es": "YouTuber francés conocido como DjaysonTV que crea vlogs, retos y sketches cómicos, a menudo grabados en ciudades del suroeste de Francia en colaboración con otros creadores franceses.",
+        "en": "A French YouTuber known as DjaysonTV who creates vlogs, challenges and comedic sketches often filmed in cities across southwestern France in collaboration with other French creators.",
+        "pt": "YouTuber francês conhecido como DjaysonTV que cria vlogs, desafios e esquetes cômicos, frequentemente filmados em cidades do sudoeste da França em colaboração com outros criadores franceses.",
+        "fr": "YouTubeur français connu sous le nom de DjaysonTV, qui crée des vlogs, des défis et des sketchs comiques, souvent tournés dans des villes du sud-ouest de la France en collaboration avec d'autres créateurs français.",
+        "de": "Ein französischer YouTuber, bekannt als DjaysonTV, der Vlogs, Challenges und komödiantische Sketche erstellt, oft gedreht in Städten im Südwesten Frankreichs in Zusammenarbeit mit anderen französischen Creators.",
+        "ru": "Французский ютубер, известный как DjaysonTV, снимает влоги, челленджи и комедийные скетчи, часто в городах юго-запада Франции, в сотрудничестве с другими французскими авторами.",
+        "ar": "يوتيوبر فرنسي يُعرف باسم DjaysonTV، يصنع مقاطع فيديو يومية (فلوغ) وتحديات وسكتشات كوميدية، غالباً ما يتم تصويرها في مدن جنوب غرب فرنسا بالتعاون مع صناع محتوى فرنسيين آخرين.",
+        "hi": "DjaysonTV नाम से जाने जाने वाले एक फ्रांसीसी यूट्यूबर, जो व्लॉग, चैलेंज और हास्य स्केच बनाते हैं, जिन्हें अक्सर दक्षिण-पश्चिम फ्रांस के शहरों में अन्य फ्रांसीसी क्रिएटर्स के साथ मिलकर फिल्माया जाता है।",
+        "zh": "法国YouTuber,艺名DjaysonTV,制作视频博客、挑战和喜剧短剧,经常与其他法国创作者合作,在法国西南部的城市取景拍摄。",
+        "ja": "DjaysonTVとして知られるフランスのYouTuberで、フランス南西部の都市で他のフランス人クリエイターと共演しながら、ブイログやチャレンジ企画、コメディスケッチを制作している。"
+      },
+      "handles": {
+        "youtube": "UCWd1xNQwzN88Fe4BLrUppHA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 604000
+        }
+      }
     }
   ]
 }
