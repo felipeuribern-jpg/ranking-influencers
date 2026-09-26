@@ -8187,6 +8187,591 @@
           "youtube": 187000
         }
       }
+    },
+    {
+      "id": "garfieldzar",
+      "name": "Garfieldzar",
+      "country": "ZA",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Garfieldzar comparte contenido sobre Entretenimiento.",
+        "en": "On their YouTube channel, Garfieldzar shares content about Entertainment.",
+        "pt": "No seu canal do YouTube, Garfieldzar compartilha conteúdo sobre Entretenimento.",
+        "fr": "Sur sa chaîne YouTube, Garfieldzar partage du contenu sur le thème : Divertissement.",
+        "de": "Auf dem YouTube-Kanal von Garfieldzar geht es um Unterhaltung.",
+        "ru": "На YouTube-канале Garfieldzar публикуются видео на тему «Развлечения».",
+        "ar": "ينشر Garfieldzar على قناته في يوتيوب محتوى عن ترفيه.",
+        "hi": "Garfieldzar अपने YouTube चैनल पर मनोरंजन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Garfieldzar 的 YouTube 频道分享有关娱乐的内容。",
+        "ja": "GarfieldzarのYouTubeチャンネルでは、エンターテインメントに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCAh1ZtejVlCkSLi8KEVr8YA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.551Z",
+        "followers": {
+          "youtube": 114000
+        }
+      }
+    },
+    {
+      "id": "madam-speaker",
+      "name": "Madam Speaker",
+      "country": "ZA",
+      "topic": {
+        "es": "Hogar y estilo de vida",
+        "en": "Home and lifestyle",
+        "pt": "Casa e estilo de vida",
+        "fr": "Maison et mode de vie",
+        "de": "Wohnen und Lifestyle",
+        "ru": "Дом и образ жизни",
+        "ar": "منزل وأسلوب حياة",
+        "hi": "घर और जीवनशैली",
+        "zh": "家居与生活方式",
+        "ja": "住まいとライフスタイル"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Madam Speaker comparte contenido sobre Hogar y estilo de vida.",
+        "en": "On their YouTube channel, Madam Speaker shares content about Home and lifestyle.",
+        "pt": "No seu canal do YouTube, Madam Speaker compartilha conteúdo sobre Casa e estilo de vida.",
+        "fr": "Sur sa chaîne YouTube, Madam Speaker partage du contenu sur le thème : Maison et mode de vie.",
+        "de": "Auf dem YouTube-Kanal von Madam Speaker geht es um Wohnen und Lifestyle.",
+        "ru": "На YouTube-канале Madam Speaker публикуются видео на тему «Дом и образ жизни».",
+        "ar": "ينشر Madam Speaker على قناته في يوتيوب محتوى عن منزل وأسلوب حياة.",
+        "hi": "Madam Speaker अपने YouTube चैनल पर घर और जीवनशैली से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Madam Speaker 的 YouTube 频道分享有关家居与生活方式的内容。",
+        "ja": "Madam SpeakerのYouTubeチャンネルでは、住まいとライフスタイルに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCRCrHlm35Ju4w0HtQN6vbpw",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 199000
+        }
+      }
+    },
+    {
+      "id": "billy",
+      "name": "Billy",
+      "country": "FR",
+      "topic": {
+        "es": "Humor",
+        "en": "Comedy",
+        "pt": "Humor",
+        "fr": "Humour",
+        "de": "Comedy",
+        "ru": "Юмор",
+        "ar": "كوميديا",
+        "hi": "हास्य",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Billy comparte contenido sobre Humor.",
+        "en": "On their YouTube channel, Billy shares content about Comedy.",
+        "pt": "No seu canal do YouTube, Billy compartilha conteúdo sobre Humor.",
+        "fr": "Sur sa chaîne YouTube, Billy partage du contenu sur le thème : Humour.",
+        "de": "Auf dem YouTube-Kanal von Billy geht es um Comedy.",
+        "ru": "На YouTube-канале Billy публикуются видео на тему «Юмор».",
+        "ar": "ينشر Billy على قناته في يوتيوب محتوى عن كوميديا.",
+        "hi": "Billy अपने YouTube चैनल पर हास्य से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Billy 的 YouTube 频道分享有关喜剧的内容。",
+        "ja": "BillyのYouTubeチャンネルでは、コメディに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCoIMjxXuS6SKj-olGy3wc7Q",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 724000
+        }
+      }
+    },
+    {
+      "id": "strykagram",
+      "name": "strykagram",
+      "country": "FR",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "En su canal de YouTube, strykagram comparte contenido sobre Entretenimiento.",
+        "en": "On their YouTube channel, strykagram shares content about Entertainment.",
+        "pt": "No seu canal do YouTube, strykagram compartilha conteúdo sobre Entretenimento.",
+        "fr": "Sur sa chaîne YouTube, strykagram partage du contenu sur le thème : Divertissement.",
+        "de": "Auf dem YouTube-Kanal von strykagram geht es um Unterhaltung.",
+        "ru": "На YouTube-канале strykagram публикуются видео на тему «Развлечения».",
+        "ar": "ينشر strykagram على قناته في يوتيوب محتوى عن ترفيه.",
+        "hi": "strykagram अपने YouTube चैनल पर मनोरंजन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "strykagram 的 YouTube 频道分享有关娱乐的内容。",
+        "ja": "strykagramのYouTubeチャンネルでは、エンターテインメントに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCDLeZAhkNdl96vyXLIE2BbA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 576000
+        }
+      }
+    },
+    {
+      "id": "diego",
+      "name": "Diego",
+      "country": "FR",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Diego comparte contenido sobre Entretenimiento.",
+        "en": "On their YouTube channel, Diego shares content about Entertainment.",
+        "pt": "No seu canal do YouTube, Diego compartilha conteúdo sobre Entretenimento.",
+        "fr": "Sur sa chaîne YouTube, Diego partage du contenu sur le thème : Divertissement.",
+        "de": "Auf dem YouTube-Kanal von Diego geht es um Unterhaltung.",
+        "ru": "На YouTube-канале Diego публикуются видео на тему «Развлечения».",
+        "ar": "ينشر Diego على قناته في يوتيوب محتوى عن ترفيه.",
+        "hi": "Diego अपने YouTube चैनल पर मनोरंजन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Diego 的 YouTube 频道分享有关娱乐的内容。",
+        "ja": "DiegoのYouTubeチャンネルでは、エンターテインメントに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCWd1xNQwzN88Fe4BLrUppHA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 604000
+        }
+      }
+    },
+    {
+      "id": "farouk-life",
+      "name": "Farouk Life",
+      "country": "MA",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Farouk Life comparte contenido sobre Entretenimiento.",
+        "en": "On their YouTube channel, Farouk Life shares content about Entertainment.",
+        "pt": "No seu canal do YouTube, Farouk Life compartilha conteúdo sobre Entretenimento.",
+        "fr": "Sur sa chaîne YouTube, Farouk Life partage du contenu sur le thème : Divertissement.",
+        "de": "Auf dem YouTube-Kanal von Farouk Life geht es um Unterhaltung.",
+        "ru": "На YouTube-канале Farouk Life публикуются видео на тему «Развлечения».",
+        "ar": "ينشر Farouk Life على قناته في يوتيوب محتوى عن ترفيه.",
+        "hi": "Farouk Life अपने YouTube चैनल पर मनोरंजन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Farouk Life 的 YouTube 频道分享有关娱乐的内容。",
+        "ja": "Farouk LifeのYouTubeチャンネルでは、エンターテインメントに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCv6T1ljYi3CETJ1Jqj1bFMQ",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 2210000
+        }
+      }
+    },
+    {
+      "id": "sara-baknine",
+      "name": "Sara Baknine",
+      "country": "MA",
+      "topic": {
+        "es": "Vida familiar",
+        "en": "Family life",
+        "pt": "Vida familiar",
+        "fr": "Vie de famille",
+        "de": "Familienleben",
+        "ru": "Семейная жизнь",
+        "ar": "حياة عائلية",
+        "hi": "पारिवारिक जीवन",
+        "zh": "家庭生活",
+        "ja": "家族の暮らし"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Sara Baknine comparte contenido sobre Vida familiar.",
+        "en": "On their YouTube channel, Sara Baknine shares content about Family life.",
+        "pt": "No seu canal do YouTube, Sara Baknine compartilha conteúdo sobre Vida familiar.",
+        "fr": "Sur sa chaîne YouTube, Sara Baknine partage du contenu sur le thème : Vie de famille.",
+        "de": "Auf dem YouTube-Kanal von Sara Baknine geht es um Familienleben.",
+        "ru": "На YouTube-канале Sara Baknine публикуются видео на тему «Семейная жизнь».",
+        "ar": "ينشر Sara Baknine على قناته في يوتيوب محتوى عن حياة عائلية.",
+        "hi": "Sara Baknine अपने YouTube चैनल पर पारिवारिक जीवन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Sara Baknine 的 YouTube 频道分享有关家庭生活的内容。",
+        "ja": "Sara BaknineのYouTubeチャンネルでは、家族の暮らしに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCzU-KdVuh-Am6XowUeBccSQ",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 780000
+        }
+      }
+    },
+    {
+      "id": "petchz",
+      "name": "PetchZ",
+      "country": "TH",
+      "topic": {
+        "es": "Vlogs y retos",
+        "en": "Vlogs and challenges",
+        "pt": "Vlogs e desafios",
+        "fr": "Vlogs et défis",
+        "de": "Vlogs und Challenges",
+        "ru": "Влоги и челленджи",
+        "ar": "فلوقات وتحديات",
+        "hi": "व्लॉग और चुनौतियाँ",
+        "zh": "生活记录与挑战",
+        "ja": "Vlogとチャレンジ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, PetchZ comparte contenido sobre Vlogs y retos.",
+        "en": "On their YouTube channel, PetchZ shares content about Vlogs and challenges.",
+        "pt": "No seu canal do YouTube, PetchZ compartilha conteúdo sobre Vlogs e desafios.",
+        "fr": "Sur sa chaîne YouTube, PetchZ partage du contenu sur le thème : Vlogs et défis.",
+        "de": "Auf dem YouTube-Kanal von PetchZ geht es um Vlogs und Challenges.",
+        "ru": "На YouTube-канале PetchZ публикуются видео на тему «Влоги и челленджи».",
+        "ar": "ينشر PetchZ على قناته في يوتيوب محتوى عن فلوقات وتحديات.",
+        "hi": "PetchZ अपने YouTube चैनल पर व्लॉग और चुनौतियाँ से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "PetchZ 的 YouTube 频道分享有关生活记录与挑战的内容。",
+        "ja": "PetchZのYouTubeチャンネルでは、Vlogとチャレンジに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCtqzfvy3SMX-kHJC85HB7jA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 461000
+        }
+      }
+    },
+    {
+      "id": "grace-maneerat",
+      "name": "Grace Maneerat",
+      "country": "TH",
+      "topic": {
+        "es": "Hogar y estilo de vida",
+        "en": "Home and lifestyle",
+        "pt": "Casa e estilo de vida",
+        "fr": "Maison et mode de vie",
+        "de": "Wohnen und Lifestyle",
+        "ru": "Дом и образ жизни",
+        "ar": "منزل وأسلوب حياة",
+        "hi": "घर और जीवनशैली",
+        "zh": "家居与生活方式",
+        "ja": "住まいとライフスタイル"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Grace Maneerat comparte contenido sobre Hogar y estilo de vida.",
+        "en": "On their YouTube channel, Grace Maneerat shares content about Home and lifestyle.",
+        "pt": "No seu canal do YouTube, Grace Maneerat compartilha conteúdo sobre Casa e estilo de vida.",
+        "fr": "Sur sa chaîne YouTube, Grace Maneerat partage du contenu sur le thème : Maison et mode de vie.",
+        "de": "Auf dem YouTube-Kanal von Grace Maneerat geht es um Wohnen und Lifestyle.",
+        "ru": "На YouTube-канале Grace Maneerat публикуются видео на тему «Дом и образ жизни».",
+        "ar": "ينشر Grace Maneerat على قناته في يوتيوب محتوى عن منزل وأسلوب حياة.",
+        "hi": "Grace Maneerat अपने YouTube चैनल पर घर और जीवनशैली से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Grace Maneerat 的 YouTube 频道分享有关家居与生活方式的内容。",
+        "ja": "Grace ManeeratのYouTubeチャンネルでは、住まいとライフスタイルに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UC7e3Krtw6AHasOuaaTAnSEw",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 1090000
+        }
+      }
+    },
+    {
+      "id": "tang-makkaporn",
+      "name": "Tang Makkaporn",
+      "country": "TH",
+      "topic": {
+        "es": "Historias de misterio",
+        "en": "Mystery stories",
+        "pt": "Histórias de mistério",
+        "fr": "Histoires mystérieuses",
+        "de": "Mysteriöse Geschichten",
+        "ru": "Загадочные истории",
+        "ar": "قصص غامضة",
+        "hi": "रहस्य कथाएँ",
+        "zh": "悬疑故事",
+        "ja": "ミステリーの物語"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Tang Makkaporn comparte contenido sobre Historias de misterio.",
+        "en": "On their YouTube channel, Tang Makkaporn shares content about Mystery stories.",
+        "pt": "No seu canal do YouTube, Tang Makkaporn compartilha conteúdo sobre Histórias de mistério.",
+        "fr": "Sur sa chaîne YouTube, Tang Makkaporn partage du contenu sur le thème : Histoires mystérieuses.",
+        "de": "Auf dem YouTube-Kanal von Tang Makkaporn geht es um Mysteriöse Geschichten.",
+        "ru": "На YouTube-канале Tang Makkaporn публикуются видео на тему «Загадочные истории».",
+        "ar": "ينشر Tang Makkaporn على قناته في يوتيوب محتوى عن قصص غامضة.",
+        "hi": "Tang Makkaporn अपने YouTube चैनल पर रहस्य कथाएँ से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Tang Makkaporn 的 YouTube 频道分享有关悬疑故事的内容。",
+        "ja": "Tang MakkapornのYouTubeチャンネルでは、ミステリーの物語に関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCL_xrnvh9vjQPDYUAu0sL_w",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 1850000
+        }
+      }
+    },
+    {
+      "id": "kim-sun-woo",
+      "name": "김선우 SUN WOO",
+      "country": "KR",
+      "topic": {
+        "es": "Hogar y estilo de vida",
+        "en": "Home and lifestyle",
+        "pt": "Casa e estilo de vida",
+        "fr": "Maison et mode de vie",
+        "de": "Wohnen und Lifestyle",
+        "ru": "Дом и образ жизни",
+        "ar": "منزل وأسلوب حياة",
+        "hi": "घर और जीवनशैली",
+        "zh": "家居与生活方式",
+        "ja": "住まいとライフスタイル"
+      },
+      "about": {
+        "es": "En su canal de YouTube, 김선우 SUN WOO comparte contenido sobre Hogar y estilo de vida.",
+        "en": "On their YouTube channel, 김선우 SUN WOO shares content about Home and lifestyle.",
+        "pt": "No seu canal do YouTube, 김선우 SUN WOO compartilha conteúdo sobre Casa e estilo de vida.",
+        "fr": "Sur sa chaîne YouTube, 김선우 SUN WOO partage du contenu sur le thème : Maison et mode de vie.",
+        "de": "Auf dem YouTube-Kanal von 김선우 SUN WOO geht es um Wohnen und Lifestyle.",
+        "ru": "На YouTube-канале 김선우 SUN WOO публикуются видео на тему «Дом и образ жизни».",
+        "ar": "ينشر 김선우 SUN WOO على قناته في يوتيوب محتوى عن منزل وأسلوب حياة.",
+        "hi": "김선우 SUN WOO अपने YouTube चैनल पर घर और जीवनशैली से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "김선우 SUN WOO 的 YouTube 频道分享有关家居与生活方式的内容。",
+        "ja": "김선우 SUN WOOのYouTubeチャンネルでは、住まいとライフスタイルに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCdah9R_MdctHWvtpmqEijbA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 218000
+        }
+      }
+    },
+    {
+      "id": "togimochi-korea",
+      "name": "Togimochi Koreaとぎもち 토기모치",
+      "country": "JP",
+      "topic": {
+        "es": "Gastronomía",
+        "en": "Food",
+        "pt": "Gastronomia",
+        "fr": "Gastronomie",
+        "de": "Essen",
+        "ru": "Еда",
+        "ar": "طعام",
+        "hi": "खान-पान",
+        "zh": "美食",
+        "ja": "グルメ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Togimochi Koreaとぎもち 토기모치 comparte contenido sobre Gastronomía.",
+        "en": "On their YouTube channel, Togimochi Koreaとぎもち 토기모치 shares content about Food.",
+        "pt": "No seu canal do YouTube, Togimochi Koreaとぎもち 토기모치 compartilha conteúdo sobre Gastronomia.",
+        "fr": "Sur sa chaîne YouTube, Togimochi Koreaとぎもち 토기모치 partage du contenu sur le thème : Gastronomie.",
+        "de": "Auf dem YouTube-Kanal von Togimochi Koreaとぎもち 토기모치 geht es um Essen.",
+        "ru": "На YouTube-канале Togimochi Koreaとぎもち 토기모치 публикуются видео на тему «Еда».",
+        "ar": "ينشر Togimochi Koreaとぎもち 토기모치 على قناته في يوتيوب محتوى عن طعام.",
+        "hi": "Togimochi Koreaとぎもち 토기모치 अपने YouTube चैनल पर खान-पान से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Togimochi Koreaとぎもち 토기모치 的 YouTube 频道分享有关美食的内容。",
+        "ja": "Togimochi Koreaとぎもち 토기모치のYouTubeチャンネルでは、グルメに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UC8x_GQsqwLvglizV7xRckpw",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 837000
+        }
+      }
+    },
+    {
+      "id": "clarktv",
+      "name": "대륙남TV [Clarktv]",
+      "country": "KR",
+      "topic": {
+        "es": "Actualidad y opinión",
+        "en": "Current affairs and opinion",
+        "pt": "Atualidades e opinião",
+        "fr": "Actualité et opinion",
+        "de": "Aktuelles und Meinungen",
+        "ru": "События и мнения",
+        "ar": "أحداث وآراء",
+        "hi": "समसामयिक विषय और राय",
+        "zh": "时事与观点",
+        "ja": "時事と意見"
+      },
+      "about": {
+        "es": "En su canal de YouTube, 대륙남TV [Clarktv] comparte contenido sobre Actualidad y opinión.",
+        "en": "On their YouTube channel, 대륙남TV [Clarktv] shares content about Current affairs and opinion.",
+        "pt": "No seu canal do YouTube, 대륙남TV [Clarktv] compartilha conteúdo sobre Atualidades e opinião.",
+        "fr": "Sur sa chaîne YouTube, 대륙남TV [Clarktv] partage du contenu sur le thème : Actualité et opinion.",
+        "de": "Auf dem YouTube-Kanal von 대륙남TV [Clarktv] geht es um Aktuelles und Meinungen.",
+        "ru": "На YouTube-канале 대륙남TV [Clarktv] публикуются видео на тему «События и мнения».",
+        "ar": "ينشر 대륙남TV [Clarktv] على قناته في يوتيوب محتوى عن أحداث وآراء.",
+        "hi": "대륙남TV [Clarktv] अपने YouTube चैनल पर समसामयिक विषय और राय से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "대륙남TV [Clarktv] 的 YouTube 频道分享有关时事与观点的内容。",
+        "ja": "대륙남TV [Clarktv]のYouTubeチャンネルでは、時事と意見に関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UC8_cYcL4dm_-tCEKlZuMTDg",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 1220000
+        }
+      }
     }
   ]
 }

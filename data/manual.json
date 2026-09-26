@@ -126,6 +126,97 @@
       "followers": 187000,
       "source": "https://www.youtube.com/channel/UCdp4qjUE3yra17FrBBXRauQ (YouTube Data API v3)",
       "date": "2026-09-26"
+    },
+    {
+      "id": "garfieldzar",
+      "platform": "youtube",
+      "followers": 114000,
+      "source": "https://www.youtube.com/channel/UCAh1ZtejVlCkSLi8KEVr8YA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "madam-speaker",
+      "platform": "youtube",
+      "followers": 199000,
+      "source": "https://www.youtube.com/channel/UCRCrHlm35Ju4w0HtQN6vbpw (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "billy",
+      "platform": "youtube",
+      "followers": 724000,
+      "source": "https://www.youtube.com/channel/UCoIMjxXuS6SKj-olGy3wc7Q (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "strykagram",
+      "platform": "youtube",
+      "followers": 576000,
+      "source": "https://www.youtube.com/channel/UCDLeZAhkNdl96vyXLIE2BbA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "diego",
+      "platform": "youtube",
+      "followers": 604000,
+      "source": "https://www.youtube.com/channel/UCWd1xNQwzN88Fe4BLrUppHA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "farouk-life",
+      "platform": "youtube",
+      "followers": 2210000,
+      "source": "https://www.youtube.com/channel/UCv6T1ljYi3CETJ1Jqj1bFMQ (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "sara-baknine",
+      "platform": "youtube",
+      "followers": 780000,
+      "source": "https://www.youtube.com/channel/UCzU-KdVuh-Am6XowUeBccSQ (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "petchz",
+      "platform": "youtube",
+      "followers": 461000,
+      "source": "https://www.youtube.com/channel/UCtqzfvy3SMX-kHJC85HB7jA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "grace-maneerat",
+      "platform": "youtube",
+      "followers": 1090000,
+      "source": "https://www.youtube.com/channel/UC7e3Krtw6AHasOuaaTAnSEw (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "tang-makkaporn",
+      "platform": "youtube",
+      "followers": 1850000,
+      "source": "https://www.youtube.com/channel/UCL_xrnvh9vjQPDYUAu0sL_w (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "kim-sun-woo",
+      "platform": "youtube",
+      "followers": 218000,
+      "source": "https://www.youtube.com/channel/UCdah9R_MdctHWvtpmqEijbA (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "togimochi-korea",
+      "platform": "youtube",
+      "followers": 837000,
+      "source": "https://www.youtube.com/channel/UC8x_GQsqwLvglizV7xRckpw (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "clarktv",
+      "platform": "youtube",
+      "followers": 1220000,
+      "source": "https://www.youtube.com/channel/UC8_cYcL4dm_-tCEKlZuMTDg (YouTube Data API v3)",
+      "date": "2026-09-26"
     }
   ]
 }
