@@ -6453,6 +6453,930 @@
           "youtube": 29300000
         }
       }
+    },
+    {
+      "id": "alaska",
+      "name": "Alaska",
+      "country": "UY",
+      "topic": {
+        "es": "Comedia y fútbol",
+        "en": "Comedy and football",
+        "pt": "Comédia e futebol",
+        "fr": "Comédie et football",
+        "de": "Comedy und Fußball",
+        "ru": "Комедия и футбол",
+        "ar": "كوميديا وكرة قدم",
+        "hi": "कॉमेडी और फुटबॉल",
+        "zh": "喜剧与足球",
+        "ja": "コメディとサッカー"
+      },
+      "about": {
+        "es": "Creadora uruguaya (Gimena Sauchenco) nacida en 2001, conocida por sus videos de comedia y su pasión por el fútbol y la selección uruguaya.",
+        "en": "A Uruguayan creator (Gimena Sauchenco), born in 2001, known for comedy videos and her passion for football and the Uruguay national team.",
+        "pt": "Criadora uruguaia (Gimena Sauchenco), nascida em 2001, conhecida por vídeos de comédia e sua paixão pelo futebol e pela seleção uruguaia.",
+        "fr": "Créatrice uruguayenne (Gimena Sauchenco), née en 2001, connue pour ses vidéos comiques et sa passion pour le football et la sélection uruguayenne.",
+        "de": "Eine uruguayische Content-Erstellerin (Gimena Sauchenco), geboren 2001, bekannt für Comedy-Videos und ihre Leidenschaft für Fußball und die uruguayische Nationalmannschaft.",
+        "ru": "Уругвайская создательница контента (Химена Саученко), родившаяся в 2001 году, известна комедийными видео и своей любовью к футболу и сборной Уругвая.",
+        "ar": "صانعة محتوى أوروغوانية (خيمينا ساوتشينكو)، مواليد 2001، تشتهر بمقاطع فيديو كوميدية وشغفها بكرة القدم ومنتخب أوروغواي.",
+        "hi": "उरुग्वे की क्रिएटर (जिमेना साउचेंको), जन्म 2001, कॉमेडी वीडियो और फुटबॉल तथा उरुग्वे राष्ट्रीय टीम के प्रति अपने जुनून के लिए जानी जाती हैं।",
+        "zh": "乌拉圭内容创作者(希梅娜·索琴科),生于2001年,以喜剧视频和对足球及乌拉圭国家队的热情而闻名。",
+        "ja": "ウルグアイ出身のクリエイター(ヒメナ・サウチェンコ、2001年生まれ)。コメディ動画と、サッカーおよびウルグアイ代表チームへの情熱で知られる。"
+      },
+      "handles": {
+        "youtube": "UC3VcdhLGeuUIOmj4eAu1xwQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1260000
+        }
+      }
+    },
+    {
+      "id": "fabriuruguayo",
+      "name": "Fabriuruguayo",
+      "country": "UY",
+      "topic": {
+        "es": "Fútbol y debate",
+        "en": "Football debate",
+        "pt": "Futebol e debate",
+        "fr": "Football et débat",
+        "de": "Fußball-Debatte",
+        "ru": "Футбол и дебаты",
+        "ar": "كرة القدم والنقاش",
+        "hi": "फुटबॉल बहस",
+        "zh": "足球辩论",
+        "ja": "サッカー討論"
+      },
+      "about": {
+        "es": "Creador uruguayo de Montevideo que transmite en vivo y produce videos de debate y reacciones sobre fútbol, incluyendo Nacional, Peñarol y la selección uruguaya.",
+        "en": "A Uruguayan creator from Montevideo who livestreams and produces debate and reaction videos about football, including Nacional, Peñarol and the Uruguay national team.",
+        "pt": "Criador uruguaio de Montevidéu que transmite ao vivo e produz vídeos de debate e reação sobre futebol, incluindo Nacional, Peñarol e a seleção uruguaia.",
+        "fr": "Créateur uruguayen de Montevideo qui diffuse en direct et produit des vidéos de débat et de réaction sur le football, notamment le Nacional, le Peñarol et la sélection uruguayenne.",
+        "de": "Ein uruguayischer Creator aus Montevideo, der live streamt und Debatten- sowie Reaktionsvideos über Fußball produziert, darunter Nacional, Peñarol und die uruguayische Nationalmannschaft.",
+        "ru": "Уругвайский создатель контента из Монтевидео, который ведёт прямые трансляции и снимает видео с дебатами и реакциями о футболе, включая клубы «Насьональ», «Пеньяроль» и сборную Уругвая.",
+        "ar": "صانع محتوى أوروغواني من مونتيفيديو يبث مباشرة وينتج مقاطع فيديو نقاشية وردود أفعال حول كرة القدم، بما في ذلك نادي ناسيونال وبينارول ومنتخب أوروغواي.",
+        "hi": "मॉन्टेवीडियो के उरुग्वे क्रिएटर, जो लाइवस्ट्रीम करते हैं और फुटबॉल पर बहस व प्रतिक्रिया वीडियो बनाते हैं, जिसमें नैशनल, पेनारोल और उरुग्वे राष्ट्रीय टीम शामिल हैं।",
+        "zh": "来自蒙得维的亚的乌拉圭创作者,进行直播并制作关于足球的辩论和反应视频,内容涉及纳西奥纳尔、佩尼亚罗尔俱乐部以及乌拉圭国家队。",
+        "ja": "モンテビデオ出身のウルグアイ人クリエイター。ライブ配信を行い、ナシオナル、ペニャロール、ウルグアイ代表などサッカーに関する討論・リアクション動画を制作している。"
+      },
+      "handles": {
+        "youtube": "UCcj2bO6OSvlBRtfkP4hURAw",
+        "tiktok": "fabriuruguayo",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 112000
+        }
+      }
+    },
+    {
+      "id": "pinoy-influencer",
+      "name": "Pinoy Influencer",
+      "country": "PH",
+      "topic": {
+        "es": "Emprendimiento, ingresos pasivos",
+        "en": "Entrepreneurship, passive income",
+        "pt": "Empreendedorismo, renda passiva",
+        "fr": "Entrepreneuriat, revenu passif",
+        "de": "Unternehmertum, passives Einkommen",
+        "ru": "Предпринимательство",
+        "ar": "ريادة الأعمال",
+        "hi": "उद्यमिता",
+        "zh": "创业, 被动收入",
+        "ja": "起業, 副収入"
+      },
+      "about": {
+        "es": "Creador radicado en Filipinas, activo desde 2016, que comparte tutoriales sobre herramientas en línea, ingresos pasivos y emprendimiento.",
+        "en": "A Philippine-based creator, active since 2016, who shares tutorials on online tools, passive income and entrepreneurship.",
+        "pt": "Criador radicado nas Filipinas, ativo desde 2016, que compartilha tutoriais sobre ferramentas on-line, renda passiva e empreendedorismo.",
+        "fr": "Créateur basé aux Philippines, actif depuis 2016, qui partage des tutoriels sur les outils en ligne, le revenu passif et l'entrepreneuriat.",
+        "de": "In den Philippinen ansässiger Creator, aktiv seit 2016, der Tutorials zu Online-Tools, passivem Einkommen und Unternehmertum teilt.",
+        "ru": "Создатель контента с Филиппин, ведёт канал с 2016 года, делится обучающими видео об онлайн-инструментах, пассивном доходе и предпринимательстве.",
+        "ar": "صانع محتوى مقيم في الفلبين، نشط منذ عام 2016، يشارك دروسًا حول الأدوات الإلكترونية والدخل السلبي وريادة الأعمال.",
+        "hi": "फिलीपींस में रहने वाला क्रिएटर, 2016 से सक्रिय, जो ऑनलाइन टूल्स, पैसिव इनकम और उद्यमिता पर ट्यूटोरियल साझा करता है।",
+        "zh": "常驻菲律宾的创作者,自2016年起活跃,分享有关网络工具、被动收入和创业的教程。",
+        "ja": "フィリピン在住のクリエイターで、2016年から活動し、オンラインツールや不労所得、起業に関するチュートリアルを発信している。"
+      },
+      "handles": {
+        "youtube": "UC0jmOFEGnXEzGDlFMPercIw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 787000
+        }
+      }
+    },
+    {
+      "id": "banat-by",
+      "name": "BANAT BY",
+      "country": "PH",
+      "topic": {
+        "es": "Comentario político",
+        "en": "Political commentary",
+        "pt": "Comentário político",
+        "fr": "Commentaire politique",
+        "de": "Politischer Kommentar",
+        "ru": "Политический комментарий",
+        "ar": "تعليق سياسي",
+        "hi": "राजनीतिक टिप्पणी",
+        "zh": "政治评论",
+        "ja": "政治コメント"
+      },
+      "about": {
+        "es": "Vlogger filipino Byron Cristobal, activo desde 2019, conocido por sus comentarios políticos y vlogs sobre la actualidad en Filipinas.",
+        "en": "Filipino vlogger Byron Cristobal, active since 2019, known for political commentary and vlogs on current events in the Philippines.",
+        "pt": "Vlogger filipino Byron Cristobal, ativo desde 2019, conhecido por comentários políticos e vlogs sobre a atualidade nas Filipinas.",
+        "fr": "Vlogueur philippin Byron Cristobal, actif depuis 2019, connu pour ses commentaires politiques et ses vlogs sur l'actualité aux Philippines.",
+        "de": "Der philippinische Vlogger Byron Cristobal, aktiv seit 2019, bekannt für politische Kommentare und Vlogs zum Zeitgeschehen auf den Philippinen.",
+        "ru": "Филиппинский влогер Байрон Кристобаль, ведёт канал с 2019 года, известен политическими комментариями и влогами о текущих событиях на Филиппинах.",
+        "ar": "المدون الفلبيني بايرون كريستوبال، نشط منذ عام 2019، معروف بتعليقاته السياسية ومدوناته حول الأحداث الجارية في الفلبين.",
+        "hi": "फिलिपिनो व्लॉगर बायरन क्रिस्टोबल, 2019 से सक्रिय, फिलीपींस में राजनीतिक टिप्पणी और वर्तमान घटनाओं पर व्लॉग के लिए जाने जाते हैं।",
+        "zh": "菲律宾博主拜伦·克里斯托瓦尔(Byron Cristobal),自2019年起活跃,以政治评论和时事视频著称。",
+        "ja": "フィリピンのブロガー、バイロン・クリストバル氏は2019年から活動し、政治的なコメントやフィリピンの時事問題に関するブログで知られる。"
+      },
+      "handles": {
+        "youtube": "UCLaTHvHRK31elLLs4G8hZeg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1390000
+        }
+      }
+    },
+    {
+      "id": "viy-cortez",
+      "name": "Viy Cortez",
+      "country": "PH",
+      "topic": {
+        "es": "Estilo de vida, vlogs",
+        "en": "Lifestyle, vlogging",
+        "pt": "Estilo de vida, vlogs",
+        "fr": "Style de vie, vlogs",
+        "de": "Lifestyle, Vlogs",
+        "ru": "Лайфстайл, влоги",
+        "ar": "أسلوب حياة",
+        "hi": "लाइफस्टाइल",
+        "zh": "生活方式",
+        "ja": "ライフスタイル"
+      },
+      "about": {
+        "es": "Creadora filipina nacida en 1996, conocida por sus vlogs de estilo de vida, mukbangs y videos de viajes, e integrante del colectivo Team Payaman.",
+        "en": "Filipino creator born in 1996, known for lifestyle vlogs, mukbangs and travel videos, and a member of the Team Payaman collective.",
+        "pt": "Criadora filipina nascida em 1996, conhecida por vlogs de estilo de vida, mukbangs e vídeos de viagem, e integrante do coletivo Team Payaman.",
+        "fr": "Créatrice philippine née en 1996, connue pour ses vlogs de style de vie, ses mukbangs et ses vidéos de voyage, membre du collectif Team Payaman.",
+        "de": "Philippinische Creatorin, geboren 1996, bekannt für Lifestyle-Vlogs, Mukbangs und Reisevideos, Mitglied des Kollektivs Team Payaman.",
+        "ru": "Филиппинская создательница контента, родившаяся в 1996 году, известна лайфстайл-влогами, мукбангами и видео о путешествиях, участница коллектива Team Payaman.",
+        "ar": "صانعة محتوى فلبينية وُلدت عام 1996، معروفة بمدوناتها عن أسلوب الحياة ومقاطع الأكل (موكبانغ) وفيديوهات السفر، وعضوة في مجموعة Team Payaman.",
+        "hi": "1996 में जन्मी फिलिपिनो क्रिएटर, लाइफस्टाइल व्लॉग्स, मुकबैंग और ट्रैवल वीडियो के लिए जानी जाती हैं, और Team Payaman समूह की सदस्य हैं।",
+        "zh": "1996年出生的菲律宾创作者,以生活方式视频、大胃王(mukbang)和旅行视频闻名,是Team Payaman团体成员。",
+        "ja": "1996年生まれのフィリピン人クリエイターで、ライフスタイル系動画やムクバン、旅行動画で知られ、Team Payamanのメンバーでもある。"
+      },
+      "handles": {
+        "youtube": "UC39p6707suIKTZiw0BTGapw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 7400000
+        }
+      }
+    },
+    {
+      "id": "it-sstefano",
+      "name": "It'sStefano",
+      "country": "PH",
+      "topic": {
+        "es": "Comedia, memes",
+        "en": "Comedy, memes",
+        "pt": "Comédia, memes",
+        "fr": "Comédie, memes",
+        "de": "Comedy, Memes",
+        "ru": "Комедия, мемы",
+        "ar": "كوميديا",
+        "hi": "कॉमेडी",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "Comediante filipino Enzo Calimlim De Vera, nacido y criado en Dagupan, conocido por sus sketches al estilo meme y videos cómicos de comida.",
+        "en": "Filipino comedian Enzo Calimlim De Vera, born and raised in Dagupan, known for meme-style sketches and comedic eating videos.",
+        "pt": "Comediante filipino Enzo Calimlim De Vera, nascido e criado em Dagupan, conhecido por esquetes estilo meme e vídeos cômicos de comida.",
+        "fr": "Humoriste philippin Enzo Calimlim De Vera, né et élevé à Dagupan, connu pour ses sketches façon meme et ses vidéos comiques autour de la nourriture.",
+        "de": "Philippinischer Comedian Enzo Calimlim De Vera, geboren und aufgewachsen in Dagupan, bekannt für Meme-artige Sketche und komische Ess-Videos.",
+        "ru": "Филиппинский комик Энзо Калимлим Де Вера, родившийся и выросший в Дагупане, известен скетчами в стиле мемов и комичными видео о еде.",
+        "ar": "الكوميدي الفلبيني إنزو كاليملم دي فيرا، وُلد ونشأ في داغوبان، معروف بمقاطع كوميدية بأسلوب الميمز وفيديوهات أكل مضحكة.",
+        "hi": "फिलिपिनो कॉमेडियन एंज़ो कैलिमलिम डे वेरा, डागुपान में जन्मे और पले-बढ़े, मीम-शैली स्केच और मज़ेदार खाने के वीडियो के लिए जाने जाते हैं।",
+        "zh": "菲律宾喜剧演员恩佐·卡利姆利姆·德维拉(Enzo Calimlim De Vera),在达古潘出生长大,以模因风格短剧和搞笑吃播视频闻名。",
+        "ja": "フィリピンのコメディアン、エンゾ・カリムリム・デ・ベラ氏はダグパン出身で、ミーム風のスケッチやコミカルな大食い動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCtFkl_Q2tG-ZROcyxMD6Dhw",
+        "tiktok": "https://www.tiktok.com/@_itsstefano_",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1600000
+        }
+      }
+    },
+    {
+      "id": "sebaspod",
+      "name": "Sebaspod",
+      "country": "PY",
+      "topic": {
+        "es": "Streaming y humor",
+        "en": "Streaming & comedy",
+        "pt": "Streaming e humor",
+        "fr": "Streaming et humour",
+        "de": "Streaming & Comedy",
+        "ru": "Стриминг и юмор",
+        "ar": "بث مباشر وفكاهة",
+        "hi": "स्ट्रीमिंग और हास्य",
+        "zh": "直播与喜剧",
+        "ja": "配信とコメディ"
+      },
+      "about": {
+        "es": "Streamer y youtuber paraguayo nacido en Fernando de la Mora; conocido por sus transmisiones en vivo y contenido de humor, ganó el premio a Mejor Streamer Creativo en los Coscu Army Awards 2024 en Buenos Aires.",
+        "en": "A Paraguayan streamer and YouTuber born in Fernando de la Mora; known for his livestreams and comedic content, he won the Best Creative Streamer award at the 2024 Coscu Army Awards in Buenos Aires.",
+        "pt": "Streamer e youtuber paraguaio nascido em Fernando de la Mora; conhecido por suas transmissões ao vivo e conteúdo de humor, venceu o prêmio de Melhor Streamer Criativo no Coscu Army Awards 2024, em Buenos Aires.",
+        "fr": "Streameur et youtubeur paraguayen né à Fernando de la Mora ; connu pour ses lives et son contenu humoristique, il a remporté le prix du Meilleur Streamer Créatif aux Coscu Army Awards 2024 à Buenos Aires.",
+        "de": "Paraguayischer Streamer und YouTuber, geboren in Fernando de la Mora; bekannt für seine Livestreams und Comedy-Inhalte, gewann er 2024 bei den Coscu Army Awards in Buenos Aires den Preis als bester kreativer Streamer.",
+        "ru": "Парагвайский стример и ютубер, родившийся в Фернандо-де-ла-Мора; известен своими прямыми эфирами и юмористическим контентом, в 2024 году получил премию «Лучший креативный стример» на Coscu Army Awards в Буэнос-Айресе.",
+        "ar": "ستريمر ويوتيوبر باراغواياني وُلد في فرناندو دي لا مورا؛ اشتهر ببثوثه المباشرة ومحتواه الفكاهي، وفاز بجائزة أفضل ستريمر مبدع في حفل Coscu Army Awards 2024 في بوينس آيرس.",
+        "hi": "पैराग्वे के स्ट्रीमर और यूट्यूबर, जिनका जन्म फर्नांडो दे ला मोरा में हुआ; अपनी लाइव स्ट्रीम और हास्य सामग्री के लिए जाने जाते हैं, उन्होंने 2024 के कोस्कू आर्मी अवॉर्ड्स, ब्यूनस आयर्स में सर्वश्रेष्ठ रचनात्मक स्ट्रीमर का पुरस्कार जीता।",
+        "zh": "出生于费尔南多-德拉莫拉的巴拉圭主播兼YouTuber,以直播和幽默内容闻名,曾在2024年布宜诺斯艾利斯举行的Coscu Army Awards上获得最佳创意主播奖。",
+        "ja": "フェルナンド・デ・ラ・モラ出身のパラグアイ人ストリーマー兼YouTuber。ライブ配信とコメディコンテンツで知られ、2024年にブエノスアイレスで行われたCoscu Army Awardsで最優秀クリエイティブストリーマー賞を受賞した。"
+      },
+      "handles": {
+        "youtube": "UCidOo3WEbQ5zr5gFC2e5tnw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 215000
+        }
+      }
+    },
+    {
+      "id": "chris-ferreira-nutri",
+      "name": "Chris Ferreira Nutri",
+      "country": "PY",
+      "topic": {
+        "es": "Nutrición y salud",
+        "en": "Nutrition & health",
+        "pt": "Nutrição e saúde",
+        "fr": "Nutrition et santé",
+        "de": "Ernährung & Gesundheit",
+        "ru": "Питание и здоровье",
+        "ar": "تغذية وصحة",
+        "hi": "पोषण और स्वास्थ्य",
+        "zh": "营养与健康",
+        "ja": "栄養と健康"
+      },
+      "about": {
+        "es": "Nutricionista y creador de contenido paraguayo, nacido en Encarnación y radicado en Nueva York desde 2017, conocido por sus videos sobre nutrición y pérdida de peso.",
+        "en": "A Paraguayan nutritionist and content creator, born in Encarnación and based in New York since 2017, known for his videos on nutrition and weight loss.",
+        "pt": "Nutricionista e criador de conteúdo paraguaio, nascido em Encarnación e radicado em Nova York desde 2017, conhecido por seus vídeos sobre nutrição e emagrecimento.",
+        "fr": "Nutritionniste et créateur de contenu paraguayen, né à Encarnación et installé à New York depuis 2017, connu pour ses vidéos sur la nutrition et la perte de poids.",
+        "de": "Paraguayischer Ernährungsberater und Content Creator, geboren in Encarnación und seit 2017 in New York ansässig, bekannt für seine Videos über Ernährung und Gewichtsabnahme.",
+        "ru": "Парагвайский диетолог и создатель контента, родился в Энкарнасьоне, с 2017 года живёт в Нью-Йорке, известен видео о питании и снижении веса.",
+        "ar": "أخصائي تغذية وصانع محتوى باراغواياني، وُلد في إنكارناسيون ويقيم في نيويورك منذ عام 2017، واشتهر بمقاطعه حول التغذية وإنقاص الوزن.",
+        "hi": "पैराग्वे के पोषण विशेषज्ञ और कंटेंट क्रिएटर, जिनका जन्म एनकार्नासियोन में हुआ और जो 2017 से न्यूयॉर्क में रह रहे हैं, पोषण और वजन घटाने से जुड़े वीडियो के लिए जाने जाते हैं।",
+        "zh": "出生于恩卡纳西翁的巴拉圭营养师兼内容创作者,自2017年起定居纽约,以营养与减重相关视频而闻名。",
+        "ja": "エンカルナシオン出身のパラグアイ人栄養士兼コンテンツクリエイター。2017年からニューヨークを拠点とし、栄養と減量に関する動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UClNMyYmko6Lwms_FwESTK6Q",
+        "tiktok": "chrisferreiranutri",
+        "instagram": "chrisferreiranutri",
+        "facebook": "Chrisferreiranutri",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 130000
+        }
+      }
+    },
+    {
+      "id": "elkoalah",
+      "name": "elkoalah",
+      "country": "PY",
+      "topic": {
+        "es": "Gastronomía y vlogs",
+        "en": "Food & vlogs",
+        "pt": "Gastronomia e vlogs",
+        "fr": "Gastronomie et vlogs",
+        "de": "Gastronomie & Vlogs",
+        "ru": "Гастрономия и влоги",
+        "ar": "مطاعم ومدونات فيديو",
+        "hi": "भोजन और व्लॉग",
+        "zh": "美食与视频日志",
+        "ja": "グルメとVlog"
+      },
+      "about": {
+        "es": "Creador de contenido paraguayo y exenfermero que dejó su profesión hace ocho años para dedicarse a las redes; recorre restaurantes y puestos de comida para mostrar la diversidad gastronómica de Paraguay.",
+        "en": "A Paraguayan content creator and former nurse who left his profession eight years ago to focus on social media; he visits restaurants and food stalls to showcase Paraguay's culinary diversity.",
+        "pt": "Criador de conteúdo paraguaio e ex-enfermeiro que deixou a profissão há oito anos para se dedicar às redes sociais; percorre restaurantes e barracas de comida para mostrar a diversidade gastronômica do Paraguai.",
+        "fr": "Créateur de contenu paraguayen et ancien infirmier ayant quitté sa profession il y a huit ans pour se consacrer aux réseaux sociaux ; il visite restaurants et stands de rue pour présenter la diversité culinaire du Paraguay.",
+        "de": "Paraguayischer Content Creator und ehemaliger Krankenpfleger, der seinen Beruf vor acht Jahren aufgab, um sich sozialen Medien zu widmen; er besucht Restaurants und Essensstände, um die kulinarische Vielfalt Paraguays zu zeigen.",
+        "ru": "Парагвайский создатель контента и бывший медбрат, который восемь лет назад оставил профессию ради соцсетей; он посещает рестораны и уличные лотки, чтобы показать кулинарное разнообразие Парагвая.",
+        "ar": "صانع محتوى باراغواياني وممرض سابق ترك مهنته قبل ثماني سنوات للتفرغ لمواقع التواصل الاجتماعي؛ يزور المطاعم وأكشاك الطعام لعرض التنوع الغذائي في باراغواي.",
+        "hi": "पैराग्वे के कंटेंट क्रिएटर, जो पूर्व नर्स थे और आठ साल पहले सोशल मीडिया पर ध्यान केंद्रित करने के लिए अपना पेशा छोड़ दिया; वे पैराग्वे की पाक विविधता दिखाने के लिए रेस्तरां और खाने के स्टॉल पर जाते हैं।",
+        "zh": "巴拉圭内容创作者,曾是护士,八年前辞职专注于社交媒体;他走访各地餐厅和小吃摊,展示巴拉圭丰富的美食文化。",
+        "ja": "パラグアイ人コンテンツクリエイターで元看護師。8年前に転職しSNS活動に専念、レストランや屋台を巡ってパラグアイの多彩な食文化を紹介している。"
+      },
+      "handles": {
+        "youtube": "UCxagjwvR5NhVf9Pu6grwBWg",
+        "tiktok": null,
+        "instagram": "elkoalah",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1010000
+        }
+      }
+    },
+    {
+      "id": "jose-jimenez-j-j",
+      "name": "José Jiménez J.J.",
+      "country": "PY",
+      "topic": {
+        "es": "Seguridad policial",
+        "en": "Police safety",
+        "pt": "Segurança policial",
+        "fr": "Sécurité policière",
+        "de": "Polizeiliche Sicherheit",
+        "ru": "Полицейская безопасность",
+        "ar": "أمن الشرطة",
+        "hi": "पुलिस सुरक्षा",
+        "zh": "警务安全",
+        "ja": "警察と安全"
+      },
+      "about": {
+        "es": "Oficial de la Policía Nacional de Paraguay que comparte en YouTube videos sobre procedimientos policiales y seguridad ciudadana.",
+        "en": "An officer of Paraguay's National Police who shares YouTube videos about police procedures and public safety.",
+        "pt": "Oficial da Polícia Nacional do Paraguai que compartilha no YouTube vídeos sobre procedimentos policiais e segurança pública.",
+        "fr": "Officier de la Police nationale du Paraguay qui publie sur YouTube des vidéos sur les interventions policières et la sécurité publique.",
+        "de": "Beamter der Nationalpolizei Paraguays, der auf YouTube Videos über Polizeieinsätze und öffentliche Sicherheit teilt.",
+        "ru": "Сотрудник Национальной полиции Парагвая, публикующий на YouTube видео о полицейских процедурах и общественной безопасности.",
+        "ar": "ضابط في الشرطة الوطنية لباراغواي ينشر على يوتيوب مقاطع فيديو عن الإجراءات الشرطية والأمن العام.",
+        "hi": "पैराग्वे की नेशनल पुलिस के एक अधिकारी जो यूट्यूब पर पुलिस कार्यवाहियों और सार्वजनिक सुरक्षा से जुड़े वीडियो साझा करते हैं।",
+        "zh": "巴拉圭国家警察的一名警官,在YouTube上分享有关警务行动和公共安全的视频。",
+        "ja": "パラグアイ国家警察の警官で、警察の活動や公共の安全に関する動画をYouTubeで公開している。"
+      },
+      "handles": {
+        "youtube": "UCWoS-6BAEyabfU0jhFfgkcg",
+        "tiktok": "j.j.jose.jimenez",
+        "instagram": "jimenezjosejj",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 197000
+        }
+      }
+    },
+    {
+      "id": "alex-express",
+      "name": "ALEX EXPRESS",
+      "country": "PY",
+      "topic": {
+        "es": "Aventura y exploración",
+        "en": "Adventure & exploration",
+        "pt": "Aventura e exploração",
+        "fr": "Aventure et exploration",
+        "de": "Abenteuer & Erkundung",
+        "ru": "Приключения и исследования",
+        "ar": "مغامرة واستكشاف",
+        "hi": "रोमांच और खोज",
+        "zh": "冒险与探索",
+        "ja": "冒険と探検"
+      },
+      "about": {
+        "es": "Youtuber paraguayo conocido por sus videos de aventura y exploración urbana, como recorridos por el cementerio de la Recoleta en Asunción; apodado por sus seguidores 'el Ricardo Fort paraguayo'.",
+        "en": "A Paraguayan YouTuber known for adventure and urban exploration videos, such as tours of Asunción's Recoleta cemetery; his followers nicknamed him 'the Paraguayan Ricardo Fort'.",
+        "pt": "Youtuber paraguaio conhecido por vídeos de aventura e exploração urbana, como passeios pelo cemitério da Recoleta em Assunção; apelidado por seus seguidores de 'o Ricardo Fort paraguaio'.",
+        "fr": "Youtubeur paraguayen connu pour ses vidéos d'aventure et d'exploration urbaine, comme des visites du cimetière de la Recoleta à Asunción ; surnommé par ses abonnés 'le Ricardo Fort paraguayen'.",
+        "de": "Paraguayischer YouTuber, bekannt für Abenteuer- und Stadterkundungsvideos, etwa Rundgänge durch den Recoleta-Friedhof in Asunción; von seinen Followern 'der paraguayische Ricardo Fort' genannt.",
+        "ru": "Парагвайский ютубер, известный видео о приключениях и городских исследованиях, включая прогулки по кладбищу Реколета в Асунсьоне; подписчики прозвали его 'парагвайским Рикардо Фортом'.",
+        "ar": "يوتيوبر باراغواياني اشتهر بمقاطع المغامرة والاستكشاف الحضري، مثل جولات في مقبرة ريكوليتا في أسونسيون؛ لقّبه متابعوه بـ'ريكاردو فورت الباراغواياني'.",
+        "hi": "पैराग्वे के यूट्यूबर जो एडवेंचर और शहरी अन्वेषण वीडियो के लिए जाने जाते हैं, जैसे असुनसियोन के रेकोलेटा कब्रिस्तान का दौरा; उनके फॉलोअर्स ने उन्हें 'पैराग्वे का रिकार्डो फोर्ट' उपनाम दिया।",
+        "zh": "巴拉圭YouTuber,以冒险和城市探索视频著称,例如探访亚松森的雷科莱塔公墓;粉丝们给他起了个绰号叫\"巴拉圭的里卡多·福特\"。",
+        "ja": "パラグアイ人YouTuberで、アスンシオンのレコレータ墓地を巡るような冒険・都市探検動画で知られる。ファンからは「パラグアイのリカルド・フォルト」と呼ばれている。"
+      },
+      "handles": {
+        "youtube": "UCKrABS8SPIEUl7RncjGycIg",
+        "tiktok": "alexexpressok",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 145000
+        }
+      }
+    },
+    {
+      "id": "broda-shaggi",
+      "name": "Broda Shaggi",
+      "country": "NG",
+      "topic": {
+        "es": "Comedia y sketches",
+        "en": "Comedy skits",
+        "pt": "Comédia e esquetes",
+        "fr": "Sketchs comiques",
+        "de": "Comedy-Sketche",
+        "ru": "Комедийные скетчи",
+        "ar": "سكتشات كوميدية",
+        "hi": "कॉमेडी स्किट्स",
+        "zh": "喜剧短剧",
+        "ja": "コメディスキット"
+      },
+      "about": {
+        "es": "Comediante y actor nigeriano nacido en el estado de Ogun que crea sketches de comedia y ha ganado dos veces el premio AMVCA al Mejor Actor de Comedia.",
+        "en": "Nigerian comedian and actor born in Ogun State who creates comedy skits and has twice won the AMVCA award for Best Actor in a Comedy.",
+        "pt": "Comediante e ator nigeriano nascido no estado de Ogun que cria esquetes de comédia e já venceu duas vezes o prêmio AMVCA de Melhor Ator de Comédia.",
+        "fr": "Humoriste et acteur nigérian né dans l'État d'Ogun qui crée des sketchs comiques et a remporté deux fois le prix AMVCA du meilleur acteur comique.",
+        "de": "Nigerianischer Comedian und Schauspieler, geboren im Bundesstaat Ogun, der Comedy-Sketche produziert und den AMVCA-Preis als bester Comedy-Schauspieler zweimal gewonnen hat.",
+        "ru": "Нигерийский комик и актёр, родившийся в штате Огун, создаёт комедийные скетчи и дважды становился обладателем премии AMVCA за лучшую комедийную роль.",
+        "ar": "كوميدي وممثل نيجيري وُلد في ولاية أوغون، يقدم سكتشات كوميدية وفاز مرتين بجائزة AMVCA لأفضل ممثل كوميدي.",
+        "hi": "नाइजीरियाई हास्य कलाकार और अभिनेता, जिनका जन्म ओगुन राज्य में हुआ, कॉमेडी स्किट्स बनाते हैं और दो बार AMVCA सर्वश्रेष्ठ हास्य अभिनेता पुरस्कार जीत चुके हैं।",
+        "zh": "这位出生于奥贡州的尼日利亚喜剧演员兼演员制作喜剧短剧,并两次获得AMVCA最佳喜剧演员奖。",
+        "ja": "オグン州生まれのナイジェリア人コメディアン兼俳優で、コメディスキットを制作し、AMVCA最優秀コメディ俳優賞を2度受賞している。"
+      },
+      "handles": {
+        "youtube": "UCG6orNVuXIICv9_ifH6msIA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 2260000
+        }
+      }
+    },
+    {
+      "id": "isbae-u",
+      "name": "Isbae U",
+      "country": "NG",
+      "topic": {
+        "es": "Comedia y sketches",
+        "en": "Comedy skits",
+        "pt": "Comédia e esquetes",
+        "fr": "Sketchs comiques",
+        "de": "Comedy-Sketche",
+        "ru": "Комедийные скетчи",
+        "ar": "سكتشات كوميدية",
+        "hi": "कॉमेडी स्किट्स",
+        "zh": "喜剧短剧",
+        "ja": "コメディスキット"
+      },
+      "about": {
+        "es": "Comediante nigeriano nacido en Lagos en 1995, conocido por sus sketches de comedia y por presentar la serie de entrevistas Curiosity Made Me Ask.",
+        "en": "Nigerian comedian born in Lagos in 1995, known for comedy skits and for hosting the interview series Curiosity Made Me Ask.",
+        "pt": "Comediante nigeriano nascido em Lagos em 1995, conhecido por seus esquetes de comédia e por apresentar a série de entrevistas Curiosity Made Me Ask.",
+        "fr": "Humoriste nigérian né à Lagos en 1995, connu pour ses sketchs comiques et pour animer la série d'interviews Curiosity Made Me Ask.",
+        "de": "Nigerianischer Comedian, geboren 1995 in Lagos, bekannt für Comedy-Sketche und als Moderator der Interviewserie Curiosity Made Me Ask.",
+        "ru": "Нигерийский комик, родившийся в Лагосе в 1995 году, известен своими комедийными скетчами и ведением интервью-шоу Curiosity Made Me Ask.",
+        "ar": "كوميدي نيجيري وُلد في لاغوس عام 1995، اشتهر بسكتشاته الكوميدية وتقديمه لبرنامج المقابلات Curiosity Made Me Ask.",
+        "hi": "1995 में लागोस में जन्मे नाइजीरियाई हास्य कलाकार, जो अपनी कॉमेडी स्किट्स और इंटरव्यू शो Curiosity Made Me Ask की मेज़बानी के लिए जाने जाते हैं।",
+        "zh": "这位1995年出生于拉各斯的尼日利亚喜剧演员以喜剧短剧和主持访谈节目Curiosity Made Me Ask而闻名。",
+        "ja": "1995年にラゴスで生まれたナイジェリア人コメディアンで、コメディスキットとインタビュー番組「Curiosity Made Me Ask」の司会で知られる。"
+      },
+      "handles": {
+        "youtube": "UCDe1cg0CZOtzmrTCVCaTKpw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 866000
+        }
+      }
+    },
+    {
+      "id": "diana-eneje",
+      "name": "Diana Eneje",
+      "country": "NG",
+      "topic": {
+        "es": "Moda y vlogs",
+        "en": "Fashion vlogging",
+        "pt": "Moda e vlogs",
+        "fr": "Mode et vlogs",
+        "de": "Mode-Vlogs",
+        "ru": "Мода и влоги",
+        "ar": "أزياء ومدونات فيديو",
+        "hi": "फैशन व्लॉगिंग",
+        "zh": "时尚视频博客",
+        "ja": "ファッションVlog"
+      },
+      "about": {
+        "es": "Vloguera de moda nigeriana nacida y criada en Lagos que apareció en el videoclip de la canción \"Dumebi\" de Rema.",
+        "en": "Nigerian fashion vlogger born and raised in Lagos who appeared in the music video for Rema's song \"Dumebi\".",
+        "pt": "Vlogueira de moda nigeriana nascida e criada em Lagos que apareceu no videoclipe da música \"Dumebi\" de Rema.",
+        "fr": "Vlogueuse mode nigériane née et élevée à Lagos, apparue dans le clip de la chanson \"Dumebi\" de Rema.",
+        "de": "Nigerianische Mode-Vloggerin, geboren und aufgewachsen in Lagos, die im Musikvideo zu Remas Song \"Dumebi\" mitwirkte.",
+        "ru": "Нигерийский видеоблогер о моде, родившаяся и выросшая в Лагосе, снялась в клипе на песню Rema \"Dumebi\".",
+        "ar": "مدونة فيديو نيجيرية متخصصة في الأزياء وُلدت ونشأت في لاغوس وظهرت في الفيديو الموسيقي لأغنية \"Dumebi\" لـ Rema.",
+        "hi": "लागोस में जन्मी और पली-बढ़ी नाइजीरियाई फैशन व्लॉगर, जो रेमा के गाने \"Dumebi\" के म्यूज़िक वीडियो में नज़र आईं।",
+        "zh": "这位在拉各斯出生并长大的尼日利亚时尚视频博主曾出演Rema歌曲《Dumebi》的音乐视频。",
+        "ja": "ラゴスで生まれ育ったナイジェリア人ファッションVloggerで、Remaの曲「Dumebi」のミュージックビデオに出演した。"
+      },
+      "handles": {
+        "youtube": "UCyiN00eOKq-OWS0ixpvsqtg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 127000
+        }
+      }
+    },
+    {
+      "id": "james-brown",
+      "name": "James Brown",
+      "country": "NG",
+      "topic": {
+        "es": "Entretenimiento y estilo de vida",
+        "en": "Entertainment & lifestyle",
+        "pt": "Entretenimento e estilo de vida",
+        "fr": "Divertissement et style de vie",
+        "de": "Unterhaltung & Lifestyle",
+        "ru": "Развлечения и лайфстайл",
+        "ar": "ترفيه وأسلوب حياة",
+        "hi": "मनोरंजन और लाइफस्टाइल",
+        "zh": "娱乐与生活方式",
+        "ja": "エンタメ&ライフスタイル"
+      },
+      "about": {
+        "es": "Personalidad de internet nigeriana radicada en Lagos que trabaja como animador, influencer de marcas y creador de contenido.",
+        "en": "Nigerian internet personality based in Lagos who works as an entertainer, brand influencer and content creator.",
+        "pt": "Personalidade da internet nigeriana radicada em Lagos que atua como entretenedor, influenciador de marcas e criador de conteúdo.",
+        "fr": "Personnalité internet nigériane basée à Lagos, animateur, influenceur de marques et créateur de contenu.",
+        "de": "Nigerianische Internetpersönlichkeit mit Sitz in Lagos, tätig als Entertainer, Markenbotschafter und Content Creator.",
+        "ru": "Нигерийская интернет-персона из Лагоса, работающая как артист-развлекатель, бренд-инфлюенсер и создатель контента.",
+        "ar": "شخصية إنترنت نيجيرية مقيمة في لاغوس تعمل كفنان ترفيهي ومؤثر للعلامات التجارية وصانع محتوى.",
+        "hi": "लागोस स्थित नाइजीरियाई इंटरनेट हस्ती, जो एक एंटरटेनर, ब्रांड इन्फ्लुएंसर और कंटेंट क्रिएटर के रूप में काम करती हैं।",
+        "zh": "这位常驻拉各斯的尼日利亚网络红人从事娱乐表演、品牌代言和内容创作工作。",
+        "ja": "ラゴスを拠点とするナイジェリア人インターネットパーソナリティで、エンターテイナー、ブランドインフルエンサー、コンテンツクリエイターとして活動している。"
+      },
+      "handles": {
+        "youtube": "UCCsTF4fkyjOsFsXMDgE3nZA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 100000
+        }
+      }
+    },
+    {
+      "id": "shin-fujiyama",
+      "name": "Shin Fujiyama",
+      "country": "HN",
+      "topic": {
+        "es": "Educación y comunidad",
+        "en": "Education and community",
+        "pt": "Educação e comunidade",
+        "fr": "Éducation et communauté",
+        "de": "Bildung und Gemeinschaft",
+        "ru": "Образование и общество",
+        "ar": "التعليم والمجتمع",
+        "hi": "शिक्षा और समुदाय",
+        "zh": "教育与社区",
+        "ja": "教育とコミュニティ"
+      },
+      "about": {
+        "es": "Creador nacido en Japón que vive en Honduras desde hace más de una década, donde fundó junto a su hermana la organización Students Helping Honduras y ha impulsado la construcción de decenas de escuelas rurales.",
+        "en": "A Japan-born creator who has lived in Honduras for over a decade, where he co-founded the organization Students Helping Honduras with his sister and has helped build dozens of rural schools.",
+        "pt": "Criador nascido no Japão que mora em Honduras há mais de uma década, onde cofundou com a irmã a organização Students Helping Honduras e ajudou a construir dezenas de escolas rurais.",
+        "fr": "Créateur né au Japon qui vit au Honduras depuis plus d'une décennie, où il a cofondé avec sa sœur l'organisation Students Helping Honduras et a contribué à la construction de dizaines d'écoles rurales.",
+        "de": "Ein in Japan geborener Creator, der seit über einem Jahrzehnt in Honduras lebt, wo er mit seiner Schwester die Organisation Students Helping Honduras mitgegründet und beim Bau Dutzender ländlicher Schulen mitgewirkt hat.",
+        "ru": "Блогер, родившийся в Японии и уже более десяти лет живущий в Гондурасе, где вместе с сестрой основал организацию Students Helping Honduras и помог построить десятки сельских школ.",
+        "ar": "صانع محتوى وُلد في اليابان ويعيش في هندوراس منذ أكثر من عقد، حيث أسس مع شقيقته منظمة Students Helping Honduras وساهم في بناء عشرات المدارس الريفية.",
+        "hi": "जापान में जन्मे इस क्रिएटर ने एक दशक से अधिक समय से होंडुरास में रहते हुए अपनी बहन के साथ Students Helping Honduras संगठन की स्थापना की और दर्जनों ग्रामीण स्कूलों के निर्माण में मदद की है।",
+        "zh": "这位出生于日本的创作者已在洪都拉斯生活十多年,他与姐姐共同创立了Students Helping Honduras组织,并帮助建造了数十所乡村学校。",
+        "ja": "日本生まれのクリエイターで、10年以上ホンジュラスに暮らし、姉とともにStudents Helping Hondurasという団体を設立し、数十校の農村部の学校建設を支援してきた。"
+      },
+      "handles": {
+        "youtube": "UCuyyURtBKEPKUDUIENVt90Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1390000
+        }
+      }
+    },
+    {
+      "id": "jem-k-un-preso-en-el-mundo-real",
+      "name": "jem-k un preso en el mundo real",
+      "country": "HN",
+      "topic": {
+        "es": "Vida en prisión",
+        "en": "Prison life",
+        "pt": "Vida na prisão",
+        "fr": "Vie en prison",
+        "de": "Leben im Gefängnis",
+        "ru": "Жизнь в тюрьме",
+        "ar": "الحياة في السجن",
+        "hi": "जेल जीवन",
+        "zh": "监狱生活",
+        "ja": "刑務所生活"
+      },
+      "about": {
+        "es": "Creador hondureño nacido en San Pedro Sula, conocido como Jem-K, que graba videos desde una prisión de Estados Unidos sobre su vida como reo y suele cerrar sus publicaciones advirtiendo a sus seguidores que eviten el camino del delito.",
+        "en": "A Honduran-born creator known as Jem-K, from San Pedro Sula, who records videos from a United States prison about life as an inmate and typically closes his posts by warning followers to avoid crime.",
+        "pt": "Criador hondurenho nascido em San Pedro Sula, conhecido como Jem-K, que grava vídeos de dentro de uma prisão dos Estados Unidos sobre sua vida como detento e costuma encerrar suas publicações alertando os seguidores para evitarem o crime.",
+        "fr": "Créateur hondurien né à San Pedro Sula, connu sous le nom de Jem-K, qui filme depuis une prison des États-Unis sa vie de détenu et termine généralement ses publications en avertissant ses abonnés d'éviter la délinquance.",
+        "de": "Ein in San Pedro Sula geborener honduranischer Creator, bekannt als Jem-K, der aus einem US-Gefängnis Videos über sein Leben als Häftling aufnimmt und seine Beiträge meist mit einer Warnung an seine Follower beendet, keine Straftaten zu begehen.",
+        "ru": "Гондурасский блогер, родившийся в Сан-Педро-Сула и известный как Jem-K, снимает видео из тюрьмы в США о жизни заключённого и обычно заканчивает публикации предупреждением подписчикам не вставать на путь преступления.",
+        "ar": "صانع محتوى هندوراسي وُلد في سان بيدرو سولا يُعرف باسم Jem-K، يسجل مقاطع فيديو من داخل سجن في الولايات المتحدة عن حياته كسجين، وعادة ما يختتم منشوراته بتحذير متابعيه من سلوك طريق الجريمة.",
+        "hi": "सैन पेद्रो सुला में जन्मे होंडुरास के क्रिएटर, जिन्हें Jem-K के नाम से जाना जाता है, अमेरिका की एक जेल से कैदी जीवन पर वीडियो बनाते हैं और आमतौर पर अपने फॉलोअर्स को अपराध से दूर रहने की चेतावनी देकर पोस्ट समाप्त करते हैं।",
+        "zh": "这位出生于圣佩德罗苏拉的洪都拉斯创作者,人称Jem-K,在美国监狱中拍摄关于囚犯生活的视频,通常会在视频结尾提醒粉丝远离犯罪道路。",
+        "ja": "サンペドロスーラ出身のホンジュラス人クリエイターで、Jem-Kとして知られ、米国の刑務所から服役中の生活について動画を撮影し、視聴者に犯罪への道を避けるよう呼びかけて締めくくることが多い。"
+      },
+      "handles": {
+        "youtube": "UC05hHt6wTMe0ehQC3F7vOpA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1570000
+        }
+      }
+    },
+    {
+      "id": "lipstickfables",
+      "name": "LipstickFables",
+      "country": "HN",
+      "topic": {
+        "es": "Estilo de vida y comedia",
+        "en": "Lifestyle and comedy",
+        "pt": "Estilo de vida e comédia",
+        "fr": "Style de vie et humour",
+        "de": "Lifestyle und Comedy",
+        "ru": "Лайфстайл и юмор",
+        "ar": "أسلوب حياة وكوميديا",
+        "hi": "जीवनशैली और कॉमेडी",
+        "zh": "生活方式与喜剧",
+        "ja": "ライフスタイルとコメディ"
+      },
+      "about": {
+        "es": "Creadora hondureña, nacida como Ana Alvarado, radicada en Miami, que empezó en 2011 como vlogger de belleza y con el tiempo orientó su contenido hacia la comedia y la cultura hondureña, incluido el podcast 'El Lengüetazo'.",
+        "en": "A Honduran creator, born Ana Alvarado and based in Miami, who started in 2011 as a beauty vlogger and over time shifted her content toward comedy and Honduran culture, including the podcast 'El Lengüetazo.'",
+        "pt": "Criadora hondurenha, nascida Ana Alvarado e radicada em Miami, que começou em 2011 como vlogueira de beleza e, com o tempo, voltou seu conteúdo para a comédia e a cultura hondurenha, incluindo o podcast 'El Lengüetazo'.",
+        "fr": "Créatrice hondurienne, née Ana Alvarado et installée à Miami, qui a débuté en 2011 comme vlogueuse beauté avant d'orienter son contenu vers l'humour et la culture hondurienne, notamment via le podcast 'El Lengüetazo'.",
+        "de": "Eine honduranische Creatorin, geboren als Ana Alvarado und ansässig in Miami, die 2011 als Beauty-Vloggerin begann und ihre Inhalte mit der Zeit auf Comedy und honduranische Kultur ausrichtete, unter anderem mit dem Podcast 'El Lengüetazo'.",
+        "ru": "Гондурасская блогерша, урождённая Ана Альварадо, живущая в Майами, начинала в 2011 году как бьюти-влогер, а со временем перешла к юмористическому контенту о гондурасской культуре, включая подкаст 'El Lengüetazo'.",
+        "ar": "صانعة محتوى هندوراسية، وُلدت باسم Ana Alvarado وتقيم في ميامي، بدأت عام 2011 كمدونة فيديو للجمال ثم وجّهت محتواها لاحقًا نحو الكوميديا والثقافة الهندوراسية، بما في ذلك بودكاست 'El Lengüetazo'.",
+        "hi": "होंडुरास की क्रिएटर, जिनका जन्म का नाम Ana Alvarado है और जो मियामी में रहती हैं, ने 2011 में ब्यूटी व्लॉगर के रूप में शुरुआत की और समय के साथ अपनी सामग्री को कॉमेडी और होंडुरास की संस्कृति की ओर मोड़ा, जिसमें पॉडकास्ट 'El Lengüetazo' शामिल है।",
+        "zh": "这位洪都拉斯创作者原名Ana Alvarado,现居迈阿密,2011年以美妆视频博主身份起步,后来将内容转向喜剧和洪都拉斯文化,并主持播客《El Lengüetazo》。",
+        "ja": "本名アナ・アルバラードのホンジュラス人クリエイターで、マイアミを拠点とし、2011年に美容系ブロガーとして活動を始め、その後コメディやホンジュラス文化を扱う内容へと移行し、ポッドキャスト「El Lengüetazo」も手がけている。"
+      },
+      "handles": {
+        "youtube": "UC55jEkkGHUeiYsMkyND08vw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 652000
+        }
+      }
+    },
+    {
+      "id": "davis-flow",
+      "name": "Davis Flow",
+      "country": "HN",
+      "topic": {
+        "es": "Música urbana",
+        "en": "Urban music",
+        "pt": "Música urbana",
+        "fr": "Musique urbaine",
+        "de": "Urbane Musik",
+        "ru": "Городская музыка",
+        "ar": "موسيقى حضرية",
+        "hi": "अर्बन संगीत",
+        "zh": "都市音乐",
+        "ja": "アーバンミュージック"
+      },
+      "about": {
+        "es": "Creador y rapero hondureño de nombre real Davis Obed Silva Antúnez, que comenzó a subir videos de freestyle a YouTube en 2014 y en 2026 firmó contrato como jugador con el club Platense de la Liga Nacional de Honduras.",
+        "en": "A Honduran creator and rapper whose real name is Davis Obed Silva Antúnez, who began posting freestyle videos on YouTube in 2014 and signed a playing contract with Honduran National League club Platense in 2026.",
+        "pt": "Criador e rapper hondurenho cujo nome real é Davis Obed Silva Antúnez, que começou a publicar vídeos de freestyle no YouTube em 2014 e assinou contrato como jogador com o clube Platense, da Liga Nacional de Honduras, em 2026.",
+        "fr": "Créateur et rappeur hondurien, de son vrai nom Davis Obed Silva Antúnez, qui a commencé à publier des vidéos de freestyle sur YouTube en 2014 et a signé en 2026 un contrat de joueur avec le club Platense de la Ligue nationale du Honduras.",
+        "de": "Ein honduranischer Creator und Rapper mit dem bürgerlichen Namen Davis Obed Silva Antúnez, der 2014 begann, Freestyle-Videos auf YouTube zu veröffentlichen, und 2026 einen Spielervertrag beim honduranischen Erstligaclub Platense unterschrieb.",
+        "ru": "Гондурасский блогер и рэпер по имени Давис Обед Сильва Антунес, начавший публиковать фристайл-видео на YouTube в 2014 году и подписавший в 2026 году игровой контракт с клубом Platense Национальной лиги Гондураса.",
+        "ar": "صانع محتوى ومغني راب هندوراسي اسمه الحقيقي Davis Obed Silva Antúnez، بدأ نشر مقاطع فيديو للارتجال الحر على يوتيوب عام 2014 ووقّع عام 2026 عقدًا كلاعب مع نادي بلاتنسي في الدوري الهندوراسي الوطني.",
+        "hi": "होंडुरास के क्रिएटर और रैपर, जिनका असली नाम Davis Obed Silva Antúnez है, ने 2014 में यूट्यूब पर फ्रीस्टाइल वीडियो पोस्ट करना शुरू किया और 2026 में होंडुरास की नेशनल लीग के क्लब Platense के साथ खिलाड़ी के रूप में अनुबंध किया।",
+        "zh": "这位洪都拉斯创作者兼说唱歌手真名为Davis Obed Silva Antúnez,2014年开始在YouTube上发布即兴说唱视频,并于2026年与洪都拉斯国家联赛俱乐部Platense签约成为球员。",
+        "ja": "本名Davis Obed Silva Antúnezというホンジュラス人クリエイター兼ラッパーで、2014年からYouTubeにフリースタイル動画を投稿し始め、2026年にはホンジュラス・ナショナルリーグのクラブ、プラテンセと選手契約を結んだ。"
+      },
+      "handles": {
+        "youtube": "UC-4vrDmTdDczupiU5ltttgQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 206000
+        }
+      }
+    },
+    {
+      "id": "losvenados504-hn",
+      "name": "Losvenados504 HN",
+      "country": "HN",
+      "topic": {
+        "es": "Comedia y vida cotidiana",
+        "en": "Comedy and daily life",
+        "pt": "Comédia e cotidiano",
+        "fr": "Comédie et quotidien",
+        "de": "Comedy und Alltag",
+        "ru": "Комедия и быт",
+        "ar": "كوميديا وحياة يومية",
+        "hi": "कॉमेडी और रोज़मर्रा जीवन",
+        "zh": "喜剧与日常生活",
+        "ja": "コメディと日常生活"
+      },
+      "about": {
+        "es": "Canal de comedia con sede en Tegucigalpa, Honduras, que produce sketches sobre relaciones y situaciones de la vida diaria bajo el lema 'De Honduras, para el mundo'.",
+        "en": "A comedy channel based in Tegucigalpa, Honduras, producing sketches about relationships and everyday situations under the tagline 'De Honduras, para el mundo' (From Honduras, to the world).",
+        "pt": "Canal de comédia sediado em Tegucigalpa, Honduras, que produz esquetes sobre relacionamentos e situações do dia a dia sob o lema 'De Honduras, para el mundo' (De Honduras para o mundo).",
+        "fr": "Chaîne humoristique basée à Tegucigalpa, au Honduras, qui produit des sketchs sur les relations et les situations du quotidien sous le slogan 'De Honduras, para el mundo' (Du Honduras, pour le monde).",
+        "de": "Ein Comedy-Kanal mit Sitz in Tegucigalpa, Honduras, der Sketche über Beziehungen und Alltagssituationen unter dem Motto 'De Honduras, para el mundo' (Aus Honduras, für die Welt) produziert.",
+        "ru": "Комедийный канал из Тегусигальпы, Гондурас, снимающий скетчи об отношениях и повседневных ситуациях под девизом 'De Honduras, para el mundo' (Из Гондураса — для всего мира).",
+        "ar": "قناة كوميدية مقرها تيغوسيغالبا في هندوراس، تنتج مقاطع كوميدية عن العلاقات ومواقف الحياة اليومية تحت شعار 'De Honduras, para el mundo' (من هندوراس، إلى العالم).",
+        "hi": "होंडुरास की राजधानी तेगुसीगाल्पा स्थित एक कॉमेडी चैनल, जो 'De Honduras, para el mundo' (होंडुरास से, दुनिया के लिए) के नारे के तहत रिश्तों और रोज़मर्रा की स्थितियों पर स्केच बनाता है।",
+        "zh": "总部位于洪都拉斯特古西加尔巴的喜剧频道,以\"De Honduras, para el mundo\"(源自洪都拉斯,献给全世界)为口号,制作关于人际关系和日常生活的短剧。",
+        "ja": "ホンジュラスの首都テグシガルパを拠点とするコメディチャンネルで、「De Honduras, para el mundo」(ホンジュラスから世界へ)を掲げ、人間関係や日常の出来事をテーマにしたコントを制作している。"
+      },
+      "handles": {
+        "youtube": "UCd7Uclxcrj02-t0lND9Bn0A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 255000
+        }
+      }
+    },
+    {
+      "id": "kainat-aslam",
+      "name": "Kainat Aslam",
+      "country": "PK",
+      "topic": {
+        "es": "Maquillaje y belleza",
+        "en": "Beauty and makeup",
+        "pt": "Maquiagem e beleza",
+        "fr": "Maquillage et beauté",
+        "de": "Make-up und Beauty",
+        "ru": "Макияж и красота",
+        "ar": "مكياج وجمال",
+        "hi": "मेकअप और सौंदर्य",
+        "zh": "美妆内容",
+        "ja": "メイクと美容"
+      },
+      "about": {
+        "es": "Creadora de contenido paquistaní conocida por sus videos de maquillaje y rutinas 'Get Ready With Me', y fundadora de su propia línea de cosméticos.",
+        "en": "A Pakistani content creator known for her makeup tutorials and 'Get Ready With Me' videos, and founder of her own cosmetics line.",
+        "pt": "Criadora de conteúdo paquistanesa conhecida por seus vídeos de maquiagem e rotinas 'Get Ready With Me', e fundadora de sua própria linha de cosméticos.",
+        "fr": "Créatrice de contenu pakistanaise connue pour ses vidéos de maquillage et de routines « Get Ready With Me », et fondatrice de sa propre ligne de cosmétiques.",
+        "de": "Eine pakistanische Content-Creatorin, bekannt für ihre Make-up-Tutorials und „Get Ready With Me“-Videos, sowie Gründerin ihrer eigenen Kosmetiklinie.",
+        "ru": "Пакистанская создательница контента, известная своими видео о макияже и роликами в формате «Get Ready With Me», а также основательница собственной линии косметики.",
+        "ar": "صانعة محتوى باكستانية معروفة بمقاطع فيديو المكياج وروتين \"استعدي معي\"، ومؤسسة خط مستحضرات تجميل خاص بها.",
+        "hi": "एक पाकिस्तानी कंटेंट क्रिएटर जो अपने मेकअप ट्यूटोरियल और 'गेट रेडी विद मी' वीडियो के लिए जानी जाती हैं, और अपनी खुद की कॉस्मेटिक्स लाइन की संस्थापक हैं।",
+        "zh": "一位巴基斯坦内容创作者,以美妆教程和\"Get Ready With Me\"视频闻名,并创立了自己的化妆品品牌。",
+        "ja": "メイクアップチュートリアルや「ゲット・レディ・ウィズ・ミー」動画で知られるパキスタン人クリエイターで、自身のコスメブランドの創設者でもある。"
+      },
+      "handles": {
+        "youtube": "UCPmpm66rKUvCMGnVGwrOXgA",
+        "tiktok": null,
+        "instagram": "kainataslam.ka",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
+        "followers": {
+          "youtube": 1420000
+        }
+      }
     }
   ]
 }
