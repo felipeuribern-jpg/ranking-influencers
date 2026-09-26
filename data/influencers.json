@@ -10871,6 +10871,366 @@
           "youtube": 18000000
         }
       }
+    },
+    {
+      "id": "farouk-life",
+      "name": "Farouk Life",
+      "country": "MA",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Farouk Life comparte contenido sobre Entretenimiento.",
+        "en": "On their YouTube channel, Farouk Life shares content about Entertainment.",
+        "pt": "No seu canal do YouTube, Farouk Life compartilha conteúdo sobre Entretenimento.",
+        "fr": "Sur sa chaîne YouTube, Farouk Life partage du contenu sur le thème : Divertissement.",
+        "de": "Auf dem YouTube-Kanal von Farouk Life geht es um Unterhaltung.",
+        "ru": "На YouTube-канале Farouk Life публикуются видео на тему «Развлечения».",
+        "ar": "ينشر Farouk Life على قناته في يوتيوب محتوى عن ترفيه.",
+        "hi": "Farouk Life अपने YouTube चैनल पर मनोरंजन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Farouk Life 的 YouTube 频道分享有关娱乐的内容。",
+        "ja": "Farouk LifeのYouTubeチャンネルでは、エンターテインメントに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCv6T1ljYi3CETJ1Jqj1bFMQ",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 2210000
+        }
+      }
+    },
+    {
+      "id": "sara-baknine",
+      "name": "Sara Baknine",
+      "country": "MA",
+      "topic": {
+        "es": "Vida familiar",
+        "en": "Family life",
+        "pt": "Vida familiar",
+        "fr": "Vie de famille",
+        "de": "Familienleben",
+        "ru": "Семейная жизнь",
+        "ar": "حياة عائلية",
+        "hi": "पारिवारिक जीवन",
+        "zh": "家庭生活",
+        "ja": "家族の暮らし"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Sara Baknine comparte contenido sobre Vida familiar.",
+        "en": "On their YouTube channel, Sara Baknine shares content about Family life.",
+        "pt": "No seu canal do YouTube, Sara Baknine compartilha conteúdo sobre Vida familiar.",
+        "fr": "Sur sa chaîne YouTube, Sara Baknine partage du contenu sur le thème : Vie de famille.",
+        "de": "Auf dem YouTube-Kanal von Sara Baknine geht es um Familienleben.",
+        "ru": "На YouTube-канале Sara Baknine публикуются видео на тему «Семейная жизнь».",
+        "ar": "ينشر Sara Baknine على قناته في يوتيوب محتوى عن حياة عائلية.",
+        "hi": "Sara Baknine अपने YouTube चैनल पर पारिवारिक जीवन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Sara Baknine 的 YouTube 频道分享有关家庭生活的内容。",
+        "ja": "Sara BaknineのYouTubeチャンネルでは、家族の暮らしに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCzU-KdVuh-Am6XowUeBccSQ",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 780000
+        }
+      }
+    },
+    {
+      "id": "kim-sun-woo",
+      "name": "김선우 SUN WOO",
+      "country": "KR",
+      "topic": {
+        "es": "Hogar y estilo de vida",
+        "en": "Home and lifestyle",
+        "pt": "Casa e estilo de vida",
+        "fr": "Maison et mode de vie",
+        "de": "Wohnen und Lifestyle",
+        "ru": "Дом и образ жизни",
+        "ar": "منزل وأسلوب حياة",
+        "hi": "घर और जीवनशैली",
+        "zh": "家居与生活方式",
+        "ja": "住まいとライフスタイル"
+      },
+      "about": {
+        "es": "En su canal de YouTube, 김선우 SUN WOO comparte contenido sobre Hogar y estilo de vida.",
+        "en": "On their YouTube channel, 김선우 SUN WOO shares content about Home and lifestyle.",
+        "pt": "No seu canal do YouTube, 김선우 SUN WOO compartilha conteúdo sobre Casa e estilo de vida.",
+        "fr": "Sur sa chaîne YouTube, 김선우 SUN WOO partage du contenu sur le thème : Maison et mode de vie.",
+        "de": "Auf dem YouTube-Kanal von 김선우 SUN WOO geht es um Wohnen und Lifestyle.",
+        "ru": "На YouTube-канале 김선우 SUN WOO публикуются видео на тему «Дом и образ жизни».",
+        "ar": "ينشر 김선우 SUN WOO على قناته في يوتيوب محتوى عن منزل وأسلوب حياة.",
+        "hi": "김선우 SUN WOO अपने YouTube चैनल पर घर और जीवनशैली से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "김선우 SUN WOO 的 YouTube 频道分享有关家居与生活方式的内容。",
+        "ja": "김선우 SUN WOOのYouTubeチャンネルでは、住まいとライフスタイルに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCdah9R_MdctHWvtpmqEijbA",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 218000
+        }
+      }
+    },
+    {
+      "id": "togimochi-korea",
+      "name": "Togimochi Koreaとぎもち 토기모치",
+      "country": "JP",
+      "topic": {
+        "es": "Gastronomía",
+        "en": "Food",
+        "pt": "Gastronomia",
+        "fr": "Gastronomie",
+        "de": "Essen",
+        "ru": "Еда",
+        "ar": "طعام",
+        "hi": "खान-पान",
+        "zh": "美食",
+        "ja": "グルメ"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Togimochi Koreaとぎもち 토기모치 comparte contenido sobre Gastronomía.",
+        "en": "On their YouTube channel, Togimochi Koreaとぎもち 토기모치 shares content about Food.",
+        "pt": "No seu canal do YouTube, Togimochi Koreaとぎもち 토기모치 compartilha conteúdo sobre Gastronomia.",
+        "fr": "Sur sa chaîne YouTube, Togimochi Koreaとぎもち 토기모치 partage du contenu sur le thème : Gastronomie.",
+        "de": "Auf dem YouTube-Kanal von Togimochi Koreaとぎもち 토기모치 geht es um Essen.",
+        "ru": "На YouTube-канале Togimochi Koreaとぎもち 토기모치 публикуются видео на тему «Еда».",
+        "ar": "ينشر Togimochi Koreaとぎもち 토기모치 على قناته في يوتيوب محتوى عن طعام.",
+        "hi": "Togimochi Koreaとぎもち 토기모치 अपने YouTube चैनल पर खान-पान से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Togimochi Koreaとぎもち 토기모치 的 YouTube 频道分享有关美食的内容。",
+        "ja": "Togimochi Koreaとぎもち 토기모치のYouTubeチャンネルでは、グルメに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UC8x_GQsqwLvglizV7xRckpw",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 837000
+        }
+      }
+    },
+    {
+      "id": "clarktv",
+      "name": "대륙남TV [Clarktv]",
+      "country": "KR",
+      "topic": {
+        "es": "Actualidad y opinión",
+        "en": "Current affairs and opinion",
+        "pt": "Atualidades e opinião",
+        "fr": "Actualité et opinion",
+        "de": "Aktuelles und Meinungen",
+        "ru": "События и мнения",
+        "ar": "أحداث وآراء",
+        "hi": "समसामयिक विषय और राय",
+        "zh": "时事与观点",
+        "ja": "時事と意見"
+      },
+      "about": {
+        "es": "En su canal de YouTube, 대륙남TV [Clarktv] comparte contenido sobre Actualidad y opinión.",
+        "en": "On their YouTube channel, 대륙남TV [Clarktv] shares content about Current affairs and opinion.",
+        "pt": "No seu canal do YouTube, 대륙남TV [Clarktv] compartilha conteúdo sobre Atualidades e opinião.",
+        "fr": "Sur sa chaîne YouTube, 대륙남TV [Clarktv] partage du contenu sur le thème : Actualité et opinion.",
+        "de": "Auf dem YouTube-Kanal von 대륙남TV [Clarktv] geht es um Aktuelles und Meinungen.",
+        "ru": "На YouTube-канале 대륙남TV [Clarktv] публикуются видео на тему «События и мнения».",
+        "ar": "ينشر 대륙남TV [Clarktv] على قناته في يوتيوب محتوى عن أحداث وآراء.",
+        "hi": "대륙남TV [Clarktv] अपने YouTube चैनल पर समसामयिक विषय और राय से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "대륙남TV [Clarktv] 的 YouTube 频道分享有关时事与观点的内容。",
+        "ja": "대륙남TV [Clarktv]のYouTubeチャンネルでは、時事と意見に関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UC8_cYcL4dm_-tCEKlZuMTDg",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T16:01:43.566Z",
+        "followers": {
+          "youtube": 1220000
+        }
+      }
+    },
+    {
+      "id": "junior-mavity",
+      "name": "Junior Mavity",
+      "country": "BO",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Junior Mavity comparte contenido sobre Entretenimiento.",
+        "en": "On their YouTube channel, Junior Mavity shares content about Entertainment.",
+        "pt": "No seu canal do YouTube, Junior Mavity compartilha conteúdo sobre Entretenimento.",
+        "fr": "Sur sa chaîne YouTube, Junior Mavity partage du contenu sur le thème : Divertissement.",
+        "de": "Auf dem YouTube-Kanal von Junior Mavity geht es um Unterhaltung.",
+        "ru": "На YouTube-канале Junior Mavity публикуются видео на тему «Развлечения».",
+        "ar": "ينشر Junior Mavity على قناته في يوتيوب محتوى عن ترفيه.",
+        "hi": "Junior Mavity अपने YouTube चैनल पर मनोरंजन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Junior Mavity 的 YouTube 频道分享有关娱乐的内容。",
+        "ja": "Junior MavityのYouTubeチャンネルでは、エンターテインメントに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCWpfFIqc_m_s-HKBm_hHjow",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T22:23:43.494Z",
+        "followers": {
+          "youtube": 11200000
+        }
+      }
+    },
+    {
+      "id": "aisar-khaledd",
+      "name": "Aisar Khaledd",
+      "country": "MY",
+      "topic": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "pt": "Entretenimento",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "ru": "Развлечения",
+        "ar": "ترفيه",
+        "hi": "मनोरंजन",
+        "zh": "娱乐",
+        "ja": "エンターテインメント"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Aisar Khaledd comparte contenido sobre Entretenimiento.",
+        "en": "On their YouTube channel, Aisar Khaledd shares content about Entertainment.",
+        "pt": "No seu canal do YouTube, Aisar Khaledd compartilha conteúdo sobre Entretenimento.",
+        "fr": "Sur sa chaîne YouTube, Aisar Khaledd partage du contenu sur le thème : Divertissement.",
+        "de": "Auf dem YouTube-Kanal von Aisar Khaledd geht es um Unterhaltung.",
+        "ru": "На YouTube-канале Aisar Khaledd публикуются видео на тему «Развлечения».",
+        "ar": "ينشر Aisar Khaledd على قناته في يوتيوب محتوى عن ترفيه.",
+        "hi": "Aisar Khaledd अपने YouTube चैनल पर मनोरंजन से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Aisar Khaledd 的 YouTube 频道分享有关娱乐的内容。",
+        "ja": "Aisar KhaleddのYouTubeチャンネルでは、エンターテインメントに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UC7T5Nqi1rQM5n01SuQiyjzg",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T22:23:43.517Z",
+        "followers": {
+          "youtube": 3680000
+        }
+      }
+    },
+    {
+      "id": "munzurul-karim",
+      "name": "Munzurul Karim",
+      "country": "BD",
+      "topic": {
+        "es": "Actualidad y opinión",
+        "en": "Current affairs and opinion",
+        "pt": "Atualidades e opinião",
+        "fr": "Actualité et opinion",
+        "de": "Aktuelles und Meinungen",
+        "ru": "События и мнения",
+        "ar": "أحداث وآراء",
+        "hi": "समसामयिक विषय और राय",
+        "zh": "时事与观点",
+        "ja": "時事と意見"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Munzurul Karim comparte contenido sobre Actualidad y opinión.",
+        "en": "On their YouTube channel, Munzurul Karim shares content about Current affairs and opinion.",
+        "pt": "No seu canal do YouTube, Munzurul Karim compartilha conteúdo sobre Atualidades e opinião.",
+        "fr": "Sur sa chaîne YouTube, Munzurul Karim partage du contenu sur le thème : Actualité et opinion.",
+        "de": "Auf dem YouTube-Kanal von Munzurul Karim geht es um Aktuelles und Meinungen.",
+        "ru": "На YouTube-канале Munzurul Karim публикуются видео на тему «События и мнения».",
+        "ar": "ينشر Munzurul Karim على قناته في يوتيوب محتوى عن أحداث وآراء.",
+        "hi": "Munzurul Karim अपने YouTube चैनल पर समसामयिक विषय और राय से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Munzurul Karim 的 YouTube 频道分享有关时事与观点的内容。",
+        "ja": "Munzurul KarimのYouTubeチャンネルでは、時事と意見に関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCJ67_cvHTYmgyfhjkB2o5Aw",
+        "instagram": null,
+        "tiktok": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3; 2026-09-26T22:23:43.517Z",
+        "followers": {
+          "youtube": 876000
+        }
+      }
     }
   ]
 }

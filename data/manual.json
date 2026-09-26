@@ -217,6 +217,27 @@
       "followers": 1220000,
       "source": "https://www.youtube.com/channel/UC8_cYcL4dm_-tCEKlZuMTDg (YouTube Data API v3)",
       "date": "2026-09-26"
+    },
+    {
+      "id": "junior-mavity",
+      "platform": "youtube",
+      "followers": 11200000,
+      "source": "https://www.youtube.com/channel/UCWpfFIqc_m_s-HKBm_hHjow (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "aisar-khaledd",
+      "platform": "youtube",
+      "followers": 3680000,
+      "source": "https://www.youtube.com/channel/UC7T5Nqi1rQM5n01SuQiyjzg (YouTube Data API v3)",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "munzurul-karim",
+      "platform": "youtube",
+      "followers": 876000,
+      "source": "https://www.youtube.com/channel/UCJ67_cvHTYmgyfhjkB2o5Aw (YouTube Data API v3)",
+      "date": "2026-09-26"
     }
   ]
 }
