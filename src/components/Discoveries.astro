@@ -6,7 +6,7 @@ const { lang } = Astro.props as { lang: LanguageCode };
 const text = labels[lang];
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 // Candidate only: a reviewed monthly selection must be approved before changing this status.
-const candidate = getPersonById("claux-7");
+const candidates: Record<string, string> = { africa: "korty-eo", americas: "claux-7", asia: "kk-create", europe: "eva-zu-beck", oceania: "brianne-worth" };
 const regions = ["africa", "americas", "asia", "europe", "oceania"];
 ---
 <section class="discoveries" aria-labelledby="discoveries-title">
@@ -14,7 +14,8 @@ const regions = ["africa", "americas", "asia", "europe", "oceania"];
   <div class="discovery-picker" hidden><label for="discovery-continent">{text[2]}</label><select id="discovery-continent">{regions.map((region, index) => <option value={region} selected={region === "americas"}>{text[index + 3]}</option>)}</select></div>
   <div class="discovery-grid">
     {regions.map((region, index) => {
-      const person = region === "americas" && candidate && candidate.rank > 20 ? candidate : null;
+      const candidate = getPersonById(candidates[region]);
+      const person = candidate && candidate.rank > 20 ? candidate : null;
       return <article class:list={["discovery-card", { "has-candidate": !!person }]} data-continent={region}>
         <p class="discovery-region">{text[index + 3]}</p>
         <span class="discovery-status">{person ? text[10] : text[8]}</span>
