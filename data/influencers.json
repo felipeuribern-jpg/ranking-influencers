@@ -13211,6 +13211,358 @@
           "youtube": 447000
         }
       }
+    },
+    {
+      "id": "mohamed-ramadan-i",
+      "name": "Mohamed Ramadan I محمد رمضان",
+      "country": "EG",
+      "topic": {
+        "es": "Actor, cantante y estrella de entretenimiento",
+        "en": "Actor, singer and entertainment star",
+        "pt": "Ator, cantor e estrela do entretenimento",
+        "fr": "Acteur, chanteur et star du divertissement",
+        "de": "Schauspieler, Sänger und Entertainment-Star",
+        "ru": "Актёр, певец и звезда шоу-бизнеса",
+        "ar": "ممثل ومطرب ونجم فني",
+        "hi": "अभिनेता, गायक और मनोरंजन सितारा",
+        "zh": "演员、歌手兼娱乐明星",
+        "ja": "俳優、歌手、エンターテインメントスター"
+      },
+      "about": {
+        "es": "Nacido en El Cairo, Egipto, comenzó como actor en cine y televisión egipcia antes de lanzar en 2018 una carrera musical como rapero/cantante. Reside actualmente en Egipto y su canal de YouTube, con más de 6.300 millones de reproducciones acumuladas, mezcla videoclips musicales con contenido de su vida como estrella.",
+        "en": "Born in Cairo, Egypt, he started as an actor in Egyptian film and television before launching a rap/singing career in 2018. He currently lives in Egypt, and his YouTube channel, with more than 6.3 billion cumulative views, mixes music videos with content from his life as a star.",
+        "pt": "Nascido no Cairo, Egito, começou como ator no cinema e na televisão egípcia antes de lançar em 2018 uma carreira musical como rapper/cantor. Atualmente vive no Egito, e seu canal do YouTube, com mais de 6,3 bilhões de visualizações acumuladas, mistura videoclipes com conteúdo de sua vida como estrela.",
+        "fr": "Né au Caire, en Égypte, il a débuté comme acteur dans le cinéma et la télévision égyptiens avant de lancer en 2018 une carrière de chanteur/rappeur. Il vit actuellement en Égypte, et sa chaîne YouTube, avec plus de 6,3 milliards de vues cumulées, mélange clips musicaux et contenu de sa vie de star.",
+        "de": "Geboren in Kairo, Ägypten, begann er als Schauspieler im ägyptischen Film und Fernsehen, bevor er 2018 eine Karriere als Rapper/Sänger startete. Er lebt derzeit in Ägypten, und sein YouTube-Kanal mit über 6,3 Milliarden kumulierten Aufrufen mischt Musikvideos mit Einblicken in sein Star-Leben.",
+        "ru": "Родился в Каире, Египет, начинал как актёр египетского кино и телевидения, прежде чем в 2018 году начал карьеру рэпера/певца. В настоящее время живёт в Египте, а его канал на YouTube с более чем 6,3 млрд суммарных просмотров сочетает музыкальные клипы с контентом о его звёздной жизни.",
+        "ar": "وُلد في القاهرة، مصر، وبدأ ممثلاً في السينما والتلفزيون المصري قبل أن يطلق عام 2018 مسيرة غنائية كمطرب راب. يقيم حالياً في مصر، وقناته على يوتيوب التي تجاوزت 6.3 مليار مشاهدة تراكمية تمزج بين الفيديو كليبات ومحتوى من حياته كنجم.",
+        "hi": "काहिरा, मिस्र में जन्मे, उन्होंने 2018 में रैपर/गायक के रूप में करियर शुरू करने से पहले मिस्री फिल्म और टेलीविज़न में अभिनेता के रूप में शुरुआत की। वे वर्तमान में मिस्र में रहते हैं, और उनके यूट्यूब चैनल पर 6.3 अरब से अधिक संचयी व्यूज़ हैं, जो संगीत वीडियो और उनके स्टार जीवन की सामग्री को मिलाता है।",
+        "zh": "他出生于埃及开罗,在2018年开启说唱/歌手生涯之前,曾是埃及影视演员。他目前居住在埃及,其YouTube频道累计观看量超过63亿次,内容融合音乐视频与明星生活片段。",
+        "ja": "エジプトのカイロ生まれ。2018年にラッパー/歌手としてのキャリアを始める前は、エジプトの映画・テレビ俳優として活動していた。現在もエジプトに在住し、彼のYouTubeチャンネルは累計63億回以上再生されており、ミュージックビデオとスター生活のコンテンツを組み合わせている。"
+      },
+      "handles": {
+        "youtube": "UCJCj2HtcnbOyCj1rmKaxwJg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 16300000
+        }
+      }
+    },
+    {
+      "id": "shawar",
+      "name": "Shawar (عمر خالد)",
+      "country": "EG",
+      "topic": {
+        "es": "Comedia, retos y vlogs de viajes",
+        "en": "Comedy, challenges and travel vlogs",
+        "pt": "Comédia, desafios e vlogs de viagem",
+        "fr": "Comédie, défis et vlogs de voyage",
+        "de": "Comedy, Challenges und Reise-Vlogs",
+        "ru": "Комедия, челленджи и влоги о путешествиях",
+        "ar": "كوميديا وتحديات وفلوجات سفر",
+        "hi": "कॉमेडी, चैलेंज और यात्रा व्लॉग्स",
+        "zh": "喜剧、挑战与旅行视频",
+        "ja": "コメディ、チャレンジ、旅行ブログ"
+      },
+      "about": {
+        "es": "Su verdadero nombre es Omar Khaled y nació en Tanta, Egipto. Comenzó su canal en 2017 con sketches cómicos y luego evolucionó hacia videos de retos y viajes junto a su grupo de amigos, hasta acumular más de mil millones de reproducciones. Sigue siendo mencionado en 2025 como uno de los youtubers egipcios más populares.",
+        "en": "His real name is Omar Khaled and he was born in Tanta, Egypt. He started his channel in 2017 with comedy sketches, later moving into challenge and travel videos with his group of friends, amassing over a billion views. He is still cited in 2025 as one of the most popular Egyptian YouTubers.",
+        "pt": "Seu nome verdadeiro é Omar Khaled e nasceu em Tanta, Egito. Começou seu canal em 2017 com esquetes cômicos, depois passou para vídeos de desafios e viagens com seu grupo de amigos, acumulando mais de um bilhão de visualizações. Ainda é citado em 2025 como um dos YouTubers egípcios mais populares.",
+        "fr": "Son vrai nom est Omar Khaled et il est né à Tanta, en Égypte. Il a lancé sa chaîne en 2017 avec des sketches comiques, avant de se tourner vers des vidéos de défis et de voyages avec son groupe d'amis, cumulant plus d'un milliard de vues. Il est encore cité en 2025 comme l'un des YouTubeurs égyptiens les plus populaires.",
+        "de": "Sein richtiger Name ist Omar Khaled, geboren in Tanta, Ägypten. Er startete seinen Kanal 2017 mit Comedy-Sketchen und wechselte später zu Challenge- und Reisevideos mit seiner Freundesgruppe, mit über einer Milliarde Aufrufen. 2025 wird er weiterhin als einer der beliebtesten ägyptischen YouTuber genannt.",
+        "ru": "Его настоящее имя — Омар Халед, родился в Танте, Египет. Начал канал в 2017 году с комедийных скетчей, позже перейдя к видео с челленджами и путешествиями вместе с группой друзей, набрав более миллиарда просмотров. В 2025 году его по-прежнему называют одним из самых популярных египетских ютуберов.",
+        "ar": "اسمه الحقيقي عمر خالد، وُلد في طنطا، مصر. بدأ قناته عام 2017 بمقاطع كوميدية ثم تحول إلى فيديوهات تحديات وسفر مع مجموعة أصدقائه، متجاوزاً مليار مشاهدة. لا يزال يُذكر في 2025 كأحد أشهر يوتيوبرز مصر.",
+        "hi": "उनका असली नाम उमर खालेद है और उनका जन्म मिस्र के तांता में हुआ। उन्होंने 2017 में कॉमेडी स्किट्स के साथ अपना चैनल शुरू किया, बाद में अपने दोस्तों के समूह के साथ चैलेंज और यात्रा वीडियो की ओर बढ़े, जिनकी कुल व्यूज़ एक अरब से अधिक हैं। 2025 में भी उन्हें मिस्र के सबसे लोकप्रिय यूट्यूबर्स में गिना जाता है।",
+        "zh": "他的真名是奥马尔·哈立德,出生于埃及坦塔。2017年他以喜剧短剧开设频道,后来与朋友团队一起转向挑战和旅行视频,累计观看量超过十亿次。2025年他仍被视为埃及最受欢迎的YouTuber之一。",
+        "ja": "本名はオマル・ハーレド。エジプトのタンタ出身。2017年にコメディスケッチでチャンネルを開始し、後に友人グループとのチャレンジ動画や旅行動画へと展開、累計再生回数は10億回を超える。2025年時点でもエジプトで最も人気のあるYouTuberの一人として言及されている。"
+      },
+      "handles": {
+        "youtube": "UCUSdNXmG2LlNS01ptoq24MA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 15400000
+        }
+      }
+    },
+    {
+      "id": "alkaisr",
+      "name": "Alkaisr _ القيصر",
+      "country": "EG",
+      "topic": {
+        "es": "Comedia y contenido familiar/infantil",
+        "en": "Comedy and family/kids content",
+        "pt": "Comédia e conteúdo familiar/infantil",
+        "fr": "Comédie et contenu familial/enfants",
+        "de": "Comedy und Familien-/Kinderinhalte",
+        "ru": "Комедия и контент для семьи/детей",
+        "ar": "كوميديا ومحتوى عائلي وموجه للأطفال",
+        "hi": "कॉमेडी और पारिवारिक/बच्चों की सामग्री",
+        "zh": "喜剧与家庭/儿童内容",
+        "ja": "コメディとファミリー・子供向けコンテンツ"
+      },
+      "about": {
+        "es": "Su nombre real es Ahmed Yasser Mohamed, estudiante egipcio de la facultad de sistemas de información. Empezó a hacerse conocido en TikTok con sketches de comedia sobre la vida real y luego trasladó ese contenido a YouTube bajo el apodo 'Alkaisr' (El César), donde su público principal son niños y familias.",
+        "en": "His real name is Ahmed Yasser Mohamed, an Egyptian information-systems student. He first gained fame on TikTok with comedy sketches about real life and later brought that content to YouTube under the nickname 'Alkaisr' (The Caesar), where his main audience is children and families.",
+        "pt": "Seu nome verdadeiro é Ahmed Yasser Mohamed, estudante egípcio de sistemas de informação. Ganhou fama primeiro no TikTok com esquetes de comédia sobre a vida real e depois levou esse conteúdo ao YouTube sob o apelido 'Alkaisr' (O César), onde seu público principal é formado por crianças e famílias.",
+        "fr": "Son vrai nom est Ahmed Yasser Mohamed, étudiant égyptien en systèmes d'information. Il s'est fait connaître sur TikTok avec des sketches comiques sur la vraie vie, puis a transposé ce contenu sur YouTube sous le pseudonyme 'Alkaisr' (Le César), où son public principal est constitué d'enfants et de familles.",
+        "de": "Sein richtiger Name ist Ahmed Yasser Mohamed, ein ägyptischer Student der Informationssysteme. Er wurde zunächst auf TikTok mit Comedy-Sketchen über das echte Leben bekannt und brachte diesen Inhalt später unter dem Spitznamen 'Alkaisr' (Der Cäsar) auf YouTube, wo sein Hauptpublikum Kinder und Familien sind.",
+        "ru": "Его настоящее имя — Ахмед Ясер Мохамед, египетский студент факультета информационных систем. Сначала прославился в TikTok с комедийными скетчами о реальной жизни, а затем перенёс этот контент на YouTube под псевдонимом 'Alkaisr' (Цезарь), где его основная аудитория — дети и семьи.",
+        "ar": "اسمه الحقيقي أحمد ياسر محمد، طالب مصري في كلية النظم والمعلومات. اشتهر أولاً على تيك توك بمقاطع كوميدية عن الحياة الواقعية، ثم نقل هذا المحتوى إلى يوتيوب تحت اسم 'القيصر'، حيث جمهوره الأساسي من الأطفال والعائلات.",
+        "hi": "उनका असली नाम अहमद यासर मोहम्मद है, जो सूचना प्रणाली के मिस्री छात्र हैं। उन्होंने पहले टिकटॉक पर वास्तविक जीवन पर आधारित कॉमेडी स्किट्स से प्रसिद्धि पाई और बाद में इस सामग्री को 'Alkaisr' (सीज़र) उपनाम से यूट्यूब पर लाए, जहाँ उनके मुख्य दर्शक बच्चे और परिवार हैं।",
+        "zh": "他的真名是艾哈迈德·亚西尔·穆罕默德,是埃及信息系统专业的学生。他最初在TikTok上以关于现实生活的喜剧短剧走红,后来以昵称'Alkaisr'(凯撒)将内容带到YouTube,主要观众是儿童和家庭。",
+        "ja": "本名はアハメド・ヤーセル・モハメド。エジプトの情報システム学科の学生。TikTokでリアルライフをテーマにしたコメディスケッチで最初に有名になり、その後「Alkaisr(皇帝)」の名前でYouTubeに進出、主な視聴者は子供と家族である。"
+      },
+      "handles": {
+        "youtube": "UCZAqrpn4LV8-bSUij5qFSRg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 13400000
+        }
+      }
+    },
+    {
+      "id": "zbing-z-naiyarat-thanawaigoses",
+      "name": "zbing z. (Naiyarat Thanawaigoses)",
+      "country": "TH",
+      "topic": {
+        "es": "Streaming y comentario de videojuegos",
+        "en": "Video game livestreaming and commentary",
+        "pt": "Livestream e comentários de videogames",
+        "fr": "Diffusion en direct et commentaires de jeux vidéo",
+        "de": "Livestreaming und Kommentare zu Videospielen",
+        "ru": "Стриминг и комментарии видеоигр",
+        "ar": "بث مباشر وتعليق على ألعاب الفيديو",
+        "hi": "वीडियो गेम लाइवस्ट्रीमिंग और कमेंट्री",
+        "zh": "视频游戏直播与解说",
+        "ja": "ゲーム実況・配信"
+      },
+      "about": {
+        "es": "Naiyarat Thanawaigoses, conocida como 'Pang', nació el 17 de septiembre de 1991 en Bangkok. Lanzó su canal de YouTube 'zbing z.' en 2014, inicialmente transmitiendo juegos de terror, y se convirtió en el primer canal de streaming de videojuegos de Tailandia; hoy es una de las streamers más populares del país con más de 22 millones de suscriptores.",
+        "en": "Naiyarat Thanawaigoses, known as 'Pang', was born on September 17, 1991 in Bangkok. She launched her YouTube channel 'zbing z.' in 2014, initially streaming horror games, and it became Thailand's first live-streaming video game channel; she is now one of Thailand's most popular streamers with over 22 million subscribers.",
+        "pt": "Naiyarat Thanawaigoses, conhecida como 'Pang', nasceu em 17 de setembro de 1991 em Bangkok. Lançou seu canal no YouTube 'zbing z.' em 2014, inicialmente transmitindo jogos de terror, e ele se tornou o primeiro canal de streaming de videogames da Tailândia; hoje é uma das streamers mais populares do país, com mais de 22 milhões de inscritos.",
+        "fr": "Naiyarat Thanawaigoses, surnommée « Pang », est née le 17 septembre 1991 à Bangkok. Elle a lancé sa chaîne YouTube « zbing z. » en 2014, diffusant d'abord des jeux d'horreur, qui est devenue la première chaîne de streaming de jeux vidéo de Thaïlande ; elle est aujourd'hui l'une des streameuses les plus populaires du pays avec plus de 22 millions d'abonnés.",
+        "de": "Naiyarat Thanawaigoses, bekannt als „Pang“, wurde am 17. September 1991 in Bangkok geboren. 2014 startete sie ihren YouTube-Kanal „zbing z.“, zunächst mit Horrorspiel-Streams, der zum ersten Videospiel-Livestream-Kanal Thailands wurde; heute ist sie mit über 22 Millionen Abonnenten eine der beliebtesten Streamerinnen des Landes.",
+        "ru": "Найярат Тханавайгосес, известная как «Панг», родилась 17 сентября 1991 года в Бангкоке. В 2014 году она запустила канал на YouTube «zbing z.», сначала транслируя хоррор-игры, который стал первым в Таиланде каналом видеоигровых стримов; сегодня она одна из самых популярных стримеров страны с более чем 22 миллионами подписчиков.",
+        "ar": "ولدت نايارات ثانواييغوسيس، المعروفة باسم «بانغ»، في 17 سبتمبر 1991 في بانكوك. أطلقت قناتها على يوتيوب «zbing z.» عام 2014، وبدأت ببث ألعاب الرعب، لتصبح أول قناة للبث المباشر لألعاب الفيديو في تايلاند؛ وهي اليوم واحدة من أشهر الستريمرات في البلاد بأكثر من 22 مليون مشترك.",
+        "hi": "नैयरत थानावाइगोसेस, जिन्हें 'पैंग' के नाम से जाना जाता है, का जन्म 17 सितंबर 1991 को बैंकॉक में हुआ था। उन्होंने 2014 में अपना यूट्यूब चैनल 'zbing z.' शुरू किया, शुरुआत में हॉरर गेम्स स्ट्रीम करते हुए, जो थाईलैंड का पहला वीडियो गेम लाइवस्ट्रीमिंग चैनल बन गया; आज वह 2.2 करोड़ से अधिक सब्सक्राइबर्स के साथ देश की सबसे लोकप्रिय स्ट्रीमर्स में से एक हैं।",
+        "zh": "奈亚拉特·塔纳外戈西斯(Naiyarat Thanawaigoses),绰号“庞”(Pang),1991年9月17日出生于曼谷。她于2014年开设YouTube频道“zbing z.”,最初直播恐怖游戏,该频道成为泰国首个游戏直播频道;如今她是泰国最受欢迎的主播之一,拥有超过2200万订阅者。",
+        "ja": "「パン」ことナイヤラット・タナワイゴセスは1991年9月17日、バンコクで生まれた。2014年にYouTubeチャンネル「zbing z.」を開設し、当初はホラーゲームの配信を行い、タイ初のゲーム実況配信チャンネルとなった。現在は2200万人以上の登録者を持つ、タイで最も人気のあるストリーマーの一人である。"
+      },
+      "handles": {
+        "youtube": "UC5zGJZpxeZPFcds5gFcDE7Q",
+        "tiktok": "zbing_z",
+        "instagram": "zbingz",
+        "facebook": "zbingzee",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 22100000
+        }
+      }
+    },
+    {
+      "id": "kaykai-salaider-nutticha-namwong",
+      "name": "Kaykai Salaider (Nutticha Namwong)",
+      "country": "TH",
+      "topic": {
+        "es": "Vlogs y comedia",
+        "en": "Vlogs and comedy",
+        "pt": "Vlogs e comédia",
+        "fr": "Vlogs et comédie",
+        "de": "Vlogs und Comedy",
+        "ru": "Влоги и комедия",
+        "ar": "فلوغات وكوميديا",
+        "hi": "व्लॉग्स और कॉमेडी",
+        "zh": "视频日志与喜剧",
+        "ja": "Vlogとコメディ"
+      },
+      "about": {
+        "es": "Nutticha Namwong, conocida en línea como 'Kaykai Salaider', nació el 5 de septiembre de 1996 en Bangkok. Comenzó su canal de YouTube en 2016 publicando vlogs de comedia y se convirtió en la primera youtuber tailandesa en superar los 16 millones de suscriptores; desde entonces también es actriz contratada por Channel 3 Thailand.",
+        "en": "Nutticha Namwong, known online as 'Kaykai Salaider', was born on September 5, 1996 in Bangkok. She started her YouTube channel in 2016 posting comedy vlogs, and became the first Thai YouTuber to surpass 16 million subscribers; she has since become an actress signed with Channel 3 Thailand.",
+        "pt": "Nutticha Namwong, conhecida online como 'Kaykai Salaider', nasceu em 5 de setembro de 1996 em Bangkok. Iniciou seu canal no YouTube em 2016 publicando vlogs de comédia e tornou-se a primeira youtuber tailandesa a ultrapassar 16 milhões de inscritos; desde então também é atriz contratada pela Channel 3 Thailand.",
+        "fr": "Nutticha Namwong, connue en ligne sous le nom de « Kaykai Salaider », est née le 5 septembre 1996 à Bangkok. Elle a lancé sa chaîne YouTube en 2016 en publiant des vlogs comiques et est devenue la première youtubeuse thaïlandaise à dépasser 16 millions d'abonnés ; elle est depuis également actrice sous contrat avec Channel 3 Thailand.",
+        "de": "Nutticha Namwong, online bekannt als „Kaykai Salaider“, wurde am 5. September 1996 in Bangkok geboren. 2016 startete sie ihren YouTube-Kanal mit Comedy-Vlogs und wurde die erste thailändische YouTuberin mit über 16 Millionen Abonnenten; seither ist sie auch als Schauspielerin bei Channel 3 Thailand unter Vertrag.",
+        "ru": "Нуттича Намвонг, известная в сети как «Кайкай Салайдер», родилась 5 сентября 1996 года в Бангкоке. В 2016 году она запустила YouTube-канал с комедийными влогами и стала первой тайской ютубершей, преодолевшей отметку в 16 миллионов подписчиков; с тех пор она также актриса, подписавшая контракт с Channel 3 Thailand.",
+        "ar": "ولدت نوتيتشا نامونغ، المعروفة باسم «كايكاي سالايدر»، في 5 سبتمبر 1996 في بانكوك. أطلقت قناتها على يوتيوب عام 2016 بمقاطع فلوغ كوميدية، وأصبحت أول يوتيوبر تايلاندية تتجاوز 16 مليون مشترك؛ ومنذ ذلك الحين أصبحت أيضًا ممثلة موقعة مع قناة Channel 3 Thailand.",
+        "hi": "नुत्तिचा नामवोंग, जिन्हें ऑनलाइन 'कायकाई सलाइडर' के नाम से जाना जाता है, का जन्म 5 सितंबर 1996 को बैंकॉक में हुआ था। उन्होंने 2016 में कॉमेडी व्लॉग्स के साथ अपना यूट्यूब चैनल शुरू किया और 1.6 करोड़ सब्सक्राइबर्स को पार करने वाली पहली थाई यूट्यूबर बनीं; तब से वह चैनल 3 थाईलैंड के साथ अनुबंधित अभिनेत्री भी हैं।",
+        "zh": "努蒂查·南旺(Nutticha Namwong),网名“Kaykai Salaider”,1996年9月5日出生于曼谷。她于2016年开设YouTube频道发布喜剧类vlog,成为首位订阅数突破1600万的泰国YouTuber;此后她还成为泰国三台(Channel 3)签约女演员。",
+        "ja": "「カイカイ・サライダー」として知られるヌッティチャー・ナムウォンは1996年9月5日、バンコクで生まれた。2016年にコメディ系Vlogを投稿するYouTubeチャンネルを開設し、タイ人YouTuberとして初めて登録者1600万人を突破した。以降はチャンネル3タイランド専属の女優としても活動している。"
+      },
+      "handles": {
+        "youtube": "UCdLGCJcIGu5ExzYN6CXtkIw",
+        "tiktok": "kaykai_ntch",
+        "instagram": "kaykai_ntch",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 17200000
+        }
+      }
+    },
+    {
+      "id": "pimrypie-pimrada-benjawattana",
+      "name": "Pimrypie (Pimrada Benjawattana)",
+      "country": "TH",
+      "topic": {
+        "es": "Ventas en vivo y comercio electrónico",
+        "en": "Livestream sales and e-commerce",
+        "pt": "Vendas ao vivo e e-commerce",
+        "fr": "Ventes en direct et e-commerce",
+        "de": "Live-Verkauf und E-Commerce",
+        "ru": "Продажи в прямом эфире и электронная коммерция",
+        "ar": "المبيعات المباشرة والتجارة الإلكترونية",
+        "hi": "लाइवस्ट्रीम बिक्री और ई-कॉमर्स",
+        "zh": "直播带货与电子商务",
+        "ja": "ライブコマース・EC"
+      },
+      "about": {
+        "es": "Pimrada Benjawattana, conocida como 'Pimrypie', nació el 9 de octubre de 1990 en Bangkok y dirige su canal de YouTube desde 2012, haciéndose conocida por su negocio de ventas en vivo apodado 'Pimrypie vende de todo'. Alcanzó reconocimiento nacional en enero de 2021 por una transmisión benéfica en vivo que financió paneles solares y televisores para escuelas en el distrito de Omkoi, provincia de Chiang Mai.",
+        "en": "Pimrada Benjawattana, known as 'Pimrypie', was born on October 9, 1990 in Bangkok and has run her YouTube channel since 2012, becoming known for her livestream sales business nicknamed 'Pimrypie Sells Everything'. She gained nationwide recognition in January 2021 for a charity livestream that funded solar panels and televisions for schools in Omkoi District, Chiang Mai Province.",
+        "pt": "Pimrada Benjawattana, conhecida como 'Pimrypie', nasceu em 9 de outubro de 1990 em Bangkok e mantém seu canal no YouTube desde 2012, tornando-se conhecida por seu negócio de vendas ao vivo apelidado 'Pimrypie vende tudo'. Ganhou reconhecimento nacional em janeiro de 2021 por uma transmissão beneficente que financiou painéis solares e televisores para escolas no distrito de Omkoi, província de Chiang Mai.",
+        "fr": "Pimrada Benjawattana, dite « Pimrypie », est née le 9 octobre 1990 à Bangkok et gère sa chaîne YouTube depuis 2012, se faisant connaître pour son activité de vente en direct surnommée « Pimrypie vend de tout ». Elle a acquis une notoriété nationale en janvier 2021 grâce à un livestream caritatif ayant financé des panneaux solaires et des téléviseurs pour des écoles du district d'Omkoi, dans la province de Chiang Mai.",
+        "de": "Pimrada Benjawattana, bekannt als „Pimrypie“, wurde am 9. Oktober 1990 in Bangkok geboren und betreibt seit 2012 ihren YouTube-Kanal; bekannt wurde sie durch ihr Live-Verkaufsgeschäft mit dem Spitznamen „Pimrypie verkauft alles“. Landesweite Bekanntheit erlangte sie im Januar 2021 durch einen Wohltätigkeits-Livestream, der Solarpanels und Fernseher für Schulen im Bezirk Omkoi in der Provinz Chiang Mai finanzierte.",
+        "ru": "Пимрада Бенджаватана, известная как «Пимрипай», родилась 9 октября 1990 года в Бангкоке и ведёт свой YouTube-канал с 2012 года, прославившись благодаря бизнесу продаж в прямом эфире под прозвищем «Пимрипай продаёт всё». Общенациональную известность она получила в январе 2021 года благодаря благотворительному стриму, на средства от которого были профинансированы солнечные панели и телевизоры для школ в районе Омкой провинции Чиангмай.",
+        "ar": "ولدت بيمرادا بينجاواتانا، المعروفة باسم «بيمريباي»، في 9 أكتوبر 1990 في بانكوك، وتدير قناتها على يوتيوب منذ عام 2012، واشتهرت بنشاطها في البيع المباشر الملقب بـ«بيمريباي تبيع كل شيء». اكتسبت شهرة وطنية في يناير 2021 بفضل بث مباشر خيري موّل ألواحًا شمسية وأجهزة تلفزيون لمدارس في منطقة أومكوي بمقاطعة تشيانغ ماي.",
+        "hi": "पिमराडा बेंजावत्तना, जिन्हें 'पिमरीपाई' के नाम से जाना जाता है, का जन्म 9 अक्टूबर 1990 को बैंकॉक में हुआ था और वह 2012 से अपना यूट्यूब चैनल चला रही हैं, जो 'पिमरीपाई सब कुछ बेचती है' नाम से लाइवस्ट्रीम बिक्री व्यवसाय के लिए जानी जाती हैं। जनवरी 2021 में उन्होंने एक धर्मार्थ लाइवस्ट्रीम के ज़रिए राष्ट्रीय पहचान हासिल की, जिसने चियांग माई प्रांत के ओमकोई जिले के स्कूलों के लिए सोलर पैनल और टेलीविज़न की फंडिंग की।",
+        "zh": "皮姆拉达·班加瓦塔纳(Pimrada Benjawattana),艺名“Pimrypie”,1990年10月9日出生于曼谷,自2012年起运营YouTube频道,以“Pimrypie卖遍所有”的直播带货生意闻名。2021年1月,她因一场慈善直播为清迈府翁凯县的学校筹集资金购置太阳能板和电视机而获得全国关注。",
+        "ja": "「ピムリーパイ」ことピムラダー・ベンチャワッタナーは1990年10月9日、バンコクで生まれ、2012年からYouTubeチャンネルを運営し、「ピムリーパイは何でも売る」と呼ばれるライブコマース事業で知られるようになった。2021年1月、チェンマイ県オムコイ郡の学校に太陽光パネルとテレビを寄付するチャリティー配信を行い、全国的な注目を集めた。"
+      },
+      "handles": {
+        "youtube": "UCoJuMpfYKqCbvnd1DpUUJmg",
+        "tiktok": "pimrypie__tiktok",
+        "instagram": "pimrypie.official",
+        "facebook": "pimrypie.official",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 7530000
+        }
+      }
+    },
+    {
+      "id": "bie-the-ska-krit-boonyarang",
+      "name": "Bie The Ska (Krit Boonyarang)",
+      "country": "TH",
+      "topic": {
+        "es": "Videos musicales de parodia y comedia",
+        "en": "Comedy song parody videos",
+        "pt": "Vídeos de paródia musical e comédia",
+        "fr": "Vidéos de parodies musicales comiques",
+        "de": "Comedy-Songparodien",
+        "ru": "Комедийные пародии на песни",
+        "ar": "مقاطع فيديو كوميدية ساخرة للأغاني",
+        "hi": "कॉमेडी सॉन्ग पैरोडी वीडियो",
+        "zh": "喜剧歌曲恶搞视频",
+        "ja": "コメディソングパロディ動画"
+      },
+      "about": {
+        "es": "Krit Boonyarang, conocido como 'Bie the Ska', nació el 26 de septiembre de 1991. Comenzó a publicar videos de parodia en 2012 mientras cursaba una maestría en TI en la Universidad Tecnológica King Mongkut de Thonburi, haciéndose viral con su parodia de 'Gangnam Style' de PSY; fundó su productora Ska Film en 2013 y hoy tiene más de 15 millones de suscriptores.",
+        "en": "Krit Boonyarang, known as 'Bie the Ska', was born on September 26, 1991. He began posting parody videos in 2012 while completing a master's degree in IT at King Mongkut's University of Technology Thonburi, going viral with his parody of PSY's 'Gangnam Style'; he founded his production company Ska Film in 2013 and now has over 15 million subscribers.",
+        "pt": "Krit Boonyarang, conhecido como 'Bie the Ska', nasceu em 26 de setembro de 1991. Começou a postar vídeos de paródia em 2012 enquanto cursava mestrado em TI na Universidade de Tecnologia King Mongkut de Thonburi, viralizando com sua paródia de 'Gangnam Style' de PSY; fundou sua produtora Ska Film em 2013 e hoje tem mais de 15 milhões de inscritos.",
+        "fr": "Krit Boonyarang, dit « Bie the Ska », est né le 26 septembre 1991. Il a commencé à publier des vidéos de parodie en 2012 alors qu'il préparait un master en informatique à l'université de technologie King Mongkut de Thonburi, devenant viral grâce à sa parodie de « Gangnam Style » de PSY ; il a fondé sa société de production Ska Film en 2013 et compte aujourd'hui plus de 15 millions d'abonnés.",
+        "de": "Krit Boonyarang, bekannt als „Bie the Ska“, wurde am 26. September 1991 geboren. 2012 begann er, während seines IT-Masterstudiums an der King Mongkut's University of Technology Thonburi Parodievideos zu veröffentlichen, und wurde mit seiner Parodie auf PSYs „Gangnam Style“ viral; 2013 gründete er seine Produktionsfirma Ska Film und hat heute über 15 Millionen Abonnenten.",
+        "ru": "Крит Бунйаранг, известный как «Би зе Ска», родился 26 сентября 1991 года. В 2012 году, обучаясь в магистратуре по ИТ в Технологическом университете короля Монгкута в Тхонбури, он начал публиковать пародийные видео и стал вирусным благодаря пародии на «Gangnam Style» PSY; в 2013 году он основал свою продюсерскую компанию Ska Film, а сейчас у него более 15 миллионов подписчиков.",
+        "ar": "وُلد كريت بونيارانغ، المعروف باسم «بي ذا سكا»، في 26 سبتمبر 1991. بدأ نشر مقاطع فيديو ساخرة عام 2012 أثناء دراسته لدرجة الماجستير في تكنولوجيا المعلومات بجامعة الملك مونغكوت للتكنولوجيا في ثونبوري، وانتشر بشكل واسع بفضل محاكاته الساخرة لأغنية «غانغنام ستايل» لسايكل؛ أسس شركة الإنتاج الخاصة به Ska Film عام 2013 ولديه اليوم أكثر من 15 مليون مشترك.",
+        "hi": "क्रिट बूनयारंग, जिन्हें 'बी द स्का' के नाम से जाना जाता है, का जन्म 26 सितंबर 1991 को हुआ था। उन्होंने 2012 में किंग मोंगकुट यूनिवर्सिटी ऑफ टेक्नोलॉजी थोनबुरी से आईटी में मास्टर डिग्री करते हुए पैरोडी वीडियो पोस्ट करना शुरू किया, और PSY के 'गंगनम स्टाइल' की पैरोडी से वायरल हुए; उन्होंने 2013 में अपनी प्रोडक्शन कंपनी 'स्का फिल्म' की स्थापना की और आज उनके 1.5 करोड़ से अधिक सब्सक्राइबर हैं।",
+        "zh": "克里特·布尼扬(Krit Boonyarang),艺名“Bie the Ska”,1991年9月26日出生。2012年,他在川登喜大学(泰国科技大学)攻读IT硕士期间开始发布恶搞视频,凭借模仿PSY《江南Style》的恶搞视频走红;2013年他创立了自己的制作公司Ska Film,如今拥有超过1500万订阅者。",
+        "ja": "「ビー・ザ・スカ」ことクリット・ブンヤランは1991年9月26日生まれ。キングモンクット工科大学トンブリー校でITの修士課程に在籍していた2012年からパロディ動画の投稿を始め、PSYの「江南スタイル」のパロディで一躍有名になった。2013年に制作会社「スカ・フィルム」を設立し、現在は1500万人以上の登録者を持つ。"
+      },
+      "handles": {
+        "youtube": "UCjVb9mJZTeuPLN4hOjmvQnw",
+        "tiktok": "bietheska",
+        "instagram": "bietheska",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 15300000
+        }
+      }
+    },
+    {
+      "id": "heartrocker-hrk",
+      "name": "HEARTROCKER (HRK)",
+      "country": "TH",
+      "topic": {
+        "es": "Streaming y comentario de videojuegos",
+        "en": "Video game streaming and let's-play commentary",
+        "pt": "Streaming de videogames e comentários de gameplay",
+        "fr": "Streaming de jeux vidéo et commentaires de gameplay",
+        "de": "Videospiel-Streaming und Let's-Play-Kommentare",
+        "ru": "Стриминг видеоигр и комментарии к геймплею",
+        "ar": "بث ألعاب الفيديو والتعليق على طريقة اللعب",
+        "hi": "वीडियो गेम स्ट्रीमिंग और गेमप्ले कमेंट्री",
+        "zh": "游戏直播与实况解说",
+        "ja": "ゲーム実況・配信"
+      },
+      "about": {
+        "es": "Conocido en línea como 'Heartrocker' o 'HRK', nació el 8 de mayo de 1992 en Tailandia. Comenzó su carrera en YouTube hace aproximadamente una década publicando videos de doblaje cómico bajo el nombre 'palitiangfilm', antes de cambiar su marca a 'HEARTROCKER' y pasar al game casting y streaming, siendo 'The Walking Dead' uno de sus primeros videos de juegos; hoy es uno de los streamers de videojuegos más populares de Tailandia, con más de 9 millones de suscriptores.",
+        "en": "Known online as 'Heartrocker' or 'HRK', he was born on May 8, 1992 in Thailand. He began his YouTube career about a decade ago posting comedic dubbed videos under the name 'palitiangfilm' before rebranding to 'HEARTROCKER' and shifting to game casting and streaming, with 'The Walking Dead' among his first game videos; he is now one of Thailand's most popular gaming streamers with over 9 million subscribers.",
+        "pt": "Conhecido online como 'Heartrocker' ou 'HRK', nasceu em 8 de maio de 1992 na Tailândia. Iniciou sua carreira no YouTube há cerca de uma década publicando vídeos de dublagem cômica sob o nome 'palitiangfilm', antes de rebatizar o canal como 'HEARTROCKER' e migrar para transmissões de gameplay, sendo 'The Walking Dead' um de seus primeiros vídeos de jogos; hoje é um dos streamers de videogame mais populares da Tailândia, com mais de 9 milhões de inscritos.",
+        "fr": "Connu en ligne sous le nom de « Heartrocker » ou « HRK », il est né le 8 mai 1992 en Thaïlande. Il a débuté sur YouTube il y a environ dix ans en publiant des vidéos de doublage comique sous le nom « palitiangfilm », avant de rebaptiser sa chaîne « HEARTROCKER » et de passer au commentaire de jeux vidéo et au streaming, « The Walking Dead » figurant parmi ses premières vidéos de jeu ; il est aujourd'hui l'un des streamers de jeux vidéo les plus populaires de Thaïlande, avec plus de 9 millions d'abonnés.",
+        "de": "Online bekannt als „Heartrocker“ oder „HRK“, wurde er am 8. Mai 1992 in Thailand geboren. Vor etwa zehn Jahren begann er auf YouTube mit komödiantischen Synchronvideos unter dem Namen „palitiangfilm“, bevor er seinen Kanal in „HEARTROCKER“ umbenannte und zu Gameplay-Kommentaren und Livestreams wechselte – „The Walking Dead“ gehörte zu seinen ersten Spielvideos; heute ist er mit über 9 Millionen Abonnenten einer der beliebtesten Gaming-Streamer Thailands.",
+        "ru": "Известный в сети как «Heartrocker» или «HRK», он родился 8 мая 1992 года в Таиланде. Около десяти лет назад он начал карьеру на YouTube с комедийных дублированных видео под именем «palitiangfilm», прежде чем переименовать канал в «HEARTROCKER» и перейти к игровым трансляциям и стримам; «The Walking Dead» была среди его первых игровых видео. Сегодня он один из самых популярных игровых стримеров Таиланда с более чем 9 миллионами подписчиков.",
+        "ar": "المعروف باسم «هارتروكر» أو «HRK»، وُلد في 8 مايو 1992 في تايلاند. بدأ مسيرته على يوتيوب قبل نحو عقد من الزمن بنشر مقاطع فيديو كوميدية مدبلجة تحت اسم «palitiangfilm»، قبل أن يعيد تسمية قناته إلى «HEARTROCKER» وينتقل إلى بث الألعاب والتعليق عليها، وكانت «The Walking Dead» من بين أولى مقاطع الألعاب لديه؛ وهو اليوم أحد أشهر ستريمرات الألعاب في تايلاند بأكثر من 9 ملايين مشترك.",
+        "hi": "ऑनलाइन 'हार्टरॉकर' या 'HRK' के नाम से मशहूर, उनका जन्म 8 मई 1992 को थाईलैंड में हुआ था। उन्होंने लगभग एक दशक पहले 'palitiangfilm' नाम से कॉमेडी डबिंग वीडियो पोस्ट करके यूट्यूब करियर शुरू किया, इसके बाद चैनल का नाम 'HEARTROCKER' रखा और गेम कास्टिंग व स्ट्रीमिंग की ओर रुख किया, जिसमें 'द वॉकिंग डेड' उनके शुरुआती गेम वीडियो में से एक था; आज वह 90 लाख से अधिक सब्सक्राइबर्स के साथ थाईलैंड के सबसे लोकप्रिय गेमिंग स्ट्रीमर्स में से एक हैं।",
+        "zh": "网名“Heartrocker”或“HRK”,1992年5月8日出生于泰国。约十年前,他以“palitiangfilm”之名发布搞笑配音视频开始YouTube生涯,后改名为“HEARTROCKER”并转型为游戏解说与直播,《行尸走肉》是他最早的游戏视频之一;如今他是泰国最受欢迎的游戏主播之一,拥有超过900万订阅者。",
+        "ja": "「ハートロッカー」または「HRK」として知られ、1992年5月8日にタイで生まれた。約10年前、「palitiangfilm」という名前でコメディ吹き替え動画を投稿してYouTubeを始め、その後「HEARTROCKER」に改名してゲーム実況・配信に転向した。「ウォーキング・デッド」は彼の初期のゲーム動画の一つである。現在は900万人以上の登録者を持つ、タイで最も人気のあるゲーム配信者の一人である。"
+      },
+      "handles": {
+        "youtube": "UC4plRabXFGdAE6HP-tBQKdQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 9670000
+        }
+      }
     }
   ]
 }
