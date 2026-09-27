@@ -10871,6 +10871,1414 @@
           "youtube": 18000000
         }
       }
+    },
+    {
+      "id": "celine-dept",
+      "name": "Céline Dept",
+      "country": "BE",
+      "topic": {
+        "es": "Fútbol, retos y baile",
+        "en": "Football, challenges and dance",
+        "pt": "Futebol, desafios e dança",
+        "fr": "Football, défis et danse",
+        "de": "Fußball, Challenges und Tanz",
+        "ru": "Футбол, челленджи и танцы",
+        "ar": "كرة القدم والتحديات والرقص",
+        "hi": "फुटबॉल, चैलेंज और डांस",
+        "zh": "足球、挑战与舞蹈",
+        "ja": "サッカー、チャレンジ、ダンス"
+      },
+      "about": {
+        "es": "Céline Dept nació el 8 de diciembre de 1999 en Ostende, Bélgica, y jugó al fútbol profesional en el Cercle Brugge antes de dedicarse a las redes sociales; se hizo viral en TikTok en 2019 y se convirtió en la primera belga en superar los 10 millones de suscriptores en YouTube, donde comparte contenido de fútbol, baile y retos, y codirige el canal CEMI junto a su pareja Michiel Callebaut. Sigue residiendo y trabajando en Bélgica.",
+        "en": "Céline Dept was born on December 8, 1999, in Ostend, Belgium, and played professional football for Cercle Brugge before turning to social media; she went viral on TikTok in 2019 and became the first Belgian to surpass 10 million YouTube subscribers, posting football, dance and challenge content, and co-runs the CEMI channel with her partner Michiel Callebaut. She still lives and works in Belgium.",
+        "pt": "Céline Dept nasceu em 8 de dezembro de 1999 em Ostende, Bélgica, e jogou futebol profissional pelo Cercle Brugge antes de se dedicar às redes sociais; viralizou no TikTok em 2019 e se tornou a primeira belga a ultrapassar 10 milhões de inscritos no YouTube, com conteúdo de futebol, dança e desafios, além de comandar o canal CEMI ao lado do namorado Michiel Callebaut. Ela continua morando e trabalhando na Bélgica.",
+        "fr": "Céline Dept est née le 8 décembre 1999 à Ostende, en Belgique, et a joué au football professionnel au Cercle Bruges avant de se tourner vers les réseaux sociaux ; devenue virale sur TikTok en 2019, elle est la première Belge à dépasser les 10 millions d'abonnés sur YouTube, avec du contenu de football, de danse et de défis, et coanime la chaîne CEMI avec son compagnon Michiel Callebaut. Elle vit et travaille toujours en Belgique.",
+        "de": "Céline Dept wurde am 8. Dezember 1999 in Ostende, Belgien, geboren und spielte professionell Fußball beim Cercle Brügge, bevor sie sich sozialen Medien zuwandte; 2019 wurde sie auf TikTok viral und ist die erste Belgierin mit über 10 Millionen YouTube-Abonnenten, mit Inhalten zu Fußball, Tanz und Challenges, und betreibt zusammen mit ihrem Partner Michiel Callebaut den Kanal CEMI. Sie lebt und arbeitet weiterhin in Belgien.",
+        "ru": "Селин Депт родилась 8 декабря 1999 года в Остенде, Бельгия, и играла в профессиональный футбол за «Серкль Брюгге», прежде чем заняться соцсетями; в 2019 году она стала вирусной в TikTok и первой бельгийкой, преодолевшей отметку в 10 миллионов подписчиков на YouTube, публикуя контент о футболе, танцах и челленджах, а также ведёт канал CEMI вместе с партнёром Михилом Каллебаутом. Она по-прежнему живёт и работает в Бельгии.",
+        "ar": "وُلدت سيلين ديبت في 8 ديسمبر 1999 في أوستند ببلجيكا، ولعبت كرة القدم الاحترافية مع نادي سيركل بروج قبل أن تتجه إلى وسائل التواصل الاجتماعي؛ انتشرت بشكل واسع على تيك توك عام 2019 وأصبحت أول بلجيكية تتجاوز 10 ملايين مشترك على يوتيوب، حيث تنشر محتوى عن كرة القدم والرقص والتحديات، وتدير أيضًا قناة CEMI مع شريكها ميشيل كاليبو. لا تزال تعيش وتعمل في بلجيكا.",
+        "hi": "सेलिन डेप्ट का जन्म 8 दिसंबर 1999 को बेल्जियम के ओस्टेंड में हुआ था, और सोशल मीडिया की ओर रुख करने से पहले उन्होंने सर्कल ब्रुज के लिए पेशेवर फुटबॉल खेला; 2019 में वे टिकटॉक पर वायरल हुईं और यूट्यूब पर 1 करोड़ सब्सक्राइबर पार करने वाली पहली बेल्जियन बनीं, जहाँ वे फुटबॉल, डांस और चैलेंज कंटेंट डालती हैं, और अपने साथी मिशेल कैलेबॉट के साथ CEMI चैनल भी चलाती हैं। वे अब भी बेल्जियम में रहती और काम करती हैं।",
+        "zh": "塞琳·德普特于1999年12月8日出生在比利时奥斯坦德,曾为塞尔克勒布鲁日队效力职业足球,后转向社交媒体;她于2019年在TikTok走红,成为首位YouTube订阅数突破1000万的比利时人,内容涵盖足球、舞蹈与挑战,并与伴侣米希尔·卡勒博共同运营CEMI频道。她目前仍居住并工作在比利时。",
+        "ja": "セリーヌ・デプトは1999年12月8日、ベルギーのオーステンデで生まれ、ソーシャルメディアに転向する前はセルクル・ブルッヘでプロサッカー選手として活躍した。2019年にTikTokでバズり、YouTube登録者数1000万人を超えた初のベルギー人となり、サッカー、ダンス、チャレンジ動画を投稿するほか、パートナーのミヒール・カレボーとともにCEMIチャンネルも運営している。現在もベルギーに在住し活動している。"
+      },
+      "handles": {
+        "youtube": "UC1a2ZCw7tugRZYRMnecNj3A",
+        "tiktok": "celinedept",
+        "instagram": "celine.dept",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 67400000
+        }
+      }
+    },
+    {
+      "id": "acid-nathan-vandergunst",
+      "name": "Acid (Nathan Vandergunst)",
+      "country": "BE",
+      "topic": {
+        "es": "Comentario juvenil y vlogs polémicos",
+        "en": "Youth commentary and controversial vlogs",
+        "pt": "Comentários jovens e vlogs polêmicos",
+        "fr": "Commentaires jeunesse et vlogs polémiques",
+        "de": "Jugendkommentare und kontroverse Vlogs",
+        "ru": "Молодёжный контент и резонансные влоги",
+        "ar": "محتوى شبابي ومدونات فيديو مثيرة للجدل",
+        "hi": "युवा कमेंट्री और विवादित व्लॉग",
+        "zh": "青少年评论与争议性视频日志",
+        "ja": "若者向けコメンタリーと物議を醸すVlog"
+      },
+      "about": {
+        "es": "Nathan Vandergunst, conocido como Acid, nació el 29 de junio de 1999 en Blankenberge, en la provincia belga de Flandes Occidental, donde sigue viviendo. Empezó su canal en 2013, a los 13 años, publicando videos del videojuego Qpang bajo el nombre 'YaDsAcid'; desde 2019 activa principalmente el canal ACID2, con contenido de comentario y vlogs en una mezcla de neerlandés y dialecto de Flandes Occidental que a veces ha generado controversia e investigaciones judiciales por revelar identidades en casos penales.",
+        "en": "Nathan Vandergunst, known as Acid, was born on June 29, 1999, in Blankenberge, in the Belgian province of West Flanders, where he still lives. He started his channel in 2013 at age 13, posting videos about the video game Qpang under the name 'YaDsAcid'; since 2019 he has mainly been active on the ACID2 channel, posting commentary and vlogs in a mix of Dutch and West Flemish dialect that has at times sparked controversy and legal investigations over revealing identities in criminal cases.",
+        "pt": "Nathan Vandergunst, conhecido como Acid, nasceu em 29 de junho de 1999 em Blankenberge, na província belga da Flandres Ocidental, onde ainda mora. Começou seu canal em 2013, aos 13 anos, postando vídeos do jogo Qpang com o nome 'YaDsAcid'; desde 2019 atua principalmente no canal ACID2, com vídeos de comentários e vlogs em uma mistura de neerlandês e dialeto da Flandres Ocidental, que já gerou polêmica e investigações judiciais por revelar identidades em casos criminais.",
+        "fr": "Nathan Vandergunst, connu sous le nom d'Acid, est né le 29 juin 1999 à Blankenberge, dans la province belge de Flandre-Occidentale, où il vit toujours. Il a lancé sa chaîne en 2013, à 13 ans, en publiant des vidéos sur le jeu Qpang sous le nom 'YaDsAcid' ; depuis 2019, il est principalement actif sur la chaîne ACID2, avec des commentaires et des vlogs mêlant néerlandais et dialecte flamand occidental, ce qui a parfois provoqué des controverses et des enquêtes judiciaires pour avoir révélé des identités dans des affaires pénales.",
+        "de": "Nathan Vandergunst, bekannt als Acid, wurde am 29. Juni 1999 in Blankenberge in der belgischen Provinz Westflandern geboren, wo er noch immer lebt. Er startete seinen Kanal 2013 im Alter von 13 Jahren mit Videos zum Spiel Qpang unter dem Namen 'YaDsAcid'; seit 2019 ist er hauptsächlich auf dem Kanal ACID2 aktiv, mit Kommentaren und Vlogs in einer Mischung aus Niederländisch und westflämischem Dialekt, was gelegentlich Kontroversen und Ermittlungen wegen der Preisgabe von Identitäten in Strafsachen ausgelöst hat.",
+        "ru": "Натан Вандергунст, известный как Acid, родился 29 июня 1999 года в Бланкенберге, в бельгийской провинции Западная Фландрия, где до сих пор живёт. Он завёл канал в 2013 году в 13 лет, публикуя видео об игре Qpang под именем 'YaDsAcid'; с 2019 года в основном ведёт канал ACID2 с комментариями и влогами на смеси нидерландского и западнофламандского диалекта, что порой вызывало скандалы и судебные расследования из-за раскрытия личностей в уголовных делах.",
+        "ar": "وُلد ناثان فاندرغونست، المعروف باسم Acid، في 29 يونيو 1999 في بلانكنبرغ بمقاطعة فلاندرز الغربية البلجيكية، حيث لا يزال يعيش. أطلق قناته عام 2013 في سن الثالثة عشرة، ناشرًا فيديوهات عن لعبة Qpang باسم 'YaDsAcid'؛ ومنذ عام 2019 ينشط بشكل رئيسي على قناة ACID2 بمحتوى تعليقي ومدونات فيديو بمزيج من الهولندية ولهجة فلاندرز الغربية، ما أثار أحيانًا جدلاً وتحقيقات قضائية بسبب كشف هويات في قضايا جنائية.",
+        "hi": "नाथन वांडरगुंस्ट, जिन्हें Acid के नाम से जाना जाता है, का जन्म 29 जून 1999 को बेल्जियम के पश्चिम फ़्लैंडर्स प्रांत के ब्लांकेनबर्गे में हुआ, जहाँ वे अब भी रहते हैं। उन्होंने 2013 में 13 साल की उम्र में 'YaDsAcid' नाम से Qpang गेम के वीडियो के साथ अपना चैनल शुरू किया; 2019 से वे मुख्यतः ACID2 चैनल पर सक्रिय हैं, जहाँ डच और पश्चिम फ्लेमिश बोली के मिश्रण में कमेंट्री और व्लॉग डालते हैं, जिसने आपराधिक मामलों में पहचान उजागर करने को लेकर कभी-कभी विवाद और कानूनी जांच को जन्म दिया है।",
+        "zh": "纳森·范德贡斯特(艺名Acid)于1999年6月29日出生于比利时西弗兰德省的布兰肯贝赫,至今仍居住在那里。他于2013年13岁时以“YaDsAcid”之名开设频道,发布关于Qpang游戏的视频;自2019年起主要在ACID2频道活跃,发布以荷兰语与西弗拉芒方言混合的评论和视频日志内容,曾因在刑事案件中曝光当事人身份而引发争议和司法调查。",
+        "ja": "ナタン・ファンデルグンストは、Acidの名で知られ、1999年6月29日にベルギー・西フランデレン州のブランケンベルヘで生まれ、現在もそこに住んでいる。2013年、13歳のときに「YaDsAcid」という名前でゲーム『Qpang』の動画を投稿してチャンネルを開設し、2019年以降は主にACID2チャンネルで活動、オランダ語と西フラマン語方言を混ぜたコメンタリーやVlogを発信している。刑事事件の当事者の身元を明かしたことで物議を醸し、司法当局の捜査対象になったこともある。"
+      },
+      "handles": {
+        "youtube": "UCTP1RrnJ8meL1iTmBC7LSvQ",
+        "tiktok": "acid.officieel",
+        "instagram": "vandergunstnathan",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 721000
+        }
+      }
+    },
+    {
+      "id": "ella-kasumovic",
+      "name": "Ella Kasumovic",
+      "country": "BE",
+      "topic": {
+        "es": "Baile, música y vlogs",
+        "en": "Dance, music and vlogs",
+        "pt": "Dança, música e vlogs",
+        "fr": "Danse, musique et vlogs",
+        "de": "Tanz, Musik und Vlogs",
+        "ru": "Танцы, музыка и влоги",
+        "ar": "الرقص والموسيقى والمدونات المصورة",
+        "hi": "डांस, संगीत और व्लॉग",
+        "zh": "舞蹈、音乐与生活视频",
+        "ja": "ダンス、音楽、Vlog"
+      },
+      "about": {
+        "es": "Ella Kasumovic es una bailarina y creadora de contenido belga radicada en Herent, en el Brabante Flamenco, que se dio a conocer en 2019 como finalista de 'Belgium's Got Talent', donde recibió el Golden Buzzer del jurado An Lemmens. Antes de eso ya había ganado popularidad en TikTok con videos de baile junto a su familia, y luego amplió su carrera a YouTube y a la música, publicando sencillos propios.",
+        "en": "Ella Kasumovic is a Belgian dancer and content creator based in Herent, in Flemish Brabant, who rose to prominence in 2019 as a finalist on 'Belgium's Got Talent', where she received the Golden Buzzer from judge An Lemmens. She had already gained popularity on TikTok with dance videos featuring her family, later expanding into YouTube and music, releasing her own singles.",
+        "pt": "Ella Kasumovic é uma dançarina e criadora de conteúdo belga radicada em Herent, no Brabante Flamengo, que ganhou destaque em 2019 como finalista do 'Belgium's Got Talent', recebendo o Golden Buzzer da jurada An Lemmens. Antes disso, já havia se popularizado no TikTok com vídeos de dança ao lado da família, e depois expandiu sua carreira para o YouTube e a música, lançando singles próprios.",
+        "fr": "Ella Kasumovic est une danseuse et créatrice de contenu belge basée à Herent, dans le Brabant flamand, qui s'est fait connaître en 2019 en tant que finaliste de 'Belgium's Got Talent', où elle a reçu le Golden Buzzer de la juge An Lemmens. Elle s'était déjà fait remarquer sur TikTok avec des vidéos de danse en famille, avant d'élargir sa carrière à YouTube et à la musique en sortant ses propres singles.",
+        "de": "Ella Kasumovic ist eine belgische Tänzerin und Content-Creatorin mit Wohnsitz in Herent in Flämisch-Brabant, die 2019 als Finalistin bei 'Belgium's Got Talent' bekannt wurde, wo sie den Golden Buzzer von Jurorin An Lemmens erhielt. Zuvor war sie bereits auf TikTok mit Tanzvideos mit ihrer Familie populär geworden und erweiterte später ihre Karriere auf YouTube und Musik mit eigenen Singles.",
+        "ru": "Элла Касумович — бельгийская танцовщица и создательница контента, живущая в Херенте, во Фламандском Брабанте, которая прославилась в 2019 году как финалистка шоу 'Belgium's Got Talent', получив Golden Buzzer от судьи Ан Леммэнс. Ранее она уже приобрела популярность в TikTok благодаря танцевальным видео с семьёй, а позже расширила карьеру на YouTube и музыку, выпустив собственные синглы.",
+        "ar": "إيلا كاسوموفيتش راقصة وصانعة محتوى بلجيكية تقيم في هيرنت بمقاطعة برابانت الفلمنكية، برزت عام 2019 كمتأهلة للنهائي في برنامج 'Belgium's Got Talent' حيث حصلت على زر البث الذهبي من الحكمة آن ليمنز. وكانت قد اكتسبت شهرة سابقة على تيك توك بفيديوهات رقص مع عائلتها، ثم وسّعت مسيرتها إلى يوتيوب والموسيقى بإصدار أغانٍ منفردة خاصة بها.",
+        "hi": "एला कासुमोविच बेल्जियम की एक डांसर और कंटेंट क्रिएटर हैं, जो फ्लेमिश ब्रबंत के हेरेंट में रहती हैं; वे 2019 में 'बेल्जियम्स गॉट टैलेंट' की फाइनलिस्ट के रूप में मशहूर हुईं, जहाँ जज एन लेम्मेंस ने उन्हें गोल्डन बज़र दिया। इससे पहले वे परिवार के साथ डांस वीडियो के लिए टिकटॉक पर लोकप्रिय हो चुकी थीं, और बाद में उन्होंने यूट्यूब और संगीत में भी कदम रखा, अपने खुद के सिंगल्स रिलीज़ किए।",
+        "zh": "埃拉·卡苏莫维奇是一位居住在比利时弗拉芒布拉班特省海伦特的舞者兼内容创作者,2019年因参加《比利时达人秀》晋级决赛并获得评委安·莱门斯按下的黄金按钮而声名鹊起。此前她已凭借与家人一起拍摄的舞蹈视频在TikTok走红,后来又将事业拓展到YouTube和音乐领域,发行了个人单曲。",
+        "ja": "エラ・カスモヴィッチは、フランデレン地方ブラバント州ヘレントを拠点とするベルギー人ダンサー兼コンテンツクリエイターで、2019年に『ベルギーズ・ゴット・タレント』の決勝進出者として注目を集め、審査員アン・レメンスからゴールデンブザーを受けた。それ以前から家族とのダンス動画でTikTokで人気を博しており、その後YouTubeや音楽活動にも進出し、自身のシングルをリリースしている。"
+      },
+      "handles": {
+        "youtube": "UC-AjSJctLEImM02gJZp0Kqw",
+        "tiktok": null,
+        "instagram": "kasumovic_ella",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1100000
+        }
+      }
+    },
+    {
+      "id": "average-rob-rob-van-impe",
+      "name": "Average Rob (Rob Van Impe)",
+      "country": "BE",
+      "topic": {
+        "es": "Retos extremos y deportes absurdos",
+        "en": "Extreme challenges and absurd sports",
+        "pt": "Desafios extremos e esportes absurdos",
+        "fr": "Défis extrêmes et sports absurdes",
+        "de": "Extreme Challenges und absurde Sportarten",
+        "ru": "Экстремальные челленджи и абсурдные виды спорта",
+        "ar": "تحديات متطرفة ورياضات عبثية",
+        "hi": "एक्सट्रीम चैलेंज और अजीबोगरीब खेल",
+        "zh": "极限挑战与荒诞运动",
+        "ja": "エクストリームチャレンジと不条理スポーツ"
+      },
+      "about": {
+        "es": "Robert 'Rob' Van Impe, conocido como Average Rob, nació el 27 de febrero de 1992 y es un creador de contenido, actor y presentador de radio belga, criado por una madre francófona y un padre flamenco. Se hizo viral con videos de retos absurdos como carreras de Ironman improvisadas y descensos en bobsleigh, muchas veces junto a su hermano Arno, y sigue basado en Bélgica.",
+        "en": "Robert 'Rob' Van Impe, known as Average Rob, was born on February 27, 1992, and is a Belgian content creator, actor and radio host, raised by a French-speaking mother and a Flemish-speaking father. He went viral with absurd-challenge videos such as makeshift Ironman races and bobsleigh runs, often alongside his brother Arno, and remains based in Belgium.",
+        "pt": "Robert 'Rob' Van Impe, conhecido como Average Rob, nasceu em 27 de fevereiro de 1992 e é um criador de conteúdo, ator e apresentador de rádio belga, criado por uma mãe francófona e um pai flamengo. Ele viralizou com vídeos de desafios absurdos, como corridas improvisadas de Ironman e descidas de bobsled, muitas vezes ao lado do irmão Arno, e continua baseado na Bélgica.",
+        "fr": "Robert 'Rob' Van Impe, connu sous le nom d'Average Rob, est né le 27 février 1992 ; c'est un créateur de contenu, acteur et animateur radio belge, élevé par une mère francophone et un père flamand. Il est devenu viral avec des vidéos de défis absurdes comme des courses d'Ironman improvisées et des descentes en bobsleigh, souvent aux côtés de son frère Arno, et reste basé en Belgique.",
+        "de": "Robert 'Rob' Van Impe, bekannt als Average Rob, wurde am 27. Februar 1992 geboren und ist ein belgischer Content-Creator, Schauspieler und Radiomoderator, aufgewachsen bei einer französischsprachigen Mutter und einem flämischsprachigen Vater. Er wurde mit Videos zu absurden Challenges wie improvisierten Ironman-Rennen und Bobfahrten viral, oft zusammen mit seinem Bruder Arno, und lebt weiterhin in Belgien.",
+        "ru": "Роберт «Роб» Ван Импе, известный как Average Rob, родился 27 февраля 1992 года и является бельгийским создателем контента, актёром и радиоведущим, воспитанным франкоязычной матерью и фламандскоязычным отцом. Он стал вирусным благодаря видео с абсурдными челленджами, такими как импровизированные гонки Ironman и заезды на бобслее, часто вместе с братом Арно, и по-прежнему живёт в Бельгии.",
+        "ar": "روبرت 'روب' فان إمبي، المعروف باسم Average Rob، وُلد في 27 فبراير 1992، وهو صانع محتوى وممثل ومقدم إذاعي بلجيكي، نشأ لأم فرنكوفونية وأب فلمنكي. اشتهر بفيديوهات تحديات عبثية مثل سباقات آيرون مان المرتجلة والتزلج على الزلاجة الثلجية، غالبًا رفقة شقيقه أرنو، ولا يزال مقيمًا في بلجيكا.",
+        "hi": "रॉबर्ट 'रॉब' वैन इम्पे, जिन्हें Average Rob के नाम से जाना जाता है, का जन्म 27 फरवरी 1992 को हुआ; वे एक बेल्जियन कंटेंट क्रिएटर, अभिनेता और रेडियो होस्ट हैं, जिनका पालन-पोषण एक फ्रेंच-भाषी माँ और फ्लेमिश-भाषी पिता ने किया। वे अजीबोगरीब चैलेंज वीडियो जैसे तात्कालिक आयरनमैन रेस और बॉबस्लेय रन के लिए वायरल हुए, अक्सर अपने भाई अर्नो के साथ, और अब भी बेल्जियम में रहते हैं।",
+        "zh": "罗伯特“罗布”·范因佩(艺名Average Rob)出生于1992年2月27日,是一位比利时内容创作者、演员兼电台主持人,由讲法语的母亲和讲弗拉芒语的父亲抚养长大。他凭借即兴铁人三项赛跑、雪橇滑行等荒诞挑战视频走红,常与弟弟阿尔诺一同出镜,目前仍居住在比利时。",
+        "ja": "ロベルト・「ロブ」・ファン・インペ(通称Average Rob)は1992年2月27日生まれのベルギー人コンテンツクリエイター、俳優、ラジオ司会者で、フランス語を話す母とフラマン語を話す父のもとで育った。即席のアイアンマンレースやボブスレー滑走といった不条理なチャレンジ動画で人気を博し、弟のアルノとともに出演することも多い。現在もベルギーを拠点に活動している。"
+      },
+      "handles": {
+        "youtube": "UCr3Lrf7n3h3XGjkxTOSRMCA",
+        "tiktok": null,
+        "instagram": "averagerob",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 732000
+        }
+      }
+    },
+    {
+      "id": "timon-verbeeck",
+      "name": "Timon Verbeeck",
+      "country": "BE",
+      "topic": {
+        "es": "Humor absurdo y entretenimiento juvenil",
+        "en": "Absurdist comedy and youth entertainment",
+        "pt": "Humor absurdo e entretenimento jovem",
+        "fr": "Humour absurde et divertissement jeunesse",
+        "de": "Absurder Humor und Jugendunterhaltung",
+        "ru": "Абсурдистский юмор и развлечения для молодёжи",
+        "ar": "كوميديا عبثية وترفيه للشباب",
+        "hi": "एब्सर्ड कॉमेडी और युवा मनोरंजन",
+        "zh": "荒诞喜剧与青少年娱乐",
+        "ja": "不条理コメディと若者向けエンタメ"
+      },
+      "about": {
+        "es": "Timon Verbeeck nació el 25 de junio de 2002 en Lochristi, Bélgica, y es un YouTuber, tiktoker y escritor flamenco conocido por su humor absurdo, con personajes como un estricto profesor de francés y su característico 'grito de dinosaurio'. En 2021 acuñó la palabra juvenil belga del año 'ma stobbe' y ha ganado varios premios Gouden K como estrella online del año; en 2024 publicó su primer libro y sigue activo y residente en Flandes, Bélgica.",
+        "en": "Timon Verbeeck was born on June 25, 2002, in Lochristi, Belgium, and is a Flemish YouTuber, TikToker and writer known for his absurdist humor, with characters like a strict French teacher and his signature 'dinosaur scream'. In 2021 he coined Belgium's youth word of the year 'ma stobbe' and has won several Gouden K awards as online star of the year; in 2024 he published his first book and remains active and based in Flanders, Belgium.",
+        "pt": "Timon Verbeeck nasceu em 25 de junho de 2002 em Lochristi, Bélgica, e é um youtuber, tiktoker e escritor flamengo conhecido por seu humor absurdo, com personagens como um professor de francês rígido e seu característico 'grito de dinossauro'. Em 2021 criou a palavra jovem belga do ano 'ma stobbe' e já venceu vários prêmios Gouden K como estrela online do ano; em 2024 publicou seu primeiro livro e continua ativo e radicado em Flandres, na Bélgica.",
+        "fr": "Timon Verbeeck est né le 25 juin 2002 à Lochristi, en Belgique, et est un YouTubeur, tiktokeur et écrivain flamand connu pour son humour absurde, avec des personnages comme un professeur de français strict et son 'cri de dinosaure' emblématique. En 2021, il a inventé le mot de l'année des jeunes Belges 'ma stobbe' et a remporté plusieurs prix Gouden K de star en ligne de l'année ; en 2024, il a publié son premier livre et reste actif, basé en Flandre, en Belgique.",
+        "de": "Timon Verbeeck wurde am 25. Juni 2002 in Lochristi, Belgien, geboren und ist ein flämischer YouTuber, TikToker und Autor, bekannt für seinen absurden Humor mit Figuren wie einem strengen Französischlehrer und seinem markanten 'Dinosaurierschrei'. 2021 prägte er das belgische Jugendwort des Jahres 'ma stobbe' und gewann mehrere Gouden-K-Preise als Online-Star des Jahres; 2024 veröffentlichte er sein erstes Buch und lebt weiterhin in Flandern, Belgien.",
+        "ru": "Тимон Вербек родился 25 июня 2002 года в Лохристи, Бельгия, и является фламандским ютубером, тиктокером и писателем, известным своим абсурдистским юмором с такими персонажами, как строгий учитель французского и его фирменный 'крик динозавра'. В 2021 году он придумал бельгийское молодёжное слово года 'ma stobbe' и получил несколько наград Gouden K как онлайн-звезда года; в 2024 году выпустил свою первую книгу и по-прежнему живёт и работает во Фландрии, Бельгия.",
+        "ar": "وُلد تيمون فيربيك في 25 يونيو 2002 في لوخريستي ببلجيكا، وهو يوتيوبر وصانع محتوى على تيك توك وكاتب فلمنكي معروف بكوميدياه العبثية، بشخصيات مثل معلم لغة فرنسية صارم وصرخته المميزة 'صرخة الديناصور'. صاغ عام 2021 كلمة العام الشبابية البلجيكية 'ma stobbe' وفاز بعدة جوائز Gouden K كنجم الإنترنت لهذا العام؛ وفي 2024 نشر كتابه الأول، ولا يزال ناشطًا ومقيمًا في إقليم فلاندرز ببلجيكا.",
+        "hi": "टिमोन वेर्बीक का जन्म 25 जून 2002 को बेल्जियम के लोख्रिस्टी में हुआ; वे एक फ्लेमिश यूट्यूबर, टिकटॉकर और लेखक हैं, जो अपने बेतुके हास्य के लिए जाने जाते हैं, जिसमें एक सख्त फ्रेंच शिक्षक और उनकी खास 'डायनासोर चीख' जैसे किरदार शामिल हैं। 2021 में उन्होंने बेल्जियम का युवा शब्द 'ma stobbe' गढ़ा और कई बार ऑनलाइन स्टार ऑफ द ईयर के रूप में Gouden K पुरस्कार जीता है; 2024 में उन्होंने अपनी पहली किताब प्रकाशित की और अब भी फ़्लैंडर्स, बेल्जियम में सक्रिय व निवासरत हैं।",
+        "zh": "蒂蒙·维尔贝克于2002年6月25日出生在比利时洛赫里斯蒂,是一位以荒诞幽默著称的弗拉芒YouTuber、TikTok创作者兼作家,塑造了严厉法语老师、标志性“恐龙尖叫”等角色。他在2021年创造了比利时青年年度词汇“ma stobbe”,并多次荣获Gouden K年度网络明星奖;2024年出版了首部著作,目前仍活跃并居住在比利时弗兰德地区。",
+        "ja": "ティモン・フェルベークは2002年6月25日にベルギーのロクリスティで生まれた、フラマン語圏のYouTuber、TikTokクリエイター、作家で、厳格なフランス語教師のキャラクターや代名詞的な「恐竜の叫び」など、不条理なユーモアで知られる。2021年にはベルギーの若者言葉大賞「ma stobbe」を生み出し、Gouden K賞のオンラインスター・オブ・ザ・イヤーを複数回受賞。2024年には初の著書を出版し、現在もベルギー・フランデレン地方を拠点に活動を続けている。"
+      },
+      "handles": {
+        "youtube": "UCe-hZFK-EFkgygFkHchp5mQ",
+        "tiktok": "timonverbeeck",
+        "instagram": "timonverbeeck",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 489000
+        }
+      }
+    },
+    {
+      "id": "martijn-debbaut",
+      "name": "Martijn Debbaut",
+      "country": "BE",
+      "topic": {
+        "es": "Fútbol freestyle y panna callejero",
+        "en": "Freestyle football and street panna",
+        "pt": "Futebol freestyle e panna de rua",
+        "fr": "Football freestyle et panna de rue",
+        "de": "Freestyle-Fußball und Street-Panna",
+        "ru": "Фристайл-футбол и уличный панна",
+        "ar": "كرة القدم الحرة وبانا الشوارع",
+        "hi": "फ्रीस्टाइल फुटबॉल और स्ट्रीट पन्ना",
+        "zh": "花式足球与街头穿裆技",
+        "ja": "フリースタイルフットボールとストリートパンナ"
+      },
+      "about": {
+        "es": "Martijn Debbaut nació el 20 de marzo de 1996 en Ostende, Bélgica, y es un futbolista freestyle y jugador de panna, campeón belga y del Benelux en ambas disciplinas. Se hizo mundialmente conocido en 2022 tras un video viral en el que le hace un 'panna' (túnel) a Ronaldinho, visto por decenas de millones de personas; sigue radicado en Bélgica, donde ofrece shows y clínicas de fútbol freestyle para clubes y marcas.",
+        "en": "Martijn Debbaut was born on March 20, 1996, in Ostend, Belgium, and is a freestyle footballer and panna player, a Belgian and Benelux champion in both disciplines. He became internationally known in 2022 after a viral video in which he 'nutmegs' (pannas) Ronaldinho, watched by tens of millions of people; he remains based in Belgium, where he performs freestyle football shows and clinics for clubs and brands.",
+        "pt": "Martijn Debbaut nasceu em 20 de março de 1996 em Ostende, Bélgica, e é um futebolista freestyle e jogador de panna, campeão belga e do Benelux em ambas as modalidades. Ficou mundialmente conhecido em 2022 após um vídeo viral em que aplica um 'panna' (caneta) em Ronaldinho, visto por dezenas de milhões de pessoas; continua radicado na Bélgica, onde realiza shows e clínicas de futebol freestyle para clubes e marcas.",
+        "fr": "Martijn Debbaut est né le 20 mars 1996 à Ostende, en Belgique, et est un joueur de football freestyle et de panna, champion belge et du Benelux dans les deux disciplines. Il s'est fait connaître mondialement en 2022 grâce à une vidéo virale où il fait un 'panna' (petit pont) à Ronaldinho, visionnée par des dizaines de millions de personnes ; il reste basé en Belgique, où il organise des shows et des stages de football freestyle pour des clubs et des marques.",
+        "de": "Martijn Debbaut wurde am 20. März 1996 in Ostende, Belgien, geboren und ist ein Freestyle-Fußballer und Panna-Spieler, belgischer und Benelux-Meister in beiden Disziplinen. International bekannt wurde er 2022 durch ein virales Video, in dem er Ronaldinho eine 'Panna' (Beinschuss) verpasst, das von zig Millionen Menschen gesehen wurde; er lebt weiterhin in Belgien, wo er Freestyle-Fußball-Shows und Clinics für Vereine und Marken veranstaltet.",
+        "ru": "Мартейн Деббаут родился 20 марта 1996 года в Остенде, Бельгия, и является фристайл-футболистом и игроком в панна, чемпионом Бельгии и стран Бенилюкса в обеих дисциплинах. Он приобрёл мировую известность в 2022 году благодаря вирусному видео, в котором он делает 'панна' (обводку между ног) Роналдиньо, набравшему десятки миллионов просмотров; он по-прежнему живёт в Бельгии, где проводит фристайл-футбольные шоу и мастер-классы для клубов и брендов.",
+        "ar": "وُلد مارتين ديباوت في 20 مارس 1996 في أوستند ببلجيكا، وهو لاعب كرة قدم حرة (فريستايل) ولاعب بانا، وبطل بلجيكا ودول البنلوكس في كلا التخصصين. اشتهر عالميًا عام 2022 بعد فيديو انتشر بشكل واسع أدى فيه حركة 'بانا' (تمريرة بين الساقين) لرونالدينيو، شاهدها عشرات الملايين؛ ولا يزال مقيمًا في بلجيكا حيث يقدم عروضًا وورش تدريبية في كرة القدم الحرة للأندية والعلامات التجارية.",
+        "hi": "मार्टिन डेब्बॉट का जन्म 20 मार्च 1996 को बेल्जियम के ओस्टेंड में हुआ; वे एक फ्रीस्टाइल फुटबॉलर और पन्ना खिलाड़ी हैं, जो दोनों विधाओं में बेल्जियम और बेनेलक्स चैंपियन रह चुके हैं। 2022 में रोनाल्डिन्हो को 'पन्ना' (टांगों के बीच से गेंद निकालना) करते हुए एक वायरल वीडियो के बाद वे विश्वभर में मशहूर हुए, जिसे करोड़ों लोगों ने देखा; वे अब भी बेल्जियम में रहते हैं, जहाँ क्लबों और ब्रांड्स के लिए फ्रीस्टाइल फुटबॉल शो और क्लीनिक आयोजित करते हैं।",
+        "zh": "马丁·德巴特于1996年3月20日出生在比利时奥斯坦德,是一名花式足球运动员兼穿裆技(panna)选手,在两项赛事中均为比利时及比荷卢冠军。2022年,他因一段对罗纳尔迪尼奥使出“穿裆过人”的爆红视频而闻名全球,该视频观看量达数千万次;他目前仍居住在比利时,为俱乐部和品牌举办花式足球表演与训练营。",
+        "ja": "マルティン・デバウトは1996年3月20日にベルギーのオーステンデで生まれた、フリースタイルフットボール選手兼パンナ選手で、両分野でベルギーおよびベネルクスのチャンピオンを獲得している。2022年にロナウジーニョに対して「パンナ(股抜き)」を決める動画がバイラルとなり、数千万回視聴されて世界的に知られるようになった。現在もベルギーを拠点とし、クラブやブランド向けにフリースタイルフットボールのショーやクリニックを行っている。"
+      },
+      "handles": {
+        "youtube": "UCTk4kNVjvMybkq2qUIS1LsQ",
+        "tiktok": "martijn_debbaut",
+        "instagram": "martijn_debbaut",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2220000
+        }
+      }
+    },
+    {
+      "id": "degoboom",
+      "name": "DeGoBooM",
+      "country": "CL",
+      "topic": {
+        "es": "Gaming y humor",
+        "en": "Gaming and comedy",
+        "pt": "Games e humor",
+        "fr": "Jeu vidéo et humour",
+        "de": "Gaming und Humor",
+        "ru": "Игры и юмор",
+        "ar": "الألعاب والفكاهة",
+        "hi": "गेमिंग और हास्य",
+        "zh": "游戏与幽默",
+        "ja": "ゲームとユーモア"
+      },
+      "about": {
+        "es": "Diego Antonio Silva, nacido en Temuco, Chile, es un creador de YouTube que comenzó su canal en 2014 y se hizo conocido por sus videos de Yandere Simulator, Undertale y otros videojuegos, además de reacciones y desafíos; reside en Chile y su canal principal supera los 24 millones de suscriptores.",
+        "en": "Diego Antonio Silva, born in Temuco, Chile, is a YouTube creator who started his channel in 2014 and became known for his videos on Yandere Simulator, Undertale, and other video games, as well as reactions and challenges; he lives in Chile and his main channel has over 24 million subscribers.",
+        "pt": "Diego Antonio Silva, nascido em Temuco, Chile, é um criador do YouTube que começou seu canal em 2014 e ficou conhecido por seus vídeos de Yandere Simulator, Undertale e outros jogos, além de reações e desafios; ele mora no Chile e seu canal principal ultrapassa 24 milhões de inscritos.",
+        "fr": "Diego Antonio Silva, né à Temuco, au Chili, est un créateur YouTube qui a lancé sa chaîne en 2014 et s'est fait connaître grâce à ses vidéos sur Yandere Simulator, Undertale et d'autres jeux vidéo, ainsi que des réactions et des défis ; il vit au Chili et sa chaîne principale dépasse les 24 millions d'abonnés.",
+        "de": "Diego Antonio Silva, geboren in Temuco, Chile, ist ein YouTube-Ersteller, der seinen Kanal 2014 startete und durch Videos zu Yandere Simulator, Undertale und anderen Videospielen sowie Reaktionen und Challenges bekannt wurde; er lebt in Chile und sein Hauptkanal hat über 24 Millionen Abonnenten.",
+        "ru": "Диего Антонио Сильва, родившийся в Темуко, Чили, — создатель контента на YouTube, который запустил свой канал в 2014 году и стал известен благодаря видео по Yandere Simulator, Undertale и другим играм, а также реакциям и челленджам; он живёт в Чили, а его основной канал насчитывает более 24 миллионов подписчиков.",
+        "ar": "دييغو أنطونيو سيلفا، المولود في تيموكو بتشيلي، صانع محتوى على يوتيوب بدأ قناته عام 2014 واشتهر بفيديوهاته عن لعبة Yandere Simulator وUndertale وألعاب أخرى، إضافة إلى ردود الأفعال والتحديات؛ يعيش في تشيلي ويتجاوز عدد مشتركي قناته الرئيسية 24 مليون مشترك.",
+        "hi": "डिएगो एंटोनियो सिल्वा, जिनका जन्म चिली के तेमुको में हुआ, एक यूट्यूब क्रिएटर हैं जिन्होंने 2014 में अपना चैनल शुरू किया और यांडेरे सिम्युलेटर, अंडरटेल जैसे वीडियो गेम्स के साथ-साथ रिएक्शन और चैलेंज वीडियो के लिए जाने जाते हैं; वे चिली में रहते हैं और उनके मुख्य चैनल के 2.4 करोड़ से अधिक सब्सक्राइबर हैं।",
+        "zh": "迭戈·安东尼奥·席尔瓦出生于智利特木科,是一名YouTube创作者,于2014年开设频道,凭借《病娇模拟器》《Undertale》等游戏视频以及反应和挑战类内容而闻名;他目前居住在智利,主频道订阅人数超过2400万。",
+        "ja": "ディエゴ・アントニオ・シルバはチリのテムコ出身のYouTubeクリエイターで、2014年にチャンネルを開設し、「ヤンデレシミュレーター」や「アンダーテイル」などのゲーム実況やリアクション、チャレンジ動画で知られるようになった。現在もチリに在住し、メインチャンネルの登録者数は2400万人を超える。"
+      },
+      "handles": {
+        "youtube": "UCj9rK3jt8qmih4mZX0UL67g",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 24200000
+        }
+      }
+    },
+    {
+      "id": "nachitojuegajuegos",
+      "name": "NachitoJuegaJuegos",
+      "country": "CL",
+      "topic": {
+        "es": "Gaming y retos familiares",
+        "en": "Gaming and family challenges",
+        "pt": "Games e desafios em família",
+        "fr": "Jeu vidéo et défis familiaux",
+        "de": "Gaming und Familien-Challenges",
+        "ru": "Игры и семейные челленджи",
+        "ar": "الألعاب والتحديات العائلية",
+        "hi": "गेमिंग और पारिवारिक चैलेंज",
+        "zh": "游戏与家庭挑战",
+        "ja": "ゲームと家族チャレンジ"
+      },
+      "about": {
+        "es": "Ignacio Orellana Loyola, conocido como NachitoJuegaJuegos, es un youtuber chileno de Los Ángeles (Chile) que comenzó subiendo videos de Minecraft en 2014; hoy realiza gameplays, retos y vlogs familiares, superó los 10 millones de suscriptores y recibió el Botón de Diamante de YouTube, siendo el quinto canal chileno en lograrlo.",
+        "en": "Ignacio Orellana Loyola, known as NachitoJuegaJuegos, is a Chilean YouTuber from Los Ángeles, Chile, who started uploading Minecraft videos in 2014; today he makes gameplay videos, challenges and family vlogs, surpassed 10 million subscribers and received YouTube's Diamond Play Button, becoming the fifth Chilean channel to do so.",
+        "pt": "Ignacio Orellana Loyola, conhecido como NachitoJuegaJuegos, é um youtuber chileno de Los Ángeles, no Chile, que começou publicando vídeos de Minecraft em 2014; hoje faz gameplays, desafios e vlogs em família, ultrapassou 10 milhões de inscritos e recebeu o Botão de Diamante do YouTube, tornando-se o quinto canal chileno a conquistá-lo.",
+        "fr": "Ignacio Orellana Loyola, connu sous le nom de NachitoJuegaJuegos, est un YouTubeur chilien de Los Ángeles, au Chili, qui a commencé à publier des vidéos Minecraft en 2014 ; aujourd'hui il réalise des vidéos de gameplay, des défis et des vlogs familiaux, a dépassé les 10 millions d'abonnés et a reçu le bouton de diamant de YouTube, devenant la cinquième chaîne chilienne à l'obtenir.",
+        "de": "Ignacio Orellana Loyola, bekannt als NachitoJuegaJuegos, ist ein chilenischer YouTuber aus Los Ángeles, Chile, der 2014 begann, Minecraft-Videos hochzuladen; heute produziert er Gameplay-Videos, Challenges und Familien-Vlogs, überschritt 10 Millionen Abonnenten und erhielt den Diamond Play Button von YouTube als fünfter chilenischer Kanal überhaupt.",
+        "ru": "Игнасио Орельяна Лойола, известный как NachitoJuegaJuegos, — чилийский ютубер из города Лос-Анхелес (Чили), который начал выкладывать видео по Minecraft в 2014 году; сегодня он снимает геймплеи, челленджи и семейные влоги, преодолел отметку в 10 миллионов подписчиков и получил алмазную кнопку YouTube, став пятым чилийским каналом, добившимся этого.",
+        "ar": "إيغناسيو أوريّانا لوّيولا، المعروف باسم NachitoJuegaJuegos، هو يوتيوبر تشيلي من مدينة لوس أنخلس في تشيلي، بدأ نشر فيديوهات ماينكرافت عام 2014؛ يقدم اليوم مقاطع لعب وتحديات وفلوغات عائلية، وتجاوز 10 ملايين مشترك وحصل على زر الماس من يوتيوب، ليصبح خامس قناة تشيلية تحققه.",
+        "hi": "इग्नासियो ओरेयाना लोयोला, जिन्हें NachitoJuegaJuegos के नाम से जाना जाता है, चिली के लॉस एंजेलिस (चिली) के एक यूट्यूबर हैं जिन्होंने 2014 में माइनक्राफ्ट वीडियो अपलोड करना शुरू किया था; आज वे गेमप्ले, चैलेंज और पारिवारिक व्लॉग बनाते हैं, उनके 1 करोड़ से अधिक सब्सक्राइबर हैं और उन्हें यूट्यूब का डायमंड प्ले बटन मिला, ऐसा पाने वाले वे पांचवें चिली चैनल बने।",
+        "zh": "伊格纳西奥·奥雷利亚纳·洛约拉,艺名NachitoJuegaJuegos,是来自智利洛斯安赫莱斯的YouTube创作者,2014年开始上传《我的世界》视频;如今制作游戏实况、挑战和家庭日常视频,订阅数超过1000万,并获得YouTube钻石按钮奖,成为第五个获此殊荣的智利频道。",
+        "ja": "イグナシオ・オレヤナ・ロヨラは、NachitoJuegaJuegosの名で知られるチリ・ロスアンヘレス出身のYouTuberで、2014年にマインクラフトの動画投稿を始めた。現在はゲーム実況やチャレンジ企画、家族との日常動画を制作しており、登録者数は1000万人を超え、YouTubeのダイヤモンドボタンを獲得したチリの5番目のチャンネルとなった。"
+      },
+      "handles": {
+        "youtube": "UCP0-uhdYAdRszpigCXYbh4Q",
+        "tiktok": null,
+        "instagram": "nachitojuegajuegos",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 16500000
+        }
+      }
+    },
+    {
+      "id": "miguelportaxd",
+      "name": "MiguelPortaxD",
+      "country": "CL",
+      "topic": {
+        "es": "Doblaje y humor de cultura pop",
+        "en": "Comedic dubbing and pop culture",
+        "pt": "Dublagem cômica e cultura pop",
+        "fr": "Doublage comique et culture pop",
+        "de": "Comedy-Synchronisation und Popkultur",
+        "ru": "Комедийная озвучка и поп-культура",
+        "ar": "الدبلجة الكوميدية والثقافة الشعبية",
+        "hi": "हास्य डबिंग और पॉप कल्चर",
+        "zh": "搞笑配音与流行文化",
+        "ja": "コミカルな吹き替えとポップカルチャー"
+      },
+      "about": {
+        "es": "MiguelPortaxD es un youtuber chileno conocido por sus videos de doblaje cómico y humor sobre cultura pop, incluyendo la popular serie Skibidi Toilet; publicó su primer video en diciembre de 2021 y su canal, basado en Chile, tiene más de 9 millones de suscriptores.",
+        "en": "MiguelPortaxD is a Chilean YouTuber known for comedic dubbing videos and pop-culture humor, including the popular Skibidi Toilet series; he posted his first video in December 2021, and his channel, based in Chile, has surpassed 9 million subscribers.",
+        "pt": "MiguelPortaxD é um youtuber chileno conhecido por vídeos de dublagem cômica e humor sobre cultura pop, incluindo a popular série Skibidi Toilet; publicou seu primeiro vídeo em dezembro de 2021 e seu canal, baseado no Chile, já ultrapassou 9 milhões de inscritos.",
+        "fr": "MiguelPortaxD est un YouTubeur chilien connu pour ses vidéos de doublage comique et son humour sur la culture pop, notamment la populaire série Skibidi Toilet ; il a publié sa première vidéo en décembre 2021 et sa chaîne, basée au Chili, a dépassé les 9 millions d'abonnés.",
+        "de": "MiguelPortaxD ist ein chilenischer YouTuber, bekannt für komische Synchronisationsvideos und Pop-Kultur-Humor, darunter die beliebte Serie Skibidi Toilet; er veröffentlichte sein erstes Video im Dezember 2021, und sein in Chile ansässiger Kanal hat mittlerweile über 9 Millionen Abonnenten.",
+        "ru": "MiguelPortaxD — чилийский ютубер, известный комедийными видео с озвучкой и юмором на тему поп-культуры, включая популярную серию Skibidi Toilet; он опубликовал своё первое видео в декабре 2021 года, и его канал, базирующийся в Чили, превысил 9 миллионов подписчиков.",
+        "ar": "ميغيل بورتاXD هو يوتيوبر تشيلي معروف بمقاطع الدبلجة الكوميدية والفكاهة المرتبطة بالثقافة الشعبية، بما في ذلك سلسلة Skibidi Toilet الشهيرة؛ نشر أول فيديو له في ديسمبر 2021، وتجاوزت قناته، ومقرها تشيلي، 9 ملايين مشترك.",
+        "hi": "मिगेल पोर्टाXD एक चिली यूट्यूबर हैं जो हास्यपूर्ण डबिंग वीडियो और पॉप-कल्चर हास्य के लिए जाने जाते हैं, जिसमें लोकप्रिय स्किबिडी टॉयलेट सीरीज़ भी शामिल है; उन्होंने दिसंबर 2021 में अपना पहला वीडियो पोस्ट किया, और चिली स्थित उनका चैनल 90 लाख से अधिक सब्सक्राइबर तक पहुंच चुका है।",
+        "zh": "MiguelPortaxD是一名智利YouTube创作者,以搞笑配音视频和流行文化幽默内容著称,其中包括热门系列《马桶头》(Skibidi Toilet);他于2021年12月发布首个视频,总部位于智利的频道订阅数已超过900万。",
+        "ja": "MiguelPortaxDは、人気シリーズ「スキビディ・トイレ」を含むコミカルな吹き替え動画やポップカルチャーのユーモアで知られるチリのYouTuberである。2021年12月に最初の動画を投稿し、チリを拠点とするチャンネルの登録者数は900万人を超えている。"
+      },
+      "handles": {
+        "youtube": "UCq7Sqi73BHyhftP4xcqvhwQ",
+        "tiktok": null,
+        "instagram": "miguelportaxd_",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 9940000
+        }
+      }
+    },
+    {
+      "id": "yio-airsoft",
+      "name": "Yio Airsoft",
+      "country": "CL",
+      "topic": {
+        "es": "Airsoft y juegos tácticos",
+        "en": "Airsoft and tactical games",
+        "pt": "Airsoft e jogos táticos",
+        "fr": "Airsoft et jeux tactiques",
+        "de": "Airsoft und taktische Spiele",
+        "ru": "Страйкбол и тактические игры",
+        "ar": "الإيرسوفت والألعاب التكتيكية",
+        "hi": "एयरसॉफ्ट और सामरिक खेल",
+        "zh": "生存射击与战术游戏",
+        "ja": "エアソフトと戦術ゲーム"
+      },
+      "about": {
+        "es": "Yio Saavedra, conocido como Yio Airsoft, es un youtuber chileno que usa silla de ruedas y crea contenido de airsoft (deporte de tiro táctico), mostrando fails, desafíos y partidas junto a amigos; su canal está basado en Chile y supera los 3 millones de suscriptores.",
+        "en": "Yio Saavedra, known as Yio Airsoft, is a Chilean YouTuber who uses a wheelchair and creates airsoft (tactical shooting sport) content, featuring fails, challenges and matches with friends; his channel is based in Chile and has surpassed 3 million subscribers.",
+        "pt": "Yio Saavedra, conhecido como Yio Airsoft, é um youtuber chileno que usa cadeira de rodas e cria conteúdo sobre airsoft (esporte de tiro tático), com vídeos de fails, desafios e partidas com amigos; seu canal é baseado no Chile e ultrapassou 3 milhões de inscritos.",
+        "fr": "Yio Saavedra, connu sous le nom de Yio Airsoft, est un YouTubeur chilien en fauteuil roulant qui crée du contenu sur l'airsoft (sport de tir tactique), avec des fails, des défis et des parties entre amis ; sa chaîne, basée au Chili, a dépassé les 3 millions d'abonnés.",
+        "de": "Yio Saavedra, bekannt als Yio Airsoft, ist ein chilenischer YouTuber, der einen Rollstuhl nutzt und Airsoft-Inhalte (taktischer Schießsport) erstellt, mit Pannen, Challenges und Spielen mit Freunden; sein in Chile ansässiger Kanal hat über 3 Millionen Abonnenten.",
+        "ru": "Йо Сааведра, известный как Yio Airsoft, — чилийский ютубер, передвигающийся на инвалидной коляске, который создаёт контент про страйкбол (тактический стрелковый спорт), включая неудачные моменты, испытания и игры с друзьями; его канал базируется в Чили и превысил 3 миллиона подписчиков.",
+        "ar": "يو سافيدرا، المعروف باسم Yio Airsoft، هو يوتيوبر تشيلي يستخدم كرسيًا متحركًا وينتج محتوى عن رياضة الإيرسوفت (رياضة إطلاق نار تكتيكية)، يتضمن لحظات فاشلة وتحديات ومباريات مع الأصدقاء؛ تتجاوز قناته، ومقرها تشيلي، 3 ملايين مشترك.",
+        "hi": "यो सावेद्रा, जिन्हें Yio Airsoft के नाम से जाना जाता है, एक चिली यूट्यूबर हैं जो व्हीलचेयर का उपयोग करते हैं और एयरसॉफ्ट (सामरिक शूटिंग खेल) से जुड़ा कंटेंट बनाते हैं, जिसमें असफल पल, चैलेंज और दोस्तों के साथ मैच शामिल होते हैं; चिली स्थित उनका चैनल 30 लाख से अधिक सब्सक्राइबर तक पहुंच चुका है।",
+        "zh": "约·萨维德拉(艺名Yio Airsoft)是一名使用轮椅的智利YouTube创作者,制作生存射击(Airsoft战术射击运动)相关内容,包括失败集锦、挑战和与朋友的对战;他的频道总部位于智利,订阅数已超过300万。",
+        "ja": "ヨ・サアベドラ(通称Yio Airsoft)は車椅子を使用するチリのYouTuberで、エアソフト(戦術シューティングスポーツ)に関するコンテンツを制作し、失敗集や企画、友人との対戦動画などを投稿している。チリを拠点とするチャンネルの登録者数は300万人を超える。"
+      },
+      "handles": {
+        "youtube": "UC1nHfnH3SwqnuRy3zbEJcXQ",
+        "tiktok": null,
+        "instagram": "yio_airsoft",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5850000
+        }
+      }
+    },
+    {
+      "id": "jeancarlo-mtb",
+      "name": "Jeancarlo MTB",
+      "country": "DO",
+      "topic": {
+        "es": "Comedia y sketches cocinando, contenido viral dominicano",
+        "en": "Comedy sketches while cooking, viral Dominican content",
+        "pt": "Comédia e sketches cozinhando, conteúdo viral dominicano",
+        "fr": "Sketches comiques en cuisinant, contenu viral dominicain",
+        "de": "Komödiensketche beim Kochen, virale dominikanische Inhalte",
+        "ru": "Комедийные скетчи во время готовки, вирусный доминиканский контент",
+        "ar": "سكتشات كوميدية أثناء الطبخ، محتوى دومينيكاني منتشر بكثرة",
+        "hi": "खाना बनाते हुए हास्य स्केच, वायरल डोमिनिकन कंटेंट",
+        "zh": "边做饭边表演喜剧短剧，多米尼加病毒式内容",
+        "ja": "料理をしながらのコメディスケッチ、バイラルなドミニカのコンテンツ"
+      },
+      "about": {
+        "es": "Jeancarlo MTB, conocido como 'Sigan Viendo', es un creador de contenido dominicano que comenzó su canal de YouTube en junio de 2018. Es famoso por sus sketches cómicos mientras prepara recetas de cocina, y su frase característica 'sigan viendo' se convirtió en su marca personal.",
+        "en": "Jeancarlo MTB, known as 'Sigan Viendo,' is a Dominican content creator who started his YouTube channel in June 2018. He is known for comedic sketches while preparing cooking recipes, and his catchphrase 'sigan viendo' (keep watching) became his personal brand.",
+        "pt": "Jeancarlo MTB, conhecido como 'Sigan Viendo', é um criador de conteúdo dominicano que iniciou seu canal no YouTube em junho de 2018. É conhecido por seus esquetes cômicos enquanto prepara receitas culinárias, e sua frase característica 'sigan viendo' (continuem assistindo) se tornou sua marca pessoal.",
+        "fr": "Jeancarlo MTB, connu sous le nom de « Sigan Viendo », est un créateur de contenu dominicain qui a lancé sa chaîne YouTube en juin 2018. Il est connu pour ses sketches comiques tout en préparant des recettes de cuisine, et sa phrase fétiche « sigan viendo » (continuez à regarder) est devenue sa marque de fabrique.",
+        "de": "Jeancarlo MTB, bekannt als „Sigan Viendo“, ist ein dominikanischer Content-Creator, der seinen YouTube-Kanal im Juni 2018 startete. Er ist bekannt für komödiantische Sketche beim Zubereiten von Kochrezepten, und sein Markenzeichen „sigan viendo“ (schaut weiter) wurde zu seinem persönlichen Erkennungszeichen.",
+        "ru": "Хеанкарло MTB, известный как «Sigan Viendo», — доминиканский создатель контента, запустивший свой канал на YouTube в июне 2018 года. Он известен комедийными скетчами во время приготовления кулинарных рецептов, а его коронная фраза «sigan viendo» (продолжайте смотреть) стала его личным брендом.",
+        "ar": "جينكارلو إم تي بي، المعروف باسم \"سيغان بيندو\"، هو صانع محتوى دومينيكاني أطلق قناته على يوتيوب في يونيو 2018. يشتهر بسكتشاته الكوميدية أثناء تحضير وصفات الطبخ، وأصبحت عبارته المميزة \"سيغان بيندو\" (استمروا بالمشاهدة) علامته الشخصية.",
+        "hi": "जियानकार्लो एमटीबी, जिन्हें 'सिगान वियेंदो' के नाम से जाना जाता है, एक डोमिनिकन कंटेंट क्रिएटर हैं जिन्होंने जून 2018 में अपना यूट्यूब चैनल शुरू किया था। वे खाना पकाने की विधियाँ बनाते समय हास्य स्केच के लिए जाने जाते हैं, और उनका प्रसिद्ध वाक्यांश 'सिगान वियेंदो' (देखते रहें) उनकी व्यक्तिगत पहचान बन गया।",
+        "zh": "杰安卡洛·MTB（Jeancarlo MTB），人称\"Sigan Viendo\"，是一位多米尼加内容创作者，于2018年6月开设了他的YouTube频道。他以一边准备烹饪食谱一边表演喜剧短剧而闻名，他的招牌用语\"sigan viendo\"（继续看下去）已成为他的个人标志。",
+        "ja": "ヒアンカルロ・MTB（Jeancarlo MTB）は「シガン・ビエンド」として知られるドミニカ共和国のコンテンツクリエイターで、2018年6月にYouTubeチャンネルを開設した。料理レシピを作りながらコメディスケッチを披露することで知られ、決め台詞「シガン・ビエンド」（見続けて）が個人的なブランドとなった。"
+      },
+      "handles": {
+        "youtube": "UC9keAEKEnZETCS7yaRr1gkg",
+        "tiktok": "siganviendo59",
+        "instagram": "sigan_viendo_59",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 11000000
+        }
+      }
+    },
+    {
+      "id": "angel-fire",
+      "name": "Angel Fire",
+      "country": "DO",
+      "topic": {
+        "es": "Gameplay y retos de Free Fire, contenido gamer dominicano",
+        "en": "Free Fire gameplay and challenges, Dominican gaming content",
+        "pt": "Gameplay e desafios de Free Fire, conteúdo gamer dominicano",
+        "fr": "Gameplay et défis Free Fire, contenu gaming dominicain",
+        "de": "Free-Fire-Gameplay und Challenges, dominikanischer Gaming-Content",
+        "ru": "Геймплей и челленджи по Free Fire, доминиканский игровой контент",
+        "ar": "محتوى ألعاب فري فاير والتحديات، محتوى ألعاب دومينيكاني",
+        "hi": "फ्री फायर गेमप्ले और चुनौतियाँ, डोमिनिकन गेमिंग कंटेंट",
+        "zh": "Free Fire游戏实况与挑战，多米尼加游戏内容",
+        "ja": "フリーファイアのゲームプレイとチャレンジ、ドミニカのゲーミングコンテンツ"
+      },
+      "about": {
+        "es": "Angel Fire, cuyo nombre real es Angioly Tejeda Romero, nació el 18 de diciembre de 2001 en República Dominicana. Fue uno de los primeros influencers dominicanos en jugar Free Fire cuando el juego se lanzó, y se hizo conocido por sus videos de gameplay, retos contra otros creadores y contenido junto a su hermana Angi.",
+        "en": "Angel Fire, whose real name is Angioly Tejeda Romero, was born on December 18, 2001 in the Dominican Republic. He was one of the first Dominican influencers to play Free Fire when the game launched, becoming known for his gameplay videos, challenges against other creators, and content alongside his sister Angi.",
+        "pt": "Angel Fire, cujo nome real é Angioly Tejeda Romero, nasceu em 18 de dezembro de 2001 na República Dominicana. Foi um dos primeiros influenciadores dominicanos a jogar Free Fire quando o jogo foi lançado, tornando-se conhecido por seus vídeos de gameplay, desafios contra outros criadores e conteúdo ao lado de sua irmã Angi.",
+        "fr": "Angel Fire, de son vrai nom Angioly Tejeda Romero, est né le 18 décembre 2001 en République dominicaine. Il fut l'un des premiers influenceurs dominicains à jouer à Free Fire dès son lancement, se faisant connaître pour ses vidéos de gameplay, ses défis contre d'autres créateurs et son contenu avec sa sœur Angi.",
+        "de": "Angel Fire, mit bürgerlichem Namen Angioly Tejeda Romero, wurde am 18. Dezember 2001 in der Dominikanischen Republik geboren. Er war einer der ersten dominikanischen Influencer, die Free Fire nach dessen Veröffentlichung spielten, und wurde bekannt für seine Gameplay-Videos, Challenges gegen andere Creator sowie Inhalte mit seiner Schwester Angi.",
+        "ru": "Настоящее имя Angel Fire — Анхиоли Техеда Ромеро (Angioly Tejeda Romero), он родился 18 декабря 2001 года в Доминиканской Республике. Он был одним из первых доминиканских инфлюенсеров, начавших играть в Free Fire сразу после её выхода, и прославился своими видео с геймплеем, челленджами против других авторов и контентом вместе со своей сестрой Анхи.",
+        "ar": "أنجل فاير، واسمه الحقيقي أنخيولي تيخيدا روميرو، وُلد في 18 ديسمبر 2001 في جمهورية الدومينيكان. كان من أوائل المؤثرين الدومينيكانيين الذين لعبوا فري فاير عند إطلاقها، واشتهر بمقاطع اللعب والتحديات ضد صناع محتوى آخرين والمحتوى مع شقيقته أنجي.",
+        "hi": "एंजल फायर, जिनका असली नाम अंखियोली तेहेदा रोमेरो है, का जन्म 18 दिसंबर 2001 को डोमिनिकन गणराज्य में हुआ था। वे फ्री फायर लॉन्च होने पर इसे खेलने वाले पहले डोमिनिकन इन्फ्लुएंसर्स में से एक थे, और अपने गेमप्ले वीडियो, अन्य क्रिएटर्स के खिलाफ चुनौतियों और अपनी बहन एंजी के साथ कंटेंट के लिए जाने जाते हैं।",
+        "zh": "Angel Fire，真名安希奥利·特赫达·罗梅罗（Angioly Tejeda Romero），于2001年12月18日出生在多米尼加共和国。他是Free Fire游戏上线时最早开始玩这款游戏的多米尼加网红之一，因游戏实况视频、与其他创作者的对战挑战以及和妹妹安吉（Angi）合作的内容而闻名。",
+        "ja": "エンジェル・ファイア（本名アンヒオリ・テヘダ・ロメロ、Angioly Tejeda Romero）は2001年12月18日にドミニカ共和国で生まれた。フリーファイアがリリースされた当初からプレイした最初期のドミニカ人インフルエンサーの一人で、ゲームプレイ動画や他のクリエイターとの対戦企画、妹アンヒとのコンテンツで知られるようになった。"
+      },
+      "handles": {
+        "youtube": "UCcmvMUDNim6H-aEZiKLG1Pg",
+        "tiktok": "angel_fireyt",
+        "instagram": "angelfireyt",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 9100000
+        }
+      }
+    },
+    {
+      "id": "waderlinff",
+      "name": "WADERLINFF",
+      "country": "DO",
+      "topic": {
+        "es": "Sketches cómicos, lip-sync y videos de reacción virales",
+        "en": "Comedy sketches, lip-sync and viral reaction videos",
+        "pt": "Esquetes cômicos, lip-sync e vídeos de reação virais",
+        "fr": "Sketches comiques, playback et vidéos de réaction virales",
+        "de": "Komödiensketche, Lip-Sync und virale Reaction-Videos",
+        "ru": "Комедийные скетчи, губная синхронизация и вирусные видео-реакции",
+        "ar": "سكتشات كوميدية، مقاطع مزامنة الشفاه وفيديوهات ردود الفعل المنتشرة",
+        "hi": "हास्य स्केच, लिप-सिंक और वायरल रिएक्शन वीडियो",
+        "zh": "喜剧短剧、对口型视频和病毒式反应视频",
+        "ja": "コメディスケッチ、リップシンク、バイラルなリアクション動画"
+      },
+      "about": {
+        "es": "WADERLINFF es un creador de contenido dominicano que lanzó su canal de YouTube en 2018 y vive junto a su familia en República Dominicana. Es conocido por sus sketches cómicos cortos, videos de lip-sync y contenido de reacciones, alcanzando más de 10 millones de suscriptores; uno de sus videos superó los 107 millones de vistas.",
+        "en": "WADERLINFF is a Dominican content creator who launched his YouTube channel in 2018 and lives with his family in the Dominican Republic. He is known for his short comedy sketches, lip-sync videos, and reaction content, reaching over 10 million subscribers; one of his videos surpassed 107 million views.",
+        "pt": "WADERLINFF é um criador de conteúdo dominicano que lançou seu canal no YouTube em 2018 e vive com sua família na República Dominicana. É conhecido por seus esquetes cômicos curtos, vídeos de lip-sync e conteúdo de reação, alcançando mais de 10 milhões de inscritos; um de seus vídeos ultrapassou 107 milhões de visualizações.",
+        "fr": "WADERLINFF est un créateur de contenu dominicain qui a lancé sa chaîne YouTube en 2018 et vit avec sa famille en République dominicaine. Il est connu pour ses courts sketches comiques, ses vidéos de playback et son contenu de réaction, atteignant plus de 10 millions d'abonnés ; l'une de ses vidéos a dépassé 107 millions de vues.",
+        "de": "WADERLINFF ist ein dominikanischer Content-Creator, der seinen YouTube-Kanal 2018 startete und mit seiner Familie in der Dominikanischen Republik lebt. Er ist bekannt für kurze Komödiensketche, Lip-Sync-Videos und Reaction-Content und erreichte über 10 Millionen Abonnenten; eines seiner Videos übersprang 107 Millionen Aufrufe.",
+        "ru": "WADERLINFF — доминиканский создатель контента, запустивший свой канал на YouTube в 2018 году; он живёт со своей семьёй в Доминиканской Республике. Известен короткими комедийными скетчами, видео с губной синхронизацией и реакциями, набрав более 10 миллионов подписчиков; одно из его видео превысило 107 миллионов просмотров.",
+        "ar": "WADERLINFF صانع محتوى دومينيكاني أطلق قناته على يوتيوب عام 2018 ويعيش مع عائلته في جمهورية الدومينيكان. يشتهر بسكتشاته الكوميدية القصيرة ومقاطع مزامنة الشفاه ومحتوى ردود الفعل، حيث تجاوز 10 ملايين مشترك؛ وتجاوز أحد فيديوهاته 107 ملايين مشاهدة.",
+        "hi": "WADERLINFF एक डोमिनिकन कंटेंट क्रिएटर हैं जिन्होंने 2018 में अपना यूट्यूब चैनल शुरू किया और अपने परिवार के साथ डोमिनिकन गणराज्य में रहते हैं। वे अपने छोटे हास्य स्केच, लिप-सिंक वीडियो और रिएक्शन कंटेंट के लिए जाने जाते हैं, जिनके 1 करोड़ से अधिक सब्सक्राइबर हैं; उनके एक वीडियो को 10.7 करोड़ से अधिक बार देखा गया।",
+        "zh": "WADERLINFF是一位多米尼加内容创作者，于2018年开设了他的YouTube频道，与家人一起生活在多米尼加共和国。他以简短的喜剧短剧、对口型视频和反应内容而闻名，订阅人数超过1000万；他的一段视频观看次数超过1.07亿次。",
+        "ja": "WADERLINFFは2018年にYouTubeチャンネルを開設したドミニカ共和国のコンテンツクリエイターで、家族とともにドミニカ共和国で暮らしている。短いコメディスケッチ、リップシンク動画、リアクションコンテンツで知られ、登録者数は1000万人を超える。彼の動画の一つは1億700万回以上再生された。"
+      },
+      "handles": {
+        "youtube": "UCECQp939Du9QkwPUffBeLUQ",
+        "tiktok": "waderlinff_",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 11100000
+        }
+      }
+    },
+    {
+      "id": "fredy-rodriguez-la-bicha-catracha",
+      "name": "Fredy Rodríguez (La Bicha Catracha)",
+      "country": "HN",
+      "topic": {
+        "es": "Humor y comedia",
+        "en": "Comedy and humor",
+        "pt": "Humor e comédia",
+        "fr": "Humour et comédie",
+        "de": "Humor und Comedy",
+        "ru": "Юмор и комедия",
+        "ar": "الفكاهة والكوميديا",
+        "hi": "हास्य और कॉमेडी",
+        "zh": "幽默喜剧",
+        "ja": "ユーモア・コメディ"
+      },
+      "about": {
+        "es": "Fredy Rodríguez, conocido como 'La Bicha Catracha', es originario de San Marcos de Colón, Choluteca, Honduras. Comenzó a crear contenido en TikTok durante la pandemia de COVID-19 tras perder su empleo, y hoy es uno de los creadores de humor más populares de Honduras; actualmente reside en el país y estudia Ingeniería Industrial.",
+        "en": "Fredy Rodríguez, known as 'La Bicha Catracha,' is originally from San Marcos de Colón, Choluteca, Honduras. He started making TikTok content during the COVID-19 pandemic after losing his job, and today is one of Honduras's most popular comedy creators; he currently lives in the country and is studying Industrial Engineering.",
+        "pt": "Fredy Rodríguez, conhecido como 'La Bicha Catracha', é originário de San Marcos de Colón, Choluteca, Honduras. Ele começou a criar conteúdo no TikTok durante a pandemia de COVID-19 após perder o emprego, e hoje é um dos criadores de humor mais populares de Honduras; atualmente mora no país e estuda Engenharia Industrial.",
+        "fr": "Fredy Rodríguez, connu sous le nom de 'La Bicha Catracha', est originaire de San Marcos de Colón, Choluteca, au Honduras. Il a commencé à créer du contenu sur TikTok pendant la pandémie de COVID-19 après avoir perdu son emploi, et il est aujourd'hui l'un des créateurs de contenu humoristique les plus populaires du Honduras ; il vit actuellement dans le pays et étudie le génie industriel.",
+        "de": "Fredy Rodríguez, bekannt als 'La Bicha Catracha', stammt aus San Marcos de Colón, Choluteca, Honduras. Während der COVID-19-Pandemie begann er, nachdem er seinen Job verloren hatte, TikTok-Inhalte zu erstellen, und ist heute einer der beliebtesten Comedy-Creator Honduras'; er lebt derzeit im Land und studiert Wirtschaftsingenieurwesen.",
+        "ru": "Фреди Родригес, известный как «Ла Бича Катрача», родом из Сан-Маркос-де-Колон, Чолутека, Гондурас. Он начал создавать контент в TikTok во время пандемии COVID-19 после потери работы и сегодня является одним из самых популярных юмористических блогеров Гондураса; в настоящее время живёт в стране и изучает промышленную инженерию.",
+        "ar": "فريدي رودريغيز، المعروف باسم 'لا بيتشا كاتراتشا'، ينحدر من سان ماركوس دي كولون، تشولوتيكا، هندوراس. بدأ إنشاء محتوى على تيك توك خلال جائحة كوفيد-19 بعد أن فقد وظيفته، وهو اليوم أحد أشهر صناع المحتوى الكوميدي في هندوراس؛ يعيش حاليًا في البلاد ويدرس الهندسة الصناعية.",
+        "hi": "फ्रेडी रोड्रिगेज़, जिन्हें 'ला बीचा काट्राचा' के नाम से जाना जाता है, होंडुरास के चोलुतेका प्रांत के सैन मार्कोस डे कोलोन से हैं। नौकरी खोने के बाद कोविड-19 महामारी के दौरान उन्होंने टिकटॉक पर कंटेंट बनाना शुरू किया, और आज वे होंडुरास के सबसे लोकप्रिय हास्य क्रिएटर्स में से एक हैं; वे वर्तमान में देश में रहते हैं और औद्योगिक इंजीनियरिंग की पढ़ाई कर रहे हैं।",
+        "zh": "弗雷迪·罗德里格斯(Fredy Rodríguez),艺名「La Bicha Catracha」,出生于洪都拉斯乔卢特卡省的圣马科斯-德科隆。他在新冠疫情期间失业后开始在TikTok上发布内容,如今是洪都拉斯最受欢迎的喜剧创作者之一;目前仍居住在该国,并正在攻读工业工程专业。",
+        "ja": "フレディ・ロドリゲス(愛称「ラ・ビチャ・カトラチャ」)は、ホンジュラスのチョルテカ県サン・マルコス・デ・コロン出身。新型コロナウイルスのパンデミック中に失業したことをきっかけにTikTokでの発信を始め、現在はホンジュラスで最も人気のあるコメディ系クリエイターの一人となっている。現在も同国内に在住し、工業工学を学んでいる。"
+      },
+      "handles": {
+        "youtube": "UCtf2iBoMlK7tbfaHk9kn6OQ",
+        "tiktok": null,
+        "instagram": "fredyjrodriguezz",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 106000
+        }
+      }
+    },
+    {
+      "id": "marcela-zacapa-melara-mas-de-marcela-el-armario-hn",
+      "name": "Marcela Zacapa Melara (Más de Marcela / El Armario HN)",
+      "country": "HN",
+      "topic": {
+        "es": "Diseño de interiores y decoración del hogar",
+        "en": "Interior design and home decor",
+        "pt": "Design de interiores e decoração",
+        "fr": "Décoration d'intérieur",
+        "de": "Innenarchitektur und Wohndekoration",
+        "ru": "Дизайн интерьера и декор дома",
+        "ar": "تصميم داخلي وديكور المنزل",
+        "hi": "इंटीरियर डिज़ाइन और होम डेकोर",
+        "zh": "室内设计与家居装饰",
+        "ja": "インテリアデザイン・ホームデコレーション"
+      },
+      "about": {
+        "es": "Marcela Zacapa Melara es una diseñadora de interiores hondureña con más de 30 años de experiencia. Dirige la tienda física 'El Armario HN', fundada originalmente por su madre, y creó el canal de YouTube 'Más de Marcela / El Armario HN', donde enseña decoración práctica y accesible; en 2018 YouTube le otorgó el Botón de Plata por superar los 100 mil suscriptores.",
+        "en": "Marcela Zacapa Melara is a Honduran interior designer with more than 30 years of experience. She runs the physical store 'El Armario HN,' originally founded by her mother, and created the YouTube channel 'Más de Marcela / El Armario HN,' where she teaches practical, budget-friendly home decoration; in 2018 YouTube awarded her the Silver Play Button for passing 100,000 subscribers.",
+        "pt": "Marcela Zacapa Melara é uma designer de interiores hondurenha com mais de 30 anos de experiência. Ela dirige a loja física 'El Armario HN', fundada originalmente por sua mãe, e criou o canal do YouTube 'Más de Marcela / El Armario HN', onde ensina decoração prática e acessível; em 2018 o YouTube lhe concedeu o Botão de Prata por ultrapassar 100 mil inscritos.",
+        "fr": "Marcela Zacapa Melara est une décoratrice d'intérieur hondurienne comptant plus de 30 ans d'expérience. Elle dirige le magasin physique 'El Armario HN', fondé à l'origine par sa mère, et a créé la chaîne YouTube 'Más de Marcela / El Armario HN', où elle enseigne une décoration pratique et accessible ; en 2018, YouTube lui a remis le bouton Argent pour avoir dépassé 100 000 abonnés.",
+        "de": "Marcela Zacapa Melara ist eine honduranische Innenarchitektin mit über 30 Jahren Erfahrung. Sie leitet das physische Geschäft 'El Armario HN', das ursprünglich von ihrer Mutter gegründet wurde, und schuf den YouTube-Kanal 'Más de Marcela / El Armario HN', auf dem sie praktische, budgetfreundliche Wohndekoration lehrt; 2018 erhielt sie von YouTube den Silber-Play-Button für das Überschreiten von 100.000 Abonnenten.",
+        "ru": "Марсела Сакапа Мелара — гондурасский дизайнер интерьеров с более чем 30-летним опытом. Она руководит физическим магазином «El Armario HN», основанным её матерью, и создала YouTube-канал «Más de Marcela / El Armario HN», где обучает практичному и доступному оформлению дома; в 2018 году YouTube вручил ей серебряную кнопку за превышение 100 тысяч подписчиков.",
+        "ar": "مارسيلا ثاكابا ميلارا مصممة ديكور داخلي هندوراسية تتمتع بخبرة تزيد عن 30 عامًا. تدير متجرًا فعليًا باسم 'El Armario HN'، أسسته والدتها في الأصل، وأنشأت قناة يوتيوب باسم 'Más de Marcela / El Armario HN' حيث تعلّم أساليب ديكور منزلي عملية واقتصادية؛ وفي عام 2018 منحتها يوتيوب زر الفضة لتجاوزها 100 ألف مشترك.",
+        "hi": "मार्सेला ज़ाकापा मेलारा 30 वर्षों से अधिक अनुभव रखने वाली होंडुरास की इंटीरियर डिज़ाइनर हैं। वे अपनी माँ द्वारा शुरू की गई भौतिक दुकान 'एल आर्मारियो एचएन' चलाती हैं और उन्होंने यूट्यूब चैनल 'मास दे मार्सेला / एल आर्मारियो एचएन' बनाया, जहाँ वे व्यावहारिक और किफ़ायती घर सजावट सिखाती हैं; 2018 में यूट्यूब ने 100,000 सब्सक्राइबर पार करने पर उन्हें सिल्वर प्ले बटन प्रदान किया।",
+        "zh": "玛塞拉·萨卡帕·梅拉拉是一位拥有30多年经验的洪都拉斯室内设计师。她经营着最初由母亲创立的实体店「El Armario HN」,并创建了YouTube频道「Más de Marcela / El Armario HN」,在频道中教授实用且经济实惠的家居装饰方法;2018年,YouTube因其订阅数突破10万而授予她银色播放按钮奖。",
+        "ja": "マルセラ・サカパ・メララは30年以上のキャリアを持つホンジュラスのインテリアデザイナー。母親が創業した実店舗「エル・アルマリオHN」を運営する傍ら、YouTubeチャンネル「Más de Marcela / El Armario HN」を開設し、実用的で予算に優しい部屋作りを紹介している。2018年にはチャンネル登録者10万人突破を記念してYouTubeからシルバープレイボタンを授与された。"
+      },
+      "handles": {
+        "youtube": "UCX3-REbTMAPVOTDAxcXihRA",
+        "tiktok": null,
+        "instagram": "masdemarcela",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 527000
+        }
+      }
+    },
+    {
+      "id": "supremo-soy-supremo",
+      "name": "Supremo (Soy Supremo)",
+      "country": "HN",
+      "topic": {
+        "es": "Streaming, humor y cultura hondureña",
+        "en": "Streaming, comedy and Honduran culture",
+        "pt": "Streaming, humor e cultura hondurenha",
+        "fr": "Streaming, humour et culture hondurienne",
+        "de": "Streaming, Comedy und honduranische Kultur",
+        "ru": "Стриминг, юмор и гондурасская культура",
+        "ar": "البث المباشر والكوميديا والثقافة الهندوراسية",
+        "hi": "स्ट्रीमिंग, हास्य और होंडुरास की संस्कृति",
+        "zh": "直播、幽默与洪都拉斯文化",
+        "ja": "配信・コメディ・ホンジュラス文化"
+      },
+      "about": {
+        "es": "Conocido como 'Supremo' o 'El Príncipe de Honduras', es streamer y creador de contenido hondureño con más de 3,3 millones de suscriptores en YouTube. Comenzó su carrera en TikTok y hoy transmite en vivo mientras recorre distintas ciudades y pueblos de Honduras. Ha contado públicamente que, de niño, su madre vendía ropa para poder llevar comida a casa, y dice que esa historia lo motiva a ayudar a otras personas.",
+        "en": "Known as 'Supremo' or 'El Príncipe de Honduras' (the Prince of Honduras), he is a Honduran streamer and content creator with more than 3.3 million YouTube subscribers. He started his career on TikTok and now live-streams while traveling through different cities and towns across Honduras. He has publicly shared that, as a child, his mother sold clothes to put food on the table, and says that story motivates him to help others.",
+        "pt": "Conhecido como 'Supremo' ou 'El Príncipe de Honduras' (o Príncipe de Honduras), é um streamer e criador de conteúdo hondurenho com mais de 3,3 milhões de inscritos no YouTube. Começou sua carreira no TikTok e hoje transmite ao vivo enquanto percorre diferentes cidades e povoados de Honduras. Ele já contou publicamente que, quando criança, sua mãe vendia roupas para conseguir levar comida para casa, e diz que essa história o motiva a ajudar outras pessoas.",
+        "fr": "Connu sous le nom de 'Supremo' ou 'El Príncipe de Honduras' (le Prince du Honduras), c'est un streamer et créateur de contenu hondurien comptant plus de 3,3 millions d'abonnés YouTube. Il a commencé sa carrière sur TikTok et diffuse aujourd'hui en direct en parcourant différentes villes et villages du Honduras. Il a raconté publiquement que, enfant, sa mère vendait des vêtements pour pouvoir nourrir la famille, une histoire qui, dit-il, le motive à aider les autres.",
+        "de": "Bekannt als 'Supremo' oder 'El Príncipe de Honduras' (der Prinz von Honduras), ist er ein honduranischer Streamer und Content-Creator mit über 3,3 Millionen YouTube-Abonnenten. Er begann seine Karriere auf TikTok und streamt heute live, während er verschiedene Städte und Dörfer in Honduras bereist. Er hat öffentlich erzählt, dass seine Mutter als Kind Kleidung verkaufte, um Essen auf den Tisch zu bringen, und sagt, diese Geschichte motiviere ihn, anderen zu helfen.",
+        "ru": "Известный как «Супремо» или «Эль Принсипе де Гондурас» (Принц Гондураса), он гондурасский стример и создатель контента с более чем 3,3 миллионами подписчиков на YouTube. Он начал карьеру в TikTok, а сейчас ведёт прямые трансляции, путешествуя по разным городам и посёлкам Гондураса. Он публично рассказывал, что в детстве его мать продавала одежду, чтобы прокормить семью, и говорит, что эта история мотивирует его помогать другим.",
+        "ar": "المعروف باسم 'سوبريمو' أو 'أمير هندوراس'، هو مذيع بث مباشر وصانع محتوى هندوراسي يمتلك أكثر من 3.3 مليون مشترك على يوتيوب. بدأ مسيرته على تيك توك، ويقوم اليوم ببث مباشر أثناء تجواله في مختلف مدن وبلدات هندوراس. روى علنًا أن والدته كانت تبيع الملابس في طفولته لتوفير الطعام للمنزل، ويقول إن هذه القصة تحفزه على مساعدة الآخرين.",
+        "hi": "'सुप्रीमो' या 'एल प्रिंसिपे डे होंडुरास' (होंडुरास का राजकुमार) के नाम से मशहूर, यह होंडुरास के स्ट्रीमर और कंटेंट क्रिएटर हैं जिनके यूट्यूब पर 33 लाख से अधिक सब्सक्राइबर हैं। उन्होंने अपना करियर टिकटॉक से शुरू किया और अब होंडुरास के विभिन्न शहरों और कस्बों में घूमते हुए लाइव स्ट्रीम करते हैं। उन्होंने सार्वजनिक रूप से बताया है कि बचपन में उनकी माँ घर में खाना ला पाने के लिए कपड़े बेचती थीं, और यही कहानी उन्हें दूसरों की मदद करने के लिए प्रेरित करती है।",
+        "zh": "他以「Supremo」或「洪都拉斯王子」(El Príncipe de Honduras)之名而闻名,是一位拥有超过330万YouTube订阅者的洪都拉斯主播和内容创作者。他的事业始于TikTok,如今经常一边在洪都拉斯各城镇旅行一边进行直播。他曾公开讲述,小时候母亲靠卖衣服维持家里的温饱,他说这段经历激励着他去帮助他人。",
+        "ja": "「Supremo(スプレモ)」または「エル・プリンシペ・デ・ホンジュラス(ホンジュラスの王子)」として知られるホンジュラスの配信者・クリエイターで、YouTube登録者は330万人を超える。TikTokでキャリアをスタートし、現在はホンジュラス国内の様々な町や村を訪れながらライブ配信を行っている。幼少期に母親が生活のために服を売っていたというエピソードを公に語っており、その経験が人を助ける原動力になっていると述べている。"
+      },
+      "handles": {
+        "youtube": "UCfy7Ubh9Ciy82CKxgyYtxIA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 3330000
+        }
+      }
+    },
+    {
+      "id": "joel-seoane-de-viaje-con-seoane",
+      "name": "Joel Seoane (De Viaje con Seoane)",
+      "country": "HN",
+      "topic": {
+        "es": "Viajes y turismo por Honduras",
+        "en": "Travel and tourism across Honduras",
+        "pt": "Viagens e turismo por Honduras",
+        "fr": "Voyages et tourisme au Honduras",
+        "de": "Reisen und Tourismus in Honduras",
+        "ru": "Путешествия и туризм по Гондурасу",
+        "ar": "السفر والسياحة في هندوراس",
+        "hi": "होंडुरास में यात्रा और पर्यटन",
+        "zh": "洪都拉斯旅行与观光",
+        "ja": "ホンジュラス国内旅行・観光"
+      },
+      "about": {
+        "es": "Joel Seoane es un hondureño que trabajaba como maestro de matemáticas antes de comenzar, en 2017, a grabar sus viajes. Hoy dirige el canal de YouTube 'De Viaje con Seoane', enfocado en recorrer distintas regiones de Honduras —incluidas comunidades indígenas como los tolupanes— mostrando su cultura y geografía, y ocasionalmente viaja a otros países de la región.",
+        "en": "Joel Seoane is a Honduran who worked as a math teacher before starting to film his trips in 2017. He now runs the YouTube channel 'De Viaje con Seoane,' focused on touring different regions of Honduras — including indigenous communities such as the Tolupán people — to showcase their culture and geography, and occasionally travels to other countries in the region.",
+        "pt": "Joel Seoane é um hondurenho que trabalhava como professor de matemática antes de começar, em 2017, a filmar suas viagens. Hoje ele dirige o canal do YouTube 'De Viaje con Seoane', focado em percorrer diferentes regiões de Honduras — incluindo comunidades indígenas como os tolupanes — mostrando sua cultura e geografia, e ocasionalmente viaja a outros países da região.",
+        "fr": "Joel Seoane est un Hondurien qui travaillait comme professeur de mathématiques avant de commencer, en 2017, à filmer ses voyages. Il dirige aujourd'hui la chaîne YouTube 'De Viaje con Seoane', consacrée à la découverte de différentes régions du Honduras — y compris des communautés indigènes comme les Tolupán — pour en montrer la culture et la géographie, et voyage occasionnellement dans d'autres pays de la région.",
+        "de": "Joel Seoane ist ein Honduraner, der als Mathematiklehrer arbeitete, bevor er 2017 begann, seine Reisen zu filmen. Heute betreibt er den YouTube-Kanal 'De Viaje con Seoane', der sich darauf konzentriert, verschiedene Regionen Honduras' zu bereisen – einschließlich indigener Gemeinschaften wie der Tolupán – und deren Kultur und Geografie zu zeigen; gelegentlich reist er auch in andere Länder der Region.",
+        "ru": "Хоэль Сеоане — гондурасец, который работал учителем математики, прежде чем в 2017 году начал снимать свои путешествия. Сегодня он ведёт YouTube-канал «De Viaje con Seoane», посвящённый путешествиям по разным регионам Гондураса, включая коренные общины, такие как тольупаны, показывая их культуру и географию, а также иногда путешествует в другие страны региона.",
+        "ar": "خويل سيوان هندوراسي كان يعمل مدرّسًا للرياضيات قبل أن يبدأ، في عام 2017، بتصوير رحلاته. يدير اليوم قناة يوتيوب باسم 'De Viaje con Seoane' التي تركز على التجول في مناطق مختلفة من هندوراس — بما في ذلك مجتمعات السكان الأصليين مثل شعب التولوبان — لعرض ثقافتها وجغرافيتها، ويسافر أحيانًا إلى دول أخرى في المنطقة.",
+        "hi": "जोएल सेओआने एक होंडुरासवासी हैं जो 2017 में अपनी यात्राओं को फिल्माना शुरू करने से पहले गणित के शिक्षक के रूप में काम करते थे। अब वे यूट्यूब चैनल 'दे व्याहे कोन सेओआने' चलाते हैं, जो होंडुरास के विभिन्न क्षेत्रों — जिसमें तोलुपान जैसे स्वदेशी समुदाय शामिल हैं — की संस्कृति और भूगोल दिखाने पर केंद्रित है, और कभी-कभी क्षेत्र के अन्य देशों की यात्रा भी करते हैं।",
+        "zh": "乔尔·塞奥阿内是一名洪都拉斯人,曾担任数学教师,2017年开始拍摄自己的旅行视频。如今他运营YouTube频道「De Viaje con Seoane」,专注于探访洪都拉斯各地区——包括托卢潘(Tolupán)等原住民社区——展现当地文化与地理风貌,偶尔也会前往该地区其他国家旅行。",
+        "ja": "ホエル・セオアネはホンジュラス出身で、2017年に旅の記録を撮り始める前は数学教師をしていた。現在はYouTubeチャンネル「De Viaje con Seoane」を運営し、トルパン族などの先住民コミュニティを含むホンジュラス各地を訪れ、その文化や地理を紹介している。時折、周辺国へも足を延ばしている。"
+      },
+      "handles": {
+        "youtube": "UCXJUko8YVNL0MxmK3YGraQw",
+        "tiktok": "deviajeconseoane",
+        "instagram": "deviajeconseoane",
+        "facebook": "JoelSeoaneYT",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 303000
+        }
+      }
+    },
+    {
+      "id": "kevin-mendoza-hn",
+      "name": "Kevin Mendoza HN",
+      "country": "HN",
+      "topic": {
+        "es": "Viajes, vlogs y motociclismo",
+        "en": "Travel, vlogs and motorcycling",
+        "pt": "Viagens, vlogs e motociclismo",
+        "fr": "Voyages, vlogs et moto",
+        "de": "Reisen, Vlogs und Motorradfahren",
+        "ru": "Путешествия, влоги и мотоциклы",
+        "ar": "السفر والفلوجات وركوب الدراجات النارية",
+        "hi": "यात्रा, व्लॉग और मोटरसाइकिलिंग",
+        "zh": "旅行、视频博客与摩托旅行",
+        "ja": "旅行・Vlog・バイクツーリング"
+      },
+      "about": {
+        "es": "Kevin Mendoza es un creador de contenido hondureño que publica cada sábado en su canal de YouTube 'Kevin Mendoza HN', dedicado a viajes, vlogs y motociclismo. Sus videos muestran recorridos en moto por distintos departamentos de Honduras, como Santa Bárbara y Yoro, combinando aventura y promoción del turismo local.",
+        "en": "Kevin Mendoza is a Honduran content creator who posts every Saturday on his YouTube channel 'Kevin Mendoza HN,' dedicated to travel, vlogs and motorcycling. His videos show motorcycle trips through different departments of Honduras, such as Santa Bárbara and Yoro, combining adventure with local tourism promotion.",
+        "pt": "Kevin Mendoza é um criador de conteúdo hondurenho que publica todos os sábados em seu canal do YouTube 'Kevin Mendoza HN', dedicado a viagens, vlogs e motociclismo. Seus vídeos mostram passeios de moto por diferentes departamentos de Honduras, como Santa Bárbara e Yoro, combinando aventura com a promoção do turismo local.",
+        "fr": "Kevin Mendoza est un créateur de contenu hondurien qui publie chaque samedi sur sa chaîne YouTube 'Kevin Mendoza HN', consacrée aux voyages, aux vlogs et à la moto. Ses vidéos montrent des balades à moto à travers différents départements du Honduras, comme Santa Bárbara et Yoro, mêlant aventure et promotion du tourisme local.",
+        "de": "Kevin Mendoza ist ein honduranischer Content-Creator, der jeden Samstag auf seinem YouTube-Kanal 'Kevin Mendoza HN' Inhalte zu Reisen, Vlogs und Motorradfahren veröffentlicht. Seine Videos zeigen Motorradtouren durch verschiedene Departements von Honduras wie Santa Bárbara und Yoro und verbinden Abenteuer mit der Förderung des lokalen Tourismus.",
+        "ru": "Кевин Мендоса — гондурасский создатель контента, который каждую субботу публикует видео на своём YouTube-канале «Kevin Mendoza HN», посвящённом путешествиям, влогам и мотоциклам. В его видео показаны мотопоездки по разным департаментам Гондураса, таким как Санта-Барбара и Йоро, сочетающие приключения с продвижением местного туризма.",
+        "ar": "كيفن ميندوزا صانع محتوى هندوراسي ينشر كل سبت على قناته على يوتيوب 'Kevin Mendoza HN' المخصصة للسفر والفلوجات وركوب الدراجات النارية. تُظهر مقاطع فيديو رحلات بالدراجة النارية عبر مختلف مقاطعات هندوراس، مثل سانتا باربارا ويورو، تجمع بين المغامرة والترويج للسياحة المحلية.",
+        "hi": "केविन मेंडोज़ा होंडुरास के एक कंटेंट क्रिएटर हैं जो हर शनिवार अपने यूट्यूब चैनल 'केविन मेंडोज़ा एचएन' पर यात्रा, व्लॉग और मोटरसाइकिलिंग से जुड़ा कंटेंट पोस्ट करते हैं। उनके वीडियो में होंडुरास के विभिन्न क्षेत्रों, जैसे सांता बारबरा और योरो, में मोटरसाइकिल यात्राएं दिखाई जाती हैं, जो साहसिक अनुभव को स्थानीय पर्यटन के प्रचार के साथ जोड़ती हैं।",
+        "zh": "凯文·门多萨是一名洪都拉斯内容创作者,每周六都会在其YouTube频道「Kevin Mendoza HN」上发布内容,专注于旅行、视频博客和摩托旅行。他的视频展示了骑摩托车穿越洪都拉斯不同省份(如圣巴巴拉省和约罗省)的旅程,将冒险与当地旅游推广结合在一起。",
+        "ja": "ケビン・メンドーサはホンジュラスのコンテンツクリエイターで、毎週土曜日にYouTubeチャンネル「Kevin Mendoza HN」で旅行・Vlog・バイクツーリングに関するコンテンツを投稿している。動画では、サンタバルバラ県やヨロ県など、ホンジュラス各地をバイクで巡る様子が紹介されており、冒険と地域観光の魅力発信を組み合わせている。"
+      },
+      "handles": {
+        "youtube": "UCDl9j95Ku1rDpYGbPJS7eEA",
+        "tiktok": "kevinmendozahn",
+        "instagram": "kevinmendozahn",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 27500
+        }
+      }
+    },
+    {
+      "id": "hablando-huevadas",
+      "name": "Hablando Huevadas",
+      "country": "PE",
+      "topic": {
+        "es": "Comedia y videocast de humor",
+        "en": "Comedy and humor videocast",
+        "pt": "Comédia e videocast de humor",
+        "fr": "Comédie et vidéocast humoristique",
+        "de": "Comedy und Humor-Videocast",
+        "ru": "Комедия и юмористический видеокаст",
+        "ar": "الكوميديا وبودكاست فيديو فكاهي",
+        "hi": "कॉमेडी और हास्य वीडियोकास्ट",
+        "zh": "喜剧幽默视频播客",
+        "ja": "コメディとユーモアのビデオキャスト"
+      },
+      "about": {
+        "es": "Hablando Huevadas es un videocast de comedia creado por los comediantes limeños Jorge Luna y Ricardo Mendoza, quienes se conocieron en el circuito de stand-up de Lima y lanzaron el programa en YouTube en 2019 con un formato inspirado en el show español 'Nadie Sabe Nada'; ambos residen y se presentan regularmente en Lima, Perú, donde también llevan el show a formato de gira teatral en vivo.",
+        "en": "Hablando Huevadas is a comedy videocast created by Lima-based comedians Jorge Luna and Ricardo Mendoza, who met on Lima's stand-up comedy circuit and launched the show on YouTube in 2019 with a format inspired by the Spanish show 'Nadie Sabe Nada'; both live in and regularly perform in Lima, Peru, where the show also tours as a live theater production.",
+        "pt": "Hablando Huevadas é um videocast de comédia criado pelos comediantes limenhos Jorge Luna e Ricardo Mendoza, que se conheceram no circuito de stand-up de Lima e lançaram o programa no YouTube em 2019 com um formato inspirado no programa espanhol 'Nadie Sabe Nada'; ambos vivem e se apresentam regularmente em Lima, Peru, onde o show também faz turnês em formato teatral ao vivo.",
+        "fr": "Hablando Huevadas est un vidéocast comique créé par les humoristes limagnais Jorge Luna et Ricardo Mendoza, qui se sont rencontrés sur le circuit du stand-up de Lima et ont lancé l'émission sur YouTube en 2019 avec un format inspiré de l'émission espagnole 'Nadie Sabe Nada' ; tous deux vivent et se produisent régulièrement à Lima, au Pérou, où le spectacle est aussi présenté en tournée théâtrale.",
+        "de": "Hablando Huevadas ist ein Comedy-Videocast der Lima-Komiker Jorge Luna und Ricardo Mendoza, die sich in der Stand-up-Comedy-Szene Limas kennenlernten und die Show 2019 auf YouTube starteten, mit einem Format nach Vorbild der spanischen Sendung 'Nadie Sabe Nada'; beide leben in Lima, Peru, und treten dort regelmäßig auf, auch als Live-Theatertournee.",
+        "ru": "Hablando Huevadas — юмористический видеокаст лимских комиков Хорхе Луны и Рикардо Мендосы, познакомившихся на сцене стендап-комедии Лимы и запустивших шоу на YouTube в 2019 году в формате, вдохновлённом испанским шоу 'Nadie Sabe Nada'; оба живут в Лиме, Перу, и регулярно выступают там же, включая живые театральные туры.",
+        "ar": "هابلاندو هويبادس هو بودكاست فيديو كوميدي أنشأه الكوميديان من ليما خورخي لونا وريكاردو ميندوزا، اللذان تعارفا في مشهد الستاند أب الكوميدي في ليما وأطلقا البرنامج على يوتيوب عام 2019 بصيغة مستوحاة من البرنامج الإسباني 'Nadie Sabe Nada'؛ يعيش الاثنان ويقدمان عروضهما بانتظام في ليما، بيرو، حيث يقدَّم العرض أيضًا كجولة مسرحية حية.",
+        "hi": "हबलांदो हुएवादास एक हास्य वीडियोकास्ट है जिसे लीमा के कॉमेडियन जॉर्ज लूना और रिकार्डो मेंडोज़ा ने बनाया, जो लीमा के स्टैंड-अप कॉमेडी सर्किट में मिले थे और जिन्होंने 2019 में स्पेनिश शो 'Nadie Sabe Nada' से प्रेरित प्रारूप में यूट्यूब पर यह शो शुरू किया; दोनों लीमा, पेरू में रहते हैं और वहीं नियमित रूप से प्रस्तुति देते हैं, जहां यह शो लाइव थिएटर टूर के रूप में भी चलता है।",
+        "zh": "Hablando Huevadas 是由利马喜剧演员豪尔赫·卢纳和里卡多·门多萨创作的喜剧视频播客,两人在利马的单口喜剧圈相识,并于2019年以受西班牙节目《Nadie Sabe Nada》启发的形式在YouTube上推出该节目;两人目前均居住在秘鲁利马并经常在当地演出,该节目也以现场剧场巡演的形式呈现。",
+        "ja": "「Hablando Huevadas」は、リマ出身のコメディアン、ホルヘ・ルナとリカルド・メンドサが手がけるコメディー・ビデオキャストで、二人はリマのスタンダップコメディの舞台で出会い、スペインの番組「Nadie Sabe Nada」に着想を得た形式で2019年にYouTubeで番組を開始した。二人ともペルーのリマに在住し定期的に出演しており、同番組は舞台公演としても全国を巡演している。"
+      },
+      "handles": {
+        "youtube": "UCba1vMvOHWlMddLARS382Zw",
+        "tiktok": "hablandohuevadas.pe",
+        "instagram": "hablandohuevadas_pe",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 7330000
+        }
+      }
+    },
+    {
+      "id": "phillip-chu-joy",
+      "name": "Phillip Chu Joy",
+      "country": "PE",
+      "topic": {
+        "es": "Tecnología, videojuegos y sorteos",
+        "en": "Technology, gaming and giveaways",
+        "pt": "Tecnologia, games e sorteios",
+        "fr": "Technologie, jeux vidéo et cadeaux",
+        "de": "Technik, Gaming und Gewinnspiele",
+        "ru": "Технологии, игры и розыгрыши призов",
+        "ar": "التقنية والألعاب والمسابقات",
+        "hi": "टेक्नोलॉजी, गेमिंग और गिवअवे",
+        "zh": "科技、游戏与抽奖赠品",
+        "ja": "テクノロジー、ゲーム、プレゼント企画"
+      },
+      "about": {
+        "es": "Phillip Chu Joy nació en Estados Unidos de ascendencia chino-francesa, vivió su primer año en EE.UU., luego en Francia, y desde los seis años reside en Perú; comenzó escribiendo reseñas en el blog ByteGadget de Arturo Goga y luego trabajó como community manager en el programa de TV 'TEC' antes de crear su propio canal de YouTube sobre tecnología y videojuegos, conocido por sortear desde un palito de selfie hasta autos y departamentos financiados con sus ingresos de suscripciones.",
+        "en": "Phillip Chu Joy was born in the United States of Chinese-French descent, spent his first year in the U.S., then lived in France, and has resided in Peru since age six; he started out writing reviews for Arturo Goga's ByteGadget blog and later worked as a community manager on the TV show 'TEC' before creating his own YouTube channel about technology and video games, known for giveaways ranging from a selfie stick to cars and apartments funded by his subscription income.",
+        "pt": "Phillip Chu Joy nasceu nos Estados Unidos, de ascendência sino-francesa, passou seu primeiro ano nos EUA, depois viveu na França, e reside no Peru desde os seis anos de idade; começou escrevendo resenhas no blog ByteGadget de Arturo Goga e depois trabalhou como community manager no programa de TV 'TEC' antes de criar seu próprio canal do YouTube sobre tecnologia e videogames, conhecido por sortear desde um bastão de selfie até carros e apartamentos financiados com sua renda de assinaturas.",
+        "fr": "Phillip Chu Joy est né aux États-Unis, d'ascendance sino-française ; il a passé sa première année aux États-Unis, puis a vécu en France, et réside au Pérou depuis l'âge de six ans ; il a débuté en rédigeant des critiques pour le blog ByteGadget d'Arturo Goga, puis a travaillé comme community manager pour l'émission télévisée 'TEC' avant de créer sa propre chaîne YouTube consacrée à la technologie et aux jeux vidéo, connu pour ses tirages au sort allant d'une perche à selfie à des voitures et des appartements, financés par ses revenus d'abonnements.",
+        "de": "Phillip Chu Joy wurde in den USA als Nachkomme chinesisch-französischer Eltern geboren, verbrachte sein erstes Lebensjahr in den USA, lebte danach in Frankreich und wohnt seit seinem sechsten Lebensjahr in Peru; er begann mit Rezensionen für Arturo Gogas Blog ByteGadget und arbeitete später als Community-Manager bei der TV-Sendung 'TEC', bevor er seinen eigenen YouTube-Kanal zu Technik und Videospielen gründete, bekannt für Verlosungen von einem Selfie-Stick bis hin zu Autos und Wohnungen, finanziert aus seinen Abo-Einnahmen.",
+        "ru": "Филлип Чу Джой родился в США в семье с китайско-французскими корнями, первый год жизни провёл в США, затем жил во Франции, а с шести лет проживает в Перу; начинал с написания обзоров для блога ByteGadget Артуро Гоги, затем работал комьюнити-менеджером на телепередаче 'TEC', прежде чем создать собственный YouTube-канал о технологиях и видеоиграх, известный розыгрышами — от селфи-палки до автомобилей и квартир, финансируемых за счёт доходов от подписок.",
+        "ar": "وُلد فيليب تشو جوي في الولايات المتحدة من أصل صيني-فرنسي، وأمضى عامه الأول في أمريكا ثم عاش في فرنسا، ويقيم في بيرو منذ سن السادسة؛ بدأ بكتابة مراجعات في مدونة ByteGadget لآرتورو غوغا، ثم عمل مديرًا لمجتمع في برنامج تلفزيوني باسم 'TEC' قبل أن ينشئ قناته الخاصة على يوتيوب حول التقنية وألعاب الفيديو، واشتهر بتنظيم مسابقات تتراوح من عصا سيلفي إلى سيارات وشقق ممولة من عائدات اشتراكاته.",
+        "hi": "फिलिप चू जॉय का जन्म अमेरिका में चीनी-फ्रांसीसी वंश में हुआ, उन्होंने अपना पहला वर्ष अमेरिका में बिताया, फिर फ्रांस में रहे, और छह वर्ष की उम्र से पेरू में रह रहे हैं; उन्होंने आर्तुरो गोगा के ब्लॉग ByteGadget के लिए समीक्षाएं लिखना शुरू किया, फिर टीवी शो 'TEC' में कम्युनिटी मैनेजर के रूप में काम किया, इसके बाद टेक्नोलॉजी और वीडियो गेम्स पर अपना यूट्यूब चैनल बनाया, जो सेल्फी स्टिक से लेकर कारों और अपार्टमेंट्स तक के गिवअवे के लिए जाना जाता है, जिन्हें वे अपनी सदस्यता आय से वित्तपोषित करते हैं।",
+        "zh": "菲利普·朱·乔伊出生于美国,拥有中法混血血统,人生第一年在美国度过,随后在法国生活,自六岁起定居秘鲁;他最初在阿图罗·戈加的博客ByteGadget撰写评测文章,后来在电视节目《TEC》担任社区经理,之后创办了自己的YouTube频道,专注科技与电子游戏内容,以举办从自拍杆到汽车、公寓等大型抽奖活动而闻名,资金来自其订阅收入。",
+        "ja": "フィリップ・チュー・ジョイはアメリカで中国系フランス人の血を引いて生まれ、生後1年をアメリカで、その後フランスで過ごし、6歳からペルーに在住している。アルトゥーロ・ゴガのブログ「ByteGadget」でレビュー執筆を始め、その後テレビ番組「TEC」でコミュニティマネージャーを務めた後、自身のYouTubeチャンネルを開設してテクノロジーとゲームを扱い、自撮り棒から車や住宅に至るまでの懸賞企画を購読収入で賄うことで知られている。"
+      },
+      "handles": {
+        "youtube": "UCym16Z6ocsTe85tz91eyI4w",
+        "tiktok": "pchujoy",
+        "instagram": "pchujoy",
+        "facebook": "PhillipChuJoy",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 300000
+        }
+      }
+    },
+    {
+      "id": "waldir-maqque",
+      "name": "Waldir Maqque",
+      "country": "PE",
+      "topic": {
+        "es": "Cocina andina y cultura cusqueña",
+        "en": "Andean cooking and Cusco culture",
+        "pt": "Culinária andina e cultura cusquenha",
+        "fr": "Cuisine andine et culture de Cusco",
+        "de": "Andine Küche und Kultur aus Cusco",
+        "ru": "Андская кухня и культура Куско",
+        "ar": "المطبخ الأندي وثقافة كوسكو",
+        "hi": "एंडियन खाना पकाना और कुस्को संस्कृति",
+        "zh": "安第斯美食与库斯科文化",
+        "ja": "アンデス料理とクスコの文化"
+      },
+      "about": {
+        "es": "Waldir Maqque es un cocinero cusqueño, el mayor de cinco hermanos, que aprendió a cocinar observando a su abuela y su madre en Viacha, una comunidad rural de Cusco; mientras estudiaba gastronomía y trabajaba lavando platos en un restaurante local, empezó durante la pandemia a compartir en redes videos donde cocina platos andinos a leña y sin electrodomésticos, con ingredientes de su propia chacra, y hoy reside en Viacha, donde además abrió su restaurante y hospedaje temático '¡Qué Rikito Está!'.",
+        "en": "Waldir Maqque is a chef from Cusco, the eldest of five siblings, who learned to cook by watching his grandmother and mother in Viacha, a rural community in Cusco; while studying gastronomy and washing dishes at a local restaurant, he began during the pandemic to share videos cooking Andean dishes over firewood without appliances, using ingredients from his own plot of land, and today he lives in Viacha, where he also opened his themed restaurant and lodge '¡Qué Rikito Está!'.",
+        "pt": "Waldir Maqque é um cozinheiro cusquenho, o mais velho de cinco irmãos, que aprendeu a cozinhar observando sua avó e sua mãe em Viacha, uma comunidade rural de Cusco; enquanto estudava gastronomia e trabalhava lavando pratos em um restaurante local, começou durante a pandemia a compartilhar vídeos cozinhando pratos andinos à lenha e sem eletrodomésticos, com ingredientes de sua própria horta, e hoje reside em Viacha, onde também abriu seu restaurante e hospedagem temática '¡Qué Rikito Está!'.",
+        "fr": "Waldir Maqque est un cuisinier originaire de Cusco, l'aîné de cinq frères et sœurs, qui a appris à cuisiner en observant sa grand-mère et sa mère à Viacha, une communauté rurale de Cusco ; alors qu'il étudiait la gastronomie et faisait la plonge dans un restaurant local, il a commencé pendant la pandémie à partager des vidéos où il cuisine des plats andins au feu de bois sans appareils électriques, avec des ingrédients de sa propre parcelle, et vit aujourd'hui à Viacha, où il a également ouvert son restaurant et hébergement thématique '¡Qué Rikito Está!'.",
+        "de": "Waldir Maqque ist ein Koch aus Cusco, der älteste von fünf Geschwistern, der das Kochen von seiner Großmutter und Mutter in Viacha, einer ländlichen Gemeinde in Cusco, gelernt hat; während er Gastronomie studierte und in einem lokalen Restaurant Geschirr spülte, begann er während der Pandemie, Videos zu teilen, in denen er andine Gerichte über offenem Feuer ohne Elektrogeräte kocht, mit Zutaten von seinem eigenen Feld, und lebt heute in Viacha, wo er auch sein thematisches Restaurant und Gästehaus '¡Qué Rikito Está!' eröffnet hat.",
+        "ru": "Вальдир Макке — повар из Куско, старший из пяти братьев и сестёр, который научился готовить, наблюдая за бабушкой и матерью в Виаче, сельской общине региона Куско; во время учёбы на гастронома и работы посудомойщиком в местном ресторане он во время пандемии начал выкладывать видео, где готовит андские блюда на дровах без бытовой техники, используя продукты со своего участка, и сегодня живёт в Виаче, где также открыл тематический ресторан и гостевой дом '¡Qué Rikito Está!'.",
+        "ar": "والدير ماكي طاهٍ من كوسكو، أكبر خمسة أشقاء، تعلم الطهي من خلال مراقبة جدته ووالدته في فياتشا، وهي مجتمع ريفي في كوسكو؛ وبينما كان يدرس فنون الطهي ويعمل في غسل الأطباق في مطعم محلي، بدأ خلال الجائحة بمشاركة مقاطع فيديو يطهو فيها أطباقًا أندية على حطب النار دون أجهزة كهربائية باستخدام مكونات من أرضه الخاصة، ويقيم اليوم في فياتشا حيث افتتح أيضًا مطعمه ونزله ذا الطابع الخاص '¡Qué Rikito Está!'.",
+        "hi": "वाल्दिर मक्के कुस्को के एक रसोइया हैं, पांच भाई-बहनों में सबसे बड़े, जिन्होंने कुस्को के ग्रामीण समुदाय व्याचा में अपनी दादी और मां को देखकर खाना बनाना सीखा; गैस्ट्रोनॉमी की पढ़ाई करते हुए और एक स्थानीय रेस्तरां में बर्तन धोते हुए, उन्होंने महामारी के दौरान बिना बिजली के उपकरणों के, लकड़ी की आग पर एंडियन व्यंजन बनाते हुए वीडियो साझा करना शुरू किया, अपनी ही जमीन की सामग्री का उपयोग करते हुए, और आज वे व्याचा में रहते हैं, जहां उन्होंने अपना थीम आधारित रेस्तरां और गेस्टहाउस '¡Qué Rikito Está!' भी खोला है।",
+        "zh": "瓦尔迪尔·马克是来自库斯科的厨师,五个兄弟姐妹中的老大,他在库斯科农村社区维亚查观察祖母和母亲做饭而学会烹饪;在学习烹饪并在当地一家餐馆洗碗期间,他在疫情期间开始分享视频,用自家地里种的食材、以柴火不借助电器烹制安第斯传统菜肴,如今他居住在维亚查,并在当地开设了以此为主题的餐厅和民宿「¡Qué Rikito Está!」。",
+        "ja": "ワルディル・マッケはクスコ出身のシェフで、5人兄弟の長男。クスコの農村コミュニティ、ビアチャで祖母と母親の料理を見て腕を磨いた。ガストロノミーを学びながら地元レストランで皿洗いをしていた彼は、パンデミック中に自分の畑で採れた食材を使い、電化製品を使わず薪でアンデス料理を作る動画を発信し始めた。現在もビアチャに在住し、同地でテーマ型レストラン兼宿泊施設「¡Qué Rikito Está!」も開業している。"
+      },
+      "handles": {
+        "youtube": "UCk0_yfWVpKryN6Aue8ccQfg",
+        "tiktok": "waldir.maqque",
+        "instagram": "waldir.maqque",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 755000
+        }
+      }
+    },
+    {
+      "id": "blowek",
+      "name": "Blowek",
+      "country": "PL",
+      "topic": {
+        "es": "Retos, humor y estilo de vida",
+        "en": "Challenges, comedy and lifestyle",
+        "pt": "Desafios, humor e estilo de vida",
+        "fr": "Défis, humour et style de vie",
+        "de": "Challenges, Humor und Lifestyle",
+        "ru": "Челленджи, юмор и лайфстайл",
+        "ar": "تحديات وفكاهة وأسلوب حياة",
+        "hi": "चैलेंज, हास्य और लाइफस्टाइल",
+        "zh": "挑战、幽默与生活方式",
+        "ja": "チャレンジ、コメディ、ライフスタイル"
+      },
+      "about": {
+        "es": "Karol Grzegorz Gązwa, conocido como Blowek, nació el 17 de diciembre de 1996 en Międzyrzecz, Polonia, y actualmente vive en Varsovia. Empezó en YouTube en 2011 con el canal MinecraftBlow dedicado a Minecraft; en julio de 2023 se convirtió en el primer creador individual polaco en superar los 5 millones de suscriptores, y en 2022 lanzó su propia cadena de hamburguesas, Blow Burger.",
+        "en": "Karol Grzegorz Gązwa, known as Blowek, was born on December 17, 1996 in Międzyrzecz, Poland, and currently lives in Warsaw. He started on YouTube in 2011 with the channel MinecraftBlow focused on Minecraft; in July 2023 he became the first individual Polish creator to surpass 5 million subscribers, and in 2022 he launched his own burger chain, Blow Burger.",
+        "pt": "Karol Grzegorz Gązwa, conhecido como Blowek, nasceu em 17 de dezembro de 1996 em Międzyrzecz, na Polônia, e atualmente mora em Varsóvia. Começou no YouTube em 2011 com o canal MinecraftBlow dedicado ao Minecraft; em julho de 2023 tornou-se o primeiro criador individual polonês a ultrapassar 5 milhões de inscritos, e em 2022 lançou sua própria rede de hambúrgueres, Blow Burger.",
+        "fr": "Karol Grzegorz Gązwa, connu sous le nom de Blowek, est né le 17 décembre 1996 à Międzyrzecz, en Pologne, et vit actuellement à Varsovie. Il a débuté sur YouTube en 2011 avec la chaîne MinecraftBlow consacrée à Minecraft ; en juillet 2023, il est devenu le premier créateur individuel polonais à dépasser les 5 millions d'abonnés, et en 2022 il a lancé sa propre chaîne de hamburgers, Blow Burger.",
+        "de": "Karol Grzegorz Gązwa, bekannt als Blowek, wurde am 17. Dezember 1996 in Międzyrzecz, Polen, geboren und lebt derzeit in Warschau. Er begann 2011 bei YouTube mit dem Kanal MinecraftBlow, der sich Minecraft widmete; im Juli 2023 wurde er der erste polnische Einzelcreator mit über 5 Millionen Abonnenten, und 2022 gründete er seine eigene Burgerkette, Blow Burger.",
+        "ru": "Кароль Гжегож Гонзва, известный как Blowek, родился 17 декабря 1996 года в Мендзыжече, Польша, и сейчас живёт в Варшаве. Он начал вести YouTube в 2011 году с канала MinecraftBlow, посвящённого Minecraft; в июле 2023 года он стал первым польским блогером-одиночкой, преодолевшим отметку в 5 миллионов подписчиков, а в 2022 году запустил собственную сеть бургерных Blow Burger.",
+        "ar": "وُلد كارول غجيغوج غونزفا، المعروف باسم Blowek، في 17 ديسمبر 1996 في مينجيجيتش ببولندا، ويقيم حاليًا في وارسو. بدأ على يوتيوب عام 2011 بقناة MinecraftBlow المخصصة للعبة ماينكرافت؛ وفي يوليو 2023 أصبح أول صانع محتوى بولندي فردي يتجاوز 5 ملايين مشترك، وفي 2022 أطلق سلسلة مطاعم البرغر الخاصة به Blow Burger.",
+        "hi": "कारोल ग्जेगोज़ गोंज़्वा, जिन्हें Blowek के नाम से जाना जाता है, का जन्म 17 दिसंबर 1996 को पोलैंड के मिएंज़ीज़ेच में हुआ था और वे अभी वारसॉ में रहते हैं। उन्होंने 2011 में मिनक्राफ्ट पर केंद्रित चैनल MinecraftBlow से यूट्यूब की शुरुआत की; जुलाई 2023 में वे 50 लाख सब्सक्राइबर पार करने वाले पहले पोलिश एकल क्रिएटर बने, और 2022 में उन्होंने अपनी खुद की बर्गर चेन Blow Burger लॉन्च की।",
+        "zh": "卡罗尔·格热戈日·冈兹瓦(Karol Grzegorz Gązwa),艺名Blowek,1996年12月17日出生于波兰门杰热奇,现居华沙。他于2011年以专注于《我的世界》的频道MinecraftBlow开始经营YouTube;2023年7月,他成为首位订阅数突破500万的波兰个人创作者,并于2022年推出了自己的汉堡连锁品牌Blow Burger。",
+        "ja": "カロル・グジェゴシュ・ゴンズヴァ(通称Blowek)は1996年12月17日、ポーランドのミェンジジェチに生まれ、現在はワルシャワに住んでいる。2011年にマインクラフトに特化したチャンネルMinecraftBlowでYouTubeを開始し、2023年7月にはポーランド人個人クリエイターとして初めて登録者500万人を突破した。2022年には自身のハンバーガーチェーン「Blow Burger」を立ち上げた。"
+      },
+      "handles": {
+        "youtube": "UC-BRUJOtblqGrftY6oRcOZw",
+        "tiktok": "blowek",
+        "instagram": "blowek",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5430000
+        }
+      }
+    },
+    {
+      "id": "rezigiusz",
+      "name": "reZigiusz",
+      "country": "PL",
+      "topic": {
+        "es": "Retos, vlogs y entretenimiento",
+        "en": "Challenges, vlogs and entertainment",
+        "pt": "Desafios, vlogs e entretenimento",
+        "fr": "Défis, vlogs et divertissement",
+        "de": "Challenges, Vlogs und Unterhaltung",
+        "ru": "Челленджи, влоги и развлечения",
+        "ar": "تحديات ومدونات فيديو وترفيه",
+        "hi": "चैलेंज, व्लॉग और मनोरंजन",
+        "zh": "挑战、视频博客与娱乐",
+        "ja": "チャレンジ、ブイログ、エンターテインメント"
+      },
+      "about": {
+        "es": "Remigiusz Jakub Wierzgoń, conocido como reZigiusz, nació el 11 de septiembre de 1996 en Rybnik, Polonia, y actualmente vive en Breslavia (Wrocław). Abrió su canal en 2012, originalmente llamado reZiPlayGamesAgain, y hoy es el creador individual con más suscriptores de todo YouTube en Polonia, conocido por sus retos, vlogs y su serie 'Sabotażysta'.",
+        "en": "Remigiusz Jakub Wierzgoń, known as reZigiusz, was born on September 11, 1996 in Rybnik, Poland, and currently lives in Wrocław. He opened his channel in 2012, originally named reZiPlayGamesAgain, and today is the most-subscribed individual creator on Polish YouTube, known for his challenges, vlogs and the series 'Sabotażysta'.",
+        "pt": "Remigiusz Jakub Wierzgoń, conhecido como reZigiusz, nasceu em 11 de setembro de 1996 em Rybnik, na Polônia, e atualmente mora em Wrocław. Abriu seu canal em 2012, originalmente chamado reZiPlayGamesAgain, e hoje é o criador individual com mais inscritos de todo o YouTube polonês, conhecido por seus desafios, vlogs e a série 'Sabotażysta'.",
+        "fr": "Remigiusz Jakub Wierzgoń, connu sous le nom de reZigiusz, est né le 11 septembre 1996 à Rybnik, en Pologne, et vit actuellement à Wrocław. Il a ouvert sa chaîne en 2012, initialement nommée reZiPlayGamesAgain, et est aujourd'hui le créateur individuel le plus suivi de tout le YouTube polonais, connu pour ses défis, ses vlogs et la série 'Sabotażysta'.",
+        "de": "Remigiusz Jakub Wierzgoń, bekannt als reZigiusz, wurde am 11. September 1996 in Rybnik, Polen, geboren und lebt derzeit in Wrocław. Er eröffnete seinen Kanal 2012, ursprünglich unter dem Namen reZiPlayGamesAgain, und ist heute der meistabonnierte Einzelcreator des polnischen YouTube, bekannt für seine Challenges, Vlogs und die Serie „Sabotażysta“.",
+        "ru": "Ремигиуш Якуб Вежгонь, известный как reZigiusz, родился 11 сентября 1996 года в Рыбнике, Польша, и сейчас живёт во Вроцлаве. Он открыл свой канал в 2012 году, первоначально названный reZiPlayGamesAgain, и сегодня является самым популярным блогером-одиночкой польского YouTube, известным своими челленджами, влогами и сериалом «Sabotażysta».",
+        "ar": "وُلد ريميجيوش ياكوب فيرزغون، المعروف باسم reZigiusz، في 11 سبتمبر 1996 في ريبنيك ببولندا، ويقيم حاليًا في فروتسواف. افتتح قناته عام 2012 باسم reZiPlayGamesAgain في البداية، وهو اليوم صانع المحتوى الفردي الأكثر متابعة على يوتيوب البولندي، ويشتهر بتحدياته ومدوناته المصورة وسلسلة 'Sabotażysta'.",
+        "hi": "रेमीगियुष याकुब वियेज़्गोन, जिन्हें reZigiusz के नाम से जाना जाता है, का जन्म 11 सितंबर 1996 को पोलैंड के रिबनिक में हुआ और वे अभी व्रोत्स्वाफ में रहते हैं। उन्होंने 2012 में reZiPlayGamesAgain नाम से अपना चैनल शुरू किया, और आज वे पोलिश यूट्यूब के सबसे अधिक सब्सक्राइबर वाले एकल क्रिएटर हैं, जो अपने चैलेंज, व्लॉग और 'Sabotażysta' श्रृंखला के लिए जाने जाते हैं।",
+        "zh": "雷米吉乌什·雅库布·维日贡(通称reZigiusz)1996年9月11日出生于波兰雷布尼克,现居弗罗茨瓦夫。他于2012年以reZiPlayGamesAgain为名开设频道,如今是波兰YouTube订阅人数最多的个人创作者,以挑战视频、生活视频以及系列作品《Sabotażysta》而闻名。",
+        "ja": "レミギウシュ・ヤクブ・ヴィエジゴン(通称reZigiusz)は1996年9月11日、ポーランドのルィブニクに生まれ、現在はヴロツワフに住んでいる。2012年にreZiPlayGamesAgainという名前でチャンネルを開設し、現在はポーランドYouTubeで最も登録者数の多い個人クリエイターであり、チャレンジ動画やブイログ、シリーズ『Sabotażysta』で知られる。"
+      },
+      "handles": {
+        "youtube": "UCLLNPuvRGKxSczJcxlOiMXg",
+        "tiktok": "rezigiusz",
+        "instagram": "rezigiusz",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5460000
+        }
+      }
+    },
+    {
+      "id": "friz",
+      "name": "Friz",
+      "country": "PL",
+      "topic": {
+        "es": "Entretenimiento, retos y música",
+        "en": "Entertainment, challenges and music",
+        "pt": "Entretenimento, desafios e música",
+        "fr": "Divertissement, défis et musique",
+        "de": "Unterhaltung, Challenges und Musik",
+        "ru": "Развлечения, челленджи и музыка",
+        "ar": "الترفيه والتحديات والموسيقى",
+        "hi": "मनोरंजन, चैलेंज और संगीत",
+        "zh": "娱乐、挑战与音乐",
+        "ja": "エンターテインメント、チャレンジ、音楽"
+      },
+      "about": {
+        "es": "Karol Paweł Wiśniewski, conocido como Friz, nació el 13 de febrero de 1996 en Cracovia y actualmente vive en Varsovia. Empezó a publicar videos en YouTube en 2010, primero de patinaje y luego de Minecraft y Pokémon Go, y en agosto de 2018 fundó junto a otros creadores el colectivo 'Ekipa Friza', uno de los mayores fenómenos de internet en Polonia.",
+        "en": "Karol Paweł Wiśniewski, known as Friz, was born on February 13, 1996 in Kraków and currently lives in Warsaw. He started posting videos on YouTube in 2010, first about rollerblading and later Minecraft and Pokémon Go, and in August 2018 he founded, together with other creators, the collective 'Ekipa Friza', one of the biggest internet phenomena in Poland.",
+        "pt": "Karol Paweł Wiśniewski, conhecido como Friz, nasceu em 13 de fevereiro de 1996 em Cracóvia e atualmente mora em Varsóvia. Começou a publicar vídeos no YouTube em 2010, primeiro sobre patinação e depois sobre Minecraft e Pokémon Go, e em agosto de 2018 fundou, junto com outros criadores, o coletivo 'Ekipa Friza', um dos maiores fenômenos da internet na Polônia.",
+        "fr": "Karol Paweł Wiśniewski, connu sous le nom de Friz, est né le 13 février 1996 à Cracovie et vit actuellement à Varsovie. Il a commencé à publier des vidéos sur YouTube en 2010, d'abord sur le roller puis sur Minecraft et Pokémon Go, et en août 2018 il a fondé, avec d'autres créateurs, le collectif 'Ekipa Friza', l'un des plus grands phénomènes d'internet en Pologne.",
+        "de": "Karol Paweł Wiśniewski, bekannt als Friz, wurde am 13. Februar 1996 in Krakau geboren und lebt derzeit in Warschau. Er begann 2010, Videos auf YouTube zu veröffentlichen, zunächst über Inline-Skating und später über Minecraft und Pokémon Go, und gründete im August 2018 zusammen mit anderen Creatorn das Kollektiv „Ekipa Friza“, eines der größten Internetphänomene Polens.",
+        "ru": "Кароль Павел Вишневский, известный как Friz, родился 13 февраля 1996 года в Кракове и сейчас живёт в Варшаве. Он начал публиковать видео на YouTube в 2010 году, сначала о роллерблейдинге, а затем о Minecraft и Pokémon Go, а в августе 2018 года вместе с другими создателями основал коллектив «Ekipa Friza» — один из крупнейших интернет-феноменов Польши.",
+        "ar": "وُلد كارول باويل فيشنيفسكي، المعروف باسم Friz، في 13 فبراير 1996 في كراكوف، ويقيم حاليًا في وارسو. بدأ نشر الفيديوهات على يوتيوب عام 2010، أولًا عن التزلج بالعجلات ثم عن ماينكرافت وبوكيمون جو، وفي أغسطس 2018 أسس مع صناع محتوى آخرين مجموعة 'Ekipa Friza'، إحدى أكبر ظواهر الإنترنت في بولندا.",
+        "hi": "कारोल पावेल विशनियेव्स्की, जिन्हें Friz के नाम से जाना जाता है, का जन्म 13 फरवरी 1996 को क्राकोव में हुआ और वे अभी वारसॉ में रहते हैं। उन्होंने 2010 में यूट्यूब पर वीडियो डालना शुरू किया, पहले रोलरब्लेडिंग पर और बाद में मिनक्राफ्ट और पोकेमॉन गो पर, और अगस्त 2018 में अन्य क्रिएटर्स के साथ मिलकर 'Ekipa Friza' समूह की स्थापना की, जो पोलैंड की सबसे बड़ी इंटरनेट घटनाओं में से एक है।",
+        "zh": "卡罗尔·帕维尔·维希涅夫斯基(通称Friz)1996年2月13日出生于克拉科夫,现居华沙。他于2010年开始在YouTube发布视频,起初是轮滑内容,后转向《我的世界》和《精灵宝可梦GO》;2018年8月,他与其他创作者共同创立了组合\"Ekipa Friza\",成为波兰互联网上最大的现象之一。",
+        "ja": "カロル・パヴェウ・ヴィシニェフスキ(通称Friz)は1996年2月13日、クラクフに生まれ、現在はワルシャワに住んでいる。2010年からYouTubeに動画を投稿し始め、当初はローラーブレード、後にマインクラフトやポケモンGOの内容を扱った。2018年8月には他のクリエイターと共に「Ekipa Friza」というグループを結成し、ポーランドで最大級のインターネット現象の一つとなった。"
+      },
+      "handles": {
+        "youtube": "UCwBtP6NDQtsP5YBa4vuZqHA",
+        "tiktok": null,
+        "instagram": "frizoluszek",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5380000
+        }
+      }
+    },
+    {
+      "id": "naruciak",
+      "name": "Naruciak",
+      "country": "PL",
+      "topic": {
+        "es": "Comedia, comentarios y vlogs",
+        "en": "Comedy, commentary and vlogs",
+        "pt": "Comédia, comentários e vlogs",
+        "fr": "Comédie, commentaires et vlogs",
+        "de": "Comedy, Kommentare und Vlogs",
+        "ru": "Комедия, комментарии и влоги",
+        "ar": "الكوميديا والتعليقات ومدونات الفيديو",
+        "hi": "कॉमेडी, टिप्पणी और व्लॉग",
+        "zh": "喜剧、点评与视频博客",
+        "ja": "コメディ、実況コメント、ブイログ"
+      },
+      "about": {
+        "es": "Adam Robert Zimmermann, conocido como Naruciak, nació el 3 de abril de 1998 en Gdynia y actualmente vive en Varsovia (barrio de Mokotów). Comenzó su canal 'NaruciakGaming' en noviembre de 2013 y se hizo famoso por sus comentarios irónicos sobre pseudodocumentales de la televisión polaca, especialmente en su serie 'Ciumkaj loczki' sobre el programa 'Kuchenne rewolucje'.",
+        "en": "Adam Robert Zimmermann, known as Naruciak, was born on April 3, 1998 in Gdynia and currently lives in Warsaw (Mokotów district). He started his channel 'NaruciakGaming' in November 2013 and became known for his ironic commentary on Polish pseudo-documentary TV shows, especially his series 'Ciumkaj loczki' about the show 'Kuchenne rewolucje'.",
+        "pt": "Adam Robert Zimmermann, conhecido como Naruciak, nasceu em 3 de abril de 1998 em Gdynia e atualmente mora em Varsóvia (bairro de Mokotów). Começou seu canal 'NaruciakGaming' em novembro de 2013 e ficou conhecido por seus comentários irônicos sobre pseudodocumentários da TV polonesa, especialmente sua série 'Ciumkaj loczki' sobre o programa 'Kuchenne rewolucje'.",
+        "fr": "Adam Robert Zimmermann, connu sous le nom de Naruciak, est né le 3 avril 1998 à Gdynia et vit actuellement à Varsovie (quartier de Mokotów). Il a lancé sa chaîne 'NaruciakGaming' en novembre 2013 et s'est fait connaître grâce à ses commentaires ironiques sur les pseudo-documentaires de la télévision polonaise, notamment sa série 'Ciumkaj loczki' sur l'émission 'Kuchenne rewolucje'.",
+        "de": "Adam Robert Zimmermann, bekannt als Naruciak, wurde am 3. April 1998 in Gdynia geboren und lebt derzeit in Warschau (Stadtteil Mokotów). Er startete seinen Kanal 'NaruciakGaming' im November 2013 und wurde bekannt für seine ironischen Kommentare zu polnischen Pseudo-Dokumentationen im Fernsehen, insbesondere seine Serie 'Ciumkaj loczki' über die Sendung 'Kuchenne rewolucje'.",
+        "ru": "Адам Роберт Циммерманн, известный как Naruciak, родился 3 апреля 1998 года в Гдыне и сейчас живёт в Варшаве (район Мокотув). Он запустил свой канал 'NaruciakGaming' в ноябре 2013 года и прославился ироничными комментариями к польским псевдодокументальным телешоу, особенно серией 'Ciumkaj loczki' о передаче 'Kuchenne rewolucje'.",
+        "ar": "وُلد آدم روبرت زيمرمان، المعروف باسم Naruciak، في 3 أبريل 1998 في غدينيا، ويقيم حاليًا في وارسو (حي موكوتوف). أطلق قناته 'NaruciakGaming' في نوفمبر 2013 واشتهر بتعليقاته الساخرة على البرامج التلفزيونية شبه الوثائقية البولندية، خاصة سلسلته 'Ciumkaj loczki' حول برنامج 'Kuchenne rewolucje'.",
+        "hi": "एडम रॉबर्ट ज़िमरमैन, जिन्हें Naruciak के नाम से जाना जाता है, का जन्म 3 अप्रैल 1998 को ग्दिन्या में हुआ और वे अभी वारसॉ (मोकोतुव क्षेत्र) में रहते हैं। उन्होंने नवंबर 2013 में अपना चैनल 'NaruciakGaming' शुरू किया और पोलिश छद्म-वृत्तचित्र टीवी शो पर व्यंग्यात्मक टिप्पणी के लिए मशहूर हुए, खासकर 'Kuchenne rewolucje' शो पर आधारित उनकी श्रृंखला 'Ciumkaj loczki' के लिए।",
+        "zh": "亚当·罗伯特·齐默尔曼(通称Naruciak)1998年4月3日出生于格丁尼亚,现居华沙莫科图夫区。他于2013年11月开设频道\"NaruciakGaming\",因对波兰伪纪录片类电视节目的讽刺点评而走红,尤以关于节目《Kuchenne rewolucje》的系列作品《Ciumkaj loczki》最为知名。",
+        "ja": "アダム・ロベルト・ツィンメルマン(通称Naruciak)は1998年4月3日、グディニアに生まれ、現在はワルシャワのモコトゥフ地区に住んでいる。2013年11月にチャンネル「NaruciakGaming」を開設し、ポーランドの疑似ドキュメンタリー番組への皮肉な実況コメントで知られるようになった。特に番組『Kuchenne rewolucje』を題材にしたシリーズ『Ciumkaj loczki』が有名。"
+      },
+      "handles": {
+        "youtube": "UCS4c5bpra5blCUsHKPFSkig",
+        "tiktok": null,
+        "instagram": "naruciak",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 3870000
+        }
+      }
+    },
+    {
+      "id": "marcin-dubiel",
+      "name": "Marcin Dubiel",
+      "country": "PL",
+      "topic": {
+        "es": "Retos, vlogs y deportes de combate",
+        "en": "Challenges, vlogs and combat sports",
+        "pt": "Desafios, vlogs e esportes de combate",
+        "fr": "Défis, vlogs et sports de combat",
+        "de": "Challenges, Vlogs und Kampfsport",
+        "ru": "Челленджи, влоги и бойцовский спорт",
+        "ar": "تحديات ومدونات فيديو ورياضات قتالية",
+        "hi": "चैलेंज, व्लॉग और कॉम्बैट स्पोर्ट्स",
+        "zh": "挑战、视频博客与格斗运动",
+        "ja": "チャレンジ、ブイログ、格闘技"
+      },
+      "about": {
+        "es": "Marcin Dubiel nació el 24 de octubre de 1996 en Tychy, Polonia, y actualmente vive en Varsovia. Abrió su canal de YouTube el 24 de diciembre de 2014 y se hizo popular con vídeos de bromas y retos; en 2019 se unió al colectivo de creadores 'Team X', que vive junto en una villa en Konstancin-Jeziorny cerca de Varsovia, y también compite como luchador en la liga de freak fights Fame MMA.",
+        "en": "Marcin Dubiel was born on October 24, 1996 in Tychy, Poland, and currently lives in Warsaw. He opened his YouTube channel on December 24, 2014 and became popular with prank and challenge videos; in 2019 he joined the creator collective 'Team X', which lives together in a villa in Konstancin-Jeziorny near Warsaw, and he also competes as a fighter in the freak-fight league Fame MMA.",
+        "pt": "Marcin Dubiel nasceu em 24 de outubro de 1996 em Tychy, na Polônia, e atualmente mora em Varsóvia. Abriu seu canal do YouTube em 24 de dezembro de 2014 e ficou popular com vídeos de pegadinhas e desafios; em 2019 juntou-se ao coletivo de criadores 'Team X', que vive junto em uma vila em Konstancin-Jeziorny perto de Varsóvia, e também compete como lutador na liga de freak fights Fame MMA.",
+        "fr": "Marcin Dubiel est né le 24 octobre 1996 à Tychy, en Pologne, et vit actuellement à Varsovie. Il a lancé sa chaîne YouTube le 24 décembre 2014 et est devenu populaire grâce à des vidéos de canulars et de défis ; en 2019 il a rejoint le collectif de créateurs 'Team X', qui vit ensemble dans une villa à Konstancin-Jeziorny près de Varsovie, et il combat également dans la ligue de freak fights Fame MMA.",
+        "de": "Marcin Dubiel wurde am 24. Oktober 1996 in Tychy, Polen, geboren und lebt derzeit in Warschau. Er eröffnete seinen YouTube-Kanal am 24. Dezember 2014 und wurde durch Streich- und Challenge-Videos populär; 2019 schloss er sich dem Creator-Kollektiv „Team X“ an, das gemeinsam in einer Villa in Konstancin-Jeziorny bei Warschau lebt, und tritt außerdem als Kämpfer in der Freak-Fight-Liga Fame MMA an.",
+        "ru": "Марцин Дубель родился 24 октября 1996 года в Тыхах, Польша, и сейчас живёт в Варшаве. Он открыл свой YouTube-канал 24 декабря 2014 года и стал популярен благодаря розыгрышам и челленджам; в 2019 году он присоединился к коллективу создателей 'Team X', который живёт вместе на вилле в Констанцин-Езёрне под Варшавой, а также выступает бойцом в лиге фрик-файтов Fame MMA.",
+        "ar": "وُلد مارتشين دوبيل في 24 أكتوبر 1996 في تيخي ببولندا، ويقيم حاليًا في وارسو. افتتح قناته على يوتيوب في 24 ديسمبر 2014 واشتهر بفيديوهات المقالب والتحديات؛ وفي 2019 انضم إلى مجموعة صناع المحتوى 'Team X' التي تعيش معًا في فيلا في كونستانتسين-يزيورني قرب وارسو، كما يشارك كمقاتل في دوري فرايك فايت Fame MMA.",
+        "hi": "मार्चिन दुबिएल का जन्म 24 अक्टूबर 1996 को पोलैंड के तिखी में हुआ और वे अभी वारसॉ में रहते हैं। उन्होंने 24 दिसंबर 2014 को अपना यूट्यूब चैनल शुरू किया और प्रैंक व चैलेंज वीडियो से लोकप्रिय हुए; 2019 में वे क्रिएटर समूह 'Team X' में शामिल हुए, जो वारसॉ के पास कोन्स्तानचिन-येज़ोर्नी में एक विला में साथ रहते हैं, और वे फ्रीक-फाइट लीग Fame MMA में लड़ाके के रूप में भी प्रतिस्पर्धा करते हैं।",
+        "zh": "马尔钦·杜比尔1996年10月24日出生于波兰蒂希,现居华沙。他于2014年12月24日开设YouTube频道,凭借恶作剧和挑战类视频走红;2019年加入创作者团体\"Team X\",该团体共同居住在华沙附近孔斯坦钦-耶焦尔纳的一栋别墅中;他还作为选手参加名为Fame MMA的怪诞格斗联赛。",
+        "ja": "マルチン・ドゥビエルは1996年10月24日、ポーランドのティヒに生まれ、現在はワルシャワに住んでいる。2014年12月24日にYouTubeチャンネルを開設し、いたずらやチャレンジ動画で人気を得た。2019年にはクリエイター集団「Team X」に加わり、ワルシャワ近郊コンスタンチン=イェジオルナの別荘で共同生活を送っている。また、フリークファイトリーグ「Fame MMA」の選手としても活動している。"
+      },
+      "handles": {
+        "youtube": "UCYA71OArBjDdc3fjHSOedFg",
+        "tiktok": "marcindubiel",
+        "instagram": "marcindubiel",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1600000
+        }
+      }
+    },
+    {
+      "id": "boxdel",
+      "name": "Boxdel",
+      "country": "PL",
+      "topic": {
+        "es": "Entretenimiento, cultura de internet y deportes de combate",
+        "en": "Entertainment, internet culture and combat sports",
+        "pt": "Entretenimento, cultura da internet e esportes de combate",
+        "fr": "Divertissement, culture internet et sports de combat",
+        "de": "Unterhaltung, Internetkultur und Kampfsport",
+        "ru": "Развлечения, интернет-культура и бойцовский спорт",
+        "ar": "الترفيه وثقافة الإنترنت والرياضات القتالية",
+        "hi": "मनोरंजन, इंटरनेट संस्कृति और कॉम्बैट स्पोर्ट्स",
+        "zh": "娱乐、网络文化与格斗运动",
+        "ja": "エンターテインメント、インターネット文化、格闘技"
+      },
+      "about": {
+        "es": "Michał Andrzej Baron, conocido como Boxdel, nació el 2 de marzo de 1995 en Poznań, Polonia, ciudad donde sigue viviendo. Comenzó en YouTube con contenido de Minecraft bajo el nombre 'iDelti' y desde 2015 usa el nombre Boxdel, publicando videos sobre curiosidades de otros creadores de internet; es también cofundador de la liga de freak fights Fame MMA.",
+        "en": "Michał Andrzej Baron, known as Boxdel, was born on March 2, 1995 in Poznań, Poland, the city where he still lives. He started on YouTube with Minecraft content under the name 'iDelti' and has used the name Boxdel since 2015, publishing videos about facts and curiosities regarding other internet creators; he is also a co-founder of the freak-fight league Fame MMA.",
+        "pt": "Michał Andrzej Baron, conhecido como Boxdel, nasceu em 2 de março de 1995 em Poznań, na Polônia, cidade onde ainda mora. Começou no YouTube com conteúdo de Minecraft sob o nome 'iDelti' e desde 2015 usa o nome Boxdel, publicando vídeos sobre curiosidades de outros criadores da internet; é também cofundador da liga de freak fights Fame MMA.",
+        "fr": "Michał Andrzej Baron, connu sous le nom de Boxdel, est né le 2 mars 1995 à Poznań, en Pologne, ville où il vit toujours. Il a débuté sur YouTube avec du contenu Minecraft sous le nom 'iDelti' et utilise le nom Boxdel depuis 2015, publiant des vidéos sur des anecdotes concernant d'autres créateurs internet ; il est également cofondateur de la ligue de freak fights Fame MMA.",
+        "de": "Michał Andrzej Baron, bekannt als Boxdel, wurde am 2. März 1995 in Posen (Poznań), Polen, geboren, wo er weiterhin lebt. Er begann bei YouTube mit Minecraft-Inhalten unter dem Namen 'iDelti' und nutzt seit 2015 den Namen Boxdel, mit Videos über Fakten und Kuriositäten zu anderen Internet-Creatorn; er ist außerdem Mitbegründer der Freak-Fight-Liga Fame MMA.",
+        "ru": "Михал Анджей Барон, известный как Boxdel, родился 2 марта 1995 года в Познани, Польша, где до сих пор живёт. Он начал на YouTube с контента по Minecraft под именем 'iDelti', а с 2015 года использует имя Boxdel, публикуя видео о фактах и курьёзах, связанных с другими интернет-创作者ами; он также является сооснователем лиги фрик-файтов Fame MMA.",
+        "ar": "وُلد ميخال أندجيه بارون، المعروف باسم Boxdel، في 2 مارس 1995 في بوزنان ببولندا، وهي المدينة التي لا يزال يعيش فيها. بدأ على يوتيوب بمحتوى ماينكرافت باسم 'iDelti' ويستخدم اسم Boxdel منذ 2015، حيث ينشر فيديوهات عن حقائق وطرائف صناع محتوى آخرين على الإنترنت؛ وهو أيضًا شريك مؤسس لدوري فرايك فايت Fame MMA.",
+        "hi": "मिखाव आंद्जेय बारोन, जिन्हें Boxdel के नाम से जाना जाता है, का जन्म 2 मार्च 1995 को पोलैंड के पॉज़्नान में हुआ, जहां वे अभी भी रहते हैं। उन्होंने 'iDelti' नाम से मिनक्राफ्ट कंटेंट के साथ यूट्यूब शुरू किया और 2015 से Boxdel नाम अपनाया, जहां वे अन्य इंटरनेट क्रिएटर्स से जुड़ी रोचक जानकारियों पर वीडियो बनाते हैं; वे फ्रीक-फाइट लीग Fame MMA के सह-संस्थापक भी हैं।",
+        "zh": "米哈乌·安杰伊·巴龙(通称Boxdel)1995年3月2日出生于波兰波兹南,至今仍居住在该城市。他最初以\"iDelti\"之名发布《我的世界》相关内容,自2015年起改用Boxdel之名,发布关于其他网络创作者趣闻的视频;他也是怪诞格斗联赛Fame MMA的联合创始人。",
+        "ja": "ミハウ・アンジェイ・バロン(通称Boxdel)は1995年3月2日、ポーランドのポズナンに生まれ、現在も同市に住んでいる。当初は「iDelti」という名前でマインクラフト関連のコンテンツからYouTubeを始め、2015年からBoxdelという名前で他のインターネットクリエイターに関する豆知識動画を投稿している。フリークファイトリーグ「Fame MMA」の共同創設者でもある。"
+      },
+      "handles": {
+        "youtube": "UCtGmMo9NJaQG3hl1gsj1Hzw",
+        "tiktok": "boxdel",
+        "instagram": "boxdel",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1770000
+        }
+      }
+    },
+    {
+      "id": "emi-baez-cocina",
+      "name": "Emi Báez cocina",
+      "country": "PY",
+      "topic": {
+        "es": "Cocina y recetas paraguayas caseras",
+        "en": "Paraguayan home cooking and recipes",
+        "pt": "Culinária e receitas caseiras paraguaias",
+        "fr": "Cuisine et recettes maison paraguayennes",
+        "de": "Paraguayische Hausmannskost und Rezepte",
+        "ru": "Парагвайская домашняя кухня и рецепты",
+        "ar": "الطبخ المنزلي الباراغوياني والوصفات",
+        "hi": "पैराग्वे की घरेलू रसोई और व्यंजन",
+        "zh": "巴拉圭家常菜与食谱",
+        "ja": "パラグアイの家庭料理とレシピ"
+      },
+      "about": {
+        "es": "Emilce Elizabeth Báez Cristaldo, nacida en Juan Emilio O'Leary (Alto Paraná, Paraguay), es periodista de profesión pero dejó ese oficio para dedicarse por completo a la cocina y las redes sociales. En su canal comparte recetas caseras paraguayas fáciles y rápidas, en español y guaraní.",
+        "en": "Emilce Elizabeth Báez Cristaldo, born in Juan Emilio O'Leary (Alto Paraná, Paraguay), trained as a journalist but left that career to focus entirely on cooking and social media. On her channel she shares easy, quick Paraguayan home recipes, in both Spanish and Guarani.",
+        "pt": "Emilce Elizabeth Báez Cristaldo, nascida em Juan Emilio O'Leary (Alto Paraná, Paraguai), é formada em jornalismo, mas deixou a profissão para se dedicar totalmente à culinária e às redes sociais. Em seu canal, compartilha receitas caseiras paraguaias fáceis e rápidas, em espanhol e guarani.",
+        "fr": "Emilce Elizabeth Báez Cristaldo, née à Juan Emilio O'Leary (Alto Paraná, Paraguay), est journaliste de formation mais a quitté ce métier pour se consacrer entièrement à la cuisine et aux réseaux sociaux. Sur sa chaîne, elle partage des recettes maison paraguayennes simples et rapides, en espagnol et en guarani.",
+        "de": "Emilce Elizabeth Báez Cristaldo, geboren in Juan Emilio O'Leary (Alto Paraná, Paraguay), ist ausgebildete Journalistin, gab diesen Beruf jedoch auf, um sich ganz dem Kochen und den sozialen Medien zu widmen. Auf ihrem Kanal teilt sie einfache, schnelle paraguayische Hausrezepte auf Spanisch und Guaraní.",
+        "ru": "Эмильсе Элизабет Баэс Кристальдо, родившаяся в Хуан-Эмилио-О'Лири (Альто-Парана, Парагвай), по образованию журналист, но оставила эту профессию, чтобы полностью посвятить себя кулинарии и социальным сетям. На своём канале она делится простыми и быстрыми домашними парагвайскими рецептами на испанском и гуарани.",
+        "ar": "إميلسي إليزابيث باييز كريستالدو، المولودة في خوان إميليو أوليري (ألتو بارانا، باراغواي)، صحفية بالتدريب لكنها تركت هذه المهنة لتتفرغ تماماً للطبخ ووسائل التواصل الاجتماعي. تشارك في قناتها وصفات باراغوايية منزلية سهلة وسريعة، باللغتين الإسبانية والغواراني.",
+        "hi": "एमिल्से एलिज़ाबेथ बाएज़ क्रिस्ताल्दो, जिनका जन्म जुआन एमिलियो ओ'लियरी (अल्तो पराना, पैराग्वे) में हुआ, पेशे से पत्रकार हैं लेकिन उन्होंने वह करियर छोड़कर खाना बनाने और सोशल मीडिया को पूरी तरह अपना लिया। अपने चैनल पर वे स्पेनिश और ग्वारानी भाषा में आसान और झटपट पैराग्वे के घरेलू व्यंजन साझा करती हैं।",
+        "zh": "埃米尔塞·伊丽莎白·巴埃斯·克里斯塔尔多出生于巴拉圭阿尔托巴拉那省的胡安·埃米利奥·奥莱里,曾受训成为记者,后来放弃这一职业,全身心投入烹饪和社交媒体。她在自己的频道上用西班牙语和瓜拉尼语分享简单快捷的巴拉圭家常菜谱。",
+        "ja": "エミルセ・エリザベス・バエス・クリスタルド氏はパラグアイのアルト・パラナ県フアン・エミリオ・オレアリー出身で、元はジャーナリストだったが、その職を離れて料理とソーシャルメディア活動に専念するようになった。自身のチャンネルでは、スペイン語とグアラニー語で簡単で手早く作れるパラグアイの家庭料理レシピを紹介している。"
+      },
+      "handles": {
+        "youtube": "UC4NxReiobUq0Icc8jyxoyCQ",
+        "tiktok": "emibaezcristaldo",
+        "instagram": "emibaezcris",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 241000
+        }
+      }
+    },
+    {
+      "id": "hector19aquino",
+      "name": "Hector19Aquino",
+      "country": "PY",
+      "topic": {
+        "es": "Clips y compilaciones de Power Rangers",
+        "en": "Power Rangers clips and compilations",
+        "pt": "Clipes e compilações de Power Rangers",
+        "fr": "Extraits et compilations de Power Rangers",
+        "de": "Power-Rangers-Clips und Zusammenschnitte",
+        "ru": "Клипы и подборки «Могучих рейнджеров»",
+        "ar": "مقاطع وتجميعات من مسلسل باور رينجرز",
+        "hi": "पावर रेंजर्स के क्लिप और संकलन",
+        "zh": "《恐龙战队》剪辑与合集",
+        "ja": "パワーレンジャーのクリップとまとめ動画"
+      },
+      "about": {
+        "es": "Héctor Aquino, más conocido como Hector19Aquino, es un youtuber paraguayo que abrió su canal el 22 de enero de 2013 dedicado a subir clips y episodios del programa estadounidense Power Rangers. A pesar de no publicar de forma constante, superó los dos millones de suscriptores y fue ubicado por medios especializados entre los diez youtubers con más ingresos de Sudamérica, con más de tres millones de dólares acumulados.",
+        "en": "Héctor Aquino, better known as Hector19Aquino, is a Paraguayan YouTuber who opened his channel on January 22, 2013, dedicated to uploading clips and episodes of the American show Power Rangers. Despite not posting constantly, he surpassed two million subscribers and was ranked by specialized outlets among South America's ten highest-earning YouTubers, with more than three million dollars accumulated.",
+        "pt": "Héctor Aquino, mais conhecido como Hector19Aquino, é um youtuber paraguaio que abriu seu canal em 22 de janeiro de 2013, dedicado a postar clipes e episódios do programa americano Power Rangers. Apesar de não publicar com constância, ultrapassou os dois milhões de inscritos e foi colocado por veículos especializados entre os dez youtubers com mais ganhos da América do Sul, acumulando mais de três milhões de dólares.",
+        "fr": "Héctor Aquino, plus connu sous le nom de Hector19Aquino, est un YouTubeur paraguayen qui a ouvert sa chaîne le 22 janvier 2013, consacrée à la publication d'extraits et d'épisodes de la série américaine Power Rangers. Bien qu'il ne publie pas de façon constante, il a dépassé les deux millions d'abonnés et a été classé par des médias spécialisés parmi les dix YouTubeurs les mieux rémunérés d'Amérique du Sud, avec plus de trois millions de dollars accumulés.",
+        "de": "Héctor Aquino, besser bekannt als Hector19Aquino, ist ein paraguayischer YouTuber, der seinen Kanal am 22. Januar 2013 eröffnete, um Clips und Episoden der US-Serie Power Rangers hochzuladen. Obwohl er nicht regelmäßig postet, überschritt er zwei Millionen Abonnenten und wurde von Fachmedien unter die zehn bestverdienenden YouTuber Südamerikas eingestuft, mit mehr als drei Millionen Dollar Gesamteinnahmen.",
+        "ru": "Эктор Акино, более известный как Hector19Aquino, — парагвайский youtuber, открывший свой канал 22 января 2013 года и посвящённый выкладыванию клипов и эпизодов американского шоу «Могучие рейнджеры». Несмотря на нерегулярные публикации, он превысил два миллиона подписчиков и был назван специализированными изданиями одним из десяти самых высокооплачиваемых youtuber-ов Южной Америки, заработав более трёх миллионов долларов.",
+        "ar": "هكتور أكينو، المعروف باسم Hector19Aquino، هو يوتيوبر باراغواني افتتح قناته في 22 يناير 2013 مخصصة لرفع مقاطع وحلقات من برنامج باور رينجرز الأمريكي. ورغم عدم نشره بانتظام، تجاوز مليوني مشترك، وصنّفته وسائل إعلام متخصصة ضمن أكثر عشرة يوتيوبرز ربحاً في أمريكا الجنوبية، بأرباح تجاوزت ثلاثة ملايين دولار.",
+        "hi": "हेक्टर अकीनो, जिन्हें Hector19Aquino के नाम से जाना जाता है, एक पैराग्वेयन यूट्यूबर हैं जिन्होंने 22 जनवरी 2013 को अपना चैनल शुरू किया, जो अमेरिकी शो पावर रेंजर्स के क्लिप और एपिसोड अपलोड करने के लिए समर्पित है। लगातार पोस्ट न करने के बावजूद, उन्होंने दो मिलियन सब्सक्राइबर का आंकड़ा पार किया और विशेषज्ञ मीडिया द्वारा उन्हें दक्षिण अमेरिका के दस सबसे अधिक कमाई करने वाले यूट्यूबरों में गिना गया, जिनकी कुल कमाई तीन मिलियन डॉलर से अधिक है।",
+        "zh": "埃克托尔·阿基诺(Héctor Aquino),更广为人知的名字是Hector19Aquino,是一位巴拉圭YouTuber,于2013年1月22日开设频道,专门上传美国节目《恐龙战队》的片段和剧集。尽管更新并不频繁,他的订阅者已超过两百万,并被专业媒体评为南美洲收入最高的十大YouTuber之一,累计收入超过三百万美元。",
+        "ja": "エクトル・アキーノ、通称Hector19Aquinoは、2013年1月22日にチャンネルを開設したパラグアイ人YouTuberで、アメリカの番組「パワーレンジャー」のクリップやエピソードを投稿することに特化している。投稿頻度は一定ではないものの、登録者数は200万人を超え、専門メディアにより南米で最も稼ぐYouTuber上位10人の一人に挙げられ、累計収益は300万ドルを超えるとされる。"
+      },
+      "handles": {
+        "youtube": "UCkXd72Un0XaReuatMc52DEA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2710000
+        }
+      }
+    },
+    {
+      "id": "fabricio-velazquez",
+      "name": "Fabricio Velazquez",
+      "country": "PY",
+      "topic": {
+        "es": "Reacciones y humor sobre fútbol paraguayo",
+        "en": "Paraguayan football reactions and comedy",
+        "pt": "Reações e humor sobre futebol paraguaio",
+        "fr": "Réactions et humour sur le football paraguayen",
+        "de": "Reaktionen und Comedy rund um paraguayischen Fußball",
+        "ru": "Реакции и юмор о парагвайском футболе",
+        "ar": "ردود أفعال وفكاهة عن كرة القدم الباراغوايانية",
+        "hi": "पैराग्वे फुटबॉल पर रिएक्शन और हास्य सामग्री",
+        "zh": "巴拉圭足球反应视频与幽默内容",
+        "ja": "パラグアイサッカーのリアクション動画とコメディ"
+      },
+      "about": {
+        "es": "Fabricio Velazquez, conocido como 'El Jet Velazquez', nació y se crio en Paraguay. Publicó su primer video en YouTube en 2014, y uno de sus contenidos más vistos surgió al reaccionar, mientras grababa un video de fútbol, a una supuesta aparición del Pombero, figura del folclore guaraní. Su canal se centra en reacciones, humor y contenido futbolero paraguayo.",
+        "en": "Fabricio Velazquez, known as 'El Jet Velazquez', was born and raised in Paraguay. He published his first YouTube video in 2014, and one of his most-viewed pieces of content came from reacting, while filming a football video, to a supposed appearance of El Pombero, a figure from Guarani folklore. His channel focuses on reactions, comedy, and Paraguayan football content.",
+        "pt": "Fabricio Velazquez, conhecido como 'El Jet Velazquez', nasceu e cresceu no Paraguai. Publicou seu primeiro vídeo no YouTube em 2014, e um de seus conteúdos mais vistos surgiu ao reagir, enquanto gravava um vídeo de futebol, a uma suposta aparição do Pombero, figura do folclore guarani. Seu canal foca em reações, humor e conteúdo futebolístico paraguaio.",
+        "fr": "Fabricio Velazquez, connu sous le nom de « El Jet Velazquez », est né et a grandi au Paraguay. Il a publié sa première vidéo YouTube en 2014, et l'un de ses contenus les plus vus est né d'une réaction, alors qu'il filmait une vidéo de football, à une prétendue apparition du Pombero, figure du folklore guarani. Sa chaîne se concentre sur les réactions, l'humour et le contenu footballistique paraguayen.",
+        "de": "Fabricio Velazquez, bekannt als „El Jet Velazquez“, wurde in Paraguay geboren und wuchs dort auf. Sein erstes YouTube-Video veröffentlichte er 2014, und eines seiner meistgesehenen Videos entstand, als er beim Filmen eines Fußballvideos auf ein angebliches Erscheinen des Pombero reagierte, einer Gestalt aus der Guaraní-Folklore. Sein Kanal konzentriert sich auf Reaktionen, Comedy und paraguayischen Fußballinhalt.",
+        "ru": "Фабрисио Веласкес, известный как «El Jet Velazquez», родился и вырос в Парагвае. Своё первое видео на YouTube он опубликовал в 2014 году, а одним из самых просматриваемых стало видео, где во время съёмки футбольного ролика он реагирует на предполагаемое появление Помберо — персонажа фольклора гуарани. Его канал посвящён реакциям, юмору и парагвайскому футбольному контенту.",
+        "ar": "فابريسيو فيلاسكيز، المعروف باسم 'El Jet Velazquez'، وُلد ونشأ في باراغواي. نشر أول فيديو له على يوتيوب عام 2014، وجاء أحد أكثر مقاطعه مشاهدة من رد فعله، أثناء تصوير فيديو كرة قدم، على ظهور مفترض لشخصية 'البومبيرو' من الفولكلور الغواراني. تركز قناته على ردود الأفعال والفكاهة ومحتوى كرة القدم الباراغوايانية.",
+        "hi": "फैब्रीशियो वेलाज़्केज़, जिन्हें 'एल जेट वेलाज़्केज़' के नाम से जाना जाता है, का जन्म और पालन-पोषण पैराग्वे में हुआ। उन्होंने 2014 में अपना पहला यूट्यूब वीडियो प्रकाशित किया, और उनका सबसे अधिक देखा गया कंटेंट तब सामने आया जब फुटबॉल वीडियो शूट करते समय उन्होंने ग्वारानी लोककथाओं के पात्र 'पोम्बेरो' की कथित उपस्थिति पर प्रतिक्रिया दी। उनका चैनल रिएक्शन, हास्य और पैराग्वे के फुटबॉल कंटेंट पर केंद्रित है।",
+        "zh": "法布里西奥·贝拉斯克斯,人称“El Jet Velazquez”,在巴拉圭出生长大。他于2014年发布了第一个YouTube视频,而他观看量最高的一段内容源于在拍摄一段足球视频时,对瓜拉尼民间传说人物“庞贝罗”疑似现身所做出的反应。他的频道主要制作反应类、幽默类和巴拉圭足球相关内容。",
+        "ja": "「エル・ジェット・ベラスケス」として知られるファブリシオ・ベラスケスは、パラグアイで生まれ育った。2014年に最初のYouTube動画を公開し、最も再生された動画の一つは、サッカー動画を撮影中にグアラニー民話の存在「ポンベロ」が現れたとされる出来事へのリアクションから生まれた。彼のチャンネルはリアクション、コメディ、パラグアイのサッカー関連コンテンツに重点を置いている。"
+      },
+      "handles": {
+        "youtube": "UCwj0wIZvWuhnpQ4Ois8EkEg",
+        "tiktok": "fabrivelazquez",
+        "instagram": "fabriciovelazquez11",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 187000
+        }
+      }
+    },
+    {
+      "id": "chennytv",
+      "name": "ChennyTv",
+      "country": "PY",
+      "topic": {
+        "es": "Vlogs de humor, estilo de vida y maternidad",
+        "en": "Comedy, lifestyle and motherhood vlogs",
+        "pt": "Vlogs de humor, estilo de vida e maternidade",
+        "fr": "Vlogs d'humour, de style de vie et de maternité",
+        "de": "Comedy-, Lifestyle- und Mutterschafts-Vlogs",
+        "ru": "Влоги о юморе, образе жизни и материнстве",
+        "ar": "فلوجات فكاهية عن أسلوب الحياة والأمومة",
+        "hi": "हास्य, जीवनशैली और मातृत्व पर व्लॉग",
+        "zh": "幽默、生活方式与育儿视频博客",
+        "ja": "コメディ・ライフスタイル・育児をテーマにしたVlog"
+      },
+      "about": {
+        "es": "Jennyfer Santos, conocida como Chenny TV, nació el 30 de marzo de 1993 en Ciudad del Este, Paraguay. Comenzó en redes sociales en 2015 como fotógrafa, y luego se volcó a los videoblogs, reacciones y sketches de humor. Es una de las creadoras fundadoras del colectivo paraguayo Cero904, y desde que fue madre en 2020 integra la maternidad a su contenido junto a su pareja, también creador de contenido.",
+        "en": "Jennyfer Santos, known as Chenny TV, was born on March 30, 1993, in Ciudad del Este, Paraguay. She started on social media in 2015 as a photographer before moving into vlogs, reactions, and comedy sketches. She is one of the founding creators of the Paraguayan collective Cero904, and since becoming a mother in 2020 she has woven motherhood into her content alongside her partner, who is also a content creator.",
+        "pt": "Jennyfer Santos, conhecida como Chenny TV, nasceu em 30 de março de 1993, em Ciudad del Este, Paraguai. Começou nas redes sociais em 2015 como fotógrafa antes de migrar para vlogs, reações e esquetes de humor. É uma das criadoras fundadoras do coletivo paraguaio Cero904, e desde que se tornou mãe em 2020, incorpora a maternidade ao seu conteúdo junto com seu parceiro, também criador de conteúdo.",
+        "fr": "Jennyfer Santos, connue sous le nom de Chenny TV, est née le 30 mars 1993 à Ciudad del Este, au Paraguay. Elle a débuté sur les réseaux sociaux en 2015 comme photographe avant de se tourner vers les vlogs, les réactions et les sketchs humoristiques. Elle est l'une des créatrices fondatrices du collectif paraguayen Cero904, et depuis qu'elle est devenue mère en 2020, elle intègre la maternité à son contenu aux côtés de son compagnon, également créateur de contenu.",
+        "de": "Jennyfer Santos, bekannt als Chenny TV, wurde am 30. März 1993 in Ciudad del Este, Paraguay, geboren. Sie begann 2015 als Fotografin in den sozialen Medien, bevor sie zu Vlogs, Reaktionen und Comedy-Sketchen wechselte. Sie ist eine der Gründerinnen des paraguayischen Kollektivs Cero904, und seit sie 2020 Mutter wurde, bindet sie das Thema Mutterschaft gemeinsam mit ihrem Partner, der ebenfalls Content-Creator ist, in ihre Inhalte ein.",
+        "ru": "Дженнифер Сантос, известная как Chenny TV, родилась 30 марта 1993 года в Сьюдад-дель-Эсте, Парагвай. Она начала вести соцсети в 2015 году как фотограф, а затем перешла к влогам, реакциям и юмористическим скетчам. Она одна из основательниц парагвайского коллектива Cero904, а с 2020 года, став матерью, включает тему материнства в свой контент вместе со своим партнёром, также являющимся автором контента.",
+        "ar": "جينيفر سانتوس، المعروفة باسم Chenny TV، وُلدت في 30 مارس 1993 في مدينة سيوداد ديل إيستي في باراغواي. بدأت نشاطها على وسائل التواصل الاجتماعي عام 2015 كمصورة فوتوغرافية قبل أن تتجه إلى الفلوجات وردود الأفعال والسكتشات الفكاهية. وهي إحدى المؤسِّسات لمجموعة Cero904 الباراغوايانية، ومنذ أن أصبحت أماً عام 2020 أدرجت موضوع الأمومة في محتواها إلى جانب شريكها الذي يعمل هو الآخر صانع محتوى.",
+        "hi": "जेनिफर सैंटोस, जिन्हें Chenny TV के नाम से जाना जाता है, का जन्म 30 मार्च 1993 को पैराग्वे के सिउदाद देल एस्टे में हुआ। उन्होंने 2015 में एक फोटोग्राफर के रूप में सोशल मीडिया की शुरुआत की, इसके बाद व्लॉग, रिएक्शन और हास्य स्केच बनाने लगीं। वे पैराग्वे के Cero904 समूह की संस्थापक सदस्यों में से एक हैं, और 2020 में मां बनने के बाद से वे अपने साथी, जो खुद भी एक कंटेंट क्रिएटर हैं, के साथ मातृत्व को अपने कंटेंट में शामिल करती हैं।",
+        "zh": "詹妮弗·桑托斯,人称Chenny TV,1993年3月30日出生于巴拉圭东方市。她于2015年以摄影师身份开始涉足社交媒体,后来转向视频博客、反应视频和幽默短剧。她是巴拉圭创作者团体Cero904的创始成员之一,自2020年成为母亲后,她与同为内容创作者的伴侣一起,将育儿生活融入到自己的内容中。",
+        "ja": "ジェニファー・サントス、通称Chenny TVは、1993年3月30日にパラグアイのシウダー・デル・エステで生まれた。2015年に写真家としてSNS活動を始め、その後Vlogやリアクション動画、コメディスケッチへと活動の幅を広げた。パラグアイのクリエイター集団Cero904の創設メンバーの一人であり、2020年に母親になって以降は、同じくコンテンツクリエイターであるパートナーとともに、育児を自身のコンテンツに取り入れている。"
+      },
+      "handles": {
+        "youtube": "UCmZkD3GTEq1OpB5MzgHviFA",
+        "tiktok": "charamtv",
+        "instagram": "chennytv",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 153000
+        }
+      }
+    },
+    {
+      "id": "desoxigenados",
+      "name": "Desoxigenados",
+      "country": "PY",
+      "topic": {
+        "es": "Sketches y parodias de humor sobre la vida cotidiana paraguaya",
+        "en": "Comedy sketches and parodies of everyday Paraguayan life",
+        "pt": "Esquetes e paródias de humor sobre o cotidiano paraguaio",
+        "fr": "Sketches et parodies humoristiques sur le quotidien paraguayen",
+        "de": "Comedy-Sketche und Parodien über den paraguayischen Alltag",
+        "ru": "Юмористические скетчи и пародии о повседневной жизни Парагвая",
+        "ar": "سكتشات وباروديات فكاهية عن الحياة اليومية في باراغواي",
+        "hi": "पैराग्वे के रोज़मर्रा जीवन पर हास्य स्केच और पैरोडी",
+        "zh": "关于巴拉圭日常生活的喜剧短剧与恶搞视频",
+        "ja": "パラグアイの日常生活をテーマにしたコメディスケッチとパロディ"
+      },
+      "about": {
+        "es": "Desoxigenados es un grupo de youtubers paraguayos, integrado por César Agüero, Pablo Delgado, Cristian Agüero y Sebastian Rodríguez, que abrió su canal en mayo de 2012. Forman parte de la primera generación de youtubers de Paraguay y se hicieron conocidos por sus parodias, sátiras y sketches sobre situaciones cotidianas de la vida paraguaya, con seguidores que llegan también a países como México y España.",
+        "en": "Desoxigenados is a group of Paraguayan YouTubers made up of César Agüero, Pablo Delgado, Cristian Agüero, and Sebastian Rodríguez, who opened their channel in May 2012. They are part of Paraguay's first generation of YouTubers and became known for their parodies, satire, and sketches about everyday situations in Paraguayan life, with followers reaching as far as Mexico and Spain.",
+        "pt": "Desoxigenados é um grupo de youtubers paraguaios formado por César Agüero, Pablo Delgado, Cristian Agüero e Sebastian Rodríguez, que abriu seu canal em maio de 2012. Fazem parte da primeira geração de youtubers do Paraguai e ficaram conhecidos por suas paródias, sátiras e esquetes sobre situações cotidianas da vida paraguaia, com seguidores que chegam até México e Espanha.",
+        "fr": "Desoxigenados est un groupe de YouTubeurs paraguayens composé de César Agüero, Pablo Delgado, Cristian Agüero et Sebastian Rodríguez, qui a ouvert sa chaîne en mai 2012. Ils font partie de la première génération de YouTubeurs du Paraguay et se sont fait connaître grâce à leurs parodies, satires et sketches sur des situations quotidiennes de la vie paraguayenne, avec des abonnés jusqu'au Mexique et en Espagne.",
+        "de": "Desoxigenados ist eine Gruppe paraguayischer YouTuber, bestehend aus César Agüero, Pablo Delgado, Cristian Agüero und Sebastian Rodríguez, die ihren Kanal im Mai 2012 eröffneten. Sie gehören zur ersten Generation paraguayischer YouTuber und wurden bekannt für ihre Parodien, Satiren und Sketche über alltägliche Situationen des paraguayischen Lebens, mit Followern bis nach Mexiko und Spanien.",
+        "ru": "Desoxigenados — группа парагвайских youtuber-ов в составе Сесара Агуэро, Пабло Дельгадо, Кристиана Агуэро и Себастьяна Родригеса, открывшая канал в мае 2012 года. Они относятся к первому поколению парагвайских youtuber-ов и стали известны благодаря пародиям, сатире и скетчам о повседневной жизни Парагвая, а их подписчики есть даже в Мексике и Испании.",
+        "ar": "Desoxigenados هي مجموعة من يوتيوبرز باراغواي تضم سيزار أغويرو وبابلو دلغادو وكريستيان أغويرو وسيباستيان رودريغيز، افتتحوا قناتهم في مايو 2012. يُعدّون من الجيل الأول من يوتيوبرز باراغواي، واشتُهروا بمحاكاتهم الساخرة وسكتشاتهم عن مواقف الحياة اليومية في باراغواي، وتصل شهرتهم إلى متابعين في المكسيك وإسبانيا.",
+        "hi": "Desoxigenados पैराग्वे के यूट्यूबरों का एक समूह है जिसमें सीज़र अगुएरो, पाब्लो डेल्गादो, क्रिस्टियन अगुएरो और सेबास्टियन रोड्रिगेज़ शामिल हैं, जिन्होंने मई 2012 में अपना चैनल शुरू किया। वे पैराग्वे की पहली पीढ़ी के यूट्यूबरों में से हैं और पैराग्वे के रोज़मर्रा जीवन की पैरोडी, व्यंग्य और स्केच के लिए जाने जाते हैं, जिनके फॉलोअर्स मेक्सिको और स्पेन तक फैले हुए हैं।",
+        "zh": "Desoxigenados是一个巴拉圭YouTuber团体,成员包括塞萨尔·阿圭罗、巴布罗·德尔加多、克里斯蒂安·阿圭罗和塞巴斯蒂安·罗德里格斯,该频道于2012年5月开设。他们是巴拉圭第一代YouTuber之一,以恶搞、讽刺短剧和描绘巴拉圭日常生活场景而闻名,粉丝甚至远及墨西哥和西班牙。",
+        "ja": "Desoxigenadosは、セサル・アグエロ、パブロ・デルガド、クリスティアン・アグエロ、セバスティアン・ロドリゲスから成るパラグアイ人YouTuberグループで、2012年5月にチャンネルを開設した。彼らはパラグアイにおける第一世代のYouTuberの一員であり、パラグアイの日常生活を題材にしたパロディ、風刺、コントで知られ、その人気はメキシコやスペインにまで及ぶファンを獲得している。"
+      },
+      "handles": {
+        "youtube": "UCsmyigRzEKngzTQ02AG73Bg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 121000
+        }
+      }
     }
   ]
 }
