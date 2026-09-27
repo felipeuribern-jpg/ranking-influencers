@@ -1,0 +1,81 @@
+{
+  "reviewedAt": "2026-09-26",
+  "accepted": [
+    {
+      "id": "farouk-life",
+      "channelId": "UCv6T1ljYi3CETJ1Jqj1bFMQ",
+      "country": "MA",
+      "countryBasis": "Country configured by channel owner in YouTube snippet.country; not an assertion of citizenship.",
+      "source": "https://www.youtube.com/channel/UCv6T1ljYi3CETJ1Jqj1bFMQ",
+      "fetchedAt": "2026-09-26T16:01:43.566Z",
+      "recentTitles": [
+        "لائحة لاعبين المنتخب الجديدة ! علاش مكاينش أمرابط ؟",
+        "ضروري تفرج قبل ما تشريه ! iPhone18",
+        "أخيرا ميسي و كريستيانو في فريق واحد !؟",
+        "حقيقة شنو واقع في الجزائر !",
+        "شنو الجديد في GTA6 !"
+      ]
+    },
+    {
+      "id": "sara-baknine",
+      "channelId": "UCzU-KdVuh-Am6XowUeBccSQ",
+      "country": "MA",
+      "countryBasis": "Country configured by channel owner in YouTube snippet.country; not an assertion of citizenship.",
+      "source": "https://www.youtube.com/channel/UCzU-KdVuh-Am6XowUeBccSQ",
+      "fetchedAt": "2026-09-26T16:01:43.566Z",
+      "recentTitles": [
+        "رجعت للأمارات 🇦🇪، دخلت الدار لقيت كارثة و هربت للفندق😭",
+        "تلاقيت مع المحامية بخصوص عمل و بخصوص موضوعي الحساس لكن 💔",
+        "أخذتني صديقتي التركية إلى أرخص محل شنط ماركة في إسطنبول ، الأثمنة صدمة😱😱",
+        "بقات أيام معدودة مع ولادي💔، مصيفطتهمش للمدرسة🤭",
+        "كنعتذر منكم على هاد الكلام لكن كنتمنى تفهموني ، أنا أم 💔"
+      ]
+    },
+    {
+      "id": "kim-sun-woo",
+      "channelId": "UCdah9R_MdctHWvtpmqEijbA",
+      "country": "KR",
+      "countryBasis": "Country configured by channel owner in YouTube snippet.country; not an assertion of citizenship.",
+      "source": "https://www.youtube.com/channel/UCdah9R_MdctHWvtpmqEijbA",
+      "fetchedAt": "2026-09-26T16:01:43.566Z",
+      "recentTitles": [
+        "📱100만 인플루언서의 인스타 사진은 이렇게 만들어집니다..🫢 보정 A to Z (꿀팁 한가득₊˚⊹₊ ⋆)",
+        "VLOG l 괌에서 뭐할괌?",
+        "한남동 쇼핑✧˚ ༘ ⋆｡˚하루에 얼마를 쓴거야 .. 🤑 (언박싱까쥐..)",
+        "언니들은 막내가 책임진다…🎂🎁 미삼이 VLOG 🎀💕",
+        "내 픽은 … 더보기"
+      ]
+    },
+    {
+      "id": "togimochi-korea",
+      "channelId": "UC8x_GQsqwLvglizV7xRckpw",
+      "country": "JP",
+      "countryBasis": "Country configured by channel owner in YouTube snippet.country; not an assertion of citizenship.",
+      "source": "https://www.youtube.com/channel/UC8x_GQsqwLvglizV7xRckpw",
+      "fetchedAt": "2026-09-26T16:01:43.566Z",
+      "recentTitles": [
+        "韓国の沼るガーリックパン専門店。",
+        "淡路サービスエリアで絶対食べてほしいやつ。",
+        "セブンの白いミニたい焼きカスタード入りがもちもち簡単美味しい♡",
+        "韓国でもバズったスイーツ！！材料２つで超簡単チーズケーキ風！",
+        "牛乳1パックで大量ヨーグルト♡"
+      ]
+    },
+    {
+      "id": "clarktv",
+      "channelId": "UC8_cYcL4dm_-tCEKlZuMTDg",
+      "country": "KR",
+      "countryBasis": "Country configured by channel owner in YouTube snippet.country; not an assertion of citizenship.",
+      "source": "https://www.youtube.com/channel/UC8_cYcL4dm_-tCEKlZuMTDg",
+      "fetchedAt": "2026-09-26T16:01:43.566Z",
+      "recentTitles": [
+        "미국과 중국이 서로 목숨 걸고 경쟁하고 있는 것들...거기서 나오는 부작용들!",
+        "미·중 정상회담 앞두고 시진핑의 상태...그리고 관전 포인트!",
+        "중국 경제가 각 분야에서 꼬리에 꼬리를 물며 도미노처럼 쓰러지고 있다...!",
+        "중국 결혼 시장에서 도망가는 남자들...그리고 그들을 잡으려고 하는 여자들...!",
+        "중국은 묻지마 범죄가 점점 일어나고 있다! 하지만 정부에서는 조사 결과를 숨기고 있다...!"
+      ]
+    }
+  ],
+  "pendingPolicy": "Other candidates remain queued for review; conflicting or missing channel country and corporate channels were not promoted."
+}

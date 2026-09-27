@@ -1,4 +1,5 @@
 ---
+import { categoriesFor } from "../lib/exploration";
 import type { LanguageCode } from "../../site.config";
 import type { Person } from "../lib/data";
 import { movement } from "../lib/data";
@@ -31,6 +32,7 @@ const countryName = new Intl.DisplayNames([lang], { type: "region" }).of(country
   data-country={person.country}
   data-name={person.name}
   data-topic={topic}
+  data-categories={categoriesFor(person.topic.es).join(" ")}
   data-platform={person.mainPlatform ?? ""}
 >
   <div class="pos">

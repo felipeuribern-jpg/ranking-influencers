@@ -1,0 +1,51 @@
+{
+  "reviewedAt": "2026-09-26",
+  "accepted": [
+    {
+      "id": "junior-mavity",
+      "channelId": "UCWpfFIqc_m_s-HKBm_hHjow",
+      "country": "BO",
+      "countryBasis": "Country configured by channel owner in YouTube snippet.country; not an assertion of citizenship.",
+      "source": "https://www.youtube.com/channel/UCWpfFIqc_m_s-HKBm_hHjow",
+      "fetchedAt": "2026-09-26T22:23:43.494Z",
+      "recentTitles": [
+        "Probado los helados de cocardo!😨 🍧🍑🍓🍌🍋 #frutinovelas #cocardo",
+        "alguien sabe que estoy mirando? 🍧🥥🍌",
+        "ASMR",
+        "Reto del Limón con Sal, quien ganó? 🍋🧂👀",
+        "Chrome cookies Jr 🍪🍬💙"
+      ]
+    },
+    {
+      "id": "aisar-khaledd",
+      "channelId": "UC7T5Nqi1rQM5n01SuQiyjzg",
+      "country": "MY",
+      "countryBasis": "Country configured by channel owner in YouTube snippet.country; not an assertion of citizenship.",
+      "source": "https://www.youtube.com/channel/UC7T5Nqi1rQM5n01SuQiyjzg",
+      "fetchedAt": "2026-09-26T22:23:43.517Z",
+      "recentTitles": [
+        "Cuman budak dari Malaysia yang berbagi kebahagiaan di Indonesia",
+        "Disaat kita tidur nyaman dirumah tapi mereka tidur dipinggir jalan",
+        "Udah sholat belum?",
+        "Harga bukan segalanya, yuk sholat yuk",
+        "Adzan di surau ☪️"
+      ]
+    },
+    {
+      "id": "munzurul-karim",
+      "channelId": "UCJ67_cvHTYmgyfhjkB2o5Aw",
+      "country": "BD",
+      "countryBasis": "Country configured by channel owner in YouTube snippet.country; not an assertion of citizenship.",
+      "source": "https://www.youtube.com/channel/UCJ67_cvHTYmgyfhjkB2o5Aw",
+      "fetchedAt": "2026-09-26T22:23:43.517Z",
+      "recentTitles": [
+        "তারেক রহমান; ১৭ বছরে কতটা বদলেছেন? || TARIQUE RAHMAN",
+        "হুতিরা যেভাবে মধ্যপ্রাচ্যের হিসাব-নিকাশ বদলে দিচ্ছে || প্রেক্ষাপট",
+        "চেতনার বাজার || ৫৫ বছর পরও কেন অতীতে আটকে আছে বাংলাদেশ?",
+        "AI কেন সবাইকে ৮০-এর দশকে ফিরিয়ে নিয়ে যাচ্ছে? | আসল কারণটা কী?",
+        "রাজপথে আওয়ামী লীগের শেষ দৃশ্য? নাকি নতুন শুরুর ইঙ্গিত?"
+      ]
+    }
+  ],
+  "pendingPolicy": "Other candidates remain queued for review; conflicting or missing channel country and corporate channels were not promoted."
+}

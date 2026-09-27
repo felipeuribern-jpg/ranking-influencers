@@ -1,4 +1,5 @@
 ---
+import { interfaceLabels } from "../../../lib/exploration";
 import Layout from "../../../components/Layout.astro";
 import Sparkline from "../../../components/Sparkline.astro";
 import { siteConfig, type LanguageCode } from "../../../../site.config";
@@ -61,8 +62,9 @@ const history = getHistorySeries(person.id, 90);
         <div class:list={["plat", { main: platform === person.mainPlatform }]}>
           <span class="n">{PLATFORM_LABELS[platform]}</span>
           <span class="num">
+            <small class="metric-label">{interfaceLabels[lang][3]}</small>
             {data.followers != null ? formatCompactNumber(data.followers, lang) : "–"}
-            {" · "}
+            <small class="metric-label">{interfaceLabels[lang][4]}</small>
             {data.er != null ? formatPercent(data.er, lang) : t("profile.engagementNA")}
           </span>
           <span class="num">
