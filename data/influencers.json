@@ -12639,6 +12639,578 @@
           "youtube": 121000
         }
       }
+    },
+    {
+      "id": "german-rodezel",
+      "name": "Germán Rodezel",
+      "country": "CR",
+      "topic": {
+        "es": "Videos comentados y humor",
+        "en": "Commentary videos and comedy",
+        "pt": "Vídeos comentados e humor",
+        "fr": "Vidéos commentées et humour",
+        "de": "Kommentar-Videos und Comedy",
+        "ru": "Комментированные видео и юмор",
+        "ar": "فيديوهات تعليقية وكوميديا",
+        "hi": "टिप्पणी वीडियो और हास्य",
+        "zh": "点评视频与喜剧",
+        "ja": "コメンタリー動画とコメディ"
+      },
+      "about": {
+        "es": "Germán Roberto Delgado Zeledón, conocido como Germán Rodezel, nació el 11 de abril de 1999 en San José, Costa Rica. Comenzó de niño jugando con la cámara del celular de su papá y hoy es el youtuber más seguido de su país, con más de 2 millones de suscriptores en su canal principal, donde comenta videos de forma humorística.",
+        "en": "Germán Roberto Delgado Zeledón, known as Germán Rodezel, was born on April 11, 1999 in San José, Costa Rica. He started as a child playing with his father's phone camera and is now his country's most-followed YouTuber, with over 2 million subscribers on his main channel, where he makes humorous commentary videos.",
+        "pt": "Germán Roberto Delgado Zeledón, conhecido como Germán Rodezel, nasceu em 11 de abril de 1999 em San José, Costa Rica. Começou quando criança brincando com a câmera do celular do pai e hoje é o youtuber mais seguido de seu país, com mais de 2 milhões de inscritos em seu canal principal, onde comenta vídeos de forma humorística.",
+        "fr": "Germán Roberto Delgado Zeledón, connu sous le nom de Germán Rodezel, est né le 11 avril 1999 à San José, au Costa Rica. Il a commencé enfant en jouant avec l'appareil photo du téléphone de son père et il est aujourd'hui le youtubeur le plus suivi de son pays, avec plus de 2 millions d'abonnés sur sa chaîne principale, où il commente des vidéos de façon humoristique.",
+        "de": "Germán Roberto Delgado Zeledón, bekannt als Germán Rodezel, wurde am 11. April 1999 in San José, Costa Rica, geboren. Als Kind spielte er mit der Handykamera seines Vaters, und heute ist er der meistabonnierte YouTuber seines Landes mit über 2 Millionen Abonnenten auf seinem Hauptkanal, wo er humorvolle Kommentarvideos veröffentlicht.",
+        "ru": "Херман Роберто Дельгадо Селедон, известный как Херман Родесель, родился 11 апреля 1999 года в Сан-Хосе, Коста-Рика. В детстве он играл с камерой телефона своего отца, а сегодня он самый популярный ютубер своей страны с более чем 2 миллионами подписчиков на основном канале, где он делает юмористические комментарии к видео.",
+        "ar": "جيرمان روبرتو دلغادو زيليدون، المعروف باسم جيرمان روديزيل، وُلد في 11 أبريل 1999 في سان خوسيه، كوستاريكا. بدأ وهو طفل يلعب بكاميرا هاتف والده، واليوم هو أكثر يوتيوبر متابعة في بلاده، بأكثر من مليوني مشترك في قناته الرئيسية حيث يقدم فيديوهات تعليقية فكاهية.",
+        "hi": "जर्मन रॉबर्टो डेलगाडो सेलेडोन, जिन्हें जर्मन रोडेज़ेल के नाम से जाना जाता है, का जन्म 11 अप्रैल 1999 को सैन जोस, कोस्टा रिका में हुआ था। उन्होंने बचपन में अपने पिता के फोन कैमरे से खेलना शुरू किया और आज वे अपने देश के सबसे अधिक फॉलो किए जाने वाले यूट्यूबर हैं, जिनके मुख्य चैनल पर 20 लाख से अधिक सब्सक्राइबर हैं, जहां वे हास्यपूर्ण कमेंट्री वीडियो बनाते हैं।",
+        "zh": "赫尔曼·罗伯托·德尔加多·塞莱东,艺名赫尔曼·罗德塞尔,1999年4月11日出生于哥斯达黎加圣何塞。他小时候就喜欢摆弄父亲手机的摄像头,如今是该国订阅人数最多的油管主播,主频道拥有超过两百万订阅者,以幽默的点评视频著称。",
+        "ja": "ヘルマン・ロベルト・デルガド・セレドン、通称ヘルマン・ロデセルは1999年4月11日、コスタリカのサンホセで生まれた。子供の頃に父親の携帯電話のカメラで遊び始め、現在では自国で最も登録者数の多いユーチューバーとなり、メインチャンネルには200万人以上の登録者がいて、ユーモラスなコメンタリー動画を制作している。"
+      },
+      "handles": {
+        "youtube": "UCj8-o-AOsl6elcsjVDAc1JA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2030000
+        }
+      }
+    },
+    {
+      "id": "steven-zamora",
+      "name": "Steven Zamora",
+      "country": "CR",
+      "topic": {
+        "es": "Finanzas personales e inversión",
+        "en": "Personal finance and investing",
+        "pt": "Finanças pessoais e investimentos",
+        "fr": "Finances personnelles et investissement",
+        "de": "Persönliche Finanzen und Investitionen",
+        "ru": "Личные финансы и инвестиции",
+        "ar": "التمويل الشخصي والاستثمار",
+        "hi": "व्यक्तिगत वित्त और निवेश",
+        "zh": "个人理财与投资",
+        "ja": "個人金融と投資"
+      },
+      "about": {
+        "es": "Steven Zamora es un exbanquero costarricense radicado en San José que se convirtió en entrenador financiero, enseñando en su canal de YouTube y otras redes cómo salir de deudas e invertir en bolsa de valores. Ha capacitado a más de 37,000 estudiantes en 34 países a través de sus programas como 'Misión Inversión'.",
+        "en": "Steven Zamora is a former banker from San José, Costa Rica, who became a financial trainer, teaching on his YouTube channel and other networks how to get out of debt and invest in the stock market. He has trained more than 37,000 students in 34 countries through programs such as 'Misión Inversión'.",
+        "pt": "Steven Zamora é um ex-bancário costarriquenho radicado em San José que se tornou treinador financeiro, ensinando em seu canal do YouTube e outras redes como sair das dívidas e investir na bolsa de valores. Ele já treinou mais de 37.000 alunos em 34 países por meio de programas como 'Misión Inversión'.",
+        "fr": "Steven Zamora est un ancien banquier costaricien basé à San José, devenu formateur financier, enseignant sur sa chaîne YouTube et d'autres réseaux comment sortir de l'endettement et investir en bourse. Il a formé plus de 37 000 étudiants dans 34 pays grâce à des programmes comme 'Misión Inversión'.",
+        "de": "Steven Zamora ist ein ehemaliger Bankangestellter aus San José, Costa Rica, der zum Finanztrainer wurde und auf seinem YouTube-Kanal und anderen Netzwerken lehrt, wie man Schulden loswird und in die Börse investiert. Er hat über 37.000 Studenten in 34 Ländern durch Programme wie 'Misión Inversión' geschult.",
+        "ru": "Стивен Самора — бывший банкир из Сан-Хосе, Коста-Рика, ставший финансовым тренером; на своём YouTube-канале и в других сетях он учит, как избавиться от долгов и инвестировать в фондовый рынок. Он обучил более 37 000 студентов в 34 странах через программы вроде 'Misión Inversión'.",
+        "ar": "ستيفن سامورا هو مصرفي سابق من سان خوسيه، كوستاريكا، تحول إلى مدرب مالي، يعلّم على قناته على يوتيوب وشبكات أخرى كيفية التخلص من الديون والاستثمار في سوق الأسهم. دَرَّب أكثر من 37000 طالب في 34 دولة من خلال برامج مثل 'Misión Inversión'.",
+        "hi": "स्टीवन ज़मोरा सैन जोस, कोस्टा रिका के एक पूर्व बैंकर हैं जो वित्तीय प्रशिक्षक बन गए, अपने यूट्यूब चैनल और अन्य नेटवर्क पर सिखाते हैं कि कर्ज से कैसे बाहर निकलें और शेयर बाजार में निवेश कैसे करें। उन्होंने 'मिशन इनवर्जन' जैसे कार्यक्रमों के माध्यम से 34 देशों में 37,000 से अधिक छात्रों को प्रशिक्षित किया है।",
+        "zh": "史蒂文·萨莫拉是来自哥斯达黎加圣何塞的前银行家,后成为理财教练,在其YouTube频道及其他社交平台上教授如何摆脱债务并投资股市。他通过“投资使命”等课程,已在34个国家培训了超过37,000名学员。",
+        "ja": "スティーブン・サモラはコスタリカのサンホセ出身の元銀行員で、財務トレーナーに転身し、自身のYouTubeチャンネルなどで借金から抜け出す方法や株式投資の方法を教えている。「ミシオン・インベルシオン」などのプログラムを通じて、34カ国で3万7000人以上の生徒を指導してきた。"
+      },
+      "handles": {
+        "youtube": "UCjCs60EQ1EdjemnAGhPNQHA",
+        "tiktok": "entrenador.financiero",
+        "instagram": "entrenadorfinanciero.cr",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 378000
+        }
+      }
+    },
+    {
+      "id": "toledo-again",
+      "name": "Toledo Again",
+      "country": "CR",
+      "topic": {
+        "es": "Música reggae y podcast",
+        "en": "Reggae music and podcast",
+        "pt": "Música reggae e podcast",
+        "fr": "Musique reggae et podcast",
+        "de": "Reggae-Musik und Podcast",
+        "ru": "Регги-музыка и подкаст",
+        "ar": "موسيقى الريغي والبودكاست",
+        "hi": "रेगे संगीत और पॉडकास्ट",
+        "zh": "雷鬼音乐与播客",
+        "ja": "レゲエ音楽とポッドキャスト"
+      },
+      "about": {
+        "es": "Toledo Again nació en Londres, Inglaterra, y emigró de niño a Costa Rica junto a su familia. Es un artista de reggae en spanglish y cofundador de los podcasts 'Los Gordos Podcast' y 'Los Gordos Monchies'. En su canal de YouTube, con más de 140,000 suscriptores, publica su música y contenido junto a su sello independiente Ruff & Tuff Entertainment, fundado con su hermano.",
+        "en": "Toledo Again was born in London, England, and emigrated as a child to Costa Rica with his family. He is a Spanglish reggae artist and co-founder of the podcasts 'Los Gordos Podcast' and 'Los Gordos Monchies'. On his YouTube channel, with more than 140,000 subscribers, he posts his music and content alongside his independent label Ruff & Tuff Entertainment, founded with his brother.",
+        "pt": "Toledo Again nasceu em Londres, Inglaterra, e emigrou quando criança para a Costa Rica com sua família. É um artista de reggae em spanglish e cofundador dos podcasts 'Los Gordos Podcast' e 'Los Gordos Monchies'. Em seu canal do YouTube, com mais de 140.000 inscritos, publica sua música e conteúdo junto ao seu selo independente Ruff & Tuff Entertainment, fundado com seu irmão.",
+        "fr": "Toledo Again est né à Londres, en Angleterre, et a émigré enfant au Costa Rica avec sa famille. C'est un artiste de reggae spanglish et cofondateur des podcasts 'Los Gordos Podcast' et 'Los Gordos Monchies'. Sur sa chaîne YouTube, forte de plus de 140 000 abonnés, il publie sa musique et son contenu aux côtés de son label indépendant Ruff & Tuff Entertainment, fondé avec son frère.",
+        "de": "Toledo Again wurde in London, England, geboren und wanderte als Kind mit seiner Familie nach Costa Rica aus. Er ist ein Spanglish-Reggae-Künstler und Mitbegründer der Podcasts 'Los Gordos Podcast' und 'Los Gordos Monchies'. Auf seinem YouTube-Kanal mit über 140.000 Abonnenten veröffentlicht er seine Musik und Inhalte zusammen mit seinem unabhängigen Label Ruff & Tuff Entertainment, das er mit seinem Bruder gegründet hat.",
+        "ru": "Толедо Эгейн родился в Лондоне, Англия, и в детстве вместе с семьёй эмигрировал в Коста-Рику. Он исполнитель регги на спанглише и соучредитель подкастов 'Los Gordos Podcast' и 'Los Gordos Monchies'. На его YouTube-канале с более чем 140 000 подписчиков он публикует свою музыку и контент вместе со своим независимым лейблом Ruff & Tuff Entertainment, основанным с братом.",
+        "ar": "وُلد توليدو أغين في لندن، إنجلترا، وهاجر وهو طفل مع عائلته إلى كوستاريكا. هو فنان ريغي بأسلوب سبانغليش ومؤسس مشارك لبودكاست 'Los Gordos Podcast' و'Los Gordos Monchies'. على قناته على يوتيوب التي تضم أكثر من 140 ألف مشترك، ينشر موسيقاه ومحتواه إلى جانب شركته المستقلة Ruff & Tuff Entertainment التي أسسها مع شقيقه.",
+        "hi": "टोलेडो अगेन का जन्म लंदन, इंग्लैंड में हुआ था और बचपन में वे अपने परिवार के साथ कोस्टा रिका आ गए। वे स्पैंग्लिश रेगे कलाकार हैं और 'लॉस गॉर्डोस पॉडकास्ट' तथा 'लॉस गॉर्डोस मोंचीज़' पॉडकास्ट के सह-संस्थापक हैं। उनके यूट्यूब चैनल पर, जिसमें 140,000 से अधिक सब्सक्राइबर हैं, वे अपने भाई के साथ स्थापित स्वतंत्र लेबल रफ एंड टफ एंटरटेनमेंट के साथ अपना संगीत और सामग्री प्रकाशित करते हैं।",
+        "zh": "托莱多·阿盖恩出生于英国伦敦,儿时随家人移民哥斯达黎加。他是一位西班牙式英语雷鬼歌手,也是播客《Los Gordos Podcast》和《Los Gordos Monchies》的联合创始人。他的YouTube频道拥有超过14万订阅者,发布他的音乐和内容,并与他和兄弟共同创立的独立厂牌Ruff & Tuff Entertainment合作。",
+        "ja": "トレド・アゲインはイギリスのロンドンで生まれ、幼少期に家族とともにコスタリカへ移住した。スパングリッシュ・レゲエのアーティストであり、ポッドキャスト「ロス・ゴルドス・ポッドキャスト」と「ロス・ゴルドス・モンチーズ」の共同創設者でもある。14万人以上の登録者を持つ彼のYouTubeチャンネルでは、兄弟と設立した独立レーベルRuff & Tuff Entertainmentとともに音楽やコンテンツを公開している。"
+      },
+      "handles": {
+        "youtube": "UC5fKvVYBMIUAGzx9BjKcThQ",
+        "tiktok": "toledoagainoficial",
+        "instagram": "toledoagain",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 143000
+        }
+      }
+    },
+    {
+      "id": "ricardo-vargas",
+      "name": "Ricardo Vargas",
+      "country": "CR",
+      "topic": {
+        "es": "DJ y mezclas de música",
+        "en": "DJ and music mixes",
+        "pt": "DJ e mixagens musicais",
+        "fr": "DJ et mixes musicaux",
+        "de": "DJ und Musik-Mixe",
+        "ru": "DJ и музыкальные миксы",
+        "ar": "دي جي ومزيج موسيقي",
+        "hi": "डीजे और संगीत मिक्स",
+        "zh": "DJ与音乐混音",
+        "ja": "DJと音楽ミックス"
+      },
+      "about": {
+        "es": "Ricardo Vargas es un DJ costarricense con más de 10 años de trayectoria que comenzó a mezclar música en 2004, inicialmente usando software de computadora y un mouse. En su canal de YouTube, con cerca de 680,000 suscriptores, comparte mezclas de reggaetón, electrónica, hip hop, salsa y pop latino, buscando 'llevar la mejor música a cada rincón del mundo'.",
+        "en": "Ricardo Vargas is a Costa Rican DJ with more than 10 years of experience who started mixing music in 2004, initially using computer software and a mouse. On his YouTube channel, with nearly 680,000 subscribers, he shares mixes spanning reggaeton, electronic, hip hop, salsa, and Latin pop, aiming to 'bring the best music to every corner of the world'.",
+        "pt": "Ricardo Vargas é um DJ costarriquenho com mais de 10 anos de carreira que começou a mixar música em 2004, inicialmente usando software de computador e um mouse. Em seu canal do YouTube, com quase 680.000 inscritos, ele compartilha mixagens de reggaeton, eletrônica, hip hop, salsa e pop latino, buscando 'levar a melhor música a cada canto do mundo'.",
+        "fr": "Ricardo Vargas est un DJ costaricien avec plus de 10 ans d'expérience qui a commencé à mixer de la musique en 2004, initialement avec un logiciel informatique et une souris. Sur sa chaîne YouTube, forte de près de 680 000 abonnés, il partage des mixes de reggaeton, électro, hip hop, salsa et pop latino, avec l'ambition d'« apporter la meilleure musique à chaque coin du monde ».",
+        "de": "Ricardo Vargas ist ein costa-ricanischer DJ mit über 10 Jahren Erfahrung, der 2004 begann, Musik zu mixen, zunächst mit Computersoftware und einer Maus. Auf seinem YouTube-Kanal mit fast 680.000 Abonnenten teilt er Mixe aus Reggaeton, Elektro, Hip-Hop, Salsa und lateinamerikanischem Pop mit dem Ziel, 'die beste Musik in jeden Winkel der Welt zu bringen'.",
+        "ru": "Рикардо Варгас — коста-риканский диджей с более чем 10-летним опытом, который начал сводить музыку в 2004 году, изначально используя компьютерную программу и мышь. На его YouTube-канале с почти 680 000 подписчиков он делится миксами регги-тона, электроники, хип-хопа, сальсы и латиноамериканской поп-музыки, стремясь «донести лучшую музыку до каждого уголка мира».",
+        "ar": "ريكاردو فارغاس هو دي جي كوستاريكي يتمتع بخبرة تفوق 10 سنوات، بدأ مزج الموسيقى عام 2004، مستخدمًا في البداية برنامج كمبيوتر وفأرة. على قناته على يوتيوب التي تضم ما يقارب 680 ألف مشترك، يشارك مزيجات من الريغيتون والإلكترونية والهيب هوب والسالسا والبوب اللاتيني، ساعيًا إلى 'إيصال أفضل موسيقى إلى كل ركن من أركان العالم'.",
+        "hi": "रिकार्डो वर्गास एक कोस्टा रिकान डीजे हैं जिनके पास 10 वर्षों से अधिक का अनुभव है और उन्होंने 2004 में संगीत मिक्स करना शुरू किया, शुरुआत में कंप्यूटर सॉफ्टवेयर और माउस का उपयोग करके। उनके यूट्यूब चैनल पर, जिसमें लगभग 680,000 सब्सक्राइबर हैं, वे रेगेटन, इलेक्ट्रॉनिक, हिप हॉप, साल्सा और लैटिन पॉप की मिक्स साझा करते हैं, जिनका लक्ष्य 'दुनिया के हर कोने में सबसे अच्छा संगीत पहुंचाना' है।",
+        "zh": "里卡多·巴尔加斯是一位拥有十多年经验的哥斯达黎加DJ,他于2004年开始混音,最初使用电脑软件和鼠标操作。在他拥有近68万订阅者的YouTube频道上,他分享雷鬼顿、电子、嘻哈、萨尔萨和拉丁流行等风格的混音,致力于「把最好的音乐带到世界每个角落」。",
+        "ja": "リカルド・バルガスは10年以上のキャリアを持つコスタリカ人DJで、2004年にコンピューターソフトとマウスを使ってミキシングを始めた。登録者数約68万人の彼のYouTubeチャンネルでは、レゲトン、エレクトロニック、ヒップホップ、サルサ、ラテンポップのミックスを公開し、「世界の隅々まで最高の音楽を届ける」ことを目指している。"
+      },
+      "handles": {
+        "youtube": "UCGUgrZCBPiIjlBumpdc_GbQ",
+        "tiktok": null,
+        "instagram": "djricardovargas",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 699000
+        }
+      }
+    },
+    {
+      "id": "zeinab-harake",
+      "name": "Zeinab Harake",
+      "country": "PH",
+      "topic": {
+        "es": "Vlogs de estilo de vida, comedia y entretenimiento",
+        "en": "Lifestyle vlogs, comedy and entertainment",
+        "pt": "Vlogs de estilo de vida, comédia e entretenimento",
+        "fr": "Vlogs lifestyle, comédie et divertissement",
+        "de": "Lifestyle-Vlogs, Comedy und Unterhaltung",
+        "ru": "Влоги о жизни, комедия и развлечения",
+        "ar": "فلوجات نمط الحياة والكوميديا والترفيه",
+        "hi": "लाइफस्टाइल व्लॉग, कॉमेडी और मनोरंजन",
+        "zh": "生活方式视频、喜剧与娱乐内容",
+        "ja": "ライフスタイルVlog、コメディ、エンタメ"
+      },
+      "about": {
+        "es": "Nacida el 11 de diciembre de 1998 en Bacoor, Cavite, Filipinas, es una creadora filipino-libanesa que lanzó su canal de YouTube en 2019 y alcanzó 6 millones de suscriptores en su primer año. En 2023 debutó como actriz en la película de terror \"Kampon\" del Festival de Cine de Metro Manila.",
+        "en": "Born on December 11, 1998, in Bacoor, Cavite, Philippines, she is a Filipino-Lebanese creator who launched her YouTube channel in 2019 and reached 6 million subscribers within her first year. In 2023 she made her acting debut in the horror film \"Kampon\" at the Metro Manila Film Festival.",
+        "pt": "Nascida em 11 de dezembro de 1998, em Bacoor, Cavite, Filipinas, é uma criadora filipino-libanesa que lançou seu canal no YouTube em 2019 e alcançou 6 milhões de inscritos em seu primeiro ano. Em 2023 estreou como atriz no filme de terror \"Kampon\" no Festival de Cinema de Metro Manila.",
+        "fr": "Née le 11 décembre 1998 à Bacoor, Cavite, aux Philippines, elle est une créatrice philippino-libanaise qui a lancé sa chaîne YouTube en 2019 et a atteint 6 millions d'abonnés dès sa première année. En 2023, elle a fait ses débuts d'actrice dans le film d'horreur \"Kampon\" au Festival du film de Metro Manila.",
+        "de": "Geboren am 11. Dezember 1998 in Bacoor, Cavite, Philippinen, ist sie eine philippinisch-libanesische Creatorin, die 2019 ihren YouTube-Kanal startete und im ersten Jahr 6 Millionen Abonnenten erreichte. 2023 gab sie ihr Schauspieldebüt im Horrorfilm \"Kampon\" beim Metro Manila Film Festival.",
+        "ru": "Родилась 11 декабря 1998 года в Бакоре, Кавите, Филиппины. Филиппино-ливанская создательница контента, запустившая канал на YouTube в 2019 году и набравшая 6 миллионов подписчиков за первый год. В 2023 году дебютировала как актриса в фильме ужасов \"Kampon\" на кинофестивале Metro Manila.",
+        "ar": "وُلدت في 11 ديسمبر 1998 في باكور، كافيتي، الفلبين. صانعة محتوى فلبينية لبنانية أطلقت قناتها على يوتيوب عام 2019 ووصلت إلى 6 ملايين مشترك خلال عامها الأول. في عام 2023 قدمت أول أدوارها التمثيلية في فيلم الرعب \"Kampon\" ضمن مهرجان مانيلا الكبرى للأفلام.",
+        "hi": "11 दिसंबर 1998 को फिलीपींस के बाकूर, कैविते में जन्मीं, वे एक फिलिपिनो-लेबनानी क्रिएटर हैं जिन्होंने 2019 में अपना यूट्यूब चैनल शुरू किया और पहले ही साल में 60 लाख सब्सक्राइबर हासिल किए। 2023 में उन्होंने मेट्रो मनीला फिल्म फेस्टिवल की हॉरर फिल्म \"Kampon\" से अभिनय में पदार्पण किया।",
+        "zh": "1998年12月11日出生于菲律宾甲米地省八瓯市,是一位菲律宾裔黎巴嫩裔创作者。她于2019年开设YouTube频道,第一年即获得600万订阅者。2023年,她在大马尼拉电影节的恐怖片《Kampon》中完成演员首秀。",
+        "ja": "1998年12月11日、フィリピンのカビテ州バコールで生まれたフィリピン系レバノン人クリエイター。2019年にYouTubeチャンネルを開設し、初年度で600万人の登録者を獲得した。2023年にはメトロマニラ映画祭のホラー映画「Kampon」で女優デビューを果たした。"
+      },
+      "handles": {
+        "youtube": "UC-j7tR3DhEt85EM9HbvxXqA",
+        "tiktok": null,
+        "instagram": "zeinab_harake",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 15500000
+        }
+      }
+    },
+    {
+      "id": "alex-gonzaga",
+      "name": "Alex Gonzaga",
+      "country": "PH",
+      "topic": {
+        "es": "Comedia, vlogs y entretenimiento",
+        "en": "Comedy, vlogs and entertainment",
+        "pt": "Comédia, vlogs e entretenimento",
+        "fr": "Comédie, vlogs et divertissement",
+        "de": "Comedy, Vlogs und Unterhaltung",
+        "ru": "Комедия, влоги и развлечения",
+        "ar": "الكوميديا والفلوجات والترفيه",
+        "hi": "कॉमेडी, व्लॉग और मनोरंजन",
+        "zh": "喜剧、视频博客与娱乐内容",
+        "ja": "コメディ、Vlog、エンタメ"
+      },
+      "about": {
+        "es": "Nacida el 16 de enero de 1988 en Taytay, Rizal, Filipinas, con el nombre Catherine Cruz Gonzaga, es actriz y presentadora de televisión filipina que en 2017 lanzó el canal \"Alex Gonzaga Official\", centrado en comedia, tras una carrera consolidada en cine y TV.",
+        "en": "Born on January 16, 1988, in Taytay, Rizal, Philippines, as Catherine Cruz Gonzaga, she is a Filipino actress and TV host who launched her \"Alex Gonzaga Official\" comedy-focused YouTube channel in 2017 after an already established film and television career.",
+        "pt": "Nascida em 16 de janeiro de 1988, em Taytay, Rizal, Filipinas, com o nome Catherine Cruz Gonzaga, é atriz e apresentadora de TV filipina que lançou em 2017 o canal \"Alex Gonzaga Official\", focado em comédia, após uma carreira já consolidada em cinema e televisão.",
+        "fr": "Née le 16 janvier 1988 à Taytay, Rizal, aux Philippines, sous le nom de Catherine Cruz Gonzaga, elle est actrice et animatrice de télévision philippine qui a lancé en 2017 sa chaîne YouTube \"Alex Gonzaga Official\", axée sur la comédie, après une carrière déjà établie au cinéma et à la télévision.",
+        "de": "Geboren am 16. Januar 1988 in Taytay, Rizal, Philippinen, als Catherine Cruz Gonzaga, ist sie eine philippinische Schauspielerin und TV-Moderatorin, die 2017 ihren auf Comedy ausgerichteten YouTube-Kanal \"Alex Gonzaga Official\" startete, nachdem sie bereits eine etablierte Film- und Fernsehkarriere hatte.",
+        "ru": "Родилась 16 января 1988 года в Тайтае, Рисаль, Филиппины, под именем Кэтрин Крус Гонзага. Филиппинская актриса и телеведущая, запустившая в 2017 году комедийный канал \"Alex Gonzaga Official\" на YouTube, уже имея устоявшуюся карьеру в кино и на телевидении.",
+        "ar": "وُلدت في 16 يناير 1988 في تايتاي، ريزال، الفلبين، باسم كاثرين كروز غونزاغا. ممثلة ومقدمة تلفزيونية فلبينية أطلقت عام 2017 قناتها الكوميدية على يوتيوب \"Alex Gonzaga Official\" بعد مسيرة راسخة في السينما والتلفزيون.",
+        "hi": "16 जनवरी 1988 को फिलीपींस के टेटे, रिजाल में कैथरीन क्रूज़ गोंज़ागा के नाम से जन्मीं, वे एक फिलिपिनो अभिनेत्री और टीवी होस्ट हैं जिन्होंने पहले से स्थापित फिल्म व टेलीविज़न करियर के बाद 2017 में कॉमेडी-केंद्रित यूट्यूब चैनल \"Alex Gonzaga Official\" शुरू किया।",
+        "zh": "1988年1月16日出生于菲律宾黎刹省泰泰市,本名凯瑟琳·克鲁兹·冈萨加,是菲律宾女演员兼电视主持人。在已拥有稳固影视事业的基础上,她于2017年开设以喜剧为主的YouTube频道\"Alex Gonzaga Official\"。",
+        "ja": "1988年1月16日、フィリピンのリサール州タイタイでキャサリン・クルーズ・ゴンザガとして生まれた。フィリピンの女優兼テレビ司会者で、映画・テレビでのキャリアを既に確立した後、2017年にコメディ中心のYouTubeチャンネル「Alex Gonzaga Official」を開設した。"
+      },
+      "handles": {
+        "youtube": "UC6N-9Wh0DYhDI8sQS7jwjVA",
+        "tiktok": null,
+        "instagram": "cathygonzaga",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 15500000
+        }
+      }
+    },
+    {
+      "id": "ivana-alawi",
+      "name": "Ivana Alawi",
+      "country": "PH",
+      "topic": {
+        "es": "Belleza, estilo de vida y entretenimiento",
+        "en": "Beauty, lifestyle and entertainment",
+        "pt": "Beleza, estilo de vida e entretenimento",
+        "fr": "Beauté, style de vie et divertissement",
+        "de": "Beauty, Lifestyle und Unterhaltung",
+        "ru": "Красота, стиль жизни и развлечения",
+        "ar": "الجمال ونمط الحياة والترفيه",
+        "hi": "ब्यूटी, लाइफस्टाइल और मनोरंजन",
+        "zh": "美妆、生活方式与娱乐内容",
+        "ja": "ビューティー、ライフスタイル、エンタメ"
+      },
+      "about": {
+        "es": "Nacida el 25 de diciembre de 1996 en Filipinas con el nombre Mariam Sayed Sameer Marbella Al-Alawi, es actriz y modelo filipino-marroquí que lanzó su canal homónimo en YouTube en 2019 y se convirtió en la personalidad filipina con más suscriptores en la plataforma, reconocida por Google como Top Content Creator en Filipinas.",
+        "en": "Born on December 25, 1996, in the Philippines as Mariam Sayed Sameer Marbella Al-Alawi, she is a Filipino-Moroccan actress and model who launched her self-titled YouTube channel in 2019 and became the most-subscribed Filipino personality on the platform, recognized by Google as a Top Content Creator in the Philippines.",
+        "pt": "Nascida em 25 de dezembro de 1996, nas Filipinas, com o nome Mariam Sayed Sameer Marbella Al-Alawi, é atriz e modelo filipino-marroquina que lançou seu canal homônimo no YouTube em 2019 e se tornou a personalidade filipina com mais inscritos na plataforma, reconhecida pelo Google como Top Content Creator nas Filipinas.",
+        "fr": "Née le 25 décembre 1996 aux Philippines sous le nom de Mariam Sayed Sameer Marbella Al-Alawi, elle est actrice et mannequin philippino-marocaine qui a lancé sa chaîne YouTube éponyme en 2019 et est devenue la personnalité philippine la plus abonnée de la plateforme, reconnue par Google comme Top Content Creator aux Philippines.",
+        "de": "Geboren am 25. Dezember 1996 auf den Philippinen als Mariam Sayed Sameer Marbella Al-Alawi, ist sie eine philippinisch-marokkanische Schauspielerin und Model, die 2019 ihren gleichnamigen YouTube-Kanal startete und zur meistabonnierten philippinischen Persönlichkeit der Plattform wurde, von Google als Top Content Creator auf den Philippinen ausgezeichnet.",
+        "ru": "Родилась 25 декабря 1996 года на Филиппинах под именем Мариам Сайед Самир Марбелья Аль-Алави. Филиппино-марокканская актриса и модель, запустившая одноимённый канал на YouTube в 2019 году и ставшая самой популярной по числу подписчиков филиппинской личностью на платформе, признанная Google Top Content Creator на Филиппинах.",
+        "ar": "وُلدت في 25 ديسمبر 1996 في الفلبين باسم مريم سيد سمير ماربيلا العلوي. ممثلة وعارضة أزياء فلبينية مغربية أطلقت قناتها الخاصة على يوتيوب عام 2019 وأصبحت الشخصية الفلبينية الأكثر اشتراكًا على المنصة، وحصلت على تقدير من غوغل كأفضل صانعة محتوى في الفلبين.",
+        "hi": "25 दिसंबर 1996 को फिलीपींस में मरियम सईद समीर मार्बेला अल-अलावी के नाम से जन्मीं, वे एक फिलिपिनो-मोरक्कन अभिनेत्री और मॉडल हैं जिन्होंने 2019 में अपने नाम पर यूट्यूब चैनल शुरू किया और प्लेटफ़ॉर्म पर सबसे अधिक सब्सक्राइबर वाली फिलिपिनो हस्ती बनीं, गूगल द्वारा फिलीपींस में टॉप कंटेंट क्रिएटर के रूप में मान्यता प्राप्त।",
+        "zh": "1996年12月25日出生于菲律宾,本名玛丽亚姆·赛义德·萨米尔·马尔贝拉·阿拉维,是菲律宾裔摩洛哥女演员兼模特。她于2019年开设同名YouTube频道,成为该平台订阅人数最多的菲律宾名人,并获谷歌认可为菲律宾顶级内容创作者。",
+        "ja": "1996年12月25日、フィリピンでマリアム・サイード・サミール・マルベラ・アル・アラウィとして生まれた、フィリピン系モロッコ人の女優兼モデル。2019年に自身の名を冠したYouTubeチャンネルを開設し、同プラットフォームでフィリピン人として最多の登録者数を誇る存在となり、Googleからフィリピンのトップコンテンツクリエイターとして表彰された。"
+      },
+      "handles": {
+        "youtube": "UCypeLkg3Ne5-LIyiB41b1GQ",
+        "tiktok": "ivanaalawi",
+        "instagram": "ivanaalawi",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 21200000
+        }
+      }
+    },
+    {
+      "id": "wil-dasovich",
+      "name": "Wil Dasovich",
+      "country": "PH",
+      "topic": {
+        "es": "Viajes, comedia y vlogs de estilo de vida",
+        "en": "Travel, comedy and lifestyle vlogs",
+        "pt": "Viagens, comédia e vlogs de estilo de vida",
+        "fr": "Voyage, comédie et vlogs lifestyle",
+        "de": "Reisen, Comedy und Lifestyle-Vlogs",
+        "ru": "Путешествия, комедия и влоги о жизни",
+        "ar": "السفر والكوميديا وفلوجات نمط الحياة",
+        "hi": "यात्रा, कॉमेडी और लाइफस्टाइल व्लॉग",
+        "zh": "旅行、喜剧与生活方式视频",
+        "ja": "旅行、コメディ、ライフスタイルVlog"
+      },
+      "about": {
+        "es": "Nacido el 26 de agosto de 1991 en Novato, California, con el nombre Wil Lising Dasovich, es un vlogger filipino-estadounidense que se radicó en Filipinas tras graduarse de la universidad en 2013. Comenzó a subir videos en 2014 y alcanzó notoriedad con clips en los que su padre hablaba \"swardspeak\", el argot gay filipino.",
+        "en": "Born on August 26, 1991, in Novato, California, as Wil Lising Dasovich, he is a Filipino-American vlogger who settled in the Philippines after graduating from college in 2013. He began posting videos in 2014 and gained recognition through clips of his father speaking Swardspeak, Filipino gay slang.",
+        "pt": "Nascido em 26 de agosto de 1991, em Novato, Califórnia, com o nome Wil Lising Dasovich, é um vlogger filipino-americano que se radicou nas Filipinas após se formar na faculdade em 2013. Começou a postar vídeos em 2014 e ganhou reconhecimento com vídeos em que seu pai falava swardspeak, a gíria gay filipina.",
+        "fr": "Né le 26 août 1991 à Novato, en Californie, sous le nom de Wil Lising Dasovich, il est un vlogueur philippino-américain installé aux Philippines après avoir obtenu son diplôme universitaire en 2013. Il a commencé à publier des vidéos en 2014 et s'est fait connaître grâce à des clips où son père parlait le swardspeak, l'argot gay philippin.",
+        "de": "Geboren am 26. August 1991 in Novato, Kalifornien, als Wil Lising Dasovich, ist er ein philippinisch-amerikanischer Vlogger, der sich nach seinem Studienabschluss 2013 auf den Philippinen niederließ. Er begann 2014 mit dem Hochladen von Videos und wurde durch Clips bekannt, in denen sein Vater Swardspeak, den philippinischen Schwulenslang, sprach.",
+        "ru": "Родился 26 августа 1991 года в Новато, Калифорния, под именем Уил Лисинг Дасович. Филиппино-американский влогер, поселившийся на Филиппинах после окончания университета в 2013 году. Начал выкладывать видео в 2014 году и приобрёл известность благодаря роликам, где его отец говорил на свордспике — филиппинском гей-сленге.",
+        "ar": "وُلد في 26 أغسطس 1991 في نوفاتو، كاليفورنيا، باسم ويل ليسينغ داسوفيتش. مدون فيديو فلبيني أمريكي استقر في الفلبين بعد تخرجه من الجامعة عام 2013. بدأ نشر الفيديوهات عام 2014 واكتسب شهرة من خلال مقاطع كان فيها والده يتحدث بلغة \"سوارد سبيك\"، وهي عامية المثليين الفلبينية.",
+        "hi": "26 अगस्त 1991 को कैलिफ़ोर्निया के नोवाटो में विल लाइज़िंग डासोविच के नाम से जन्मे, वे एक फिलिपिनो-अमेरिकी व्लॉगर हैं जो 2013 में कॉलेज से स्नातक होने के बाद फिलीपींस में बस गए। उन्होंने 2014 में वीडियो पोस्ट करना शुरू किया और उन क्लिप्स से पहचान पाई जिनमें उनके पिता फिलिपिनो गे स्लैंग \"स्वार्डस्पीक\" बोलते थे।",
+        "zh": "1991年8月26日出生于加利福尼亚州诺瓦托,本名维尔·利辛·达索维奇。他是菲律宾裔美国视频博主,于2013年大学毕业后定居菲律宾。他于2014年开始发布视频,并因父亲讲菲律宾同志俚语\"swardspeak\"的片段而走红。",
+        "ja": "1991年8月26日、カリフォルニア州ノヴァトでウィル・リシング・ダソヴィッチとして生まれた。フィリピン系アメリカ人のVlogger で、2013年の大学卒業後にフィリピンに定住した。2014年から動画投稿を始め、父親がフィリピンのゲイスラング「スワードスピーク」を話す動画で注目を集めた。"
+      },
+      "handles": {
+        "youtube": "UCSir19L_390tAg4IbCggvCg",
+        "tiktok": null,
+        "instagram": "wil_dasovich",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2700000
+        }
+      }
+    },
+    {
+      "id": "mimiyuuuh",
+      "name": "Mimiyuuuh",
+      "country": "PH",
+      "topic": {
+        "es": "Comedia, vlogs y moda",
+        "en": "Comedy, vlogging and fashion",
+        "pt": "Comédia, vlogs e moda",
+        "fr": "Comédie, vlogs et mode",
+        "de": "Comedy, Vlogging und Mode",
+        "ru": "Комедия, влоги и мода",
+        "ar": "الكوميديا والفلوجات والموضة",
+        "hi": "कॉमेडी, व्लॉगिंग और फैशन",
+        "zh": "喜剧、视频博客与时尚",
+        "ja": "コメディ、Vlog、ファッション"
+      },
+      "about": {
+        "es": "Nacido el 11 de noviembre de 1996 en Parañaque, Metro Manila, con el nombre Jeremy Lomibao Sancebuche, es un youtuber, personalidad de redes sociales y diseñador de moda filipino que empezó subiendo videos de mukbang y se hizo viral en 2019 al hacer playback de la canción \"Dalaga\", superando el millón de suscriptores en solo seis meses.",
+        "en": "Born on November 11, 1996, in Parañaque, Metro Manila, as Jeremy Lomibao Sancebuche, he is a Filipino YouTuber, social media personality and fashion designer who started out posting mukbang videos and went viral in 2019 by lip-syncing to the song \"Dalaga,\" surpassing one million subscribers in just six months.",
+        "pt": "Nascido em 11 de novembro de 1996, em Parañaque, Metro Manila, com o nome Jeremy Lomibao Sancebuche, é um youtuber, personalidade das redes sociais e estilista filipino que começou postando vídeos de mukbang e viralizou em 2019 ao dublar a música \"Dalaga\", ultrapassando um milhão de inscritos em apenas seis meses.",
+        "fr": "Né le 11 novembre 1996 à Parañaque, Metro Manila, sous le nom de Jeremy Lomibao Sancebuche, il est un youtubeur, personnalité des réseaux sociaux et styliste philippin qui a débuté en publiant des vidéos de mukbang et est devenu viral en 2019 en playbackant la chanson \"Dalaga\", dépassant le million d'abonnés en seulement six mois.",
+        "de": "Geboren am 11. November 1996 in Parañaque, Metro Manila, als Jeremy Lomibao Sancebuche, ist er ein philippinischer YouTuber, Social-Media-Persönlichkeit und Modedesigner, der zunächst Mukbang-Videos hochlud und 2019 mit einem Lippensynchronisationsvideo zum Lied \"Dalaga\" viral ging, wodurch er in nur sechs Monaten eine Million Abonnenten überschritt.",
+        "ru": "Родился 11 ноября 1996 года в Параньяке, Метро Манила, под именем Джереми Ломибао Сансебуче. Филиппинский ютубер, интернет-личность и модельер, начинавший с видео мукбанг и ставший вирусным в 2019 году благодаря синхронизации губ под песню \"Dalaga\", набрав миллион подписчиков всего за шесть месяцев.",
+        "ar": "وُلد في 11 نوفمبر 1996 في بارانياكي، مانيلا الكبرى، باسم جيريمي لوميباو سانسيبوتشي. يوتيوبر فلبيني وشخصية على مواقع التواصل الاجتماعي ومصمم أزياء، بدأ بنشر مقاطع \"موكبانغ\" وانتشر بشكل واسع عام 2019 عبر مزامنة الشفاه لأغنية \"Dalaga\"، متجاوزًا مليون مشترك خلال ستة أشهر فقط.",
+        "hi": "11 नवंबर 1996 को पारानाके, मेट्रो मनीला में जेरेमी लोमिबाओ सान्सेबुचे के नाम से जन्मे, वे एक फिलिपिनो यूट्यूबर, सोशल मीडिया हस्ती और फैशन डिज़ाइनर हैं जिन्होंने मुकबैंग वीडियो से शुरुआत की और 2019 में गाने \"Dalaga\" पर लिप-सिंक करके वायरल हुए, केवल छह महीनों में दस लाख सब्सक्राइबर पार कर लिए।",
+        "zh": "1996年11月11日出生于大马尼拉帕拉纳克市,本名杰里米·洛米巴奥·桑塞布切。他是菲律宾YouTuber、社交媒体名人兼时装设计师,最初发布吃播(mukbang)视频,2019年因对口型演唱歌曲《Dalaga》而走红,短短六个月内订阅数突破一百万。",
+        "ja": "1996年11月11日、メトロマニラのパラニャーケでジェレミー・ロミバオ・サンセブチェとして生まれた。フィリピンのYouTuber、ソーシャルメディア・パーソナリティ、ファッションデザイナーで、当初はモッパン(大食い)動画を投稿していたが、2019年に楽曲「Dalaga」の口パク動画でバイラルヒットし、わずか6か月で登録者100万人を突破した。"
+      },
+      "handles": {
+        "youtube": "UCP8eztbhAp7_928o3ng8rmQ",
+        "tiktok": null,
+        "instagram": "mimiyuuuh",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4480000
+        }
+      }
+    },
+    {
+      "id": "anna-cay",
+      "name": "Anna Cay",
+      "country": "PH",
+      "topic": {
+        "es": "Belleza, maquillaje y estilo de vida",
+        "en": "Beauty, makeup and lifestyle",
+        "pt": "Beleza, maquiagem e estilo de vida",
+        "fr": "Beauté, maquillage et style de vie",
+        "de": "Beauty, Make-up und Lifestyle",
+        "ru": "Красота, макияж и стиль жизни",
+        "ar": "الجمال والمكياج ونمط الحياة",
+        "hi": "ब्यूटी, मेकअप और लाइफस्टाइल",
+        "zh": "美妆、化妆与生活方式",
+        "ja": "ビューティー、メイク、ライフスタイル"
+      },
+      "about": {
+        "es": "Graduada en Ingeniería Civil por el Instituto Mapua, comenzó a hacer vlogs de belleza en 2015 mientras trabajaba en el negocio de joyería de su familia en Filipinas, filmando después de su horario laboral. Se convirtió en una de las vloggers de belleza más seguidas del país y en 2019 lanzó, junto a su esposo Geloy Villalobos, la marca de cuidado de la piel \"All Covered\".",
+        "en": "A Civil Engineering graduate from Mapua Institute of Technology, she began beauty vlogging in 2015 while working in her family's jewelry business in the Philippines, filming after work hours. She became one of the country's most-followed beauty vloggers and in 2019 launched the skincare brand \"All Covered\" together with her husband, Geloy Villalobos.",
+        "pt": "Formada em Engenharia Civil pelo Instituto Mapua, começou a fazer vlogs de beleza em 2015 enquanto trabalhava no negócio de joalheria da família nas Filipinas, filmando fora do horário de trabalho. Tornou-se uma das vloggers de beleza mais seguidas do país e, em 2019, lançou junto com o marido, Geloy Villalobos, a marca de skincare \"All Covered\".",
+        "fr": "Diplômée en génie civil de l'Institut Mapua, elle a commencé le vlogging beauté en 2015 tout en travaillant dans l'entreprise de bijouterie familiale aux Philippines, filmant après ses heures de travail. Elle est devenue l'une des vlogueuses beauté les plus suivies du pays et a lancé en 2019, avec son mari Geloy Villalobos, la marque de soins de la peau \"All Covered\".",
+        "de": "Als Bauingenieurin am Mapua Institute of Technology ausgebildet, begann sie 2015 mit Beauty-Vlogging, während sie im Schmuckgeschäft ihrer Familie auf den Philippinen arbeitete und außerhalb der Arbeitszeit filmte. Sie wurde eine der meistgefolgten Beauty-Vloggerinnen des Landes und gründete 2019 zusammen mit ihrem Ehemann Geloy Villalobos die Hautpflegemarke \"All Covered\".",
+        "ru": "Выпускница по специальности \"гражданское строительство\" Технологического института Мапуа, она начала вести бьюти-влог в 2015 году, работая в семейном ювелирном бизнесе на Филиппинах и снимая ролики после работы. Стала одной из самых популярных бьюти-блогеров страны и в 2019 году вместе с мужем Гелоем Вильялобосом запустила бренд по уходу за кожей \"All Covered\".",
+        "ar": "خريجة هندسة مدنية من معهد مابوا، بدأت بإنشاء محتوى تجميل عام 2015 أثناء عملها في متجر المجوهرات العائلي في الفلبين، وكانت تصور بعد ساعات العمل. أصبحت من أكثر صانعات محتوى الجمال متابعةً في البلاد، وأطلقت عام 2019 مع زوجها جيلوي فيلالوبوس علامة العناية بالبشرة \"All Covered\".",
+        "hi": "मापुआ इंस्टीट्यूट ऑफ टेक्नोलॉजी से सिविल इंजीनियरिंग स्नातक, उन्होंने 2015 में फिलीपींस में अपने परिवार के ज्वेलरी व्यवसाय में काम करते हुए ब्यूटी व्लॉगिंग शुरू की, काम के बाद वीडियो शूट करती थीं। वे देश की सबसे अधिक फॉलो की जाने वाली ब्यूटी व्लॉगर्स में से एक बनीं और 2019 में अपने पति गेलॉय विलालोबोस के साथ स्किनकेयर ब्रांड \"All Covered\" लॉन्च किया।",
+        "zh": "她毕业于马普亚理工学院土木工程专业,2015年在菲律宾家族珠宝生意中工作之余,下班后开始拍摄美妆视频。她成为菲律宾关注度最高的美妆博主之一,并于2019年与丈夫盖洛伊·维拉洛沃斯共同创立护肤品牌\"All Covered\"。",
+        "ja": "マプア工科大学で土木工学を専攻した彼女は、2015年にフィリピンの家業である宝飾品ビジネスで働きながら、仕事終わりにビューティーVlogを撮影し始めた。フィリピンで最も人気のあるビューティーVlogger の一人となり、2019年には夫のジェロイ・ヴィジャロボスと共にスキンケアブランド「All Covered」を立ち上げた。"
+      },
+      "handles": {
+        "youtube": "UCmre3CPYmzcMlVCaFUzkaag",
+        "tiktok": null,
+        "instagram": "annacay",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 977000
+        }
+      }
+    },
+    {
+      "id": "mark-angel-comedy",
+      "name": "Mark Angel Comedy",
+      "country": "NG",
+      "topic": {
+        "es": "Sketches de comedia familiar",
+        "en": "Family comedy skits",
+        "pt": "Esquetes de comédia familiar",
+        "fr": "Sketchs de comédie familiale",
+        "de": "Familien-Comedy-Sketche",
+        "ru": "Семейные комедийные скетчи",
+        "ar": "سكتشات كوميدية عائلية",
+        "hi": "पारिवारिक कॉमेडी स्किट्स",
+        "zh": "家庭喜剧短剧",
+        "ja": "ファミリーコメディスキット"
+      },
+      "about": {
+        "es": "Canal de comedia nigeriano fundado por Mark Angel, nacido en Port Harcourt en 1991, quien comenzó a hacer cine independiente en 2013 y se convirtió en el primer canal de comedia africano en alcanzar un millón de suscriptores en YouTube.",
+        "en": "Nigerian comedy channel founded by Mark Angel, born in Port Harcourt in 1991, who began independent filmmaking in 2013 and became the first African comedy channel to reach one million YouTube subscribers.",
+        "pt": "Canal de comédia nigeriano fundado por Mark Angel, nascido em Port Harcourt em 1991, que começou a fazer cinema independente em 2013 e se tornou o primeiro canal de comédia africano a atingir um milhão de inscritos no YouTube.",
+        "fr": "Chaîne de comédie nigériane fondée par Mark Angel, né à Port Harcourt en 1991, qui a commencé le cinéma indépendant en 2013 et est devenue la première chaîne de comédie africaine à atteindre un million d'abonnés sur YouTube.",
+        "de": "Nigerianischer Comedy-Kanal, gegründet von Mark Angel, geboren 1991 in Port Harcourt, der 2013 mit unabhängigem Filmemachen begann und damit der erste afrikanische Comedy-Kanal wurde, der eine Million YouTube-Abonnenten erreichte.",
+        "ru": "Нигерийский комедийный канал, основанный Марком Энджелом, родившимся в Порт-Харкорте в 1991 году; он начал независимую кинематографическую деятельность в 2013 году, и его канал стал первым африканским комедийным каналом, набравшим миллион подписчиков на YouTube.",
+        "ar": "قناة كوميدية نيجيرية أسسها مارك أنجل، المولود في بورت هاركورت عام 1991، الذي بدأ صناعة الأفلام المستقلة عام 2013 وأصبحت قناته أول قناة كوميدية أفريقية تصل إلى مليون مشترك على يوتيوب.",
+        "hi": "नाइजीरियाई कॉमेडी चैनल, जिसकी स्थापना मार्क एंजेल ने की, जिनका जन्म 1991 में पोर्ट हारकोर्ट में हुआ था; उन्होंने 2013 में स्वतंत्र फिल्म निर्माण शुरू किया और उनका चैनल दस लाख यूट्यूब सब्सक्राइबर तक पहुंचने वाला पहला अफ्रीकी कॉमेडी चैनल बना।",
+        "zh": "尼日利亚喜剧频道,由马克·安吉尔创立,他1991年出生于哈科特港,2013年开始独立电影制作,其频道成为首个订阅数达到一百万的非洲喜剧YouTube频道。",
+        "ja": "マーク・エンジェルが設立したナイジェリアのコメディチャンネル。1991年にポートハーコートで生まれ、2013年に独立系映像制作を始め、YouTube登録者数100万人を達成した初のアフリカのコメディチャンネルとなった。"
+      },
+      "handles": {
+        "youtube": "UCQmZ9BIYOBSkxL-eqqg5z-g",
+        "tiktok": null,
+        "instagram": "markangelcomedy",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 9620000
+        }
+      }
+    },
+    {
+      "id": "mr-funny-oga-sabinus",
+      "name": "Mr Funny (Oga Sabinus)",
+      "country": "NG",
+      "topic": {
+        "es": "Sketches de comedia física",
+        "en": "Physical comedy skits",
+        "pt": "Esquetes de comédia física",
+        "fr": "Sketchs de comédie physique",
+        "de": "Slapstick-Comedy-Sketche",
+        "ru": "Скетчи в жанре физической комедии",
+        "ar": "سكتشات كوميديا جسدية",
+        "hi": "फिजिकल कॉमेडी स्किट्स",
+        "zh": "肢体喜剧短剧",
+        "ja": "フィジカルコメディスキット"
+      },
+      "about": {
+        "es": "Comediante nigeriano nacido como Emmanuel Chukwuemeka Ejekwu en el estado de Rivers, que empezó a hacer sketches en 2015 durante la universidad y se mudó de Port Harcourt a Lagos en 2019, haciéndose conocido por su frase característica \"something hooge\".",
+        "en": "Nigerian comedian born Emmanuel Chukwuemeka Ejekwu in Rivers State, who began performing skits in 2015 during university and moved from Port Harcourt to Lagos in 2019, becoming known for his catchphrase \"something hooge\".",
+        "pt": "Comediante nigeriano nascido Emmanuel Chukwuemeka Ejekwu no estado de Rivers, que começou a fazer esquetes em 2015 durante a universidade e se mudou de Port Harcourt para Lagos em 2019, tornando-se conhecido por sua frase de efeito \"something hooge\".",
+        "fr": "Humoriste nigérian né Emmanuel Chukwuemeka Ejekwu dans l'État de Rivers, qui a commencé à réaliser des sketchs en 2015 pendant ses études universitaires et a déménagé de Port Harcourt à Lagos en 2019, devenant célèbre pour sa réplique fétiche \"something hooge\".",
+        "de": "Nigerianischer Comedian, geboren als Emmanuel Chukwuemeka Ejekwu im Bundesstaat Rivers, der 2015 während seines Studiums mit Sketchen begann und 2019 von Port Harcourt nach Lagos zog, wo er durch seinen Kultspruch \"something hooge\" bekannt wurde.",
+        "ru": "Нигерийский комик, урождённый Эммануэль Чуквуэмека Эджекву, из штата Риверс; начал выступать со скетчами в 2015 году во время учёбы в университете и в 2019 году переехал из Порт-Харкорта в Лагос, прославившись благодаря своей коронной фразе \"something hooge\".",
+        "ar": "كوميدي نيجيري وُلد باسم إيمانويل تشوكوويميكا إيجيكوو في ولاية ريفرز، بدأ تقديم السكتشات عام 2015 أثناء دراسته الجامعية وانتقل من بورت هاركورت إلى لاغوس عام 2019، واشتهر بعبارته المميزة \"something hooge\".",
+        "hi": "नाइजीरियाई हास्य कलाकार, जिनका जन्म का नाम इमैनुएल चुक्वुएमेका एजेक्वु है, रिवर्स राज्य से हैं; उन्होंने 2015 में विश्वविद्यालय के दौरान स्किट्स करना शुरू किया और 2019 में पोर्ट हारकोर्ट से लागोस चले गए, तथा अपने प्रसिद्ध वाक्यांश \"something hooge\" के लिए जाने गए।",
+        "zh": "尼日利亚喜剧演员,原名埃马纽埃尔·奇克维梅卡·埃杰奎,来自河流州;他在2015年上大学期间开始表演短剧,并于2019年从哈科特港搬到拉各斯,凭借口头禅\"something hooge\"而走红。",
+        "ja": "ナイジェリアのコメディアンで、本名エマニュエル・チュクウェメカ・エジェクウ。リバーズ州出身で、2015年に大学在学中にスキットを始め、2019年にポートハーコートからラゴスへ移住し、決め台詞「something hooge」で知られるようになった。"
+      },
+      "handles": {
+        "youtube": "UCZKveEdM9fe6mFR6Epth2TA",
+        "tiktok": null,
+        "instagram": "mrfunny__sabinus",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1180000
+        }
+      }
+    },
+    {
+      "id": "korty-eo",
+      "name": "Korty EO",
+      "country": "NG",
+      "topic": {
+        "es": "Programas confesionales y entrevistas a celebridades",
+        "en": "Confessional shows and celebrity interviews",
+        "pt": "Programas confessionais e entrevistas com celebridades",
+        "fr": "Émissions confessionnelles et interviews de célébrités",
+        "de": "Bekenntnis-Formate und Promi-Interviews",
+        "ru": "Исповедальные шоу и интервью со знаменитостями",
+        "ar": "برامج اعترافية ومقابلات مع المشاهير",
+        "hi": "कन्फेशनल शो और सेलिब्रिटी इंटरव्यू",
+        "zh": "自白式节目与名人访谈",
+        "ja": "告白形式の番組と有名人インタビュー"
+      },
+      "about": {
+        "es": "Cineasta nigeriana nacida como Eniola Olanrewaju en Bodija, Ibadán, que trabajó en Zikoko y emPawa Africa antes de lanzar en 2021 su canal de YouTube con sede en Lagos, conocida por el programa de citas \"Love or Lies\" y la serie de entrevistas \"Flow With Korty\".",
+        "en": "Nigerian filmmaker born Eniola Olanrewaju in Bodija, Ibadan, who worked at Zikoko and emPawa Africa before launching her Lagos-based YouTube channel in 2021, known for the dating show \"Love or Lies\" and the interview series \"Flow With Korty\".",
+        "pt": "Cineasta nigeriana nascida Eniola Olanrewaju em Bodija, Ibadã, que trabalhou na Zikoko e na emPawa Africa antes de lançar em 2021 seu canal do YouTube sediado em Lagos, conhecida pelo programa de encontros \"Love or Lies\" e pela série de entrevistas \"Flow With Korty\".",
+        "fr": "Réalisatrice nigériane née Eniola Olanrewaju à Bodija, Ibadan, qui a travaillé chez Zikoko et emPawa Africa avant de lancer en 2021 sa chaîne YouTube basée à Lagos, connue pour l'émission de rencontres \"Love or Lies\" et la série d'interviews \"Flow With Korty\".",
+        "de": "Nigerianische Filmemacherin, geboren als Eniola Olanrewaju in Bodija, Ibadan, die bei Zikoko und emPawa Africa arbeitete, bevor sie 2021 ihren in Lagos ansässigen YouTube-Kanal startete, bekannt für die Dating-Show \"Love or Lies\" und die Interviewreihe \"Flow With Korty\".",
+        "ru": "Нигерийский режиссёр, урождённая Эниола Оланреваджу, из Боджи, Ибадан; работала в Zikoko и emPawa Africa, прежде чем в 2021 году запустить свой YouTube-канал в Лагосе, известна шоу знакомств \"Love or Lies\" и серией интервью \"Flow With Korty\".",
+        "ar": "صانعة أفلام نيجيرية وُلدت باسم إينيولا أولانريوادجو في بوديجا، إيبادان، عملت في Zikoko وemPawa Africa قبل أن تطلق عام 2021 قناتها على يوتيوب من لاغوس، واشتهرت ببرنامج المواعدة \"Love or Lies\" وسلسلة المقابلات \"Flow With Korty\".",
+        "hi": "नाइजीरियाई फिल्म निर्माता, जिनका जन्म का नाम एनिओला ओलानरेवाजू है, इबादान के बोदिजा से हैं; उन्होंने ज़िकोको और एमपावा अफ्रीका में काम किया, इससे पहले कि उन्होंने 2021 में लागोस स्थित अपना यूट्यूब चैनल शुरू किया, जो डेटिंग शो \"Love or Lies\" और इंटरव्यू सीरीज़ \"Flow With Korty\" के लिए जानी जाती हैं।",
+        "zh": "尼日利亚制片人,原名埃尼奥拉·奥兰雷瓦朱,来自伊巴丹的博迪贾;她曾在Zikoko和emPawa Africa工作,后于2021年在拉各斯创办了自己的YouTube频道,以约会节目《Love or Lies》和访谈系列《Flow With Korty》而闻名。",
+        "ja": "ナイジェリアの映像制作者で、本名エニオラ・オランレワジュ。イバダンのボディジャ出身で、ZikokoとemPawa Africaで働いた後、2021年にラゴスを拠点とするYouTubeチャンネルを開設。デート番組「Love or Lies」とインタビューシリーズ「Flow With Korty」で知られる。"
+      },
+      "handles": {
+        "youtube": "UCTFFhYhkLkxjhcCdwUKmQ5g",
+        "tiktok": null,
+        "instagram": "korty_eo",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 447000
+        }
+      }
     }
   ]
 }
