@@ -29,8 +29,7 @@ const waitlistHref = (planName: string) =>
             <h3>{name}</h3>
             <p style="color:var(--muted);font-size:13px;margin:0">{t(`plan.${plan.id}.tagline`)}</p>
             <div class="plan-price">
-              {plan.priceIsFrom ? `${t("pricing.fromPrefix")} ` : ""}US${Number.isInteger(plan.priceUsd) ? plan.priceUsd : plan.priceUsd.toFixed(2)}
-              <small>{t("pricing.perMonth")}</small>
+              {t("pricing.priceTbd")}
             </div>
             <ul>
               <li>{t(`plan.${plan.id}.feature1`)}</li>

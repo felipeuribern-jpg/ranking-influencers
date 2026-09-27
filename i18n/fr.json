@@ -117,5 +117,6 @@
   "plan.enterprise.tagline": "Données, licence et support sur mesure",
   "plan.enterprise.feature1": "Accès à l'API",
   "plan.enterprise.feature2": "Accord de niveau de service (SLA)",
-  "plan.enterprise.feature3": "Licence de données et support dédié"
+  "plan.enterprise.feature3": "Licence de données et support dédié",
+  "pricing.priceTbd": "Prix à confirmer"
 }

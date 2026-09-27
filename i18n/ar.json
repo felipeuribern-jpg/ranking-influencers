@@ -117,5 +117,6 @@
   "plan.enterprise.tagline": "بيانات وترخيص ودعم مخصص",
   "plan.enterprise.feature1": "الوصول إلى API",
   "plan.enterprise.feature2": "اتفاقية مستوى الخدمة (SLA)",
-  "plan.enterprise.feature3": "ترخيص بيانات ودعم مخصص"
+  "plan.enterprise.feature3": "ترخيص بيانات ودعم مخصص",
+  "pricing.priceTbd": "السعر لم يُحدد بعد"
 }

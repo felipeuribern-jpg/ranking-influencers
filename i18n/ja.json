@@ -117,5 +117,6 @@
   "plan.enterprise.tagline": "データ・ライセンス・サポートをカスタマイズ",
   "plan.enterprise.feature1": "APIアクセス",
   "plan.enterprise.feature2": "サービスレベル契約（SLA）",
-  "plan.enterprise.feature3": "データライセンスと専任サポート"
+  "plan.enterprise.feature3": "データライセンスと専任サポート",
+  "pricing.priceTbd": "価格未定"
 }

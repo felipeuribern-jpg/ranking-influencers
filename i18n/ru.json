@@ -117,5 +117,6 @@
   "plan.enterprise.tagline": "Данные, лицензия и поддержка под заказ",
   "plan.enterprise.feature1": "Доступ к API",
   "plan.enterprise.feature2": "Соглашение об уровне обслуживания (SLA)",
-  "plan.enterprise.feature3": "Лицензия на данные и выделенная поддержка"
+  "plan.enterprise.feature3": "Лицензия на данные и выделенная поддержка",
+  "pricing.priceTbd": "Цена уточняется"
 }

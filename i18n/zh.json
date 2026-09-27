@@ -117,5 +117,6 @@
   "plan.enterprise.tagline": "定制数据、授权和支持",
   "plan.enterprise.feature1": "API访问权限",
   "plan.enterprise.feature2": "服务水平协议（SLA）",
-  "plan.enterprise.feature3": "数据授权和专属支持"
+  "plan.enterprise.feature3": "数据授权和专属支持",
+  "pricing.priceTbd": "价格待定"
 }

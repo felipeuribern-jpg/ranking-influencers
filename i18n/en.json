@@ -117,5 +117,6 @@
   "plan.enterprise.tagline": "Custom data, licensing, and support",
   "plan.enterprise.feature1": "API access",
   "plan.enterprise.feature2": "Service Level Agreement (SLA)",
-  "plan.enterprise.feature3": "Data licensing and dedicated support"
+  "plan.enterprise.feature3": "Data licensing and dedicated support",
+  "pricing.priceTbd": "Price to be confirmed"
 }
