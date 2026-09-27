@@ -1,0 +1,63 @@
+---
+import type { LanguageCode } from "../../site.config";
+import labels from "../lib/discoveries.json";
+import { getPersonById } from "../lib/data";
+const { lang } = Astro.props as { lang: LanguageCode };
+const text = labels[lang];
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+// Candidate only: a reviewed monthly selection must be approved before changing this status.
+const candidate = getPersonById("claux-7");
+const regions = ["africa", "americas", "asia", "europe", "oceania"];
+---
+<section class="discoveries" aria-labelledby="discoveries-title">
+  <div class="discovery-heading"><div><h2 id="discoveries-title">{text[0]}</h2><p>{text[1]}</p></div><span class="discovery-mark" aria-hidden="true">↗</span></div>
+  <div class="discovery-picker" hidden><label for="discovery-continent">{text[2]}</label><select id="discovery-continent">{regions.map((region, index) => <option value={region} selected={region === "americas"}>{text[index + 3]}</option>)}</select></div>
+  <div class="discovery-grid">
+    {regions.map((region, index) => {
+      const person = region === "americas" && candidate && candidate.rank > 20 ? candidate : null;
+      return <article class:list={["discovery-card", { "has-candidate": !!person }]} data-continent={region}>
+        <p class="discovery-region">{text[index + 3]}</p>
+        <span class="discovery-status">{person ? text[10] : text[8]}</span>
+        {person ? <>
+          <h3><img src={`${base}/flags/${person.country.toLowerCase()}.svg`} alt="" width="28" height="28" />{person.name}<span class="country-code">{person.country}</span></h3>
+          <p>{person.topic[lang] ?? person.topic.es}</p>
+          <a class="btn" href={`${base}/${lang}/p/${person.id}/`}>{text[11]} <span aria-hidden="true">↗</span></a>
+        </> : <><h3>{text[8]}</h3><p>{text[9]}</p></>}
+      </article>;
+    })}
+  </div>
+  <p class="discovery-note">{text[12]}</p>
+</section>
+<script>
+ const picker = document.querySelector<HTMLElement>(".discovery-picker")!;
+ const select = document.getElementById("discovery-continent") as HTMLSelectElement;
+ const cards = Array.from(document.querySelectorAll<HTMLElement>(".discovery-card"));
+ const mobile = window.matchMedia("(max-width: 679px)");
+ function updateDiscovery() {
+   picker.hidden = !mobile.matches;
+   cards.forEach(card => { card.hidden = mobile.matches && card.dataset.continent !== select.value; });
+ }
+ select.addEventListener("change", updateDiscovery);
+ mobile.addEventListener("change", updateDiscovery);
+ updateDiscovery();
+</script>
+<style>
+.discoveries { margin-block: 48px; padding: clamp(20px,3vw,32px); border: 1px solid #ffffff18; border-radius: 18px; background: radial-gradient(ellipse at 100% 0,#33473533,transparent 65%),#101720; }
+.discovery-heading { display:flex; justify-content:space-between; align-items:center; gap:20px; }
+h2 { margin:0; font-size:clamp(25px,3vw,34px); letter-spacing:-.04em; }
+p { color:#acbdd1; font-size:14px; line-height:1.6; }
+.discovery-mark { font-size:38px; color:var(--accent); }
+.discovery-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; margin-top:22px; }
+.discovery-card { padding:22px; border:1px solid #ffffff12; border-radius:12px; background:#0c121b; display:flex; flex-direction:column; align-items:flex-start; }
+.discovery-card.has-candidate { border-color:#c9ff3d44; }
+.discovery-region { margin:0 0 12px; color:#e7edf4; font-weight:600; }
+.discovery-status { font-size:12px; color:#acbdd1; border:1px solid #ffffff24; padding:4px 8px; border-radius:20px; }
+h3 { display:flex; align-items:center; flex-wrap:wrap; gap:8px; font-size:19px; margin:20px 0 0; }
+h3 img { border-radius:50%; object-fit:cover; }
+.btn { margin-top:auto; min-height:44px; }
+.discovery-note { margin:20px 0 0; font-size:12px; }
+.discovery-picker label { display:block; margin:12px 0 6px; font-size:13px; }
+.discovery-picker select { width:100%; min-height:46px; background:#0c121b; color:#f4f8ff; border:1px solid #ffffff30; border-radius:8px; padding:10px; font:inherit; }
+@media(min-width:680px) and (max-width:1000px) { .discovery-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(max-width:679px) { .discovery-grid { grid-template-columns:1fr; margin-top:14px; } .discovery-mark { display:none; } }
+</style>

@@ -1,6 +1,7 @@
 ---
 import { categoryIds, categoryLabels, interfaceLabels } from "../../lib/exploration";
 import Layout from "../../components/Layout.astro";
+import Discoveries from "../../components/Discoveries.astro";
 import RankingRow from "../../components/RankingRow.astro";
 import { siteConfig, type LanguageCode } from "../../../site.config";
 import { translator } from "../../lib/i18n";
@@ -150,6 +151,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       </p>
     )
   }
+
+  <Discoveries lang={lang} />
 
   <section class="business-box" id="marcas">
     <div>
