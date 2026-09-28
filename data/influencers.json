@@ -14971,6 +14971,842 @@
           "youtube": 1950000
         }
       }
+    },
+    {
+      "id": "doro-cubillo",
+      "name": "Doro Cubillo",
+      "country": "CR",
+      "topic": {
+        "es": "Belleza, cuidado del cabello y la piel",
+        "en": "Beauty, hair and skincare",
+        "pt": "Beleza, cuidados com cabelo e pele",
+        "fr": "Beauté, soins des cheveux et de la peau",
+        "de": "Beauty, Haar- und Hautpflege",
+        "ru": "Красота, уход за волосами и кожей",
+        "ar": "الجمال والعناية بالشعر والبشرة",
+        "hi": "सौंदर्य, बाल और त्वचा की देखभाल",
+        "zh": "美容、护发与护肤",
+        "ja": "美容、ヘアケアとスキンケア"
+      },
+      "about": {
+        "es": "Doro Cubillo (Dorothy Cubillo), nacida el 25 de agosto de 1991 en Costa Rica, es una creadora costarricense de contenido de belleza. Empezó haciendo mascarillas y productos caseros para el cabello y la piel en su pueblo natal, sin acceso a productos comerciales, y hoy comparte pruebas de tendencias virales, reseñas de productos y rutinas de skincare y haircare en su canal de YouTube.",
+        "en": "Doro Cubillo (Dorothy Cubillo), born August 25, 1991 in Costa Rica, is a Costa Rican beauty content creator. She started making homemade hair and skin products in her hometown, where commercial products were hard to access, and now shares viral beauty trend tests, product reviews, and skincare/haircare routines on her YouTube channel.",
+        "pt": "Doro Cubillo (Dorothy Cubillo), nascida em 25 de agosto de 1991 na Costa Rica, e uma criadora costarriquenha de conteudo de beleza. Comecou fazendo mascaras caseiras para cabelo e pele em sua cidade natal, onde produtos comerciais eram dificeis de encontrar, e hoje compartilha testes de tendencias virais, resenhas de produtos e rotinas de skincare e haircare em seu canal do YouTube.",
+        "fr": "Doro Cubillo (Dorothy Cubillo), nee le 25 aout 1991 au Costa Rica, est une creatrice costaricienne de contenu beaute. Elle a commence par fabriquer des masques maison pour cheveux et peau dans sa ville natale, ou les produits du commerce etaient difficiles a trouver, et partage aujourd'hui des tests de tendances virales, des avis produits et des routines skincare et haircare sur sa chaine YouTube.",
+        "de": "Doro Cubillo (Dorothy Cubillo), geboren am 25. August 1991 in Costa Rica, ist eine costa-ricanische Beauty-Content-Creatorin. Sie begann damit, in ihrer Heimatstadt selbstgemachte Haar- und Hautprodukte herzustellen, da kommerzielle Produkte schwer zugänglich waren, und teilt heute Tests viraler Beauty-Trends, Produktbewertungen sowie Skincare- und Haircare-Routinen auf ihrem YouTube-Kanal.",
+        "ru": "Доро Кубильо (Дороти Кубильо), родилась 25 августа 1991 года в Коста-Рике — костариканская бьюти-блогерша. Она начала делать домашние маски для волос и кожи в своём родном городе, где было сложно найти покупные средства, а сегодня тестирует вирусные бьюти-тренды, делает обзоры продуктов и рутины по уходу за кожей и волосами на своём YouTube-канале.",
+        "ar": "دورو كوبيو (دوروثي كوبيو)، ولدت في 25 أغسطس 1991 في كوستاريكا، صانعة محتوى تجميل كوستاريكية. بدأت بصنع منتجات منزلية للشعر والبشرة في بلدتها حيث كان يصعب الوصول إلى المنتجات التجارية، وتشارك اليوم اختبارات صيحات التجميل الرائجة ومراجعات المنتجات وروتينات العناية بالبشرة والشعر على قناتها في يوتيوب.",
+        "hi": "डोरो क्यूबियो (डोरोथी क्यूबियो), जन्म 25 अगस्त 1991, कोस्टा रिका की एक ब्यूटी कंटेंट क्रिएटर हैं। उन्होंने अपने गृहनगर में घरेलू बाल और त्वचा उत्पाद बनाकर शुरुआत की, जहां व्यावसायिक उत्पाद मिलना मुश्किल था, और अब अपने यूट्यूब चैनल पर वायरल ब्यूटी ट्रेंड्स, उत्पाद समीक्षाएं और स्किनकेयर/हेयरकेयर रूटीन साझा करती हैं।",
+        "zh": "多罗·库比略（Dorothy Cubillo），1991年8月25日出生于哥斯达黎加，是一位哥斯达黎加美容内容创作者。她最初在家乡自制护发护肤产品，因为当地很难买到商业产品，如今在其YouTube频道分享病毒式美容潮流测试、产品测评以及护肤护发routine。",
+        "ja": "ドロ・クビジョ（ドロシー・クビジョ）は1991年8月25日コスタリカ生まれのコスタリカ人ビューティークリエイター。故郷では市販品が手に入りにくかったため、手作りのヘア・スキンケア用品作りから始め、現在はYouTubeチャンネルでバイラルな美容トレンドの検証、商品レビュー、スキンケア・ヘアケアのルーティンを発信している。"
+      },
+      "handles": {
+        "youtube": "UCSYMpUuuzE1xsPqAl3Yt8ag",
+        "tiktok": null,
+        "instagram": "dorocubillo",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1710000
+        }
+      }
+    },
+    {
+      "id": "lonrot",
+      "name": "Lonrot",
+      "country": "CR",
+      "topic": {
+        "es": "Entretenimiento, cultura pop y narracion",
+        "en": "Entertainment, pop culture and narration",
+        "pt": "Entretenimento, cultura pop e narracao",
+        "fr": "Divertissement, culture pop et narration",
+        "de": "Unterhaltung, Popkultur und Erzaehlung",
+        "ru": "Развлечения, поп-культура и озвучка",
+        "ar": "الترفيه والثقافة الشعبية والسرد الصوتي",
+        "hi": "मनोरंजन, पॉप कल्चर और कथावाचन",
+        "zh": "娱乐、流行文化与解说",
+        "ja": "エンターテインメント、ポップカルチャーとナレーション"
+      },
+      "about": {
+        "es": "Gabriel Meoño Barahona, conocido como Lonrot, nacio el 5 de abril de 1986 en Alajuela, Costa Rica. Es el youtuber costarricense mas popular segun el diario La Nacion, reconocido por su narracion en videos de gameplays, vlogs, criticas y curiosidades, ademas de su trabajo como locutor en ZoominGames Espanol y sus resumenes de peliculas y listas de cultura pop.",
+        "en": "Gabriel Meoño Barahona, known as Lonrot, was born on April 5, 1986 in Alajuela, Costa Rica. He is Costa Rica's most popular YouTuber according to newspaper La Nacion, known for his narration in gameplay videos, vlogs, critiques and curiosities, as well as his voice work on ZoominGames Espanol and his pop-culture movie summaries and lists.",
+        "pt": "Gabriel Meoño Barahona, conhecido como Lonrot, nasceu em 5 de abril de 1986 em Alajuela, Costa Rica. E o youtuber costarriquenho mais popular segundo o jornal La Nacion, reconhecido por sua narracao em videos de gameplay, vlogs, criticas e curiosidades, alem de seu trabalho como locutor no ZoominGames Espanol e seus resumos de filmes e listas de cultura pop.",
+        "fr": "Gabriel Meoño Barahona, connu sous le nom de Lonrot, est ne le 5 avril 1986 a Alajuela, au Costa Rica. Il est le youtubeur costaricien le plus populaire selon le journal La Nacion, connu pour sa narration dans des videos de gameplay, vlogs, critiques et curiosites, ainsi que pour son travail de voix sur ZoominGames Espanol et ses resumes de films et listes de culture pop.",
+        "de": "Gabriel Meoño Barahona, bekannt als Lonrot, wurde am 5. April 1986 in Alajuela, Costa Rica, geboren. Laut der Zeitung La Nacion ist er der beliebteste YouTuber Costa Ricas, bekannt fuer seine Erzaehlstimme in Gameplay-Videos, Vlogs, Kritiken und Kuriositaeten sowie seine Sprecherarbeit bei ZoominGames Espanol und seine Popkultur-Filmzusammenfassungen und Listen.",
+        "ru": "Габриэль Меоньо Барахона, известный как Lonrot, родился 5 апреля 1986 года в Алахуэле, Коста-Рика. По данным газеты La Nacion, он самый популярный ютубер Коста-Рики, известный своей озвучкой в видео с геймплеем, влогах, обзорах и подборках интересных фактов, а также работой диктора на ZoominGames Espanol и обзорами фильмов и списками о поп-культуре.",
+        "ar": "غابرييل ميونيو باراهونا، المعروف باسم لونروت، ولد في 5 أبريل 1986 في ألاخويلا، كوستاريكا. وهو أشهر يوتيوبر في كوستاريكا بحسب صحيفة La Nacion، ويُعرف بسرده الصوتي في مقاطع الألعاب والفلوقات والنقد والغرائب، إضافة إلى عمله كمعلق صوتي في ZoominGames Espanol وملخصاته وقوائمه عن الثقافة الشعبية.",
+        "hi": "गैब्रियल मेओन्यो बाराहोना, जिन्हें लोनरोट के नाम से जाना जाता है, का जन्म 5 अप्रैल 1986 को अलाहुएला, कोस्टा रिका में हुआ था। ला नासिओन अखबार के अनुसार वे कोस्टा रिका के सबसे लोकप्रिय यूट्यूबर हैं, जो गेमप्ले वीडियो, व्लॉग, समीक्षा और रोचक तथ्यों में अपनी कथा-शैली के लिए जाने जाते हैं, साथ ही ZoominGames Espanol में वॉयस वर्क और पॉप कल्चर पर फिल्म सारांशों तथा सूचियों के लिए भी प्रसिद्ध हैं।",
+        "zh": "加布里埃尔·梅奥尼奥·巴拉奥纳（Gabriel Meoño Barahona），艺名Lonrot，1986年4月5日出生于哥斯达黎加阿拉胡埃拉。据《民族报》（La Nacion）报道，他是哥斯达黎加最受欢迎的YouTuber，以在游戏解说、vlog、点评和趣闻视频中的旁白见长，并在ZoominGames Espanol担任配音，还制作流行文化电影总结与榜单内容。",
+        "ja": "ガブリエル・メオニョ・バラオナ（通称Lonrot）は1986年4月5日、コスタリカのアラフエラ生まれ。地元紙ラ・ナシオンによればコスタリカで最も人気のあるYouTuberで、ゲームプレイ動画やvlog、批評、雑学動画のナレーションで知られるほか、ZoominGames Espanolでのボイスワークやポップカルチャー映画の要約・リスト動画でも人気を博している。"
+      },
+      "handles": {
+        "youtube": "UCtfkNUjd4mPTfeyI0ehT1dQ",
+        "tiktok": "lonrot",
+        "instagram": "lonrot",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5580000
+        }
+      }
+    },
+    {
+      "id": "naser-hekaia",
+      "name": "Naser - Hekaia",
+      "country": "EG",
+      "topic": {
+        "es": "Narración de historias",
+        "en": "Storytelling",
+        "pt": "Narrativa de histórias",
+        "fr": "Récits d'histoires",
+        "de": "Geschichtenerzählen",
+        "ru": "Рассказывание историй",
+        "ar": "حكي القصص",
+        "hi": "कहानी सुनाना",
+        "zh": "讲故事",
+        "ja": "ストーリーテリング"
+      },
+      "about": {
+        "es": "En su canal de YouTube, Naser - Hekaia comparte contenido sobre Narración de historias.",
+        "en": "On their YouTube channel, Naser - Hekaia shares content about Storytelling.",
+        "pt": "No seu canal do YouTube, Naser - Hekaia compartilha conteúdo sobre Narrativa de histórias.",
+        "fr": "Sur sa chaîne YouTube, Naser - Hekaia partage du contenu sur le thème : Récits d'histoires.",
+        "de": "Auf dem YouTube-Kanal von Naser - Hekaia geht es um Geschichtenerzählen.",
+        "ru": "На YouTube-канале Naser - Hekaia публикуются видео на тему «Рассказывание историй».",
+        "ar": "ينشر ناصر حكاية على قناته في يوتيوب محتوى عن حكي القصص.",
+        "hi": "Naser - Hekaia अपने YouTube चैनल पर कहानी सुनाने से जुड़ी सामग्री साझा करते हैं।",
+        "zh": "Naser - Hekaia 的 YouTube 频道分享有关讲故事的内容。",
+        "ja": "Naser - HekaiaのYouTubeチャンネルでは、ストーリーテリングに関する動画を公開しています。"
+      },
+      "handles": {
+        "youtube": "UCNKSVW2l2A-6ogoCrpP8XCQ",
+        "tiktok": "naserhekaia",
+        "instagram": "naser.hekaia",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5940000
+        }
+      }
+    },
+    {
+      "id": "jane-asmr",
+      "name": "Jane ASMR 제인",
+      "country": "KR",
+      "topic": {
+        "es": "ASMR y mukbang",
+        "en": "ASMR and mukbang",
+        "pt": "ASMR e mukbang",
+        "fr": "ASMR et mukbang",
+        "de": "ASMR und Mukbang",
+        "ru": "АСМР и мукбанг",
+        "ar": "ASMR والموكبانغ",
+        "hi": "एएसएमआर और मुकबैंग",
+        "zh": "ASMR与吃播",
+        "ja": "ASMRとモッパン"
+      },
+      "about": {
+        "es": "Jane ASMR es una creadora surcoreana conocida por sus videos de ASMR y mukbang (comer en cámara), con uno de los canales de ASMR más vistos del mundo.",
+        "en": "Jane ASMR is a South Korean creator known for her ASMR and mukbang (eating show) videos, running one of the most-watched ASMR channels in the world.",
+        "pt": "Jane ASMR é uma criadora sul-coreana conhecida por seus vídeos de ASMR e mukbang, com um dos canais de ASMR mais assistidos do mundo.",
+        "fr": "Jane ASMR est une créatrice sud-coréenne connue pour ses vidéos ASMR et mukbang, l'une des chaînes ASMR les plus vues au monde.",
+        "de": "Jane ASMR ist eine südkoreanische Creatorin, bekannt für ihre ASMR- und Mukbang-Videos, mit einem der meistgesehenen ASMR-Kanäle der Welt.",
+        "ru": "Jane ASMR — южнокорейская создательница контента, известная своими видео в жанре АСМР и мукбанг; один из самых просматриваемых АСМР-каналов в мире.",
+        "ar": "جين ASMR صانعة محتوى كورية جنوبية معروفة بمقاطع ASMR والموكبانغ (بث الأكل)، وتدير واحدة من أكثر قنوات ASMR مشاهدة في العالم.",
+        "hi": "जेन एएसएमआर एक दक्षिण कोरियाई क्रिएटर हैं जो अपने एएसएमआर और मुकबैंग (खाने के) वीडियो के लिए जानी जाती हैं, उनका चैनल दुनिया के सबसे ज़्यादा देखे जाने वाले एएसएमआर चैनलों में से एक है।",
+        "zh": "Jane ASMR 是一位韩国创作者,以ASMR和吃播视频闻名,拥有全球观看次数最多的ASMR频道之一。",
+        "ja": "Jane ASMRは、ASMRとモッパン(食事配信)動画で知られる韓国のクリエイターで、世界で最も視聴されているASMRチャンネルの一つを運営している。"
+      },
+      "handles": {
+        "youtube": "UC2fsxQr6Hcx1enORxXgKpxQ",
+        "tiktok": null,
+        "instagram": "jane.asmr",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 18500000
+        }
+      }
+    },
+    {
+      "id": "jflamusic-j-fla",
+      "name": "JFlaMusic (J.Fla)",
+      "country": "KR",
+      "topic": {
+        "es": "Covers musicales",
+        "en": "Music covers",
+        "pt": "Covers musicais",
+        "fr": "Reprises musicales",
+        "de": "Musik-Coverversionen",
+        "ru": "Кавер-версии песен",
+        "ar": "أغاني كوفر",
+        "hi": "संगीत कवर",
+        "zh": "翻唱音乐",
+        "ja": "音楽カバー"
+      },
+      "about": {
+        "es": "J.Fla (Kim Jung-hwa) es una cantante y youtuber surcoreana nacida en 1987, conocida mundialmente por sus versiones acústicas de canciones pop en su canal JFlaMusic desde 2011.",
+        "en": "J.Fla (Kim Jung-hwa) is a South Korean singer and YouTuber born in 1987, known worldwide for her acoustic covers of pop songs on her JFlaMusic channel since 2011.",
+        "pt": "J.Fla (Kim Jung-hwa) é uma cantora e youtuber sul-coreana nascida em 1987, conhecida mundialmente por seus covers acústicos de canções pop em seu canal JFlaMusic desde 2011.",
+        "fr": "J.Fla (Kim Jung-hwa) est une chanteuse et youtubeuse sud-coréenne née en 1987, connue dans le monde entier pour ses reprises acoustiques de chansons pop sur sa chaîne JFlaMusic depuis 2011.",
+        "de": "J.Fla (Kim Jung-hwa) ist eine südkoreanische Sängerin und YouTuberin, geboren 1987, weltweit bekannt für ihre akustischen Coverversionen von Popsongs auf ihrem Kanal JFlaMusic seit 2011.",
+        "ru": "J.Fla (Ким Чон Хва) — южнокорейская певица и youtube-блогер, родившаяся в 1987 году, всемирно известная своими акустическими кавер-версиями поп-песен на канале JFlaMusic с 2011 года.",
+        "ar": "جي.فلا (كيم جونغ هوا) مغنية وصانعة محتوى كورية جنوبية مولودة عام 1987، مشهورة عالميًا بأغانيها الأكوستيك المغطاة لأغاني البوب على قناتها JFlaMusic منذ 2011.",
+        "hi": "जे.फ्ला (किम जुंग-ह्वा) एक दक्षिण कोरियाई गायिका और यूट्यूबर हैं, जिनका जन्म 1987 में हुआ, वे 2011 से अपने JFlaMusic चैनल पर पॉप गीतों के ध्वनिक कवर के लिए दुनियाभर में जानी जाती हैं।",
+        "zh": "J.Fla(本名金正花)是1987年出生的韩国歌手兼YouTuber,自2011年起在JFlaMusic频道以流行歌曲的原声翻唱闻名全球。",
+        "ja": "J.Fla(キム・ジョンファ)は1987年生まれの韓国の歌手・YouTuberで、2011年からJFlaMusicチャンネルでポップソングのアコースティックカバーを発表し世界的に知られている。"
+      },
+      "handles": {
+        "youtube": "UClkRzsdvg7_RKVhwDwiDZOA",
+        "tiktok": null,
+        "instagram": "jflamusic_official",
+        "facebook": "JFlaMusic-215811778930418",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 17200000
+        }
+      }
+    },
+    {
+      "id": "hongyu-asmr",
+      "name": "Hongyu ASMR 홍유",
+      "country": "KR",
+      "topic": {
+        "es": "ASMR y mukbang",
+        "en": "ASMR and mukbang",
+        "pt": "ASMR e mukbang",
+        "fr": "ASMR et mukbang",
+        "de": "ASMR und Mukbang",
+        "ru": "АСМР и мукбанг",
+        "ar": "ASMR والموكبانغ",
+        "hi": "एएसएमआर और मुकबैंग",
+        "zh": "ASMR与吃播",
+        "ja": "ASMRとモッパン"
+      },
+      "about": {
+        "es": "Hongyu es una creadora surcoreana de contenido ASMR mukbang, reconocida por sus videos de sonidos de comida y presentación muy estilizada, uno de los canales de ASMR más vistos de Corea del Sur.",
+        "en": "Hongyu is a South Korean ASMR mukbang creator known for her eating-sound videos and highly stylized presentation, running one of the most-watched ASMR channels in South Korea.",
+        "pt": "Hongyu é uma criadora sul-coreana de conteúdo ASMR mukbang, conhecida por seus vídeos de sons de comida e apresentação estilizada, um dos canais de ASMR mais assistidos da Coreia do Sul.",
+        "fr": "Hongyu est une créatrice sud-coréenne de contenu ASMR mukbang, connue pour ses vidéos de sons de nourriture et sa présentation très stylisée, l'une des chaînes ASMR les plus vues de Corée du Sud.",
+        "de": "Hongyu ist eine südkoreanische ASMR-Mukbang-Creatorin, bekannt für ihre Ess-Sound-Videos und ihre stilvolle Präsentation, einer der meistgesehenen ASMR-Kanäle Südkoreas.",
+        "ru": "Хонгю — южнокорейская создательница контента в жанре АСМР-мукбанг, известная видео со звуками еды и стильной подачей; один из самых просматриваемых АСМР-каналов Южной Кореи.",
+        "ar": "هونغيو صانعة محتوى ASMR موكبانغ كورية جنوبية معروفة بمقاطع أصوات الطعام وعرضها الأنيق، وتدير واحدة من أكثر قنوات ASMR مشاهدة في كوريا الجنوبية.",
+        "hi": "होंग्यु एक दक्षिण कोरियाई एएसएमआर मुकबैंग क्रिएटर हैं, जो खाने की आवाज़ों के वीडियो और स्टाइलिश प्रस्तुति के लिए जानी जाती हैं, उनका चैनल दक्षिण कोरिया के सबसे ज़्यादा देखे जाने वाले एएसएमआर चैनलों में से एक है।",
+        "zh": "洪流(Hongyu)是韩国的ASMR吃播创作者,以进食音效视频和精致的画面风格著称,是韩国观看次数最多的ASMR频道之一。",
+        "ja": "ホンユは韓国のASMRモッパン(食事配信)クリエイターで、咀嚼音動画と洗練された演出で知られ、韓国で最も視聴されているASMRチャンネルの一つを運営している。"
+      },
+      "handles": {
+        "youtube": "UCxtLc0Jqq3SKBWlIXM_OC9g",
+        "tiktok": null,
+        "instagram": "hongyu.asmr",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 16900000
+        }
+      }
+    },
+    {
+      "id": "hamzy",
+      "name": "Hamzy 햄지",
+      "country": "KR",
+      "topic": {
+        "es": "Mukbang",
+        "en": "Mukbang",
+        "pt": "Mukbang",
+        "fr": "Mukbang",
+        "de": "Mukbang",
+        "ru": "Мукбанг",
+        "ar": "موكبانغ (بث الأكل)",
+        "hi": "मुकबैंग",
+        "zh": "吃播",
+        "ja": "モッパン"
+      },
+      "about": {
+        "es": "Hamzy es una de las creadoras de mukbang más populares de Corea del Sur, famosa por videos de comidas caseras filmados con un formato cercano y familiar.",
+        "en": "Hamzy is one of South Korea's most popular mukbang creators, known for home-cooked-meal videos filmed in a close, familiar format.",
+        "pt": "Hamzy é uma das criadoras de mukbang mais populares da Coreia do Sul, conhecida por vídeos de refeições caseiras filmados em um formato próximo e familiar.",
+        "fr": "Hamzy est l'une des créatrices de mukbang les plus populaires de Corée du Sud, connue pour ses vidéos de repas faits maison filmés dans un format proche et familier.",
+        "de": "Hamzy ist eine der beliebtesten Mukbang-Creatorinnen Südkoreas, bekannt für Videos hausgemachter Mahlzeiten in einem nahen, vertrauten Format.",
+        "ru": "Хамзи — одна из самых популярных создательниц мукбанг-контента в Южной Корее, известная видео с домашней едой, снятыми в близком, доверительном формате.",
+        "ar": "هامزي واحدة من أشهر صانعات محتوى الموكبانغ في كوريا الجنوبية، معروفة بمقاطع الوجبات المنزلية المصورة بأسلوب قريب وودود.",
+        "hi": "हैमज़ी दक्षिण कोरिया की सबसे लोकप्रिय मुकबैंग क्रिएटर्स में से एक हैं, जो घर के बने खाने के वीडियो के लिए जानी जाती हैं जिन्हें एक आत्मीय अंदाज़ में फिल्माया जाता है।",
+        "zh": "Hamzy是韩国最受欢迎的吃播创作者之一,以贴近生活、家常菜风格的进食视频而闻名。",
+        "ja": "ハムジは韓国で最も人気のあるモッパンクリエイターの一人で、親しみやすい形式で撮影された家庭料理の動画で知られている。"
+      },
+      "handles": {
+        "youtube": "UCPKNKldggioffXPkSmjs5lQ",
+        "tiktok": "hamzyasmr",
+        "instagram": "hamzy_1990",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 14200000
+        }
+      }
+    },
+    {
+      "id": "tzuyang",
+      "name": "Tzuyang 쯔양",
+      "country": "KR",
+      "topic": {
+        "es": "Mukbang",
+        "en": "Mukbang",
+        "pt": "Mukbang",
+        "fr": "Mukbang",
+        "de": "Mukbang",
+        "ru": "Мукбанг",
+        "ar": "موكبانغ (بث الأكل)",
+        "hi": "मुकबैंग",
+        "zh": "吃播",
+        "ja": "モッパン"
+      },
+      "about": {
+        "es": "Tzuyang (Park Jung-won, nacida en 1996 en Seúl) es una youtuber surcoreana especializada en mukbang, reconocida por sus sesiones de comida de gran volumen desde 2018.",
+        "en": "Tzuyang (Park Jung-won, born 1996 in Seoul) is a South Korean YouTuber specializing in mukbang, known for her large-quantity eating sessions since 2018.",
+        "pt": "Tzuyang (Park Jung-won, nascida em 1996 em Seul) é uma youtuber sul-coreana especializada em mukbang, conhecida por suas sessões de comida em grande quantidade desde 2018.",
+        "fr": "Tzuyang (Park Jung-won, née en 1996 à Séoul) est une youtubeuse sud-coréenne spécialisée dans le mukbang, connue pour ses séances de repas en grande quantité depuis 2018.",
+        "de": "Tzuyang (Park Jung-won, geboren 1996 in Seoul) ist eine südkoreanische YouTuberin, spezialisiert auf Mukbang, bekannt für ihre Videos mit sehr großen Essensmengen seit 2018.",
+        "ru": "Тцуян (Пак Чон Вон, родилась в 1996 году в Сеуле) — южнокорейская видеоблогерша, специализирующаяся на мукбанге, известная своими видео с поеданием больших порций еды с 2018 года.",
+        "ar": "تسويانغ (بارك جونغ وون، وُلدت عام 1996 في سيول) صانعة محتوى كورية جنوبية متخصصة في الموكبانغ، معروفة بمقاطع تناول كميات كبيرة من الطعام منذ 2018.",
+        "hi": "त्ज़ुयांग (पार्क जुंग-वॉन, जन्म 1996, सियोल) एक दक्षिण कोरियाई यूट्यूबर हैं जो मुकबैंग में विशेषज्ञ हैं, वे 2018 से बड़ी मात्रा में खाने के वीडियो के लिए जानी जाती हैं।",
+        "zh": "쯔양(本名朴正媛,1996年生于首尔)是韩国专攻吃播的YouTuber,自2018年起以大分量进食视频闻名。",
+        "ja": "チュヤン(本名パク・ジョンウォン、1996年ソウル生まれ)は、モッパンを専門とする韓国のYouTuberで、2018年から大量の食事を食べる動画で知られている。"
+      },
+      "handles": {
+        "youtube": "UCfpaSruWW3S4dibonKXENjA",
+        "tiktok": "tzuyang_official",
+        "instagram": "tzuyang70",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 13500000
+        }
+      }
+    },
+    {
+      "id": "pony-syndrome",
+      "name": "PONY Syndrome 포니",
+      "country": "KR",
+      "topic": {
+        "es": "Belleza y maquillaje",
+        "en": "Beauty and makeup",
+        "pt": "Beleza e maquiagem",
+        "fr": "Beauté et maquillage",
+        "de": "Beauty und Make-up",
+        "ru": "Красота и макияж",
+        "ar": "الجمال والمكياج",
+        "hi": "ब्यूटी और मेकअप",
+        "zh": "美妆与化妆",
+        "ja": "美容とメイク"
+      },
+      "about": {
+        "es": "Park Hye-min, conocida como PONY, es una maquilladora y youtuber surcoreana nacida en 1990, pionera en popularizar las tendencias de belleza coreana (K-beauty) a nivel mundial desde 2015.",
+        "en": "Park Hye-min, known as PONY, is a South Korean makeup artist and YouTuber born in 1990, credited with popularizing K-beauty trends worldwide since 2015.",
+        "pt": "Park Hye-min, conhecida como PONY, é uma maquiadora e youtuber sul-coreana nascida em 1990, creditada por popularizar as tendências de beleza coreana (K-beauty) mundialmente desde 2015.",
+        "fr": "Park Hye-min, connue sous le nom de PONY, est une maquilleuse et youtubeuse sud-coréenne née en 1990, à qui l'on attribue la popularisation des tendances K-beauty dans le monde depuis 2015.",
+        "de": "Park Hye-min, bekannt als PONY, ist eine südkoreanische Make-up-Künstlerin und YouTuberin, geboren 1990, der die weltweite Popularisierung der K-Beauty-Trends seit 2015 zugeschrieben wird.",
+        "ru": "Пак Хе Мин, известная как PONY, — южнокорейский визажист и видеоблогер, родилась в 1990 году, считается одной из тех, кто популяризировал тренды K-beauty во всём мире с 2015 года.",
+        "ar": "بارك هي مين، المعروفة باسم بوني، خبيرة مكياج وصانعة محتوى كورية جنوبية مولودة عام 1990، يُنسب إليها نشر صيحات الجمال الكورية (K-beauty) عالميًا منذ 2015.",
+        "hi": "पार्क हाय-मिन, जिन्हें PONY के नाम से जाना जाता है, एक दक्षिण कोरियाई मेकअप आर्टिस्ट और यूट्यूबर हैं, जन्म 1990, उन्हें 2015 से दुनियाभर में K-ब्यूटी ट्रेंड्स को लोकप्रिय बनाने का श्रेय दिया जाता है।",
+        "zh": "朴惠敏(艺名PONY)是1990年出生的韩国化妆师兼YouTuber,自2015年起被认为在全球推广韩妆(K-beauty)潮流方面功不可没。",
+        "ja": "パク・ヘミン(通称PONY)は1990年生まれの韓国のメイクアップアーティスト兼YouTuberで、2015年以降、世界的なKビューティーブームの立役者とされている。"
+      },
+      "handles": {
+        "youtube": "UCT-_4GqC-yLY1xtTHhwY0hA",
+        "tiktok": "ponysyndrome",
+        "instagram": "ponysmakeup",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5860000
+        }
+      }
+    },
+    {
+      "id": "heopop",
+      "name": "Heopop 허팝",
+      "country": "KR",
+      "topic": {
+        "es": "Experimentos y curiosidades",
+        "en": "Experiments and curiosities",
+        "pt": "Experimentos e curiosidades",
+        "fr": "Expériences et curiosités",
+        "de": "Experimente und Kuriositäten",
+        "ru": "Эксперименты и любопытные факты",
+        "ar": "تجارب وطرائف",
+        "hi": "प्रयोग और रोचक तथ्य",
+        "zh": "实验与趣味知识",
+        "ja": "実験と雑学"
+      },
+      "about": {
+        "es": "Heopop es un creador surcoreano activo desde 2014, conocido por experimentos a gran escala y contenido de curiosidades que resuelve preguntas cotidianas de su audiencia, muy popular entre niños y jóvenes.",
+        "en": "Heopop is a South Korean creator active since 2014, known for large-scale experiments and curiosity-driven content that answers his audience's everyday questions, especially popular with children and young viewers.",
+        "pt": "Heopop é um criador sul-coreano ativo desde 2014, conhecido por experimentos em grande escala e conteúdo de curiosidades que responde a perguntas cotidianas de seu público, muito popular entre crianças e jovens.",
+        "fr": "Heopop est un créateur sud-coréen actif depuis 2014, connu pour ses expériences à grande échelle et son contenu de curiosités qui répond aux questions quotidiennes de son public, très populaire auprès des enfants et des jeunes.",
+        "de": "Heopop ist ein südkoreanischer Creator, aktiv seit 2014, bekannt für groß angelegte Experimente und Kurioses, das Alltagsfragen seines Publikums beantwortet, besonders beliebt bei Kindern und jungen Zuschauern.",
+        "ru": "Хопоп — южнокорейский создатель контента, работающий с 2014 года, известен масштабными экспериментами и познавательными роликами, отвечающими на повседневные вопросы аудитории; особенно популярен среди детей и подростков.",
+        "ar": "هوباب صانع محتوى كوري جنوبي نشط منذ 2014، معروف بتجارب واسعة النطاق ومحتوى طرائف يجيب عن أسئلة جمهوره اليومية، ويحظى بشعبية كبيرة بين الأطفال والشباب.",
+        "hi": "हियोपॉप 2014 से सक्रिय एक दक्षिण कोरियाई क्रिएटर हैं, जो बड़े पैमाने के प्रयोगों और रोचक सामग्री के लिए जाने जाते हैं जो उनके दर्शकों के रोज़मर्रा के सवालों के जवाब देती है, बच्चों और युवाओं में खासे लोकप्रिय हैं।",
+        "zh": "Heopop是自2014年起活跃的韩国创作者,以大规模实验和解答观众日常疑问的趣味内容闻名,深受儿童和青少年观众喜爱。",
+        "ja": "ホパプは2014年から活動する韓国のクリエイターで、大規模な実験や視聴者の日常の疑問に答える雑学コンテンツで知られ、子供や若い視聴者に特に人気がある。"
+      },
+      "handles": {
+        "youtube": "UCk6bX-MZXdte_7kG8TbMkqg",
+        "tiktok": "heopopfamily",
+        "instagram": "heopop",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4240000
+        }
+      }
+    },
+    {
+      "id": "ssin",
+      "name": "Ssin 씬님",
+      "country": "KR",
+      "topic": {
+        "es": "Belleza y moda",
+        "en": "Beauty and fashion",
+        "pt": "Beleza e moda",
+        "fr": "Beauté et mode",
+        "de": "Beauty und Mode",
+        "ru": "Красота и мода",
+        "ar": "الجمال والأزياء",
+        "hi": "ब्यूटी और फैशन",
+        "zh": "美妆与时尚",
+        "ja": "美容とファッション"
+      },
+      "about": {
+        "es": "Ssin (씬님) es una creadora surcoreana de belleza y moda activa desde 2008, conocida por sus looks de maquillaje inspirados en celebridades coreanas y por reseñas de moda muy directas.",
+        "en": "Ssin (씬님) is a South Korean beauty and fashion creator active since 2008, known for makeup looks inspired by Korean celebrities and outspoken fashion reviews.",
+        "pt": "Ssin (씬님) é uma criadora sul-coreana de beleza e moda ativa desde 2008, conhecida por looks de maquiagem inspirados em celebridades coreanas e resenhas de moda bem diretas.",
+        "fr": "Ssin (씬님) est une créatrice sud-coréenne de beauté et de mode active depuis 2008, connue pour ses looks de maquillage inspirés de célébrités coréennes et ses avis mode très directs.",
+        "de": "Ssin (씬님) ist eine südkoreanische Beauty- und Modeschöpferin, aktiv seit 2008, bekannt für Make-up-Looks im Stil koreanischer Prominenter und für sehr direkte Modebewertungen.",
+        "ru": "Ссин (씬님) — южнокорейская создательница контента о красоте и моде, работает с 2008 года, известна образами макияжа в стиле корейских знаменитостей и прямолинейными обзорами одежды.",
+        "ar": "سين (씬님) صانعة محتوى كورية جنوبية في مجال الجمال والأزياء نشطة منذ 2008، معروفة بإطلالات مكياج مستوحاة من نجوم كوريين ومراجعات أزياء صريحة.",
+        "hi": "सिन (씬님) एक दक्षिण कोरियाई ब्यूटी और फैशन क्रिएटर हैं जो 2008 से सक्रिय हैं, वे कोरियाई सेलिब्रिटीज़ से प्रेरित मेकअप लुक्स और बेबाक फैशन समीक्षाओं के लिए जानी जाती हैं।",
+        "zh": "Ssin(씬님)是自2008年起活跃的韩国美妆时尚创作者,以模仿韩国明星的妆容造型和直言不讳的时尚点评而闻名。",
+        "ja": "シンニム(씬님)は2008年から活動する韓国の美容・ファッションクリエイターで、韓国セレブ風のメイクや率直なファッションレビューで知られている。"
+      },
+      "handles": {
+        "youtube": "UC5xK2Xdrud3-KGjkS1Igumg",
+        "tiktok": null,
+        "instagram": "ssinnim",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1410000
+        }
+      }
+    },
+    {
+      "id": "fede-vigevani",
+      "name": "Fede Vigevani",
+      "country": "UY",
+      "topic": {
+        "es": "Comedia, retos y música",
+        "en": "Comedy, challenges and music",
+        "pt": "Comédia, desafios e música",
+        "fr": "Comédie, défis et musique",
+        "de": "Comedy, Challenges und Musik",
+        "ru": "Комедия, челленджи и музыка",
+        "ar": "كوميديا وتحديات وموسيقى",
+        "hi": "कॉमेडी, चैलेंज और संगीत",
+        "zh": "喜剧、挑战与音乐",
+        "ja": "コメディ、チャレンジ、音楽"
+      },
+      "about": {
+        "es": "Federico Augusto Vigevani de Arce, nacido en Montevideo en 1994, es un youtuber y cantante uruguayo. Comenzó su canal en 2009 y en 2014 cofundó el grupo de bromas Dosogas junto a Mathías Sellanes y Juan Pablo Barbot. Desde 2018 desarrolla también una carrera musical solista. Es uno de los youtubers de habla hispana con más suscriptores del mundo.",
+        "en": "Federico Augusto Vigevani de Arce, born in Montevideo in 1994, is a Uruguayan YouTuber and singer. He started his channel in 2009 and in 2014 co-founded the prank group Dosogas with Mathías Sellanes and Juan Pablo Barbot. Since 2018 he has also pursued a solo music career. He is one of the most-subscribed Spanish-language YouTubers in the world.",
+        "pt": "Federico Augusto Vigevani de Arce, nascido em Montevidéu em 1994, é um youtuber e cantor uruguaio. Iniciou seu canal em 2009 e em 2014 cofundou o grupo de pegadinhas Dosogas com Mathías Sellanes e Juan Pablo Barbot. Desde 2018 também segue carreira musical solo. É um dos youtubers de língua espanhola com mais inscritos do mundo.",
+        "fr": "Federico Augusto Vigevani de Arce, né à Montevideo en 1994, est un YouTubeur et chanteur uruguayen. Il a lancé sa chaîne en 2009 et cofondé en 2014 le groupe de canulars Dosogas avec Mathías Sellanes et Juan Pablo Barbot. Depuis 2018, il mène aussi une carrière musicale solo. Il est l'un des YouTubeurs hispanophones les plus suivis au monde.",
+        "de": "Federico Augusto Vigevani de Arce, geboren 1994 in Montevideo, ist ein uruguayischer YouTuber und Sänger. Er startete seinen Kanal 2009 und gründete 2014 mit Mathías Sellanes und Juan Pablo Barbot die Scherzgruppe Dosogas. Seit 2018 verfolgt er zudem eine Solo-Musikkarriere. Er zählt zu den meistabonnierten spanischsprachigen YouTubern weltweit.",
+        "ru": "Федерико Аугусто Вигевани де Арсе, родившийся в Монтевидео в 1994 году, — уругвайский ютубер и певец. Он завёл канал в 2009 году, а в 2014 году стал сооснователем группы розыгрышей Dosogas вместе с Матиасом Селланесом и Хуаном Пабло Барботом. С 2018 года также развивает сольную музыкальную карьеру. Он один из самых популярных испаноязычных ютуберов в мире.",
+        "ar": "فيديريكو أوغوستو فيغيفاني دي أرسي، المولود في مونتيفيديو عام 1994، هو يوتيوبر ومغنٍّ أوروغواياني. بدأ قناته عام 2009، وفي عام 2014 شارك في تأسيس مجموعة المقالب Dosogas مع ماتياس سيانيس وخوان بابلو باربوت. منذ عام 2018 يخوض أيضًا مسيرة موسيقية منفردة، وهو من أكثر اليوتيوبرز الناطقين بالإسبانية متابعة في العالم.",
+        "hi": "फेडेरिको ऑगस्टो विगेवानी दे आर्से का जन्म 1994 में मोंटेवीडियो में हुआ, वे एक उरुग्वेयन यूट्यूबर और गायक हैं। उन्होंने 2009 में अपना चैनल शुरू किया और 2014 में माथियास सेल्यानेस व जुआन पाब्लो बार्बोत के साथ मिलकर प्रैंक ग्रुप Dosogas की सह-स्थापना की। 2018 से वे एकल संगीत करियर भी बना रहे हैं। वे दुनिया के सबसे अधिक सब्सक्राइबर वाले स्पेनिश भाषी यूट्यूबरों में से एक हैं।",
+        "zh": "费德里科·奥古斯托·维格瓦尼·德·阿尔塞1994年出生于蒙得维的亚，是乌拉圭YouTuber兼歌手。他于2009年开设频道，2014年与马蒂亚斯·塞利亚内斯和胡安·巴勃罗·巴尔博特共同创立恶作剧组合Dosogas。自2018年起他也发展个人音乐事业，是全球订阅人数最多的西语YouTuber之一。",
+        "ja": "1994年モンテビデオ生まれのフェデリコ・アウグスト・ビヘバニ・デ・アルセは、ウルグアイ出身のユーチューバー兼歌手。2009年にチャンネルを開設し、2014年にはマティアス・セジャネス、フアン・パブロ・バルボットとドッキリグループ「Dosogas」を共同結成。2018年からはソロ音楽活動も展開しており、スペイン語圏で最も登録者数の多いユーチューバーの一人。"
+      },
+      "handles": {
+        "youtube": "UCoQm-PeHC-cbJclKJYJ8LzA",
+        "tiktok": null,
+        "instagram": "fedevigevani",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 79100000
+        }
+      }
+    },
+    {
+      "id": "javo-machado",
+      "name": "Javo Machado",
+      "country": "UY",
+      "topic": {
+        "es": "Imitaciones y humor futbolero",
+        "en": "Impressions and football comedy",
+        "pt": "Imitações e humor futebolístico",
+        "fr": "Imitations et humour footballistique",
+        "de": "Parodien und Fußball-Comedy",
+        "ru": "Пародии и футбольный юмор",
+        "ar": "تقليد الأصوات وكوميديا كرة القدم",
+        "hi": "नकल और फुटबॉल हास्य",
+        "zh": "模仿秀与足球喜剧",
+        "ja": "ものまねとサッカーコメディ"
+      },
+      "about": {
+        "es": "Javo Machado es un comediante e imitador uruguayo conocido por sus parodias e imitaciones de futbolistas como Messi y Suárez, además de sketches humorísticos sobre fútbol. Él mismo se describe en su canal como oriundo de Uruguay.",
+        "en": "Javo Machado is a Uruguayan comedian and impersonator known for his parodies and impressions of footballers like Messi and Suárez, along with football-themed comedy sketches. He describes himself on his channel as being from Uruguay.",
+        "pt": "Javo Machado é um comediante e imitador uruguaio conhecido por suas paródias e imitações de jogadores como Messi e Suárez, além de esquetes de humor sobre futebol. Ele mesmo se descreve em seu canal como natural do Uruguai.",
+        "fr": "Javo Machado est un humoriste et imitateur uruguayen connu pour ses parodies et imitations de footballeurs comme Messi et Suárez, ainsi que pour ses sketchs humoristiques sur le football. Il se présente lui-même sur sa chaîne comme originaire d'Uruguay.",
+        "de": "Javo Machado ist ein uruguayischer Comedian und Imitator, bekannt für seine Parodien und Nachahmungen von Fußballern wie Messi und Suárez sowie humorvolle Fußball-Sketche. Auf seinem Kanal beschreibt er sich selbst als aus Uruguay stammend.",
+        "ru": "Хаво Мачадо — уругвайский комик и пародист, известный своими пародиями и имитациями футболистов, таких как Месси и Суарес, а также юмористическими скетчами о футболе. На своём канале он сам указывает, что родом из Уругвая.",
+        "ar": "خافو ماتشادو كوميدي ومقلّد أصوات أوروغواياني معروف بمحاكاته لاعبي كرة القدم مثل ميسي وسواريز، إضافة إلى مقاطع كوميدية عن كرة القدم. يصف نفسه في قناته بأنه من الأوروغواي.",
+        "hi": "जावो माचाडो एक उरुग्वेयन कॉमेडियन और नकलची हैं, जो मेसी और सुआरेज़ जैसे फुटबॉलरों की नकल और फुटबॉल-थीम वाले हास्य स्केच के लिए जाने जाते हैं। वे अपने चैनल पर खुद को उरुग्वे से बताते हैं।",
+        "zh": "哈沃·马查多是乌拉圭喜剧演员兼模仿者，以模仿梅西、苏亚雷斯等足球明星以及足球主题喜剧短剧闻名。他在自己的频道简介中表示自己来自乌拉圭。",
+        "ja": "ハボ・マチャドはウルグアイ出身のコメディアン兼ものまね芸人で、メッシやスアレスなどのサッカー選手のものまねやサッカーをテーマにしたコントで知られる。自身のチャンネルでウルグアイ出身であると明言している。"
+      },
+      "handles": {
+        "youtube": "UCxz30HaoXt8Dp8zDzk9xV3g",
+        "tiktok": "javomachado",
+        "instagram": "javomachado",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 589000
+        }
+      }
+    },
+    {
+      "id": "el-bananero",
+      "name": "El Bananero",
+      "country": "UY",
+      "topic": {
+        "es": "Comedia y parodias para adultos",
+        "en": "Adult comedy and parodies",
+        "pt": "Comédia e paródias para adultos",
+        "fr": "Comédie et parodies pour adultes",
+        "de": "Comedy und Parodien für Erwachsene",
+        "ru": "Комедия и пародии для взрослых",
+        "ar": "كوميديا وأعمال ساخرة للبالغين",
+        "hi": "वयस्क हास्य और पैरोडी",
+        "zh": "成人喜剧与恶搞短片",
+        "ja": "大人向けコメディとパロディ"
+      },
+      "about": {
+        "es": "Adrián Maximiliano Nario Pérez, conocido como El Bananero, es un humorista uruguayo-estadounidense que se crió en Montevideo desde los ocho años. Mantiene su canal desde 2009 y es considerado uno de los primeros youtubers de habla hispana en Latinoamérica, conocido por parodias irreverentes de películas y de la actualidad.",
+        "en": "Adrián Maximiliano Nario Pérez, known as El Bananero, is a Uruguayan-American humorist who grew up in Montevideo from age eight. He has run his channel since 2009 and is considered one of the earliest Spanish-language YouTubers in Latin America, known for irreverent parodies of films and current events.",
+        "pt": "Adrián Maximiliano Nario Pérez, conhecido como El Bananero, é um humorista uruguaio-americano criado em Montevidéu desde os oito anos. Mantém seu canal desde 2009 e é considerado um dos primeiros youtubers de língua espanhola da América Latina, conhecido por paródias irreverentes de filmes e da atualidade.",
+        "fr": "Adrián Maximiliano Nario Pérez, connu sous le nom d'El Bananero, est un humoriste uruguayo-américain élevé à Montevideo dès l'âge de huit ans. Il anime sa chaîne depuis 2009 et est considéré comme l'un des tout premiers YouTubeurs hispanophones d'Amérique latine, connu pour ses parodies irrévérencieuses de films et d'actualités.",
+        "de": "Adrián Maximiliano Nario Pérez, bekannt als El Bananero, ist ein uruguayisch-US-amerikanischer Humorist, der ab dem achten Lebensjahr in Montevideo aufwuchs. Er betreibt seinen Kanal seit 2009 und gilt als einer der ersten spanischsprachigen YouTuber Lateinamerikas, bekannt für respektlose Parodien von Filmen und aktuellen Ereignissen.",
+        "ru": "Адриан Максимилиано Нарио Перес, известный как El Bananero, — уругвайско-американский юморист, выросший в Монтевидео с восьми лет. Он ведёт свой канал с 2009 года и считается одним из первых испаноязычных ютуберов Латинской Америки, известным дерзкими пародиями на фильмы и текущие события.",
+        "ar": "أدريان ماكسيميليانو ناريو بيريز، المعروف باسم El Bananero، فكاهي أوروغواياني أمريكي نشأ في مونتيفيديو منذ سن الثامنة. يدير قناته منذ عام 2009 ويُعد من أوائل يوتيوبرز أمريكا اللاتينية الناطقين بالإسبانية، واشتهر بمحاكاته الساخرة للأفلام والأحداث الجارية.",
+        "hi": "एड्रियान मैक्सिमिलियानो नारियो पेरेज़, जिन्हें El Bananero के नाम से जाना जाता है, एक उरुग्वेयन-अमेरिकी हास्य कलाकार हैं जो आठ वर्ष की उम्र से मोंटेवीडियो में पले-बढ़े। वे 2009 से अपना चैनल चला रहे हैं और लैटिन अमेरिका के शुरुआती स्पेनिश भाषी यूट्यूबरों में गिने जाते हैं, जो फिल्मों और समसामयिक घटनाओं की बेबाक पैरोडी के लिए जाने जाते हैं।",
+        "zh": "阿德里安·马克西米利亚诺·纳里奥·佩雷斯，人称“El Bananero”，是乌拉圭裔美籍喜剧演员，八岁起在蒙得维的亚长大。他自2009年起运营频道，被认为是拉丁美洲最早的西语YouTuber之一，以无厘头的电影和时事恶搞闻名。",
+        "ja": "エル・バナネロことアドリアン・マクシミリアーノ・ナリオ・ペレスは、8歳からモンテビデオで育ったウルグアイ系アメリカ人のコメディアン。2009年からチャンネルを運営し、映画や時事ネタを過激にパロディ化することで知られる、ラテンアメリカ最古参のスペイン語ユーチューバーの一人とされる。"
+      },
+      "handles": {
+        "youtube": "UCop-oxKVfX6ErQIct2FRKhg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 3590000
+        }
+      }
+    },
+    {
+      "id": "emir-abdul-gani",
+      "name": "Emir Abdul Gani",
+      "country": "UY",
+      "topic": {
+        "es": "Coreografías y baile",
+        "en": "Choreography and dance",
+        "pt": "Coreografias e dança",
+        "fr": "Chorégraphies et danse",
+        "de": "Choreografie und Tanz",
+        "ru": "Хореография и танцы",
+        "ar": "الرقص والتصميم الحركي",
+        "hi": "कोरियोग्राफी और नृत्य",
+        "zh": "编舞与舞蹈",
+        "ja": "振付とダンス"
+      },
+      "about": {
+        "es": "Emir Abdul Gani es un bailarín y coreógrafo uruguayo, fundador del grupo Ayman Crew, conocido por sus coreografías virales de reguetón y pop. Se desempeñó como coach de baile en el programa argentino 'La Academia' de ShowMatch.",
+        "en": "Emir Abdul Gani is a Uruguayan dancer and choreographer, founder of the Ayman Crew, known for his viral reggaeton and pop choreographies. He served as a dance coach on the Argentine show 'La Academia' on ShowMatch.",
+        "pt": "Emir Abdul Gani é um dançarino e coreógrafo uruguaio, fundador do grupo Ayman Crew, conhecido por suas coreografias virais de reggaeton e pop. Atuou como coach de dança no programa argentino 'La Academia', do ShowMatch.",
+        "fr": "Emir Abdul Gani est un danseur et chorégraphe uruguayen, fondateur du groupe Ayman Crew, connu pour ses chorégraphies virales de reggaeton et de pop. Il a été coach de danse dans l'émission argentine 'La Academia' de ShowMatch.",
+        "de": "Emir Abdul Gani ist ein uruguayischer Tänzer und Choreograf, Gründer der Gruppe Ayman Crew, bekannt für seine viralen Reggaeton- und Pop-Choreografien. Er war Tanzcoach bei der argentinischen Show 'La Academia' von ShowMatch.",
+        "ru": "Эмир Абдул Гани — уругвайский танцор и хореограф, основатель группы Ayman Crew, известный вирусными хореографиями в стиле реггетон и поп. Он работал танцевальным тренером в аргентинском шоу «La Academia» на ShowMatch.",
+        "ar": "أمير عبد الغني راقص ومصمم رقصات أوروغواياني، مؤسس مجموعة Ayman Crew، اشتهر برقصاته المنتشرة على أنغام الريغيتون والبوب. عمل مدرّب رقص في البرنامج الأرجنتيني 'La Academia' ضمن ShowMatch.",
+        "hi": "एमिर अब्दुल गनी एक उरुग्वेयन नर्तक और कोरियोग्राफर हैं, जो Ayman Crew समूह के संस्थापक हैं और रेगेटन व पॉप संगीत की वायरल कोरियोग्राफी के लिए जाने जाते हैं। उन्होंने अर्जेंटीना के शो 'La Academia' (ShowMatch) में डांस कोच के रूप में भी काम किया।",
+        "zh": "埃米尔·阿卜杜勒·加尼是乌拉圭舞者兼编舞师，Ayman Crew舞团的创始人，以雷鬼顿和流行舞蹈编排走红网络。他曾在阿根廷节目ShowMatch的《La Academia》中担任舞蹈教练。",
+        "ja": "エミール・アブドゥル・ガニはウルグアイ出身のダンサー兼振付師で、ダンスグループ「Ayman Crew」の創設者。レゲトンやポップスの振付動画がバイラルヒットしたことで知られ、アルゼンチンの番組「ショーマッチ」の『ラ・アカデミア』ではダンスコーチも務めた。"
+      },
+      "handles": {
+        "youtube": "UCeKoSVLoLWJobkpbUNQ4zFQ",
+        "tiktok": null,
+        "instagram": "EmirAbdulGani",
+        "facebook": "emirabdulgani4",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 13100000
+        }
+      }
+    },
+    {
+      "id": "el-reja",
+      "name": "El Reja",
+      "country": "UY",
+      "topic": {
+        "es": "Música urbana y cumbia",
+        "en": "Urban music and cumbia",
+        "pt": "Música urbana e cumbia",
+        "fr": "Musique urbaine et cumbia",
+        "de": "Urban Music und Cumbia",
+        "ru": "Урбан-музыка и кумбия",
+        "ar": "الموسيقى الحضرية والكومبيا",
+        "hi": "अर्बन संगीत और कुंबिया",
+        "zh": "都市音乐与坎比亚",
+        "ja": "アーバンミュージックとクンビア"
+      },
+      "about": {
+        "es": "Jorge Rodríguez, conocido como El Reja, es un músico uruguayo nacido en Montevideo, de género urbano y cumbia. Alcanzó popularidad con su primer sencillo 'Siéntelo' a los 18 años, impulsado en redes por el youtuber argentino Julián Serrano, y luego con éxitos como 'Soltero Hasta la Tumba' y 'Bésame'. También ha usado su plataforma para hablar sobre salud mental.",
+        "en": "Jorge Rodríguez, known as El Reja, is a Uruguayan musician born in Montevideo working in urban and cumbia genres. He gained popularity with his first single 'Siéntelo' at age 18, boosted online by Argentine YouTuber Julián Serrano, followed by hits such as 'Soltero Hasta la Tumba' and 'Bésame'. He has also used his platform to speak about mental health.",
+        "pt": "Jorge Rodríguez, conhecido como El Reja, é um músico uruguaio nascido em Montevidéu, dos gêneros urbano e cumbia. Ganhou popularidade com seu primeiro single 'Siéntelo' aos 18 anos, impulsionado nas redes pelo youtuber argentino Julián Serrano, e depois com sucessos como 'Soltero Hasta la Tumba' e 'Bésame'. Também usou sua plataforma para falar sobre saúde mental.",
+        "fr": "Jorge Rodríguez, connu sous le nom d'El Reja, est un musicien uruguayen né à Montevideo, évoluant dans les genres urbain et cumbia. Il s'est fait connaître avec son premier single 'Siéntelo' à 18 ans, relayé en ligne par le YouTubeur argentin Julián Serrano, puis avec des tubes comme 'Soltero Hasta la Tumba' et 'Bésame'. Il utilise aussi sa notoriété pour parler de santé mentale.",
+        "de": "Jorge Rodríguez, bekannt als El Reja, ist ein uruguayischer Musiker aus Montevideo, tätig in Urban- und Cumbia-Genres. Er wurde mit seiner ersten Single 'Siéntelo' im Alter von 18 Jahren bekannt, nachdem der argentinische YouTuber Julián Serrano sie online verbreitete, gefolgt von Hits wie 'Soltero Hasta la Tumba' und 'Bésame'. Er nutzt seine Plattform auch, um über psychische Gesundheit zu sprechen.",
+        "ru": "Хорхе Родригес, известный как El Reja, — уругвайский музыкант из Монтевидео, работающий в жанрах урбан и кумбия. Он приобрёл популярность в 18 лет благодаря первому синглу «Siéntelo», который распространил в сети аргентинский ютубер Хулиан Серрано, а затем хитами «Soltero Hasta la Tumba» и «Bésame». Он также использует свою платформу, чтобы говорить о психическом здоровье.",
+        "ar": "خورخي رودريغيز، المعروف باسم El Reja، موسيقي أوروغواياني من مونتيفيديو يعمل في موسيقى الأوربان والكومبيا. اشتهر بأغنيته الأولى 'Siéntelo' في سن الثامنة عشرة بعد أن روّج لها اليوتيوبر الأرجنتيني خوليان سيرانو، ثم بأغنيات ناجحة مثل 'Soltero Hasta la Tumba' و'Bésame'. كما استخدم منصته للحديث عن الصحة النفسية.",
+        "hi": "जॉर्ज रोड्रिगेज़, जिन्हें El Reja के नाम से जाना जाता है, मोंटेवीडियो में जन्मे उरुग्वेयन संगीतकार हैं जो अर्बन और कुंबिया शैली में काम करते हैं। 18 वर्ष की आयु में उनके पहले सिंगल 'Siéntelo' को अर्जेंटीना के यूट्यूबर जूलियन सेराનो ने वायरल किया, जिसके बाद 'Soltero Hasta la Tumba' और 'Bésame' जैसे हिट गाने आए। उन्होंने मानसिक स्वास्थ्य के बारे में बात करने के लिए भी अपने मंच का उपयोग किया है।",
+        "zh": "豪尔赫·罗德里格斯，人称“El Reja”，是出生于蒙得维的亚的乌拉圭都市与坎比亚风格音乐人。18岁时凭借首支单曲《Siéntelo》走红，阿根廷YouTuber胡利安·塞拉诺的转发助其传播，随后推出《Soltero Hasta la Tumba》《Bésame》等热门歌曲。他也利用自己的影响力谈论心理健康话题。",
+        "ja": "エル・レハことホルヘ・ロドリゲスは、モンテビデオ出身のウルグアイ人ミュージシャンで、アーバン／クンビアのジャンルで活動する。18歳の時にファーストシングル「Siéntelo」がアルゼンチンのユーチューバー、フリアン・セラーノによって拡散され人気を得た後、「Soltero Hasta la Tumba」「Bésame」などのヒット曲を発表。メンタルヘルスについて発信する活動でも知られる。"
+      },
+      "handles": {
+        "youtube": "UCPR1lDo3eMoiw_jhYDy89bQ",
+        "tiktok": null,
+        "instagram": "elrejaoficial",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 596000
+        }
+      }
+    },
+    {
+      "id": "urugodd",
+      "name": "urugodd",
+      "country": "UY",
+      "topic": {
+        "es": "Streaming y videojuegos",
+        "en": "Streaming and gaming",
+        "pt": "Streaming e videogames",
+        "fr": "Streaming et jeux vidéo",
+        "de": "Streaming und Gaming",
+        "ru": "Стриминг и видеоигры",
+        "ar": "البث المباشر وألعاب الفيديو",
+        "hi": "स्ट्रीमिंग और वीडियो गेम",
+        "zh": "直播与电子游戏",
+        "ja": "配信とゲーム実況"
+      },
+      "about": {
+        "es": "Brandon Monzón, conocido como urugodd, es un streamer y creador de contenido uruguayo nacido en Canelones. Es conocido por sus transmisiones en vivo de videojuegos, reacciones y contenido de humor dirigido a una audiencia joven.",
+        "en": "Brandon Monzón, known as urugodd, is a Uruguayan streamer and content creator born in Canelones. He is known for his livestreams of video games, reaction content and comedy aimed at a young audience.",
+        "pt": "Brandon Monzón, conhecido como urugodd, é um streamer e criador de conteúdo uruguaio nascido em Canelones. É conhecido por suas transmissões ao vivo de videogames, conteúdo de reação e humor voltado a um público jovem.",
+        "fr": "Brandon Monzón, connu sous le nom d'urugodd, est un streamer et créateur de contenu uruguayen né à Canelones. Il est connu pour ses diffusions en direct de jeux vidéo, ses contenus de réaction et son humour destiné à un jeune public.",
+        "de": "Brandon Monzón, bekannt als urugodd, ist ein uruguayischer Streamer und Content-Creator aus Canelones. Er ist bekannt für seine Livestreams zu Videospielen, Reaction-Inhalte und Comedy für ein junges Publikum.",
+        "ru": "Брэндон Монсон, известный как urugodd, — уругвайский стример и создатель контента, родившийся в Канелонесе. Он известен своими прямыми трансляциями видеоигр, реакциями и юмористическим контентом для молодой аудитории.",
+        "ar": "براندون مونزون، المعروف باسم urugodd، هو ستريمر وصانع محتوى أوروغواياني وُلد في كانيلونيس. يشتهر ببثه المباشر لألعاب الفيديو ومحتوى ردود الأفعال والكوميديا الموجهة لجمهور شاب.",
+        "hi": "ब्रैंडन मोंसोन, जिन्हें urugodd के नाम से जाना जाता है, कैनेलोनेस में जन्मे उरुग्वेयन स्ट्रीमर और कंटेंट क्रिएटर हैं। वे वीडियो गेम की लाइव स्ट्रीमिंग, रिएक्शन कंटेंट और युवा दर्शकों के लिए हास्य सामग्री के लिए जाने जाते हैं।",
+        "zh": "布兰登·蒙松，人称“urugodd”，是出生于卡内洛内斯的乌拉圭主播兼内容创作者，以电子游戏直播、反应视频及面向年轻观众的搞笑内容而闻名。",
+        "ja": "ブランドン・モンソンことurugoddは、カネロネス生まれのウルグアイ人配信者兼コンテンツクリエイター。ゲーム実況やリアクション動画、若い視聴者向けのコメディコンテンツで知られる。"
+      },
+      "handles": {
+        "youtube": "UCaXa-12BiC7gHaggyMqa9IQ",
+        "tiktok": null,
+        "instagram": "soyurugodd",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1430000
+        }
+      }
+    },
+    {
+      "id": "gaston-marotta",
+      "name": "Gaston Marotta",
+      "country": "UY",
+      "topic": {
+        "es": "Viajes y aventura",
+        "en": "Travel and adventure",
+        "pt": "Viagens e aventura",
+        "fr": "Voyages et aventure",
+        "de": "Reisen und Abenteuer",
+        "ru": "Путешествия и приключения",
+        "ar": "السفر والمغامرة",
+        "hi": "यात्रा और साहसिक कार्य",
+        "zh": "旅行与冒险",
+        "ja": "旅行と冒険"
+      },
+      "about": {
+        "es": "Gastón Marotta es un youtuber uruguayo de viajes y aventura, cuyo lema es 'Movimiento es vida'. Documenta sus recorridos por distintos países del mundo, mostrando lugares poco turísticos y su experiencia como viajero.",
+        "en": "Gastón Marotta is a Uruguayan travel and adventure YouTuber whose motto is 'Movimiento es vida' (Movement is life). He documents his journeys across different countries, showcasing off-the-beaten-path places and his experience as a traveler.",
+        "pt": "Gastón Marotta é um youtuber uruguaio de viagens e aventura, cujo lema é 'Movimiento es vida' (Movimento é vida). Ele documenta suas viagens por diferentes países, mostrando lugares pouco turísticos e sua experiência como viajante.",
+        "fr": "Gastón Marotta est un YouTubeur uruguayen de voyage et d'aventure, dont la devise est « Movimiento es vida » (Le mouvement, c'est la vie). Il documente ses voyages à travers différents pays, montrant des lieux peu touristiques et son expérience de voyageur.",
+        "de": "Gastón Marotta ist ein uruguayischer Reise- und Abenteuer-YouTuber, dessen Motto 'Movimiento es vida' (Bewegung ist Leben) lautet. Er dokumentiert seine Reisen durch verschiedene Länder und zeigt wenig touristische Orte sowie seine Erfahrungen als Reisender.",
+        "ru": "Гастон Маротта — уругвайский ютубер, путешественник и искатель приключений, чей девиз — «Movimiento es vida» (Движение — это жизнь). Он документирует свои поездки по разным странам, показывая нетуристические места и свой опыт путешественника.",
+        "ar": "غاستون ماروتا يوتيوبر أوروغواياني مختص بالسفر والمغامرة، وشعاره 'الحركة هي الحياة'. يوثق رحلاته عبر بلدان مختلفة، مستعرضًا أماكن غير سياحية وتجربته كمسافر.",
+        "hi": "गैस्टन मारोटा एक उरुग्वेयन यात्रा और साहसिक यूट्यूबर हैं, जिनका आदर्श वाक्य है 'Movimiento es vida' (गति ही जीवन है)। वे विभिन्न देशों में अपनी यात्राओं को दर्शाते हैं, कम पर्यटन वाले स्थानों और एक यात्री के रूप में अपने अनुभव को दिखाते हुए।",
+        "zh": "加斯顿·马罗塔是乌拉圭旅行冒险类YouTuber，座右铭是“Movimiento es vida”（运动即生活）。他记录自己在世界各国的旅程，展示鲜为人知的地方以及作为旅行者的经历。",
+        "ja": "ガストン・マロッタは「Movimiento es vida（動くことが人生）」をモットーとするウルグアイ人の旅行・冒険系ユーチューバー。世界各国を巡り、観光地化されていない場所や旅人としての体験を記録している。"
+      },
+      "handles": {
+        "youtube": "UCfA8Uw1BTODJDxSrJcIwNCQ",
+        "tiktok": null,
+        "instagram": "gastonmarotta",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 466000
+        }
+      }
+    },
+    {
+      "id": "marichula",
+      "name": "Marichula",
+      "country": "UY",
+      "topic": {
+        "es": "Reacciones y humor",
+        "en": "Reactions and comedy",
+        "pt": "Reações e humor",
+        "fr": "Réactions et humour",
+        "de": "Reaction-Videos und Comedy",
+        "ru": "Реакции и юмор",
+        "ar": "فيديوهات ردود الأفعال والكوميديا",
+        "hi": "रिएक्शन और हास्य",
+        "zh": "反应视频与喜剧",
+        "ja": "リアクションとコメディ"
+      },
+      "about": {
+        "es": "Marichula es una creadora de contenido uruguaya conocida por sus videos de reacción, especialmente sobre cultura y humor mexicanos, además de contenido de humor y comentarios de actualidad. También transmite en vivo en Twitch.",
+        "en": "Marichula is a Uruguayan content creator known for her reaction videos, particularly about Mexican culture and humor, along with comedic content and commentary on current events. She also streams live on Twitch.",
+        "pt": "Marichula é uma criadora de conteúdo uruguaia conhecida por seus vídeos de reação, especialmente sobre cultura e humor mexicanos, além de conteúdo de humor e comentários sobre a atualidade. Também transmite ao vivo na Twitch.",
+        "fr": "Marichula est une créatrice de contenu uruguayenne connue pour ses vidéos de réaction, en particulier sur la culture et l'humour mexicains, ainsi que pour des contenus humoristiques et des commentaires d'actualité. Elle diffuse aussi en direct sur Twitch.",
+        "de": "Marichula ist eine uruguayische Content-Creatorin, bekannt für ihre Reaction-Videos, insbesondere zu mexikanischer Kultur und mexikanischem Humor, sowie für komödiantische Inhalte und Kommentare zu aktuellen Ereignissen. Sie streamt außerdem live auf Twitch.",
+        "ru": "Маричула — уругвайский создатель контента, известная своими видео-реакциями, особенно на мексиканскую культуру и юмор, а также комедийным контентом и комментариями на актуальные темы. Она также ведёт прямые трансляции на Twitch.",
+        "ar": "ماريتشولا صانعة محتوى أوروغواياني معروفة بفيديوهات ردود الأفعال، خاصة حول الثقافة والفكاهة المكسيكية، إلى جانب محتوى كوميدي وتعليقات على الأحداث الجارية. تبث أيضًا مباشرة على تويتش.",
+        "hi": "मारिचुला एक उरुग्वेयन कंटेंट क्रिएटर हैं, जो विशेष रूप से मैक्सिकन संस्कृति और हास्य पर अपने रिएक्शन वीडियो के लिए जानी जाती हैं, साथ ही हास्य सामग्री और समसामयिक टिप्पणियों के लिए भी। वे Twitch पर भी लाइव स्ट्रीम करती हैं।",
+        "zh": "玛丽楚拉是乌拉圭内容创作者，以对墨西哥文化和幽默的反应视频而闻名，同时也制作喜剧内容和时事评论。她还在Twitch上进行直播。",
+        "ja": "マリチュラはウルグアイ出身のコンテンツクリエイターで、特にメキシコの文化やユーモアに関するリアクション動画、コメディコンテンツや時事コメントで知られる。Twitchでもライブ配信を行っている。"
+      },
+      "handles": {
+        "youtube": "UCeU08KbCzBL0UFL77DaTU-A",
+        "tiktok": null,
+        "instagram": "marichulaok",
+        "facebook": "marichulaok",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 133000
+        }
+      }
     }
   ]
 }
