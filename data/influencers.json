@@ -1375,52 +1375,6 @@
       }
     },
     {
-      "id": "la-granja-del-borrego",
-      "name": "La Granja del Borrego",
-      "country": "CO",
-      "topic": {
-        "es": "Campo y animales",
-        "en": "Farm and animals",
-        "pt": "Campo e animais",
-        "fr": "Campagne et animaux",
-        "de": "Landleben und Tiere",
-        "ru": "Сельская жизнь и животные",
-        "ar": "الريف والحيوانات",
-        "hi": "ग्रामीण जीवन और पशु",
-        "zh": "乡村与动物",
-        "ja": "田舎暮らしと動物"
-      },
-      "about": {
-        "es": "Carlos Alberto Díaz divulga sobre animales, agricultura y la vida en el campo con un tono ameno.",
-        "en": "Carlos Alberto Díaz shares content about animals, farming and country life in a friendly tone.",
-        "pt": "Carlos Alberto Díaz divulga conteúdo sobre animais, agricultura e a vida no campo com um tom leve.",
-        "fr": "Carlos Alberto Díaz parle des animaux, de l'agriculture et de la vie à la campagne sur un ton chaleureux.",
-        "de": "Carlos Alberto Díaz berichtet locker über Tiere, Landwirtschaft und das Landleben.",
-        "ru": "Карлос Альберто Диас рассказывает о животных, сельском хозяйстве и жизни в деревне в лёгкой манере.",
-        "ar": "كارلوس ألبرتو دياز ينشر محتوى عن الحيوانات والزراعة والحياة الريفية بأسلوب ودود.",
-        "hi": "कार्लोस अल्बर्टो डियाज़ जानवरों, कृषि और ग्रामीण जीवन के बारे में सहज अंदाज़ में जानकारी देते हैं।",
-        "zh": "卡洛斯·阿尔贝托·迪亚斯以轻松风格分享动物、农业和乡村生活相关内容。",
-        "ja": "カルロス・アルベルト・ディアスが動物や農業、田舎暮らしについて親しみやすい語り口で発信。"
-      },
-      "handles": {
-        "youtube": "UCSvaaQGkoOmISS54UCITg4w",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "TreceBits, rankings por país publicados en enero de 2026",
-        "followers": {
-          "instagram": 5800000,
-          "tiktok": 36000000,
-          "youtube": 27800000
-        }
-      }
-    },
-    {
       "id": "yeferson-cossio",
       "name": "Yeferson Cossio",
       "country": "CO",
@@ -1509,52 +1463,6 @@
           "instagram": 18900000,
           "tiktok": 6000000,
           "youtube": 4480000
-        }
-      }
-    },
-    {
-      "id": "ami-rodriguez",
-      "name": "Ami Rodríguez",
-      "country": "CO",
-      "topic": {
-        "es": "Entretenimiento infantil",
-        "en": "Kids' entertainment",
-        "pt": "Entretenimento infantil",
-        "fr": "Divertissement pour enfants",
-        "de": "Unterhaltung für Kinder",
-        "ru": "Детские развлечения",
-        "ar": "ترفيه للأطفال",
-        "hi": "बच्चों का मनोरंजन",
-        "zh": "儿童娱乐",
-        "ja": "子ども向けエンタメ"
-      },
-      "about": {
-        "es": "Retos, comedia y una estética colorida pensada para niños y adolescentes.",
-        "en": "Challenges, comedy and a colorful look aimed at kids and teens.",
-        "pt": "Desafios, comédia e uma estética colorida pensada para crianças e adolescentes.",
-        "fr": "Défis, comédie et une esthétique colorée pensée pour les enfants et les adolescents.",
-        "de": "Challenges, Comedy und eine bunte Optik für Kinder und Jugendliche.",
-        "ru": "Челленджи, комедия и яркая эстетика для детей и подростков.",
-        "ar": "تحديات وكوميديا وأسلوب بصري ملوّن موجّه للأطفال والمراهقين.",
-        "hi": "चुनौतियां, कॉमेडी और बच्चों व किशोरों के लिए बनाई गई रंगीन शैली।",
-        "zh": "面向儿童和青少年的挑战、喜剧内容及多彩风格。",
-        "ja": "子どもや十代の若者向けに、チャレンジやコメディ、カラフルな世界観を発信。"
-      },
-      "handles": {
-        "youtube": "UCwohKbRK2QnojtLh3p7xwaA",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "TreceBits, rankings por país publicados en enero de 2026",
-        "followers": {
-          "instagram": 4500000,
-          "tiktok": 13400000,
-          "youtube": 32200000
         }
       }
     },
@@ -1651,52 +1559,6 @@
       }
     },
     {
-      "id": "lulu99",
-      "name": "Lulu99",
-      "country": "CO",
-      "topic": {
-        "es": "Belleza y vida personal",
-        "en": "Beauty and personal life",
-        "pt": "Beleza e vida pessoal",
-        "fr": "Beauté et vie personnelle",
-        "de": "Schönheit und Privatleben",
-        "ru": "Красота и личная жизнь",
-        "ar": "جمال وحياة شخصية",
-        "hi": "सौंदर्य और निजी जीवन",
-        "zh": "美妆与私人生活",
-        "ja": "美容とプライベート"
-      },
-      "about": {
-        "es": "Historias de su vida y retos de belleza y moda para un público joven.",
-        "en": "Life stories and beauty and fashion challenges for a young audience.",
-        "pt": "Histórias de sua vida e desafios de beleza e moda para um público jovem.",
-        "fr": "Histoires de vie et défis de beauté et de mode pour un jeune public.",
-        "de": "Lebensgeschichten sowie Beauty- und Mode-Challenges für ein junges Publikum.",
-        "ru": "Истории из жизни и челленджи по красоте и моде для молодой аудитории.",
-        "ar": "قصص من حياتها وتحديات جمال وموضة لجمهور شاب.",
-        "hi": "युवा दर्शकों के लिए जीवन की कहानियां और सौंदर्य व फैशन चुनौतियां।",
-        "zh": "面向年轻观众的人生故事以及美妆和时尚挑战。",
-        "ja": "若い視聴者に向けて、人生の物語や美容・ファッション系チャレンジを発信。"
-      },
-      "handles": {
-        "youtube": "UCCyCcRlr_NRDP-JFAhBxq1g",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "TreceBits, rankings por país publicados en enero de 2026",
-        "followers": {
-          "instagram": 4200000,
-          "tiktok": 12600000,
-          "youtube": 13000000
-        }
-      }
-    },
-    {
       "id": "la-segura",
       "name": "La Segura",
       "country": "CO",
@@ -1739,52 +1601,6 @@
           "instagram": 10400000,
           "tiktok": 9800000,
           "youtube": 1470000
-        }
-      }
-    },
-    {
-      "id": "calle-y-poche",
-      "name": "Calle y Poché",
-      "country": "CO",
-      "topic": {
-        "es": "Pareja y comunidad LGBTQ+",
-        "en": "Couple and LGBTQ+ community",
-        "pt": "Casal e comunidade LGBTQ+",
-        "fr": "Couple et communauté LGBTQ+",
-        "de": "Paar und LGBTQ+-Community",
-        "ru": "Пара и ЛГБТК+-сообщество",
-        "ar": "زوجان ومجتمع الميم",
-        "hi": "जोड़ा और LGBTQ+ समुदाय",
-        "zh": "情侣与LGBTQ+群体",
-        "ja": "カップルとLGBTQ+コミュニティ"
-      },
-      "about": {
-        "es": "Pareja referente de la comunidad LGBTQ+ con bailes, vlogs y proyectos en series y libros.",
-        "en": "A leading LGBTQ+ couple with dances, vlogs and projects in series and books.",
-        "pt": "Casal referência da comunidade LGBTQ+ com danças, vlogs e projetos em séries e livros.",
-        "fr": "Couple emblématique de la communauté LGBTQ+, avec danses, vlogs et projets en séries et livres.",
-        "de": "Bekanntes LGBTQ+-Paar mit Tänzen, Vlogs und Projekten in Serien und Büchern.",
-        "ru": "Знаковая пара ЛГБТК+-сообщества: танцы, влоги и проекты в сериалах и книгах.",
-        "ar": "زوجان بارزان في مجتمع الميم، برقصات ومدونات فيديو ومشاريع في مسلسلات وكتب.",
-        "hi": "LGBTQ+ समुदाय का प्रमुख जोड़ा, नृत्य, व्लॉग और सीरीज़ व किताबों की परियोजनाओं के साथ।",
-        "zh": "LGBTQ+社群的代表情侣，制作舞蹈、视频日志以及剧集和书籍相关项目。",
-        "ja": "LGBTQ+コミュニティを代表するカップルで、ダンスやVlog、ドラマ・書籍の企画にも取り組む。"
-      },
-      "handles": {
-        "youtube": "UC-BZEmUUUIXmD1CgkWACVyQ",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "TreceBits, rankings por país publicados en enero de 2026",
-        "followers": {
-          "instagram": 4700000,
-          "tiktok": 5800000,
-          "youtube": 7300000
         }
       }
     },
@@ -23151,6 +22967,182 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
         "followers": {
           "youtube": 305000
+        }
+      }
+    },
+    {
+      "id": "shakira",
+      "name": "Shakira",
+      "country": "CO",
+      "topic": {
+        "es": "Música pop y world music",
+        "en": "Pop and world music",
+        "pt": "Pop e world music",
+        "fr": "Pop et musique du monde",
+        "de": "Pop und Weltmusik",
+        "ru": "Поп и мировая музыка",
+        "ar": "موسيقى البوب والموسيقى العالمية",
+        "hi": "पॉप और वर्ल्ड म्यूज़िक",
+        "zh": "流行音乐与世界音乐",
+        "ja": "ポップスとワールドミュージック"
+      },
+      "about": {
+        "es": "Shakira es una cantante y compositora colombiana, una de las artistas latinas más vendidas de la historia. Con éxitos como \"Hips Don't Lie\", \"Waka Waka\" y \"Whenever, Wherever\", ha ganado múltiples premios Grammy y Grammy Latino a lo largo de una carrera que comenzó en los años 90.",
+        "en": "Shakira is a Colombian singer-songwriter and one of the best-selling Latin artists in history. With hits like \"Hips Don't Lie,\" \"Waka Waka,\" and \"Whenever, Wherever,\" she has won multiple Grammy and Latin Grammy Awards over a career that began in the 1990s.",
+        "pt": "Shakira é uma cantora e compositora colombiana, uma das artistas latinas mais vendidas da história. Com sucessos como \"Hips Don't Lie\", \"Waka Waka\" e \"Whenever, Wherever\", já ganhou vários prêmios Grammy e Grammy Latino ao longo de uma carreira iniciada nos anos 90.",
+        "fr": "Shakira est une chanteuse et compositrice colombienne, l'une des artistes latino les plus vendues de l'histoire. Avec des succès comme « Hips Don't Lie », « Waka Waka » et « Whenever, Wherever », elle a remporté plusieurs Grammy Awards et Grammy Latino au cours d'une carrière débutée dans les années 1990.",
+        "de": "Shakira ist eine kolumbianische Sängerin und Songwriterin und eine der meistverkauften lateinamerikanischen Künstlerinnen der Geschichte. Mit Hits wie „Hips Don't Lie“, „Waka Waka“ und „Whenever, Wherever“ hat sie im Laufe einer in den 1990er-Jahren begonnenen Karriere mehrere Grammy- und Latin-Grammy-Awards gewonnen.",
+        "ru": "Шакира — колумбийская певица и автор песен, одна из самых продаваемых латиноамериканских исполнительниц в истории. Благодаря хитам «Hips Don't Lie», «Waka Waka» и «Whenever, Wherever» она получила несколько премий Grammy и Latin Grammy за карьеру, начавшуюся в 1990-х годах.",
+        "ar": "شاكيرا مغنية وكاتبة أغانٍ كولومبية، وواحدة من أكثر الفنانات اللاتينيات مبيعًا في التاريخ. حصلت على عدة جوائز غرامي وغرامي لاتيني بفضل أغانٍ ناجحة مثل \"Hips Don't Lie\" و\"Waka Waka\" و\"Whenever, Wherever\"، خلال مسيرة بدأت في التسعينيات.",
+        "hi": "शकीरा एक कोलंबियाई गायिका और गीतकार हैं, जो इतिहास की सबसे अधिक बिकने वाली लैटिन कलाकारों में से एक हैं। \"Hips Don't Lie\", \"Waka Waka\" और \"Whenever, Wherever\" जैसे हिट गानों के साथ, उन्होंने 1990 के दशक में शुरू हुए करियर में कई ग्रैमी और लैटिन ग्रैमी पुरस्कार जीते हैं।",
+        "zh": "夏奇拉是一位哥伦比亚创作歌手，史上最畅销的拉丁艺人之一。凭借《Hips Don't Lie》《Waka Waka》和《Whenever, Wherever》等热门歌曲，她在始于20世纪90年代的职业生涯中多次荣获格莱美奖和拉丁格莱美奖。",
+        "ja": "シャキーラはコロンビア出身のシンガーソングライターで、史上最も売れたラテン・アーティストの一人。「Hips Don't Lie」「Waka Waka」「Whenever, Wherever」などのヒット曲で知られ、1990年代に始まったキャリアの中でグラミー賞とラテン・グラミー賞を複数回受賞している。"
+      },
+      "handles": {
+        "youtube": "UCYLNGLIzMhRTi6ZOLjAPSmw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:27:37.331Z)",
+        "followers": {
+          "youtube": 54100000
+        }
+      }
+    },
+    {
+      "id": "karol-g",
+      "name": "Karol G",
+      "country": "CO",
+      "topic": {
+        "es": "Música urbana y reguetón",
+        "en": "Urban music and reggaeton",
+        "pt": "Música urbana e reggaeton",
+        "fr": "Musique urbaine et reggaeton",
+        "de": "Urban Music und Reggaeton",
+        "ru": "Урбан-музыка и реггетон",
+        "ar": "الموسيقى الحضرية والريغيتون",
+        "hi": "अर्बन म्यूज़िक और रेगेटन",
+        "zh": "都市音乐与雷鬼顿",
+        "ja": "アーバンミュージックとレゲトン"
+      },
+      "about": {
+        "es": "Karol G (Carolina Giraldo Navarro) es una cantante colombiana de música urbana, ganadora del Grammy y una de las artistas latinas femeninas más escuchadas del mundo. Sus éxitos incluyen \"Provenza\", \"TQG\" y \"Bichota\".",
+        "en": "Karol G (Carolina Giraldo Navarro) is a Colombian urban music singer, a Grammy winner, and one of the most-streamed female Latin artists in the world. Her hits include \"Provenza,\" \"TQG,\" and \"Bichota.\"",
+        "pt": "Karol G (Carolina Giraldo Navarro) é uma cantora colombiana de música urbana, vencedora do Grammy e uma das artistas latinas femininas mais ouvidas do mundo. Seus sucessos incluem \"Provenza\", \"TQG\" e \"Bichota\".",
+        "fr": "Karol G (Carolina Giraldo Navarro) est une chanteuse colombienne de musique urbaine, lauréate d'un Grammy Award et l'une des artistes latino féminines les plus écoutées au monde. Parmi ses succès figurent « Provenza », « TQG » et « Bichota ».",
+        "de": "Karol G (Carolina Giraldo Navarro) ist eine kolumbianische Urban-Music-Sängerin, Grammy-Gewinnerin und eine der meistgestreamten lateinamerikanischen Künstlerinnen der Welt. Zu ihren Hits zählen „Provenza“, „TQG“ und „Bichota“.",
+        "ru": "Karol G (Каролина Хиральдо Наварро) — колумбийская исполнительница урбан-музыки, лауреат премии Grammy и одна из самых прослушиваемых латиноамериканских артисток в мире. Среди её хитов — «Provenza», «TQG» и «Bichota».",
+        "ar": "كارول جي (كارولينا خيرالدو نافارو) مغنية كولومبية للموسيقى الحضرية، حائزة على جائزة غرامي، وواحدة من أكثر الفنانات اللاتينيات استماعًا في العالم. من أغانيها الناجحة \"Provenza\" و\"TQG\" و\"Bichota\".",
+        "hi": "कैरल जी (कैरोलिना गिराल्डो नवारो) एक कोलंबियाई अर्बन म्यूज़िक गायिका हैं, जो ग्रैमी विजेता हैं और दुनिया की सबसे अधिक सुनी जाने वाली लैटिन महिला कलाकारों में से एक हैं। उनके हिट गानों में \"Provenza\", \"TQG\" और \"Bichota\" शामिल हैं।",
+        "zh": "卡罗尔·G（Carolina Giraldo Navarro）是一位哥伦比亚都市音乐歌手，格莱美奖得主，也是全球播放量最高的拉丁女歌手之一。她的代表作包括《Provenza》《TQG》和《Bichota》。",
+        "ja": "カロル・G（カロリーナ・ヒラルド・ナバロ）はコロンビア出身のアーバンミュージック歌手で、グラミー賞受賞者。世界で最も再生されているラテン系女性アーティストの一人であり、代表曲に「Provenza」「TQG」「Bichota」がある。"
+      },
+      "handles": {
+        "youtube": "UCZuPJZ2kGFdlbQu1qotZaHw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:27:37.331Z)",
+        "followers": {
+          "youtube": 41500000
+        }
+      }
+    },
+    {
+      "id": "maluma",
+      "name": "Maluma",
+      "country": "CO",
+      "topic": {
+        "es": "Reguetón y pop urbano",
+        "en": "Reggaeton and urban pop",
+        "pt": "Reggaeton e pop urbano",
+        "fr": "Reggaeton et pop urbaine",
+        "de": "Reggaeton und Urban Pop",
+        "ru": "Реггетон и урбан-поп",
+        "ar": "الريغيتون والبوب الحضري",
+        "hi": "रेगेटन और अर्बन पॉप",
+        "zh": "雷鬼顿与都市流行乐",
+        "ja": "レゲトンとアーバンポップ"
+      },
+      "about": {
+        "es": "Maluma (Juan Luis Londoño Arias) es un cantante colombiano de Medellín, referente del reguetón y el pop urbano latino, conocido por éxitos como \"Felices los 4\", \"Hawái\" y numerosas colaboraciones internacionales.",
+        "en": "Maluma (Juan Luis Londoño Arias) is a Colombian singer from Medellín, a leading figure in reggaeton and Latin urban pop, known for hits like \"Felices los 4,\" \"Hawái,\" and numerous international collaborations.",
+        "pt": "Maluma (Juan Luis Londoño Arias) é um cantor colombiano de Medellín, referência do reggaeton e do pop urbano latino, conhecido por sucessos como \"Felices los 4\", \"Hawái\" e diversas colaborações internacionais.",
+        "fr": "Maluma (Juan Luis Londoño Arias) est un chanteur colombien originaire de Medellín, figure de référence du reggaeton et de la pop urbaine latino, connu pour des titres comme « Felices los 4 », « Hawái » et de nombreuses collaborations internationales.",
+        "de": "Maluma (Juan Luis Londoño Arias) ist ein kolumbianischer Sänger aus Medellín, eine führende Figur des Reggaeton und des lateinamerikanischen Urban Pop, bekannt für Hits wie „Felices los 4“, „Hawái“ und zahlreiche internationale Kollaborationen.",
+        "ru": "Малума (Хуан Луис Лондоньо Ариас) — колумбийский певец из Медельина, одна из ключевых фигур реггетона и латиноамериканского урбан-попа, известный хитами «Felices los 4», «Hawái» и множеством международных коллабораций.",
+        "ar": "مالوما (خوان لويس لوندونيو أرياس) مغنٍّ كولومبي من ميديين، من أبرز رموز الريغيتون والبوب الحضري اللاتيني، اشتهر بأغانٍ مثل \"Felices los 4\" و\"Hawái\" والعديد من التعاونات الدولية.",
+        "hi": "मालुमा (जुआन लुइस लोंदोन्यो एरियास) मेडेइन के एक कोलंबियाई गायक हैं, जो रेगेटन और लैटिन अर्बन पॉप के प्रमुख चेहरों में से एक हैं, और \"Felices los 4\", \"Hawái\" जैसे हिट गानों तथा कई अंतरराष्ट्रीय सहयोगों के लिए जाने जाते हैं।",
+        "zh": "马鲁马（Juan Luis Londoño Arias）是来自麦德林的哥伦比亚歌手，雷鬼顿与拉丁都市流行乐的代表人物，凭借《Felices los 4》《Hawái》等热门歌曲以及众多国际合作而闻名。",
+        "ja": "マルーマ（フアン・ルイス・ロンドーニョ・アリアス）はメデジン出身のコロンビア人歌手で、レゲトンとラテン・アーバンポップを代表する存在。「Felices los 4」「Hawái」などのヒット曲や数多くの国際的コラボレーションで知られる。"
+      },
+      "handles": {
+        "youtube": "UClZuKq2m0Qu-HkopkSBLpEw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:27:37.331Z)",
+        "followers": {
+          "youtube": 31100000
+        }
+      }
+    },
+    {
+      "id": "j-balvin",
+      "name": "J Balvin",
+      "country": "CO",
+      "topic": {
+        "es": "Reguetón y música urbana",
+        "en": "Reggaeton and urban music",
+        "pt": "Reggaeton e música urbana",
+        "fr": "Reggaeton et musique urbaine",
+        "de": "Reggaeton und Urban Music",
+        "ru": "Реггетон и урбан-музыка",
+        "ar": "الريغيتون والموسيقى الحضرية",
+        "hi": "रेगेटन और अर्बन म्यूज़िक",
+        "zh": "雷鬼顿与都市音乐",
+        "ja": "レゲトンとアーバンミュージック"
+      },
+      "about": {
+        "es": "J Balvin (José Álvaro Osorio Balvín) es un cantante colombiano de Medellín, uno de los artistas que llevó el reguetón al mainstream global, con éxitos como \"Mi Gente\" y \"Ay Vamos\", y múltiples nominaciones al Grammy.",
+        "en": "J Balvin (José Álvaro Osorio Balvín) is a Colombian singer from Medellín, one of the artists who brought reggaeton to the global mainstream, with hits like \"Mi Gente\" and \"Ay Vamos,\" and multiple Grammy nominations.",
+        "pt": "J Balvin (José Álvaro Osorio Balvín) é um cantor colombiano de Medellín, um dos artistas que levaram o reggaeton ao mainstream global, com sucessos como \"Mi Gente\" e \"Ay Vamos\", além de várias indicações ao Grammy.",
+        "fr": "J Balvin (José Álvaro Osorio Balvín) est un chanteur colombien originaire de Medellín, l'un des artistes ayant propulsé le reggaeton vers le grand public mondial, avec des titres comme « Mi Gente » et « Ay Vamos », et plusieurs nominations aux Grammy Awards.",
+        "de": "J Balvin (José Álvaro Osorio Balvín) ist ein kolumbianischer Sänger aus Medellín und einer der Künstler, die den Reggaeton in den globalen Mainstream brachten – mit Hits wie „Mi Gente“ und „Ay Vamos“ sowie mehreren Grammy-Nominierungen.",
+        "ru": "J Balvin (Хосе Альваро Осорио Бальвин) — колумбийский певец из Медельина, один из артистов, выведших реггетон на мировой мейнстрим, автор хитов «Mi Gente» и «Ay Vamos», номинант премии Grammy.",
+        "ar": "جي بالفين (خوسيه ألفارو أوسوريو بالفين) مغنٍّ كولومبي من ميديين، أحد الفنانين الذين نقلوا الريغيتون إلى التيار العالمي السائد، بأغانٍ ناجحة مثل \"Mi Gente\" و\"Ay Vamos\"، وعدة ترشيحات لجائزة غرامي.",
+        "hi": "जे बाल्विन (जोस अल्वारो ओसोरियो बाल्विन) मेडेइन के एक कोलंबियाई गायक हैं, जो रेगेटन को वैश्विक मुख्यधारा में लाने वाले कलाकारों में से एक हैं, \"Mi Gente\" और \"Ay Vamos\" जैसे हिट गानों तथा कई ग्रैमी नामांकनों के साथ।",
+        "zh": "J·巴尔文（José Álvaro Osorio Balvín）是来自麦德林的哥伦比亚歌手，是将雷鬼顿音乐带入全球主流的代表艺人之一，代表作有《Mi Gente》和《Ay Vamos》，并多次获得格莱美奖提名。",
+        "ja": "Jバルヴィン（ホセ・アルバロ・オソリオ・バルビン）はメデジン出身のコロンビア人歌手で、レゲトンを世界の主流音楽に押し上げたアーティストの一人。「Mi Gente」「Ay Vamos」などのヒット曲で知られ、グラミー賞に複数回ノミネートされている。"
+      },
+      "handles": {
+        "youtube": "UCt-k6JwNWHMXDBGm9IYHdsg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:27:37.331Z)",
+        "followers": {
+          "youtube": 35300000
         }
       }
     }
