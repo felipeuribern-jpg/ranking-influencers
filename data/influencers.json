@@ -17567,6 +17567,974 @@
           "youtube": 606000
         }
       }
+    },
+    {
+      "id": "oscar-penax",
+      "name": "Oscar Penax",
+      "country": "VE",
+      "topic": {
+        "es": "Gaming y horror creepypasta (Among Us, Minecraft)",
+        "en": "Gaming and creepypasta horror (Among Us, Minecraft)",
+        "pt": "Gaming e horror creepypasta (Among Us, Minecraft)",
+        "fr": "Jeux vidéo et horreur creepypasta (Among Us, Minecraft)",
+        "de": "Gaming und Creepypasta-Horror (Among Us, Minecraft)",
+        "ru": "Гейминг и крипипаста-хоррор (Among Us, Minecraft)",
+        "ar": "الألعاب ورعب الكريبي باستا (Among Us وMinecraft)",
+        "hi": "गेमिंग और क्रीपीपास्ता हॉरर (Among Us, Minecraft)",
+        "zh": "游戏与都市怪谈恐怖内容（Among Us、Minecraft）",
+        "ja": "ゲーミングとクリーピーパスタ系ホラー（Among Us、Minecraft）"
+      },
+      "about": {
+        "es": "Oscar Peñaloza, conocido como Oscar Penax, es un creador de contenido venezolano nacido en 2002. Se hizo famoso en 2020 popularizando historias de \"impostores malditos\" en Among Us (creador del personaje \"Paciente 0\") y hoy produce videos de terror y supervivencia en Minecraft, además de contenido viral en TikTok.",
+        "en": "Oscar Peñaloza, known as Oscar Penax, is a Venezuelan content creator born in 2002. He rose to fame in 2020 popularizing \"cursed impostor\" lore in Among Us (creator of the \"Patient 0\" character) and now produces horror and survival videos in Minecraft, plus viral TikTok content.",
+        "pt": "Oscar Peñaloza, conhecido como Oscar Penax, é um criador de conteúdo venezuelano nascido em 2002. Ficou famoso em 2020 popularizando histórias de \"impostores amaldiçoados\" em Among Us (criador do personagem \"Paciente 0\") e hoje produz vídeos de terror e sobrevivência em Minecraft, além de conteúdo viral no TikTok.",
+        "fr": "Oscar Peñaloza, connu sous le nom d'Oscar Penax, est un créateur de contenu vénézuélien né en 2002. Il est devenu célèbre en 2020 en popularisant les histoires d'\"imposteurs maudits\" dans Among Us (créateur du personnage \"Patient 0\") et produit aujourd'hui des vidéos d'horreur et de survie dans Minecraft, ainsi que du contenu viral sur TikTok.",
+        "de": "Oscar Peñaloza, bekannt als Oscar Penax, ist ein venezolanischer Content-Creator, geboren 2002. Er wurde 2020 bekannt, indem er die Geschichten der \"verfluchten Impostoren\" in Among Us populär machte (Schöpfer der Figur \"Patient 0\") und produziert heute Horror- und Survival-Videos in Minecraft sowie virale TikTok-Inhalte.",
+        "ru": "Оскар Пеньялоса, известный как Oscar Penax, — венесуэльский контент-мейкер, родившийся в 2002 году. Он прославился в 2020 году, популяризировав истории о \"проклятых самозванцах\" в Among Us (создатель персонажа \"Пациент 0\"), а сейчас снимает хоррор- и survival-видео по Minecraft, а также вирусный контент в TikTok.",
+        "ar": "أوسكار بينيالوزا، المعروف باسم Oscar Penax، هو صانع محتوى فنزويلي وُلد عام 2002. اشتهر عام 2020 بترويج قصص \"المحتالين الملعونين\" في لعبة Among Us (مبتكر شخصية \"المريض صفر\") وينتج حاليًا مقاطع رعب وبقاء في Minecraft إضافة إلى محتوى منتشر على TikTok.",
+        "hi": "ऑस्कर पेन्यालोज़ा, जिन्हें ऑस्कर पेनैक्स के नाम से जाना जाता है, 2002 में जन्मे एक वेनेज़ुएला के कंटेंट क्रिएटर हैं। उन्होंने 2020 में Among Us में \"शापित इम्पोस्टर\" कहानियों को लोकप्रिय बनाकर प्रसिद्धि पाई (\"पेशेंट 0\" किरदार के निर्माता) और अब Minecraft में हॉरर और सर्वाइवल वीडियो के साथ-साथ TikTok पर वायरल कंटेंट बनाते हैं।",
+        "zh": "奥斯卡·佩尼亚洛萨（Oscar Peñaloza），艺名 Oscar Penax，是一位2002年出生的委内瑞拉内容创作者。他在2020年因在《Among Us》中普及“被诅咒的冒名顶替者”故事（“0号病人”角色的创造者）而走红，如今制作《我的世界》恐怖生存视频，并在TikTok上发布病毒式内容。",
+        "ja": "オスカル・ペニャローサ（Oscar Peñaloza）、通称Oscar Penaxは、2002年生まれのベネズエラ出身のコンテンツクリエイター。2020年にAmong Usの「呪われたインポスター」伝説（「患者0」キャラクターの考案者）を広めたことで知られるようになり、現在はMinecraftのホラー・サバイバル動画やTikTokでのバイラルコンテンツを制作している。"
+      },
+      "handles": {
+        "youtube": "UCei9DQMXXPAymZFwexQaT1Q",
+        "tiktok": "oscarpenax",
+        "instagram": "oscarpenax",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2280000
+        }
+      }
+    },
+    {
+      "id": "ramez-galal",
+      "name": "Ramez Galal | رامز جلال",
+      "country": "EG",
+      "topic": {
+        "es": "Comedia, bromas en cámara oculta y entretenimiento",
+        "en": "Comedy, hidden-camera pranks and entertainment",
+        "pt": "Comédia, pegadinhas de câmera escondida e entretenimento",
+        "fr": "Comédie, caméra cachée et divertissement",
+        "de": "Comedy, versteckte Kamera und Unterhaltung",
+        "ru": "Комедия, розыгрыши со скрытой камерой и развлечения",
+        "ar": "كوميديا ومقالب بالكاميرا الخفية وترفيه",
+        "hi": "कॉमेडी, हिडन कैमरा प्रैंक और मनोरंजन",
+        "zh": "喜剧、隐藏摄像头恶作剧和娱乐",
+        "ja": "コメディ、隠しカメラのドッキリ、エンターテインメント"
+      },
+      "about": {
+        "es": "Ramez Galal es un actor, presentador y cómico egipcio, famoso por sus programas de bromas con cámara oculta emitidos cada Ramadán en MBC Masr (Ramez Level Al-Wahsh, Ramez Eilon Masr, entre otros), donde ha engañado a celebridades árabes e internacionales como Shah Rukh Khan y Jean-Claude Van Damme.",
+        "en": "Ramez Galal is an Egyptian actor, TV host and comedian, famous for his hidden-camera prank shows aired every Ramadan on MBC Masr (Ramez Level Al-Wahsh, Ramez Eilon Masr, and others), in which he has pranked Arab and international celebrities such as Shah Rukh Khan and Jean-Claude Van Damme.",
+        "pt": "Ramez Galal é um ator, apresentador e comediante egípcio, famoso por seus programas de pegadinhas de câmera escondida exibidos todo Ramadã na MBC Masr (Ramez Level Al-Wahsh, Ramez Eilon Masr, entre outros), nos quais já pregou peças em celebridades árabes e internacionais como Shah Rukh Khan e Jean-Claude Van Damme.",
+        "fr": "Ramez Galal est un acteur, animateur et humoriste égyptien, célèbre pour ses émissions de caméra cachée diffusées chaque Ramadan sur MBC Masr (Ramez Level Al-Wahsh, Ramez Eilon Masr, entre autres), où il a piégé des célébrités arabes et internationales comme Shah Rukh Khan et Jean-Claude Van Damme.",
+        "de": "Ramez Galal ist ein ägyptischer Schauspieler, Moderator und Komiker, bekannt für seine Versteckte-Kamera-Sendungen, die jeden Ramadan auf MBC Masr ausgestrahlt werden (Ramez Level Al-Wahsh, Ramez Eilon Masr u. a.), in denen er arabische und internationale Prominente wie Shah Rukh Khan und Jean-Claude Van Damme hereingelegt hat.",
+        "ru": "Рамез Галяль — египетский актёр, телеведущий и комик, известный своими розыгрышами со скрытой камерой, которые ежегодно в Рамадан выходят на MBC Masr (Ramez Level Al-Wahsh, Ramez Eilon Masr и другие), где он разыгрывал арабских и мировых знаменитостей, включая Шахрукха Кхана и Жан-Клода Ван Дамма.",
+        "ar": "رامز جلال ممثل ومقدم برامج وكوميديان مصري، اشتهر ببرامج المقالب بالكاميرا الخفية التي تُعرض كل رمضان على MBC مصر (رامز ليفل الوحش، رامز إيلون مصر، وغيرها)، حيث قام بعمل مقالب لنجوم عرب وعالميين مثل شاروخان وجان كلود فان دام.",
+        "hi": "रामेज़ गलाल एक मिस्री अभिनेता, टीवी होस्ट और कॉमेडियन हैं, जो हर रमज़ान MBC मस्र पर प्रसारित होने वाले अपने हिडन-कैमरा प्रैंक शो (रामेज़ लेवल अल-वहश, रामेज़ ईलॉन मस्र आदि) के लिए प्रसिद्ध हैं, जिनमें उन्होंने शाहरुख़ ख़ान और जीन-क्लॉड वैन डैम जैसी अरब और अंतरराष्ट्रीय हस्तियों के साथ प्रैंक किए हैं।",
+        "zh": "拉梅兹·加拉勒是埃及演员、电视主持人兼喜剧演员,以每年斋月在MBC Masr播出的隐藏摄像头恶作剧节目而闻名(如《Ramez Level Al-Wahsh》《Ramez Eilon Masr》等),曾捉弄沙鲁克·汗、尚-克劳德·范达美等阿拉伯及国际明星。",
+        "ja": "ラメズ・ガラルはエジプトの俳優、テレビ司会者、コメディアンで、毎年ラマダン中にMBCマスルで放送される隠しカメラのドッキリ番組(「ラメズ・レベル・アルワフシュ」「ラメズ・イーロン・マスル」など)で知られ、シャー・ルク・カーンやジャン=クロード・ヴァン・ダムなどアラブや世界的著名人を対象にドッキリを仕掛けてきた。"
+      },
+      "handles": {
+        "youtube": "UCWLPH3b4FEbI4kRO0LKxMMg",
+        "tiktok": null,
+        "instagram": "ramezgalal",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 8060000
+        }
+      }
+    },
+    {
+      "id": "trevor-noah",
+      "name": "Trevor Noah",
+      "country": "ZA",
+      "topic": {
+        "es": "Comedia y comentario político",
+        "en": "Comedy and political commentary",
+        "pt": "Comédia e comentário político",
+        "fr": "Comédie et commentaire politique",
+        "de": "Comedy und politischer Kommentar",
+        "ru": "Комедия и политический комментарий",
+        "ar": "الكوميديا والتعليق السياسي",
+        "hi": "कॉमेडी और राजनीतिक टिप्पणी",
+        "zh": "喜剧与政治评论",
+        "ja": "コメディと政治評論"
+      },
+      "about": {
+        "es": "Comediante y presentador sudafricano, ex conductor de 'The Daily Show' en Comedy Central (2015-2022), ahora con su propio podcast 'What Now with Trevor Noah'.",
+        "en": "South African comedian and host, former anchor of Comedy Central's 'The Daily Show' (2015-2022), now runs his own podcast 'What Now with Trevor Noah'.",
+        "pt": "Comediante e apresentador sul-africano, ex-apresentador do 'The Daily Show' da Comedy Central (2015-2022), agora com seu próprio podcast 'What Now with Trevor Noah'.",
+        "fr": "Humoriste et animateur sud-africain, ancien présentateur du 'Daily Show' sur Comedy Central (2015-2022), anime aujourd'hui son propre podcast 'What Now with Trevor Noah'.",
+        "de": "Südafrikanischer Comedian und Moderator, ehemaliger Gastgeber der 'Daily Show' bei Comedy Central (2015-2022), moderiert heute seinen eigenen Podcast 'What Now with Trevor Noah'.",
+        "ru": "Южноафриканский комик и телеведущий, бывший ведущий 'The Daily Show' на Comedy Central (2015-2022), ныне ведёт собственный подкаст 'What Now with Trevor Noah'.",
+        "ar": "كوميدي ومقدم برامج من جنوب أفريقيا، مقدم سابق لبرنامج 'The Daily Show' على قناة Comedy Central (2015-2022)، ويقدم الآن بودكاست خاص به بعنوان 'What Now with Trevor Noah'.",
+        "hi": "दक्षिण अफ्रीकी हास्य कलाकार और होस्ट, कॉमेडी सेंट्रल के 'द डेली शो' के पूर्व एंकर (2015-2022), अब अपना पॉडकास्ट 'व्हाट नाउ विद ट्रेवर नोआ' चलाते हैं।",
+        "zh": "南非喜剧演员兼主持人，曾任Comedy Central《每日秀》主持人（2015-2022），现主持个人播客《What Now with Trevor Noah》。",
+        "ja": "南アフリカ出身のコメディアン兼司会者。Comedy Centralの『The Daily Show』の元司会者（2015-2022年）で、現在は自身のポッドキャスト『What Now with Trevor Noah』を配信している。"
+      },
+      "handles": {
+        "youtube": "UC8bTQzxgvKkXDAaWkeuUlkg",
+        "tiktok": null,
+        "instagram": "trevornoah",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4830000
+        }
+      }
+    },
+    {
+      "id": "nasty-c",
+      "name": "Nasty C",
+      "country": "ZA",
+      "topic": {
+        "es": "Música hip-hop",
+        "en": "Hip-hop music",
+        "pt": "Música hip-hop",
+        "fr": "Musique hip-hop",
+        "de": "Hip-Hop-Musik",
+        "ru": "Хип-хоп музыка",
+        "ar": "موسيقى الهيب هوب",
+        "hi": "हिप-हॉप संगीत",
+        "zh": "嘻哈音乐",
+        "ja": "ヒップホップ音楽"
+      },
+      "about": {
+        "es": "Nsikayesizwe David Junior Ngcobo, conocido como Nasty C, es un rapero, cantautor y productor sudafricano de Durban, ganador de múltiples premios y con álbumes de éxito como 'Bad Hair' y 'Zulu Man with Some Power'.",
+        "en": "Nsikayesizwe David Junior Ngcobo, known as Nasty C, is a South African rapper, songwriter and producer from Durban, a multi-award winner with hit albums like 'Bad Hair' and 'Zulu Man with Some Power'.",
+        "pt": "Nsikayesizwe David Junior Ngcobo, conhecido como Nasty C, é um rapper, compositor e produtor sul-africano de Durban, vencedor de vários prêmios, com álbuns de sucesso como 'Bad Hair' e 'Zulu Man with Some Power'.",
+        "fr": "Nsikayesizwe David Junior Ngcobo, connu sous le nom de Nasty C, est un rappeur, auteur-compositeur et producteur sud-africain de Durban, multi-primé, avec des albums à succès comme 'Bad Hair' et 'Zulu Man with Some Power'.",
+        "de": "Nsikayesizwe David Junior Ngcobo, bekannt als Nasty C, ist ein südafrikanischer Rapper, Songwriter und Produzent aus Durban, mehrfach ausgezeichnet, mit Erfolgsalben wie 'Bad Hair' und 'Zulu Man with Some Power'.",
+        "ru": "Нсикайесизве Дэвид Джуниор Нгкобо, известный как Nasty C, — южноафриканский рэпер, автор песен и продюсер из Дурбана, многократный лауреат премий, автор хитовых альбомов 'Bad Hair' и 'Zulu Man with Some Power'.",
+        "ar": "نسيكاييسيزوي ديفيد جونيور نغكوبو، المعروف باسم Nasty C، هو مغني راب وكاتب أغاني ومنتج من جنوب أفريقيا وُلد في ديربان، حائز على جوائز عديدة وله ألبومات ناجحة مثل 'Bad Hair' و'Zulu Man with Some Power'.",
+        "hi": "नसीकायेसिज्वे डेविड जूनियर न्गकोबो, जिन्हें नास्टी सी के नाम से जाना जाता है, डरबन के एक दक्षिण अफ्रीकी रैपर, गीतकार और निर्माता हैं, जिन्होंने कई पुरस्कार जीते हैं और 'बैड हेयर' व 'ज़ुलु मैन विद सम पावर' जैसे हिट एल्बम बनाए हैं।",
+        "zh": "恩西卡耶西泽·大卫·小恩格科博（艺名Nasty C）是来自德班的南非说唱歌手、词曲作者兼制作人，屡获殊荣，代表专辑包括《Bad Hair》和《Zulu Man with Some Power》。",
+        "ja": "本名Nsikayesizwe David Junior Ngcobo、通称Nasty Cは、ダーバン出身の南アフリカのラッパー、ソングライター、プロデューサー。数々の賞を受賞し、『Bad Hair』や『Zulu Man with Some Power』などヒットアルバムを持つ。"
+      },
+      "handles": {
+        "youtube": "UC01ompoZ0RMCuWP2ZODqzbg",
+        "tiktok": "nasty_csa",
+        "instagram": "nasty_csa",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1640000
+        }
+      }
+    },
+    {
+      "id": "bi-phakathi",
+      "name": "BI Phakathi",
+      "country": "ZA",
+      "topic": {
+        "es": "Actos de bondad y filantropía en video",
+        "en": "Acts-of-kindness and philanthropy videos",
+        "pt": "Vídeos de atos de bondade e filantropia",
+        "fr": "Vidéos d'actes de bonté et de philanthropie",
+        "de": "Videos über Akte der Güte und Philanthropie",
+        "ru": "Видео об актах доброты и благотворительности",
+        "ar": "مقاطع فيديو عن أعمال اللطف والعمل الخيري",
+        "hi": "दयालुता के कार्यों और परोपकार पर वीडियो",
+        "zh": "善举与慈善纪实视频",
+        "ja": "親切な行動と慈善活動の動画"
+      },
+      "about": {
+        "es": "Creador sudafricano y coach de vida cuyo canal documenta actos de bondad hacia personas sin hogar y comunidades vulnerables, narrando historias de generosidad y compasión.",
+        "en": "South African filmmaker and life coach whose channel documents acts of kindness toward homeless people and vulnerable communities, telling stories of generosity and compassion.",
+        "pt": "Cineasta e coach de vida sul-africano cujo canal documenta atos de bondade para pessoas em situação de rua e comunidades vulneráveis, contando histórias de generosidade e compaixão.",
+        "fr": "Cinéaste et coach de vie sud-africain dont la chaîne documente des actes de bonté envers les sans-abri et les communautés vulnérables, racontant des histoires de générosité et de compassion.",
+        "de": "Südafrikanischer Filmemacher und Lebensberater, dessen Kanal Akte der Güte gegenüber Obdachlosen und schutzbedürftigen Gemeinschaften dokumentiert und Geschichten von Großzügigkeit und Mitgefühl erzählt.",
+        "ru": "Южноафриканский режиссёр и лайф-коуч, чей канал документирует акты доброты по отношению к бездомным и уязвимым сообществам, рассказывая истории щедрости и сострадания.",
+        "ar": "صانع أفلام ومدرب حياة من جنوب أفريقيا توثق قناته أعمال اللطف تجاه المشردين والمجتمعات الضعيفة، ويروي قصص الكرم والتعاطف.",
+        "hi": "दक्षिण अफ्रीकी फिल्मकार और लाइफ कोच जिनका चैनल बेघर लोगों और कमजोर समुदायों के प्रति दयालुता के कार्यों को दर्शाता है, उदारता और करुणा की कहानियाँ सुनाता है।",
+        "zh": "南非电影制作人兼人生教练，其频道记录了对无家可归者和弱势群体的善举，讲述慷慨与同情的故事。",
+        "ja": "南アフリカの映像作家兼ライフコーチ。ホームレスや弱い立場の人々への親切な行動を記録し、寛容さと思いやりの物語を伝えるチャンネルを運営している。"
+      },
+      "handles": {
+        "youtube": "UCVIpTFyrJzY2a9x-OI_YyNQ",
+        "tiktok": "biphakathi1",
+        "instagram": "biphakathi",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1600000
+        }
+      }
+    },
+    {
+      "id": "major-league-djz",
+      "name": "Major League DJz",
+      "country": "ZA",
+      "topic": {
+        "es": "DJ y producción de Amapiano/música de baile africana",
+        "en": "DJ duo and Amapiano/African dance music production",
+        "pt": "Dupla de DJs e produção de Amapiano/música dance africana",
+        "fr": "Duo de DJ et production d'Amapiano/musique dance africaine",
+        "de": "DJ-Duo und Amapiano-/afrikanische Dance-Musik-Produktion",
+        "ru": "DJ-дуэт и продюсирование музыки в стиле Amapiano/африканской танцевальной музыки",
+        "ar": "ثنائي دي جي وإنتاج موسيقى الأمابيانو/الرقص الأفريقي",
+        "hi": "डीजे जोड़ी और अमापियानो/अफ्रीकी डांस संगीत निर्माण",
+        "zh": "DJ组合，制作Amapiano/非洲舞曲",
+        "ja": "DJデュオ、アマピアノ／アフリカン・ダンスミュージックのプロデュース"
+      },
+      "about": {
+        "es": "Bandile y Banele Mbere, gemelos sudafricanos conocidos como Major League DJz, son DJs y productores pioneros del Amapiano, famosos por su serie de streaming en vivo 'Balcony Mix Africa'.",
+        "en": "Bandile and Banele Mbere, South African twins known as Major League DJz, are DJs and producers who helped pioneer Amapiano, famous for their live-streamed 'Balcony Mix Africa' series.",
+        "pt": "Bandile e Banele Mbere, gêmeos sul-africanos conhecidos como Major League DJz, são DJs e produtores pioneiros do Amapiano, famosos por sua série de transmissão ao vivo 'Balcony Mix Africa'.",
+        "fr": "Bandile et Banele Mbere, jumeaux sud-africains connus sous le nom de Major League DJz, sont des DJ et producteurs pionniers de l'Amapiano, célèbres pour leur série en direct 'Balcony Mix Africa'.",
+        "de": "Bandile und Banele Mbere, südafrikanische Zwillinge bekannt als Major League DJz, sind DJs und Produzenten, die den Amapiano-Stil mitgeprägt haben, bekannt für ihre Live-Streaming-Serie 'Balcony Mix Africa'.",
+        "ru": "Бандиле и Банеле Мбере, южноафриканские близнецы, известные как Major League DJz, — диджеи и продюсеры, стоявшие у истоков стиля Amapiano, известны своей прямой трансляцией 'Balcony Mix Africa'.",
+        "ar": "بانديلي وبانيلي مبيري، توأمان من جنوب أفريقيا يُعرفان باسم Major League DJz، هما دي جي ومنتجان ساهما في ريادة موسيقى الأمابيانو، ويشتهران بسلسلة بثهما المباشر 'Balcony Mix Africa'.",
+        "hi": "बांडिले और बानेले म्बेरे, दक्षिण अफ्रीकी जुड़वां जो मेजर लीग डीजेज़ के नाम से जाने जाते हैं, डीजे और निर्माता हैं जिन्होंने अमापियानो शैली को आगे बढ़ाया, अपनी लाइव-स्ट्रीम श्रृंखला 'बालकनी मिक्स अफ्रीका' के लिए प्रसिद्ध हैं।",
+        "zh": "南非双胞胎班迪莱和巴内莱·姆贝雷，即Major League DJz，是Amapiano风格的先驱DJ与制作人，以其直播系列《Balcony Mix Africa》而闻名。",
+        "ja": "バンディレとバネレのムベレ兄弟（双子）、通称Major League DJzは、南アフリカのDJ兼プロデューサーで、アマピアノの先駆者として知られ、ライブ配信シリーズ『Balcony Mix Africa』で有名。"
+      },
+      "handles": {
+        "youtube": "UCazIPE4aYxzcAjaBoSspLHw",
+        "tiktok": null,
+        "instagram": "majorleaguedjz",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1210000
+        }
+      }
+    },
+    {
+      "id": "macg-podcast-and-chill",
+      "name": "MacG (Podcast and Chill)",
+      "country": "ZA",
+      "topic": {
+        "es": "Podcast de entrevistas y actualidad",
+        "en": "Interview and current-affairs podcast",
+        "pt": "Podcast de entrevistas e atualidades",
+        "fr": "Podcast d'interviews et d'actualité",
+        "de": "Interview- und Nachrichten-Podcast",
+        "ru": "Подкаст с интервью и обсуждением текущих событий",
+        "ar": "بودكاست مقابلات وشؤون راهنة",
+        "hi": "इंटरव्यू और समसामयिक मामलों का पॉडकास्ट",
+        "zh": "访谈与时事播客",
+        "ja": "インタビュー・時事ポッドキャスト"
+      },
+      "about": {
+        "es": "Macgyver 'MacG' Mukwevho es un locutor de radio y podcaster sudafricano, creador y presentador de 'Podcast and Chill with MacG', uno de los podcasts más grandes de África, con entrevistas a celebridades desde 2018.",
+        "en": "Macgyver 'MacG' Mukwevho is a South African radio broadcaster and podcaster, creator and host of 'Podcast and Chill with MacG', one of Africa's biggest podcasts, interviewing celebrities since 2018.",
+        "pt": "Macgyver 'MacG' Mukwevho é um radialista e podcaster sul-africano, criador e apresentador de 'Podcast and Chill with MacG', um dos maiores podcasts da África, entrevistando celebridades desde 2018.",
+        "fr": "Macgyver 'MacG' Mukwevho est un animateur radio et podcasteur sud-africain, créateur et présentateur de 'Podcast and Chill with MacG', l'un des plus grands podcasts d'Afrique, interviewant des célébrités depuis 2018.",
+        "de": "Macgyver 'MacG' Mukwevho ist ein südafrikanischer Radiomoderator und Podcaster, Schöpfer und Gastgeber von 'Podcast and Chill with MacG', einem der größten Podcasts Afrikas, der seit 2018 Prominente interviewt.",
+        "ru": "Макгайвер «MacG» Муквево — южноафриканский радиоведущий и подкастер, создатель и ведущий подкаста 'Podcast and Chill with MacG', одного из крупнейших подкастов Африки, берущего интервью у знаменитостей с 2018 года.",
+        "ar": "ماكغايفر 'ماك جي' موكويفو هو مذيع إذاعي وصاحب بودكاست من جنوب أفريقيا، مؤسس ومقدم برنامج 'Podcast and Chill with MacG'، أحد أكبر البودكاست في أفريقيا، ويستضيف مشاهير منذ عام 2018.",
+        "hi": "मैकगाइवर 'मैकजी' मुक्वेवो एक दक्षिण अफ्रीकी रेडियो प्रसारक और पॉडकास्टर हैं, जो 'पॉडकास्ट एंड चिल विद मैकजी' के निर्माता और होस्ट हैं, जो 2018 से हस्तियों का साक्षात्कार लेने वाला अफ्रीका के सबसे बड़े पॉडकास्ट में से एक है।",
+        "zh": "麦克吉弗·“MacG”·穆克韦沃是南非电台主持人兼播客制作人，创办并主持《Podcast and Chill with MacG》，是非洲最大的播客节目之一，自2018年起采访众多名人。",
+        "ja": "マクガイヴァー「MacG」ムクウェヴォは南アフリカのラジオパーソナリティ兼ポッドキャスター。2018年から著名人にインタビューするアフリカ最大級のポッドキャスト『Podcast and Chill with MacG』の制作者・司会を務める。"
+      },
+      "handles": {
+        "youtube": "UC7BXdXFxVgMPKmBeDgx2QrQ",
+        "tiktok": null,
+        "instagram": "macgunleashed",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1820000
+        }
+      }
+    },
+    {
+      "id": "lasizwe-dambuza",
+      "name": "Lasizwe Dambuza",
+      "country": "ZA",
+      "topic": {
+        "es": "Comedia, sketches y reality shows de citas",
+        "en": "Comedy, sketches and dating reality shows",
+        "pt": "Comédia, esquetes e reality shows de encontros",
+        "fr": "Comédie, sketches et émissions de télé-réalité sur les rencontres",
+        "de": "Comedy, Sketche und Dating-Reality-Shows",
+        "ru": "Комедия, скетчи и реалити-шоу о свиданиях",
+        "ar": "الكوميديا والاسكتشات وبرامج المواعدة الواقعية",
+        "hi": "कॉमेडी, स्केच और डेटिंग रियलिटी शो",
+        "zh": "喜剧短剧与约会真人秀",
+        "ja": "コメディ、コント、恋愛リアリティ番組"
+      },
+      "about": {
+        "es": "Thulasizwe 'Lasizwe' Dambuza es un comediante y personalidad de YouTube sudafricano, conocido por sus sketches desde 2017 y por su exitoso programa 'Awkward Dates'; fue el primer hombre negro sudafricano menor de 30 años en llegar a un millón de suscriptores.",
+        "en": "Thulasizwe 'Lasizwe' Dambuza is a South African comedian and YouTube personality, known for sketches since 2017 and his hit show 'Awkward Dates'; he was the first black South African man under 30 to reach one million subscribers.",
+        "pt": "Thulasizwe 'Lasizwe' Dambuza é um comediante e personalidade do YouTube sul-africano, conhecido por seus esquetes desde 2017 e seu programa de sucesso 'Awkward Dates'; foi o primeiro homem negro sul-africano com menos de 30 anos a atingir um milhão de inscritos.",
+        "fr": "Thulasizwe 'Lasizwe' Dambuza est un humoriste et personnalité YouTube sud-africain, connu pour ses sketches depuis 2017 et son émission à succès 'Awkward Dates' ; il fut le premier homme noir sud-africain de moins de 30 ans à atteindre un million d'abonnés.",
+        "de": "Thulasizwe 'Lasizwe' Dambuza ist ein südafrikanischer Comedian und YouTube-Persönlichkeit, bekannt für seine Sketche seit 2017 und seine Erfolgsshow 'Awkward Dates'; er war der erste schwarze Südafrikaner unter 30, der eine Million Abonnenten erreichte.",
+        "ru": "Тулазиве «Ласизве» Дамбуза — южноафриканский комик и YouTube-персона, известный скетчами с 2017 года и хитовым шоу 'Awkward Dates'; он стал первым чернокожим южноафриканцем моложе 30 лет, набравшим миллион подписчиков.",
+        "ar": "ثولاسيزوي 'لاسيزوي' دامبوزا هو كوميدي وشخصية يوتيوب من جنوب أفريقيا، اشتهر باسكتشاته منذ عام 2017 وبرنامجه الناجح 'Awkward Dates'؛ وكان أول رجل أسود جنوب أفريقي دون سن الثلاثين يصل إلى مليون مشترك.",
+        "hi": "थुलासिज़्वे 'लासिज़्वे' डाम्बुज़ा एक दक्षिण अफ्रीकी हास्य कलाकार और यूट्यूब हस्ती हैं, जो 2017 से अपने स्केच और हिट शो 'ऑकवर्ड डेट्स' के लिए जाने जाते हैं; वे 30 वर्ष से कम आयु के दस लाख सब्सक्राइबर तक पहुंचने वाले पहले अश्वेत दक्षिण अफ्रीकी पुरुष थे।",
+        "zh": "图拉西兹韦·“拉西兹韦”·丹布扎是南非喜剧演员兼YouTube红人，自2017年起以短剧闻名，并主持热门节目《Awkward Dates》；他是首位30岁以下订阅数破百万的南非黑人男性YouTuber。",
+        "ja": "トゥラシズウェ「ラシズウェ」ダンブザは南アフリカのコメディアン兼YouTuber。2017年からのコントと人気番組『Awkward Dates』で知られ、登録者100万人に到達した30歳未満の南アフリカ人黒人男性として初の人物となった。"
+      },
+      "handles": {
+        "youtube": "UCVbVao4QtBLarbX01DX9YRg",
+        "tiktok": "lasizwe",
+        "instagram": "lasizwe",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1210000
+        }
+      }
+    },
+    {
+      "id": "noel-deyzel",
+      "name": "Noel Deyzel",
+      "country": "ZA",
+      "topic": {
+        "es": "Fitness, culturismo y comedia",
+        "en": "Fitness, bodybuilding and comedy",
+        "pt": "Fitness, fisiculturismo e comédia",
+        "fr": "Fitness, culturisme et comédie",
+        "de": "Fitness, Bodybuilding und Comedy",
+        "ru": "Фитнес, бодибилдинг и юмор",
+        "ar": "اللياقة البدنية وكمال الأجسام والكوميديا",
+        "hi": "फिटनेस, बॉडीबिल्डिंग और कॉमेडी",
+        "zh": "健身、健美与喜剧",
+        "ja": "フィットネス、ボディビル、コメディ"
+      },
+      "about": {
+        "es": "Noel Deyzel, apodado 'Daddy Noel', es un culturista y creador de contenido sudafricano conocido por videos cortos de menos de dos minutos sobre entrenamiento, nutrición y comedia ligera, con enorme alcance en YouTube, TikTok e Instagram.",
+        "en": "Noel Deyzel, nicknamed 'Daddy Noel', is a South African bodybuilder and content creator known for short under-two-minute videos on training, nutrition and light comedy, with a massive reach on YouTube, TikTok and Instagram.",
+        "pt": "Noel Deyzel, apelidado de 'Daddy Noel', é um fisiculturista e criador de conteúdo sul-africano conhecido por vídeos curtos de menos de dois minutos sobre treino, nutrição e comédia leve, com enorme alcance no YouTube, TikTok e Instagram.",
+        "fr": "Noel Deyzel, surnommé 'Daddy Noel', est un culturiste et créateur de contenu sud-africain connu pour ses courtes vidéos de moins de deux minutes sur l'entraînement, la nutrition et l'humour léger, avec une portée massive sur YouTube, TikTok et Instagram.",
+        "de": "Noel Deyzel, genannt 'Daddy Noel', ist ein südafrikanischer Bodybuilder und Content-Creator, bekannt für kurze Videos unter zwei Minuten über Training, Ernährung und leichte Comedy, mit enormer Reichweite auf YouTube, TikTok und Instagram.",
+        "ru": "Ноэль Дейзел, по прозвищу «Дэдди Ноэль», — южноафриканский бодибилдер и создатель контента, известный короткими роликами до двух минут о тренировках, питании и лёгком юморе, с огромным охватом на YouTube, TikTok и Instagram.",
+        "ar": "نويل ديزل، الملقب بـ'دادي نويل'، هو لاعب كمال أجسام وصانع محتوى من جنوب أفريقيا معروف بمقاطع فيديو قصيرة أقل من دقيقتين حول التدريب والتغذية والكوميديا الخفيفة، وله انتشار واسع على يوتيوب وتيك توك وإنستغرام.",
+        "hi": "नोएल डेज़ेल, जिन्हें 'डैडी नोएल' कहा जाता है, एक दक्षिण अफ्रीकी बॉडीबिल्डर और कंटेंट क्रिएटर हैं, जो प्रशिक्षण, पोषण और हल्की कॉमेडी पर दो मिनट से कम के छोटे वीडियो के लिए जाने जाते हैं, यूट्यूब, टिकटॉक और इंस्टाग्राम पर विशाल पहुंच रखते हैं।",
+        "zh": "诺埃尔·德伊泽尔，绰号“Daddy Noel”，是南非健美运动员兼内容创作者，以不到两分钟的训练、营养与轻松喜剧短视频著称，在YouTube、TikTok和Instagram上拥有庞大影响力。",
+        "ja": "「Daddy Noel」の愛称で知られるノエル・デイゼルは、南アフリカのボディビルダー兼コンテンツクリエイター。トレーニングや栄養、軽いコメディを扱う2分未満の短い動画で知られ、YouTube、TikTok、Instagramで絶大な影響力を持つ。"
+      },
+      "handles": {
+        "youtube": "UCMp-0bU-PA7BNNR-zIvEydA",
+        "tiktok": "noeldeyzel_bodybuilder",
+        "instagram": "noeldeyzel_bodybuilder",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 7770000
+        }
+      }
+    },
+    {
+      "id": "hikakin",
+      "name": "HIKAKIN",
+      "country": "JP",
+      "topic": {
+        "es": "Comedia, vlogs y entretenimiento",
+        "en": "Comedy, vlogs and entertainment",
+        "pt": "Comédia, vlogs e entretenimento",
+        "fr": "Comédie, vlogs et divertissement",
+        "de": "Comedy, Vlogs und Unterhaltung",
+        "ru": "Комедия, влоги и развлечения",
+        "ar": "كوميديا وفلوجات وترفيه",
+        "hi": "कॉमेडी, व्लॉग और मनोरंजन",
+        "zh": "喜剧、视频博客与娱乐",
+        "ja": "コメディ・Vlog・エンタメ"
+      },
+      "about": {
+        "es": "Nombre real Hikaru Kaihatsu, nacido el 21 de abril de 1989 en Niigata, Japón. Empezó subiendo videos de beatbox y se convirtió en uno de los YouTubers pioneros y más suscritos de Japón. Es hermano mayor del también YouTuber Seikin.",
+        "en": "Real name Hikaru Kaihatsu, born April 21, 1989 in Niigata, Japan. He started by posting beatboxing videos and became one of Japan's pioneering and most-subscribed YouTubers. He is the younger brother of fellow YouTuber Seikin.",
+        "pt": "Nome real Hikaru Kaihatsu, nascido em 21 de abril de 1989 em Niigata, Japão. Começou publicando vídeos de beatbox e se tornou um dos YouTubers pioneiros e mais inscritos do Japão. É irmão mais novo do também YouTuber Seikin.",
+        "fr": "Vrai nom Hikaru Kaihatsu, né le 21 avril 1989 à Niigata, au Japon. Il a commencé en publiant des vidéos de beatbox et est devenu l'un des YouTubeurs pionniers et les plus suivis du Japon. Il est le frère cadet du YouTubeur Seikin.",
+        "de": "Bürgerlicher Name Hikaru Kaihatsu, geboren am 21. April 1989 in Niigata, Japan. Er begann mit Beatbox-Videos und wurde einer der einflussreichsten und meistabonnierten YouTuber Japans. Er ist der jüngere Bruder des YouTubers Seikin.",
+        "ru": "Настоящее имя Хикару Кайхацу, родился 21 апреля 1989 года в префектуре Ниигата, Япония. Начинал с видео с битбоксом и стал одним из первых и самых популярных ютуберов Японии. Младший брат ютубера Сейкина.",
+        "ar": "اسمه الحقيقي هيكارو كايهاتسو، وُلد في 21 أبريل 1989 في نيغاتا باليابان. بدأ بنشر مقاطع فيديو للبيت بوكس وأصبح من رواد اليوتيوبرز الأكثر اشتراكاً في اليابان. وهو الأخ الأصغر لليوتيوبر سيكين.",
+        "hi": "असली नाम हिकारू काइहात्सू, जन्म 21 अप्रैल 1989, नीगाता, जापान। उन्होंने बीटबॉक्सिंग वीडियो से शुरुआत की और जापान के अग्रणी व सबसे अधिक सब्सक्राइब किए गए यूट्यूबरों में से एक बन गए। वे यूट्यूबर सेइकिन के छोटे भाई हैं।",
+        "zh": "本名开发光（Hikaru Kaihatsu），1989年4月21日出生于日本新潟县。最初以口技（Beatbox）视频走红，成为日本最早且订阅人数最多的YouTuber之一。他是YouTuber Seikin的弟弟。",
+        "ja": "本名は開發光（かいはつ ひかる）。1989年4月21日、新潟県生まれ。ビートボックス動画で人気を集め、日本を代表する草分け的存在かつ登録者数トップクラスのYouTuberとなった。YouTuberセイキンの弟。"
+      },
+      "handles": {
+        "youtube": "UCZf__ehlCEBPop-_sldpBUQ",
+        "tiktok": "hikakin",
+        "instagram": "hikakin",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 19800000
+        }
+      }
+    },
+    {
+      "id": "fischer-s",
+      "name": "Fischer's",
+      "country": "JP",
+      "topic": {
+        "es": "Grupo de comedia, retos y variedades",
+        "en": "Comedy group, challenges and variety",
+        "pt": "Grupo de comédia, desafios e variedades",
+        "fr": "Groupe comique, défis et divertissement",
+        "de": "Comedy-Gruppe, Challenges und Unterhaltungsshow",
+        "ru": "Комедийная группа, челленджи и развлекательные видео",
+        "ar": "مجموعة كوميدية وتحديات وبرامج متنوعة",
+        "hi": "कॉमेडी ग्रुप, चैलेंज और वैरायटी कंटेंट",
+        "zh": "喜剧团体、挑战与综艺内容",
+        "ja": "コメディ・企画・バラエティ"
+      },
+      "about": {
+        "es": "Grupo japonés de seis YouTubers (Silk Road, Masai, Ndaho, Motoki, Zakao y Dāma), formado en 2010 por excompañeros de secundaria en Katsushika, Tokio. Conocidos por sus retos, sketches guionizados y videos deportivos; uno de los canales japoneses más vistos.",
+        "en": "Japanese group of six YouTubers (Silk Road, Masai, Ndaho, Motoki, Zakao and Dāma), formed in 2010 by former junior-high classmates in Katsushika, Tokyo. Known for challenges, scripted skits and sports videos; one of Japan's most-viewed channels.",
+        "pt": "Grupo japonês de seis YouTubers (Silk Road, Masai, Ndaho, Motoki, Zakao e Dāma), formado em 2010 por ex-colegas de ensino fundamental em Katsushika, Tóquio. Conhecidos por desafios, esquetes roteirizados e vídeos esportivos; um dos canais mais vistos do Japão.",
+        "fr": "Groupe japonais de six YouTubeurs (Silk Road, Masai, Ndaho, Motoki, Zakao et Dāma), formé en 2010 par d'anciens camarades de collège à Katsushika, Tokyo. Connus pour leurs défis, sketches scénarisés et vidéos sportives; l'une des chaînes les plus vues du Japon.",
+        "de": "Japanische Gruppe aus sechs YouTubern (Silk Road, Masai, Ndaho, Motoki, Zakao und Dāma), 2010 von ehemaligen Mittelschulklassenkameraden in Katsushika, Tokio, gegründet. Bekannt für Challenges, gescriptete Sketche und Sportvideos; einer der meistgesehenen Kanäle Japans.",
+        "ru": "Японская группа из шести ютуберов (Silk Road, Masai, Ndaho, Motoki, Zakao и Dāma), созданная в 2010 году бывшими одноклассниками из района Кацусика, Токио. Известны челленджами, постановочными скетчами и спортивными роликами; один из самых просматриваемых каналов Японии.",
+        "ar": "مجموعة يابانية من ستة يوتيوبرز (سيلك رود، ماساي، ندهو، موتوكي، زاكاو وداما)، تأسست عام 2010 على يد زملاء دراسة سابقين في كاتسوشيكا بطوكيو. معروفون بالتحديات والمقاطع الكوميدية المكتوبة ومقاطع رياضية؛ من أكثر القنوات اليابانية مشاهدة.",
+        "hi": "जापान का छह यूट्यूबरों का समूह (सिल्क रोड, मासाई, नदाहो, मोटोकी, ज़ाकाओ और दामा), जिसे 2010 में टोक्यो के कात्सुशिका में पूर्व स्कूल सहपाठियों ने बनाया। चैलेंज, स्क्रिप्टेड स्किट और स्पोर्ट्स वीडियो के लिए मशहूर; जापान के सबसे अधिक देखे जाने वाले चैनलों में से एक।",
+        "zh": "由六名YouTuber（Silk Road、Masai、Ndaho、Motoki、Zakao、Dāma）组成的日本团体，2010年由东京葛饰区的初中同学组建。以挑战企划、剧本化短剧和运动类视频著称，是日本观看量最高的频道之一。",
+        "ja": "東京都葛飾区の中学時代の同級生6人（シルクロード、マサイ、ンダホ、モトキ、ザコオ、ダーマ）が2010年に結成した日本のYouTuberグループ。企画・ドッキリ・スポーツ動画などで人気を集め、日本有数の再生数を誇るチャンネル。"
+      },
+      "handles": {
+        "youtube": "UCibEhpu5HP45-w7Bq1ZIulw",
+        "tiktok": "fischershome",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 9180000
+        }
+      }
+    },
+    {
+      "id": "hajime-syacho",
+      "name": "Hajime Syacho (はじめしゃちょー)",
+      "country": "JP",
+      "topic": {
+        "es": "Experimentos, retos y comedia",
+        "en": "Experiments, challenges and comedy",
+        "pt": "Experimentos, desafios e comédia",
+        "fr": "Expériences, défis et comédie",
+        "de": "Experimente, Challenges und Comedy",
+        "ru": "Эксперименты, челленджи и комедия",
+        "ar": "تجارب وتحديات وكوميديا",
+        "hi": "प्रयोग, चैलेंज और कॉमेडी",
+        "zh": "实验企划、挑战与喜剧",
+        "ja": "実験・企画・コメディ"
+      },
+      "about": {
+        "es": "Nombre real Hajime Eda, nacido el 14 de febrero de 1993. Uno de los YouTubers individuales más suscritos de Japón, conocido por sus experimentos extravagantes, retos y videos de comedia; también mantiene los canales secundarios Hajime Syacho 2 y Hajime Syacho's Field.",
+        "en": "Real name Hajime Eda, born February 14, 1993. One of Japan's most-subscribed individual YouTubers, known for his outrageous experiments, challenges and comedy videos; he also runs the secondary channels Hajime Syacho 2 and Hajime Syacho's Field.",
+        "pt": "Nome real Hajime Eda, nascido em 14 de fevereiro de 1993. Um dos YouTubers individuais mais inscritos do Japão, conhecido por experimentos extravagantes, desafios e vídeos de comédia; também mantém os canais secundários Hajime Syacho 2 e Hajime Syacho's Field.",
+        "fr": "Vrai nom Hajime Eda, né le 14 février 1993. L'un des YouTubeurs individuels les plus suivis du Japon, connu pour ses expériences extravagantes, ses défis et ses vidéos comiques; il gère aussi les chaînes secondaires Hajime Syacho 2 et Hajime Syacho's Field.",
+        "de": "Bürgerlicher Name Hajime Eda, geboren am 14. Februar 1993. Einer der meistabonnierten Einzel-YouTuber Japans, bekannt für ausgefallene Experimente, Challenges und Comedy-Videos; betreibt zudem die Nebenkanäle Hajime Syacho 2 und Hajime Syacho's Field.",
+        "ru": "Настоящее имя Хадзимэ Эда, родился 14 февраля 1993 года. Один из самых популярных индивидуальных ютуберов Японии, известен своими экстравагантными экспериментами, челленджами и комедийными видео; также ведёт дополнительные каналы Hajime Syacho 2 и Hajime Syacho's Field.",
+        "ar": "اسمه الحقيقي هاجيمي إيدا، وُلد في 14 فبراير 1993. من أكثر اليوتيوبرز الأفراد اشتراكاً في اليابان، معروف بتجاربه الغريبة وتحدياته ومقاطعه الكوميدية؛ يدير أيضاً قناتين ثانويتين هما Hajime Syacho 2 وHajime Syacho's Field.",
+        "hi": "असली नाम हाजिमे एदा, जन्म 14 फरवरी 1993। जापान के सबसे अधिक सब्सक्राइब किए गए एकल यूट्यूबरों में से एक, अपने असाधारण प्रयोगों, चैलेंज और कॉमेडी वीडियो के लिए प्रसिद्ध; वे Hajime Syacho 2 और Hajime Syacho's Field नाम के अतिरिक्त चैनल भी चलाते हैं।",
+        "zh": "本名江田元（Hajime Eda），1993年2月14日出生。日本个人订阅人数最多的YouTuber之一，以夸张实验企划、挑战和搞笑视频闻名；另经营副频道Hajime Syacho 2和Hajime Syacho's Field。",
+        "ja": "本名は江田元。1993年2月14日生まれ。過激な実験企画や検証、コメディ動画で知られる日本屈指の登録者数を誇る個人YouTuber。サブチャンネルの「はじめしゃちょー2」「はじめしゃちょーのフィールド」も運営。"
+      },
+      "handles": {
+        "youtube": "UCgMPP6RRjktV7krOfyUewqw",
+        "tiktok": "hajimesyacho_official",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 16300000
+        }
+      }
+    },
+    {
+      "id": "tokai-on-air",
+      "name": "Tokai On Air (東海オンエア)",
+      "country": "JP",
+      "topic": {
+        "es": "Comedia, retos y sketches",
+        "en": "Comedy, challenges and skits",
+        "pt": "Comédia, desafios e esquetes",
+        "fr": "Comédie, défis et sketches",
+        "de": "Comedy, Challenges und Sketche",
+        "ru": "Комедия, челленджи и скетчи",
+        "ar": "كوميديا وتحديات ومقاطع تمثيلية",
+        "hi": "कॉमेडी, चैलेंज और स्किट्स",
+        "zh": "喜剧、挑战与短剧企划",
+        "ja": "コメディ・企画・寸劇"
+      },
+      "about": {
+        "es": "Grupo japonés de seis YouTubers (Tetsuya, Ryo, Shibayu, Toshimitsu, Yumemaru y Mushimegane), con base en Okazaki, prefectura de Aichi, activo en YouTube desde 2013. Conocidos por sketches y retos de comedia; uno de los grupos de YouTube más populares de Japón.",
+        "en": "Japanese group of six YouTubers (Tetsuya, Ryo, Shibayu, Toshimitsu, Yumemaru and Mushimegane) based in Okazaki, Aichi Prefecture, active on YouTube since 2013. Known for comedic skits and challenges; one of Japan's most popular YouTube groups.",
+        "pt": "Grupo japonês de seis YouTubers (Tetsuya, Ryo, Shibayu, Toshimitsu, Yumemaru e Mushimegane), baseado em Okazaki, prefeitura de Aichi, ativo no YouTube desde 2013. Conhecidos por esquetes e desafios de comédia; um dos grupos de YouTube mais populares do Japão.",
+        "fr": "Groupe japonais de six YouTubeurs (Tetsuya, Ryo, Shibayu, Toshimitsu, Yumemaru et Mushimegane), basé à Okazaki, préfecture d'Aichi, actif sur YouTube depuis 2013. Connus pour leurs sketches comiques et défis; l'un des groupes YouTube les plus populaires du Japon.",
+        "de": "Japanische Gruppe aus sechs YouTubern (Tetsuya, Ryo, Shibayu, Toshimitsu, Yumemaru und Mushimegane) mit Sitz in Okazaki, Präfektur Aichi, seit 2013 auf YouTube aktiv. Bekannt für komische Sketche und Challenges; eine der beliebtesten YouTube-Gruppen Japans.",
+        "ru": "Японская группа из шести ютуберов (Тэцуя, Рё, Сибаю, Тосимицу, Юмэмару и Мусимэганэ) из города Окадзаки, префектура Айти, на YouTube с 2013 года. Известны комедийными скетчами и челленджами; одна из самых популярных ютуб-групп Японии.",
+        "ar": "مجموعة يابانية من ستة يوتيوبرز (تيتسويا، ريو، شيبايو، توشيميتسو، يوميمارو وموشيميغاني) مقرها أوكازاكي بمحافظة آيتشي، نشطة على يوتيوب منذ 2013. معروفة بالمقاطع الكوميدية والتحديات؛ من أشهر مجموعات يوتيوب في اليابان.",
+        "hi": "जापान का छह यूट्यूबरों का समूह (तेत्सुया, र्यो, शिबायु, तोशिमित्सु, युमेमारू और मुशिमेगाने), जो आइची प्रान्त के ओकाज़ाकी में स्थित है और 2013 से यूट्यूब पर सक्रिय है। कॉमेडी स्किट्स और चैलेंज के लिए प्रसिद्ध; जापान के सबसे लोकप्रिय यूट्यूब समूहों में से एक।",
+        "zh": "由六名YouTuber（哲也、亮、Shibayu、俊光、梦丸、Mushimegane）组成的日本团体，总部位于爱知县冈崎市，自2013年起活跃于YouTube。以搞笑短剧和挑战企划著称，是日本最受欢迎的YouTube团体之一。",
+        "ja": "愛知県岡崎市を拠点とする6人組YouTuberグループ（てつや、りょう、しばゆー、としみつ、虫眼鏡、ゆめまる）。2013年からYouTube活動を開始し、企画・コント動画で人気を集める日本屈指のYouTuberグループ。"
+      },
+      "handles": {
+        "youtube": "UCutJqz56653xV2wwSvut_hQ",
+        "tiktok": "tokai0nair",
+        "instagram": "to_ka_i_on_air",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 7260000
+        }
+      }
+    },
+    {
+      "id": "seikin",
+      "name": "SEIKIN",
+      "country": "JP",
+      "topic": {
+        "es": "Música, comedia y vlogs",
+        "en": "Music, comedy and vlogs",
+        "pt": "Música, comédia e vlogs",
+        "fr": "Musique, comédie et vlogs",
+        "de": "Musik, Comedy und Vlogs",
+        "ru": "Музыка, комедия и влоги",
+        "ar": "موسيقى وكوميديا وفلوجات",
+        "hi": "संगीत, कॉमेडी और व्लॉग",
+        "zh": "音乐、喜剧与视频博客",
+        "ja": "音楽・コメディ・Vlog"
+      },
+      "about": {
+        "es": "Nombre real Seiya Kaihatsu, nacido el 30 de julio de 1987 en Niigata, Japón. Cantautor y YouTuber, hermano mayor de Hikakin, con quien también forma el dúo musical Hikakin & Seikin; su canal SeikinTV combina música, comedia y vida diaria.",
+        "en": "Real name Seiya Kaihatsu, born July 30, 1987 in Niigata, Japan. Singer-songwriter and YouTuber, older brother of Hikakin, with whom he also forms the music duo Hikakin & Seikin; his channel SeikinTV mixes music, comedy and daily life.",
+        "pt": "Nome real Seiya Kaihatsu, nascido em 30 de julho de 1987 em Niigata, Japão. Cantor-compositor e YouTuber, irmão mais velho de Hikakin, com quem também forma a dupla musical Hikakin & Seikin; seu canal SeikinTV mistura música, comédia e vida cotidiana.",
+        "fr": "Vrai nom Seiya Kaihatsu, né le 30 juillet 1987 à Niigata, au Japon. Auteur-compositeur-interprète et YouTubeur, frère aîné de Hikakin avec qui il forme aussi le duo musical Hikakin & Seikin; sa chaîne SeikinTV mêle musique, comédie et vie quotidienne.",
+        "de": "Bürgerlicher Name Seiya Kaihatsu, geboren am 30. Juli 1987 in Niigata, Japan. Singer-Songwriter und YouTuber, älterer Bruder von Hikakin, mit dem er auch das Musikduo Hikakin & Seikin bildet; sein Kanal SeikinTV verbindet Musik, Comedy und Alltag.",
+        "ru": "Настоящее имя Сэйя Кайхацу, родился 30 июля 1987 года в префектуре Ниигата, Япония. Автор-исполнитель песен и ютубер, старший брат Хикакина, с которым также образует музыкальный дуэт Hikakin & Seikin; на канале SeikinTV сочетает музыку, комедию и повседневную жизнь.",
+        "ar": "اسمه الحقيقي سيا كايهاتسو، وُلد في 30 يوليو 1987 في نيغاتا باليابان. مغنٍ وملحن ويوتيوبر، الأخ الأكبر لهيكاكين الذي يشكّل معه أيضاً ثنائياً موسيقياً باسم Hikakin & Seikin؛ قناته SeikinTV تمزج بين الموسيقى والكوميديا والحياة اليومية.",
+        "hi": "असली नाम सेइया काइहात्सू, जन्म 30 जुलाई 1987, नीगाता, जापान। गायक-गीतकार और यूट्यूबर, हिकाकिन के बड़े भाई, जिनके साथ वे संगीत जोड़ी Hikakin & Seikin भी बनाते हैं; उनका चैनल SeikinTV संगीत, कॉमेडी और रोज़मर्रा की ज़िंदगी को जोड़ता है।",
+        "zh": "本名开发圣也（Seiya Kaihatsu），1987年7月30日出生于日本新潟县。创作歌手兼YouTuber，是Hikakin的哥哥，两人也组成音乐组合Hikakin & Seikin；其频道SeikinTV内容融合音乐、喜剧与日常生活。",
+        "ja": "本名は開發聖也。1987年7月30日、新潟県生まれ。シンガーソングライターでありYouTuber。弟のヒカキンとは音楽ユニット「Hikakin & Seikin」も結成。チャンネル「SeikinTV」では音楽・コメディ・日常Vlogを発信。"
+      },
+      "handles": {
+        "youtube": "UCg4nOl7_gtStrLwF0_xoV0A",
+        "tiktok": "seikin_official",
+        "instagram": "seikin_official",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5090000
+        }
+      }
+    },
+    {
+      "id": "kemio",
+      "name": "kemio",
+      "country": "JP",
+      "topic": {
+        "es": "Vlogs, comedia y estilo de vida",
+        "en": "Vlogs, comedy and lifestyle",
+        "pt": "Vlogs, comédia e estilo de vida",
+        "fr": "Vlogs, comédie et style de vie",
+        "de": "Vlogs, Comedy und Lifestyle",
+        "ru": "Влоги, комедия и лайфстайл",
+        "ar": "فلوجات وكوميديا وأسلوب حياة",
+        "hi": "व्लॉग, कॉमेडी और लाइफस्टाइल",
+        "zh": "视频博客、喜剧与生活方式",
+        "ja": "Vlog・コメディ・ライフスタイル"
+      },
+      "about": {
+        "es": "YouTuber, modelo y personalidad de TV japonesa; su madre es japonesa y su padre de origen ítalo-iraní. Se hizo conocido por sus vlogs diarios y por hablar abiertamente de su identidad gay, con seguidores mayoritariamente adolescentes y veinteañeros.",
+        "en": "Japanese YouTuber, model and TV personality; his mother is Japanese and his father is of Italian-Iranian descent. He became known for his daily vlogs and for speaking openly about being gay, with a fanbase mainly in their teens and twenties.",
+        "pt": "YouTuber, modelo e personalidade de TV japonesa; sua mãe é japonesa e seu pai de origem ítalo-iraniana. Ficou conhecido por seus vlogs diários e por falar abertamente sobre sua identidade gay, com fãs majoritariamente na adolescência e nos vinte anos.",
+        "fr": "YouTubeur, mannequin et personnalité télé japonais; sa mère est japonaise et son père d'origine italo-iranienne. Il s'est fait connaître grâce à ses vlogs quotidiens et en parlant ouvertement de son homosexualité, avec un public majoritairement adolescent et jeune adulte.",
+        "de": "Japanischer YouTuber, Model und TV-Persönlichkeit; seine Mutter ist Japanerin, sein Vater italienisch-iranischer Abstammung. Bekannt wurde er durch tägliche Vlogs und sein offenes Sprechen über seine Homosexualität, mit einem Publikum vor allem im Teenager- und Zwanziger-Alter.",
+        "ru": "Японский ютубер, модель и телеведущий; мать — японка, отец итало-иранского происхождения. Стал известен благодаря ежедневным влогам и открытым разговорам о своей гомосексуальности; аудитория в основном подростки и молодёжь.",
+        "ar": "يوتيوبر ياباني وعارض أزياء وشخصية تلفزيونية؛ والدته يابانية ووالده من أصل إيطالي-إيراني. اشتهر بفلوجاته اليومية وحديثه الصريح عن كونه مثلي الجنس، وجمهوره غالباً من المراهقين وأوائل العشرينيات.",
+        "hi": "जापानी यूट्यूबर, मॉडल और टीवी हस्ती; उनकी माँ जापानी हैं और पिता इतालवी-ईरानी मूल के हैं। वे अपने रोज़ाना व्लॉग और समलैंगिक पहचान के बारे में खुलकर बात करने के लिए प्रसिद्ध हुए; उनके प्रशंसक मुख्यतः किशोर और युवा हैं।",
+        "zh": "日本YouTuber、模特兼电视艺人；母亲是日本人，父亲有意大利与伊朗血统。他因每日Vlog以及公开谈论自己的同性恋身份而广为人知，粉丝多为青少年及二十多岁群体。",
+        "ja": "日本のYouTuber、モデル、タレント。母親は日本人、父親はイタリア系イラン人。日常Vlogやゲイであることを公表して発信する姿で知られ、ファン層は10代から20代が中心。"
+      },
+      "handles": {
+        "youtube": "UCdqmGeaJIczU3-ZTdBv7JaQ",
+        "tiktok": "mmkemio",
+        "instagram": "mmkemio",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2130000
+        }
+      }
+    },
+    {
+      "id": "yuka-kinoshita",
+      "name": "Yuka Kinoshita (木下ゆうか)",
+      "country": "JP",
+      "topic": {
+        "es": "Mukbang y comida en grandes cantidades",
+        "en": "Mukbang and large-quantity eating",
+        "pt": "Mukbang e comida em grandes quantidades",
+        "fr": "Mukbang et repas en grande quantité",
+        "de": "Mukbang und Mengenessen",
+        "ru": "Мукбанг и поедание больших порций еды",
+        "ar": "مقاطع الأكل بكميات كبيرة (موكبانغ)",
+        "hi": "मुकबैंग और भारी मात्रा में भोजन",
+        "zh": "大胃王吃播内容",
+        "ja": "大食い・フードファイター"
+      },
+      "about": {
+        "es": "Nacida el 4 de febrero de 1985, es YouTuber y competidora de comer (\"big eater\") japonesa, reconocida internacionalmente por sus videos consumiendo grandes cantidades de comida; su canal es uno de los más vistos de Japón a nivel mundial.",
+        "en": "Born February 4, 1985, she is a Japanese YouTuber and competitive eater, internationally known for her videos eating large quantities of food; her channel is one of Japan's most-viewed globally.",
+        "pt": "Nascida em 4 de fevereiro de 1985, é YouTuber e competidora de comer (\"big eater\") japonesa, reconhecida internacionalmente por seus vídeos consumindo grandes quantidades de comida; seu canal é um dos mais vistos do Japão em todo o mundo.",
+        "fr": "Née le 4 février 1985, elle est YouTubeuse et compétitrice de grande bouffe japonaise, connue internationalement pour ses vidéos où elle consomme de grandes quantités de nourriture; sa chaîne est l'une des plus vues du Japon dans le monde.",
+        "de": "Geboren am 4. Februar 1985, ist sie eine japanische YouTuberin und Wettesserin, international bekannt für Videos, in denen sie große Mengen Essen verzehrt; ihr Kanal zählt weltweit zu den meistgesehenen aus Japan.",
+        "ru": "Родилась 4 февраля 1985 года, японская ютуберша и участница соревнований по поеданию большого количества еды, известна во всём мире благодаря видео, где она съедает огромные порции; её канал — один из самых просматриваемых японских каналов в мире.",
+        "ar": "وُلدت في 4 فبراير 1985، وهي يوتيوبر يابانية ومتنافسة في أكل الكميات الكبيرة، معروفة عالمياً بمقاطعها التي تأكل فيها كميات ضخمة من الطعام؛ قناتها من أكثر القنوات اليابانية مشاهدة عالمياً.",
+        "hi": "जन्म 4 फरवरी 1985, वे एक जापानी यूट्यूबर और प्रतिस्पर्धी भोजन-खाने वाली ('बिग ईटर') हैं, जो भारी मात्रा में भोजन खाने के वीडियो के लिए अंतरराष्ट्रीय स्तर पर प्रसिद्ध हैं; उनका चैनल विश्वभर में जापान के सबसे अधिक देखे जाने वाले चैनलों में से एक है।",
+        "zh": "1985年2月4日出生，是日本YouTuber及大胃王竞赛选手，以大量进食视频闻名国际，其频道是全球观看量最高的日本频道之一。",
+        "ja": "1985年2月4日生まれ。大食いに挑戦する動画で世界的に知られる日本のフードファイター系YouTuber。そのチャンネルは日本のYouTubeチャンネルの中でも世界的に高い再生数を誇る。"
+      },
+      "handles": {
+        "youtube": "UCFTVNLC7ysej-sD5lkLqNGA",
+        "tiktok": "yukakinoshitavlog",
+        "instagram": "yuka_kinoshita_0204",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 5150000
+        }
+      }
+    },
+    {
+      "id": "bilingirl-chika",
+      "name": "Bilingirl Chika (バイリンガール英会話)",
+      "country": "JP",
+      "topic": {
+        "es": "Aprendizaje de inglés y vlogs bilingües",
+        "en": "English learning and bilingual vlogs",
+        "pt": "Aprendizado de inglês e vlogs bilíngues",
+        "fr": "Apprentissage de l'anglais et vlogs bilingues",
+        "de": "Englischlernen und zweisprachige Vlogs",
+        "ru": "Изучение английского и двуязычные влоги",
+        "ar": "تعلّم اللغة الإنجليزية وفلوجات ثنائية اللغة",
+        "hi": "अंग्रेज़ी सीखना और द्विभाषी व्लॉग",
+        "zh": "英语学习与双语视频博客",
+        "ja": "英会話・バイリンガルVlog"
+      },
+      "about": {
+        "es": "Nombre real Chika Yoshida, YouTuber japonesa que se mudó a Estados Unidos en su adolescencia. Desde 2011 enseña inglés práctico a través de vlogs bilingües; su canal es uno de los más establecidos de Japón dedicados al aprendizaje de idiomas.",
+        "en": "Real name Chika Yoshida, a Japanese YouTuber who moved to the United States as a teenager. Since 2011 she has taught practical English through bilingual vlogs; her channel is one of Japan's most established language-learning channels.",
+        "pt": "Nome real Chika Yoshida, YouTuber japonesa que se mudou para os Estados Unidos na adolescência. Desde 2011 ensina inglês prático por meio de vlogs bilíngues; seu canal é um dos mais estabelecidos do Japão dedicados ao aprendizado de idiomas.",
+        "fr": "Vrai nom Chika Yoshida, YouTubeuse japonaise partie vivre aux États-Unis à l'adolescence. Depuis 2011, elle enseigne l'anglais pratique via des vlogs bilingues; sa chaîne est l'une des plus établies du Japon consacrées à l'apprentissage des langues.",
+        "de": "Bürgerlicher Name Chika Yoshida, eine japanische YouTuberin, die als Teenagerin in die USA zog. Seit 2011 vermittelt sie praktisches Englisch über zweisprachige Vlogs; ihr Kanal zählt zu den etabliertesten Sprachlern-Kanälen Japans.",
+        "ru": "Настоящее имя Тика Ёсида, японская ютуберша, переехавшая в США в подростковом возрасте. С 2011 года преподаёт практический английский через двуязычные влоги; её канал — один из самых известных языковых каналов Японии.",
+        "ar": "اسمها الحقيقي تشيكا يوشيدا، يوتيوبر يابانية انتقلت إلى الولايات المتحدة في مراهقتها. منذ عام 2011 تعلّم الإنجليزية العملية عبر فلوجات ثنائية اللغة؛ قناتها من أكثر القنوات اليابانية رسوخاً في تعليم اللغات.",
+        "hi": "असली नाम चिका योशिदा, जापानी यूट्यूबर जो किशोरावस्था में अमेरिका चली गईं। 2011 से वे द्विभाषी व्लॉग के माध्यम से व्यावहारिक अंग्रेज़ी सिखाती हैं; उनका चैनल जापान के सबसे स्थापित भाषा-शिक्षण चैनलों में से एक है।",
+        "zh": "本名吉田千夏（Chika Yoshida），日本YouTuber，青少年时期移居美国。自2011年起通过双语Vlog教授实用英语，其频道是日本历史最悠久的语言学习类频道之一。",
+        "ja": "本名は吉田千夏。10代でアメリカに渡った経験を持つ日本のYouTuber。2011年から実践的な英会話をバイリンガルVlog形式で発信しており、日本の語学系YouTubeチャンネルの中でも老舗的存在。"
+      },
+      "handles": {
+        "youtube": "UCPlreGCqby4Qg9Vuem5scpw",
+        "tiktok": "bilingirl.chika",
+        "instagram": "bilingirl_chika",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1570000
+        }
+      }
+    },
+    {
+      "id": "kids-line",
+      "name": "Kids Line (キッズライン)",
+      "country": "JP",
+      "topic": {
+        "es": "Contenido familiar e infantil, juguetes",
+        "en": "Family and kids content, toys",
+        "pt": "Conteúdo infantil e familiar, brinquedos",
+        "fr": "Contenu familial et enfants, jouets",
+        "de": "Familien- und Kinderinhalte, Spielzeug",
+        "ru": "Семейный и детский контент, обзоры игрушек",
+        "ar": "محتوى عائلي وللأطفال ومراجعات ألعاب",
+        "hi": "पारिवारिक और बच्चों की सामग्री, खिलौने",
+        "zh": "家庭与儿童内容、玩具开箱",
+        "ja": "ファミリー・キッズ向け・おもちゃ"
+      },
+      "about": {
+        "es": "Canal familiar japonés protagonizado por los niños conocidos como Koukun y Nemichan, activo desde 2011 (oficialmente desde 2013). Con reseñas de juguetes, sketches y anime original, fue el primer canal japonés en superar los 10 millones de suscriptores y recibió el Diamond Creator Award de YouTube en 2020.",
+        "en": "Japanese family channel starring the children known as Koukun and Nemichan, active since 2011 (officially since 2013). Featuring toy reviews, skits and original animation, it was the first Japanese channel to surpass 10 million subscribers and received YouTube's Diamond Creator Award in 2020.",
+        "pt": "Canal familiar japonês estrelado pelas crianças conhecidas como Koukun e Nemichan, ativo desde 2011 (oficialmente desde 2013). Com resenhas de brinquedos, esquetes e animação original, foi o primeiro canal japonês a superar 10 milhões de inscritos e recebeu o Diamond Creator Award do YouTube em 2020.",
+        "fr": "Chaîne familiale japonaise mettant en vedette les enfants connus sous les noms de Koukun et Nemichan, active depuis 2011 (officiellement depuis 2013). Avec des tests de jouets, des sketches et des animations originales, elle fut la première chaîne japonaise à dépasser 10 millions d'abonnés et a reçu le Diamond Creator Award de YouTube en 2020.",
+        "de": "Japanischer Familienkanal mit den als Koukun und Nemichan bekannten Kindern, aktiv seit 2011 (offiziell seit 2013). Mit Spielzeugtests, Sketchen und Original-Animation war er der erste japanische Kanal mit über 10 Millionen Abonnenten und erhielt 2020 YouTubes Diamond Creator Award.",
+        "ru": "Японский семейный канал с детьми, известными как Коукун и Немичан, работает с 2011 года (официально с 2013 года). С обзорами игрушек, скетчами и оригинальной анимацией — первый японский канал, превысивший 10 миллионов подписчиков, получил награду YouTube Diamond Creator Award в 2020 году.",
+        "ar": "قناة عائلية يابانية يظهر فيها الطفلان المعروفان باسم كوكون ونيميتشان، نشطة منذ 2011 (رسمياً منذ 2013). تضم مراجعات ألعاب ومقاطع تمثيلية ورسوماً متحركة أصلية، وكانت أول قناة يابانية تتجاوز 10 ملايين مشترك، وحصلت على جائزة Diamond Creator من يوتيوب عام 2020.",
+        "hi": "जापानी पारिवारिक चैनल जिसमें कोउकुन और नेमीचान नाम से जाने जाने वाले बच्चे दिखते हैं, 2011 से सक्रिय (आधिकारिक रूप से 2013 से)। खिलौनों की समीक्षा, स्किट्स और मूल एनिमेशन के साथ, यह 10 मिलियन सब्सक्राइबर पार करने वाला पहला जापानी चैनल था और 2020 में यूट्यूब का डायमंड क्रिएटर अवार्ड प्राप्त किया।",
+        "zh": "由被称为“こうくん”和“ねみちゃん”的孩子出镜的日本家庭频道，2011年开始活动（官方自2013年起），内容包括玩具开箱、短剧和原创动画。该频道是日本首个订阅数突破1000万的频道，并于2020年获得YouTube钻石创作者奖。",
+        "ja": "こうくん・ねみちゃんが出演する日本のファミリー向けYouTubeチャンネル。2011年から活動を開始し（公式には2013年から）、おもちゃレビューやコント、オリジナルアニメなどを配信。日本初の登録者数1000万人突破チャンネルとなり、2020年にYouTubeのダイヤモンドクリエイターアワードを受賞した。"
+      },
+      "handles": {
+        "youtube": "UCQs-tWGqacJ7vuuJDtXq28w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 14000000
+        }
+      }
+    },
+    {
+      "id": "soolking",
+      "name": "Soolking",
+      "country": "DZ",
+      "topic": {
+        "es": "Música (rap y raï)",
+        "en": "Music (rap and raï)",
+        "pt": "Música (rap e raï)",
+        "fr": "Musique (rap et raï)",
+        "de": "Musik (Rap und Raï)",
+        "ru": "Музыка (рэп и раï)",
+        "ar": "موسيقى (راب وراي)",
+        "hi": "संगीत (रैप और राई)",
+        "zh": "音乐（说唱与拉伊）",
+        "ja": "音楽（ラップとライ）"
+      },
+      "about": {
+        "es": "Soolking es un cantante y rapero franco-argelino, conocido por fusionar raï y rap en su música. Su canal oficial de YouTube, \"Soolking Officiel\", fue creado en diciembre de 2016.",
+        "en": "Soolking is a Franco-Algerian singer and rapper known for blending raï and rap. His official YouTube channel, \"Soolking Officiel,\" was created in December 2016.",
+        "pt": "Soolking é um cantor e rapper franco-argelino conhecido por fundir raï e rap em sua música. Seu canal oficial no YouTube, \"Soolking Officiel\", foi criado em dezembro de 2016.",
+        "fr": "Soolking est un chanteur et rappeur franco-algérien connu pour son mélange de raï et de rap. Sa chaîne YouTube officielle, « Soolking Officiel », a été créée en décembre 2016.",
+        "de": "Soolking ist ein französisch-algerischer Sänger und Rapper, bekannt für seine Mischung aus Raï und Rap. Sein offizieller YouTube-Kanal „Soolking Officiel“ wurde im Dezember 2016 erstellt.",
+        "ru": "Soolking — франко-алжирский певец и рэпер, известный своим сочетанием стиля раï и рэпа. Его официальный YouTube-канал «Soolking Officiel» был создан в декабре 2016 года.",
+        "ar": "سولكينغ مغنٍّ وراب فرنسي-جزائري معروف بمزجه بين موسيقى الراي والراب. أُنشئت قناته الرسمية على يوتيوب \"Soolking Officiel\" في ديسمبر 2016.",
+        "hi": "सूलकिंग एक फ़्रांसीसी-अल्जीरियाई गायक और रैपर हैं, जो अपने संगीत में राई और रैप के मिश्रण के लिए जाने जाते हैं। उनका आधिकारिक YouTube चैनल \"Soolking Officiel\" दिसंबर 2016 में बनाया गया था।",
+        "zh": "Soolking是一位法国-阿尔及利亚歌手兼说唱歌手，以融合拉伊音乐与说唱风格而闻名。他的官方YouTube频道“Soolking Officiel”创建于2016年12月。",
+        "ja": "Soolkingはライ音楽とラップを融合させたスタイルで知られるフランス系アルジェリア人の歌手・ラッパーである。彼の公式YouTubeチャンネル「Soolking Officiel」は2016年12月に開設された。"
+      },
+      "handles": {
+        "youtube": "UCz6JjQtnK9XjMwKuqlEkRxw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 11400000
+        }
+      }
+    },
+    {
+      "id": "anes-tina",
+      "name": "Anes Tina",
+      "country": "DZ",
+      "topic": {
+        "es": "Comedia y sátira social",
+        "en": "Comedy and social satire",
+        "pt": "Comédia e sátira social",
+        "fr": "Humour et satire sociale",
+        "de": "Komödie und Gesellschaftssatire",
+        "ru": "Комедия и социальная сатира",
+        "ar": "كوميديا وسخرية اجتماعية",
+        "hi": "कॉमेडी और सामाजिक व्यंग्य",
+        "zh": "喜剧与社会讽刺",
+        "ja": "コメディと社会風刺"
+      },
+      "about": {
+        "es": "Anes Bouzeghoub, conocido como Anes Tina, es un comediante y creador de contenido argelino especializado en sátira social y parodias sobre la vida cotidiana en Argelia. Su canal de YouTube está activo desde septiembre de 2011 y, según medios argelinos, fue el primer youtuber argelino en recibir el Botón de Plata de YouTube.",
+        "en": "Anes Bouzeghoub, known as Anes Tina, is an Algerian comedian and content creator specialized in social satire and parodies of everyday life in Algeria. His YouTube channel has been active since September 2011, and according to Algerian media he was the first Algerian YouTuber to receive YouTube's Silver Play Button.",
+        "pt": "Anes Bouzeghoub, conhecido como Anes Tina, é um comediante e criador de conteúdo argelino especializado em sátira social e paródias sobre o cotidiano na Argélia. Seu canal do YouTube está ativo desde setembro de 2011 e, segundo a mídia argelina, foi o primeiro youtuber argelino a receber o Botão de Prata do YouTube.",
+        "fr": "Anes Bouzeghoub, connu sous le nom d'Anes Tina, est un humoriste et créateur de contenu algérien spécialisé dans la satire sociale et les parodies du quotidien en Algérie. Sa chaîne YouTube est active depuis septembre 2011 et, selon les médias algériens, il fut le premier YouTubeur algérien à recevoir le Bouton Argent de YouTube.",
+        "de": "Anes Bouzeghoub, bekannt als Anes Tina, ist ein algerischer Komiker und Content-Creator, spezialisiert auf Gesellschaftssatire und Parodien des Alltags in Algerien. Sein YouTube-Kanal ist seit September 2011 aktiv, und laut algerischen Medien war er der erste algerische YouTuber, der den Silbernen Play-Button erhielt.",
+        "ru": "Анес Бузегуб, известный как Anes Tina, — алжирский комик и контент-мейкер, специализирующийся на социальной сатире и пародиях на повседневную жизнь в Алжире. Его YouTube-канал работает с сентября 2011 года, и, по данным алжирских СМИ, он стал первым алжирским блогером, получившим серебряную кнопку YouTube.",
+        "ar": "أنيس بوزغوب، المعروف باسم Anes Tina، هو كوميدي وصانع محتوى جزائري متخصص في السخرية الاجتماعية ومحاكاة الحياة اليومية في الجزائر. قناته على يوتيوب نشطة منذ سبتمبر 2011، وبحسب وسائل إعلام جزائرية كان أول يوتيوبر جزائري يحصل على زر يوتيوب الفضي.",
+        "hi": "अनेस बूज़ेगूब, जिन्हें Anes Tina के नाम से जाना जाता है, एक अल्जीरियाई हास्य कलाकार और कंटेंट क्रिएटर हैं, जो अल्जीरिया के रोज़मर्रा के जीवन पर सामाजिक व्यंग्य और पैरोडी के लिए जाने जाते हैं। उनका YouTube चैनल सितंबर 2011 से सक्रिय है, और अल्जीरियाई मीडिया के अनुसार वे YouTube का सिल्वर प्ले बटन पाने वाले पहले अल्जीरियाई यूट्यूबर थे।",
+        "zh": "阿内斯·布泽古布（Anes Bouzeghoub），艺名Anes Tina，是一位阿尔及利亚喜剧演员兼内容创作者，专注于社会讽刺和对阿尔及利亚日常生活的模仿。他的YouTube频道自2011年9月起活跃，据阿尔及利亚媒体报道，他是首位获得YouTube银色按钮奖的阿尔及利亚博主。",
+        "ja": "アネス・ブーゼグーブ（Anes Bouzeghoub）、通称Anes Tinaは、アルジェリアの日常生活を題材にした社会風刺やパロディを専門とするアルジェリア出身のコメディアン兼コンテンツクリエイターである。彼のYouTubeチャンネルは2011年9月から活動しており、アルジェリアメディアによれば、YouTubeのシルバープレイボタンを受賞した最初のアルジェリア人ユーチューバーとされる。"
+      },
+      "handles": {
+        "youtube": "UCHCsGx9byqxSw6f1JQVBk6Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 3430000
+        }
+      }
+    },
+    {
+      "id": "hicham-cook",
+      "name": "Hicham cook",
+      "country": "DZ",
+      "topic": {
+        "es": "Cocina",
+        "en": "Cooking",
+        "pt": "Culinária",
+        "fr": "Cuisine",
+        "de": "Kochen",
+        "ru": "Кулинария",
+        "ar": "طبخ",
+        "hi": "खाना बनाना",
+        "zh": "烹饪",
+        "ja": "料理"
+      },
+      "about": {
+        "es": "Hicham, conocido en su canal como \"Hicham cook\" (هشام للطبخ), es un creador de contenido argelino de cocina activo desde abril de 2013. Se distingue por presentar sus recetas en cámara, a diferencia de otros canales de cocina argelinos que usan solo narración en off.",
+        "en": "Hicham, known on his channel as \"Hicham cook\" (هشام للطبخ), is an Algerian cooking content creator active since April 2013. He stands out for presenting his recipes on camera, unlike other Algerian cooking channels that use voice-over narration only.",
+        "pt": "Hicham, conhecido em seu canal como \"Hicham cook\" (هشام للطبخ), é um criador de conteúdo argelino de culinária ativo desde abril de 2013. Ele se destaca por apresentar suas receitas diante da câmera, diferente de outros canais argelinos de culinária que usam apenas narração em off.",
+        "fr": "Hicham, connu sur sa chaîne sous le nom de « Hicham cook » (هشام للطبخ), est un créateur de contenu culinaire algérien actif depuis avril 2013. Il se distingue en présentant ses recettes face à la caméra, contrairement à d'autres chaînes de cuisine algériennes qui utilisent uniquement une voix off.",
+        "de": "Hicham, auf seinem Kanal als „Hicham cook“ (هشام للطبخ) bekannt, ist ein algerischer Koch-Content-Creator, aktiv seit April 2013. Er hebt sich dadurch ab, dass er seine Rezepte vor der Kamera präsentiert, anders als andere algerische Kochkanäle, die nur mit Voiceover arbeiten.",
+        "ru": "Хишам, известный на своём канале как «Hicham cook» (هشام للطبخ), — алжирский автор кулинарного контента, работающий с апреля 2013 года. Его отличает то, что он показывает рецепты перед камерой, в отличие от других алжирских кулинарных каналов, где используется только закадровый голос.",
+        "ar": "هشام، المعروف في قناته باسم \"Hicham cook\" (هشام للطبخ)، هو صانع محتوى طبخ جزائري نشط منذ أبريل 2013. يتميز بتقديم وصفاته أمام الكاميرا، على عكس قنوات طبخ جزائرية أخرى تعتمد على التعليق الصوتي فقط.",
+        "hi": "हिशाम, जिन्हें उनके चैनल पर \"Hicham cook\" (هشام للطبخ) के नाम से जाना जाता है, अप्रैल 2013 से सक्रिय एक अल्जीरियाई कुकिंग कंटेंट क्रिएटर हैं। अन्य अल्जीरियाई कुकिंग चैनलों के विपरीत, जो केवल वॉयस-ओवर का उपयोग करते हैं, वे कैमरे के सामने अपनी रेसिपी प्रस्तुत करने के लिए जाने जाते हैं।",
+        "zh": "希沙姆（Hicham）在其频道中以“Hicham cook”（هشام للطبخ）之名为人所知，是一位自2013年4月起活跃的阿尔及利亚美食内容创作者。与许多只用画外音讲解的阿尔及利亚美食频道不同，他的特色是在镜头前亲自展示食谱制作过程。",
+        "ja": "ヒシャム（Hicham）は、自身のチャンネルで「Hicham cook」（هشام للطبخ）として知られる、2013年4月から活動するアルジェリアの料理系コンテンツクリエイターである。ナレーションのみで進行する他の多くのアルジェリア料理チャンネルとは異なり、カメラの前でレシピを実演する点が特徴である。"
+      },
+      "handles": {
+        "youtube": "UCaqNC635RRx-DqkAtT28aPw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 3530000
+        }
+      }
+    },
+    {
+      "id": "oum-walid",
+      "name": "Oum Walid",
+      "country": "DZ",
+      "topic": {
+        "es": "Cocina",
+        "en": "Cooking",
+        "pt": "Culinária",
+        "fr": "Cuisine",
+        "de": "Kochen",
+        "ru": "Кулинария",
+        "ar": "طبخ",
+        "hi": "खाना बनाना",
+        "zh": "烹饪",
+        "ja": "料理"
+      },
+      "about": {
+        "es": "Oum Walid es una creadora de contenido argelina de cocina, conocida por sus recetas de gastronomía argelina. Su canal de YouTube, activo desde octubre de 2015, se convirtió en el primer canal argelino en superar los 10 millones de suscriptores; la creadora mantiene su identidad en el anonimato.",
+        "en": "Oum Walid is an Algerian cooking content creator known for her Algerian cuisine recipes. Her YouTube channel, active since October 2015, became the first Algerian channel to surpass 10 million subscribers; the creator keeps her identity anonymous.",
+        "pt": "Oum Walid é uma criadora de conteúdo argelina de culinária, conhecida por suas receitas de gastronomia argelina. Seu canal do YouTube, ativo desde outubro de 2015, tornou-se o primeiro canal argelino a ultrapassar 10 milhões de inscritos; a criadora mantém sua identidade em anonimato.",
+        "fr": "Oum Walid est une créatrice de contenu culinaire algérienne, connue pour ses recettes de cuisine algérienne. Sa chaîne YouTube, active depuis octobre 2015, est devenue la première chaîne algérienne à dépasser les 10 millions d'abonnés ; la créatrice garde son identité anonyme.",
+        "de": "Oum Walid ist eine algerische Koch-Content-Creatorin, bekannt für ihre Rezepte der algerischen Küche. Ihr YouTube-Kanal, aktiv seit Oktober 2015, war der erste algerische Kanal, der die Marke von 10 Millionen Abonnenten überschritt; die Erstellerin bleibt anonym.",
+        "ru": "Oum Walid — алжирский автор кулинарного контента, известная своими рецептами алжирской кухни. Её YouTube-канал, работающий с октября 2015 года, стал первым алжирским каналом, преодолевшим отметку в 10 миллионов подписчиков; создательница сохраняет анонимность.",
+        "ar": "أم وليد صانعة محتوى طبخ جزائرية معروفة بوصفاتها من المطبخ الجزائري. قناتها على يوتيوب، النشطة منذ أكتوبر 2015، أصبحت أول قناة جزائرية تتجاوز 10 ملايين مشترك، وهي تحافظ على عدم الكشف عن هويتها.",
+        "hi": "उम वलीद एक अल्जीरियाई कुकिंग कंटेंट क्रिएटर हैं, जो अल्जीरियाई व्यंजनों की रेसिपी के लिए जानी जाती हैं। अक्टूबर 2015 से सक्रिय उनका YouTube चैनल 1 करोड़ सब्सक्राइबर पार करने वाला पहला अल्जीरियाई चैनल बना; यह क्रिएटर अपनी पहचान गुप्त रखती हैं।",
+        "zh": "Oum Walid是一位阿尔及利亚美食内容创作者，以阿尔及利亚菜肴食谱而闻名。她的YouTube频道自2015年10月起活跃，是首个订阅数突破1000万的阿尔及利亚频道；这位创作者始终保持匿名。",
+        "ja": "Oum Walidはアルジェリア料理のレシピで知られるアルジェリアの料理系コンテンツクリエイターである。2015年10月から活動する彼女のYouTubeチャンネルは、登録者数1000万人を突破した最初のアルジェリアのチャンネルとなった。本人は身元を明かさず匿名で活動している。"
+      },
+      "handles": {
+        "youtube": "UCVXD2kNki3rfLMhF8uNIcBQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 14400000
+        }
+      }
     }
   ]
 }
