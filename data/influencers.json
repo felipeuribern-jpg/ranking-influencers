@@ -2,52 +2,6 @@
   "version": 1,
   "influencers": [
     {
-      "id": "federico-vigevani",
-      "name": "Federico Vigevani",
-      "country": "MX",
-      "topic": {
-        "es": "Estilo de vida",
-        "en": "Lifestyle",
-        "pt": "Estilo de vida",
-        "fr": "Style de vie",
-        "de": "Lifestyle",
-        "ru": "Образ жизни",
-        "ar": "أسلوب الحياة",
-        "hi": "जीवनशैली",
-        "zh": "生活方式",
-        "ja": "ライフスタイル"
-      },
-      "about": {
-        "es": "Creador nacido en Argentina y radicado en México; comparte su día a día, moda y viajes con un tono cercano y espontáneo.",
-        "en": "A creator born in Argentina and based in Mexico; shares daily life, fashion and travel in a warm, spontaneous style.",
-        "pt": "Criador nascido na Argentina e radicado no México; compartilha seu dia a dia, moda e viagens com um tom próximo e espontâneo.",
-        "fr": "Créateur né en Argentine et installé au Mexique ; il partage son quotidien, la mode et les voyages sur un ton proche et spontané.",
-        "de": "In Argentinien geborener und in Mexiko lebender Creator; teilt seinen Alltag, Mode und Reisen in einem nahbaren, spontanen Ton.",
-        "ru": "Создатель контента, родившийся в Аргентине и живущий в Мексике; делится повседневной жизнью, модой и путешествиями в тёплой, непринуждённой манере.",
-        "ar": "منشئ محتوى وُلد في الأرجنتين ويقيم في المكسيك؛ يشارك يومياته والموضة والسفر بأسلوب ودود وعفوي.",
-        "hi": "अर्जेंटीना में जन्मे और मेक्सिको में बसे क्रिएटर; अपने दैनिक जीवन, फैशन और यात्रा को सहज और आत्मीय अंदाज़ में साझा करते हैं।",
-        "zh": "出生于阿根廷、定居墨西哥的创作者；以亲切自然的风格分享日常生活、时尚和旅行。",
-        "ja": "アルゼンチン生まれ、メキシコ在住のクリエイター。親しみやすく自然体な雰囲気で日常やファッション、旅行を発信。"
-      },
-      "handles": {
-        "youtube": "UCoQm-PeHC-cbJclKJYJ8LzA",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "TreceBits, rankings por país publicados en enero de 2026",
-        "followers": {
-          "instagram": 11500000,
-          "tiktok": 30100000,
-          "youtube": 71500000
-        }
-      }
-    },
-    {
       "id": "katteyes",
       "name": "Katteyes",
       "country": "MX",
@@ -22273,6 +22227,50 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T16:05:28.438Z)",
         "followers": {
           "youtube": 1670000
+        }
+      }
+    },
+    {
+      "id": "rayito",
+      "name": "Rayito",
+      "country": "MX",
+      "topic": {
+        "es": "Podcast y entrevistas",
+        "en": "Podcast and interviews",
+        "pt": "Podcast e entrevistas",
+        "fr": "Podcast et interviews",
+        "de": "Podcast und Interviews",
+        "ru": "Подкаст и интервью",
+        "ar": "بودكاست ومقابلات",
+        "hi": "पॉडकास्ट और साक्षात्कार",
+        "zh": "播客与访谈",
+        "ja": "ポッドキャストとインタビュー"
+      },
+      "about": {
+        "es": "Ryan Hoffman Badui, conocido como Rayito (antes Debrayanshow), es un creador de contenido mexicano con más de una década en plataformas digitales. Conduce el podcast \"Rayos X\", donde entrevista a figuras destacadas del entretenimiento y las redes sociales de México y Latinoamérica.",
+        "en": "Ryan Hoffman Badui, known as Rayito (formerly Debrayanshow), is a Mexican content creator with over a decade on digital platforms. He hosts the podcast \"Rayos X,\" where he interviews notable figures from entertainment and social media across Mexico and Latin America.",
+        "pt": "Ryan Hoffman Badui, conhecido como Rayito (antes Debrayanshow), é um criador de conteúdo mexicano com mais de uma década em plataformas digitais. Ele apresenta o podcast \"Rayos X\", no qual entrevista figuras de destaque do entretenimento e das redes sociais do México e da América Latina.",
+        "fr": "Ryan Hoffman Badui, connu sous le nom de Rayito (anciennement Debrayanshow), est un créateur de contenu mexicain actif depuis plus d'une décennie sur les plateformes numériques. Il anime le podcast « Rayos X », où il interviewe des personnalités marquantes du divertissement et des réseaux sociaux au Mexique et en Amérique latine.",
+        "de": "Ryan Hoffman Badui, bekannt als Rayito (früher Debrayanshow), ist ein mexikanischer Content-Creator mit mehr als einem Jahrzehnt Erfahrung auf digitalen Plattformen. Er moderiert den Podcast „Rayos X“, in dem er bekannte Persönlichkeiten aus Unterhaltung und sozialen Medien aus Mexiko und Lateinamerika interviewt.",
+        "ru": "Райан Хоффман Бадуи, известный как Rayito (ранее Debrayanshow), — мексиканский создатель контента с более чем десятилетним опытом работы на цифровых платформах. Он ведёт подкаст «Rayos X», в котором берёт интервью у известных личностей из мира развлечений и социальных сетей Мексики и Латинской Америки.",
+        "ar": "ريان هوفمان بادوي، المعروف باسم رايتو (المعروف سابقًا باسم Debrayanshow)، صانع محتوى مكسيكي له أكثر من عقد من الخبرة على المنصات الرقمية. يقدّم بودكاست \"Rayos X\" حيث يجري مقابلات مع شخصيات بارزة من عالم الترفيه ووسائل التواصل الاجتماعي في المكسيك وأمريكا اللاتينية.",
+        "hi": "रायन हॉफमैन बदुई, जिन्हें रायितो (पहले डेब्रायनशो) के नाम से जाना जाता है, एक मैक्सिकन कंटेंट क्रिएटर हैं जिनका डिजिटल प्लेटफॉर्म पर एक दशक से अधिक का अनुभव है। वे \"रायोस एक्स\" पॉडकास्ट होस्ट करते हैं, जिसमें वे मेक्सिको और लैटिन अमेरिका के मनोरंजन और सोशल मीडिया जगत की प्रमुख हस्तियों का साक्षात्कार लेते हैं।",
+        "zh": "瑞安·霍夫曼·巴杜伊（Ryan Hoffman Badui），艺名Rayito（曾用名Debrayanshow），是一位在数字平台活跃超过十年的墨西哥内容创作者。他主持播客节目《Rayos X》，在节目中采访来自墨西哥及拉丁美洲娱乐圈和社交媒体领域的知名人物。",
+        "ja": "ライアン・ホフマン・バドゥイ（Rayito、旧名Debrayanshow）は、10年以上にわたりデジタルプラットフォームで活動するメキシコのコンテンツクリエイター。ポッドキャスト番組「Rayos X」の司会を務め、メキシコやラテンアメリカのエンターテインメント・SNS業界で著名な人物にインタビューしている。"
+      },
+      "handles": {
+        "youtube": "UC2APpwfAlZU8X0EezmhuXUQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T16:16:46.920Z)",
+        "followers": {
+          "youtube": 8960000
         }
       }
     }
