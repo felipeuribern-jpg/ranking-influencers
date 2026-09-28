@@ -27,7 +27,7 @@ pnpm-debug.log*
 .codebase-memory/
 supabase/.temp/
 
-# lotes temporales de candidatos a creadores, pendientes de verificar
-# contra la YouTube Data API antes de fusionar en data/influencers.json
-pipeline/_batch-*.json
-pipeline/_merge-*.cjs
+# scripts y datos efímeros de trabajo (lotes de candidatos a creadores,
+# scripts de verificación/fusión), pendientes de verificar contra la
+# YouTube Data API antes de fusionar en data/influencers.json
+pipeline/_*
