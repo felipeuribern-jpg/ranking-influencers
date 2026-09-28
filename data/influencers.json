@@ -13563,6 +13563,1414 @@
           "youtube": 9670000
         }
       }
+    },
+    {
+      "id": "youngohm",
+      "name": "YOUNGOHM",
+      "country": "TH",
+      "topic": {
+        "es": "Rap y hip-hop",
+        "en": "Rap and hip-hop",
+        "pt": "Rap e hip-hop",
+        "fr": "Rap et hip-hop",
+        "de": "Rap und Hip-Hop",
+        "ru": "Рэп и хип-хоп",
+        "ar": "الراب والهيب هوب",
+        "hi": "रैप और हिप-हॉप",
+        "zh": "说唱与嘻哈",
+        "ja": "ラップとヒップホップ"
+      },
+      "about": {
+        "es": "Youngohm (Ratthaphong Phoorisit, n. 1998) es un rapero, cantante y compositor tailandés, figura destacada de la escena hip-hop de Tailandia. Saltó a la fama en 2017 con el sencillo \"Choey Moei\" y ha publicado los álbumes Bangkok Legacy (2020) y Thatthong Sound (2023).",
+        "en": "Youngohm (Ratthaphong Phoorisit, b. 1998) is a Thai rapper, singer and songwriter, a leading figure in Thailand's hip-hop scene. He rose to fame in 2017 with the single \"Choey Moei\" and has released the albums Bangkok Legacy (2020) and Thatthong Sound (2023).",
+        "pt": "Youngohm (Ratthaphong Phoorisit, n. 1998) é um rapper, cantor e compositor tailandês, figura de destaque na cena hip-hop da Tailândia. Ficou famoso em 2017 com o single \"Choey Moei\" e lançou os álbuns Bangkok Legacy (2020) e Thatthong Sound (2023).",
+        "fr": "Youngohm (Ratthaphong Phoorisit, né en 1998) est un rappeur, chanteur et auteur-compositeur thaïlandais, figure majeure de la scène hip-hop en Thaïlande. Il s'est fait connaître en 2017 avec le single « Choey Moei » et a sorti les albums Bangkok Legacy (2020) et Thatthong Sound (2023).",
+        "de": "Youngohm (Ratthaphong Phoorisit, geb. 1998) ist ein thailändischer Rapper, Sänger und Songwriter und eine führende Figur der thailändischen Hip-Hop-Szene. Er wurde 2017 mit der Single „Choey Moei\" bekannt und veröffentlichte die Alben Bangkok Legacy (2020) und Thatthong Sound (2023).",
+        "ru": "Янгом (Раттапхонг Пхуриситх, р. 1998) — тайский рэпер, певец и автор песен, одна из ведущих фигур хип-хоп сцены Таиланда. Известность получил в 2017 году благодаря синглу «Choey Moei» и выпустил альбомы Bangkok Legacy (2020) и Thatthong Sound (2023).",
+        "ar": "يونغأوم (راتافونغ فوريسيت، مواليد 1998) هو مغني راب وكاتب أغاني تايلاندي، ومن أبرز الشخصيات في مشهد الهيب هوب في تايلاند. اشتهر عام 2017 بأغنيته المنفردة \"Choey Moei\" وأصدر ألبومي Bangkok Legacy (2020) وThatthong Sound (2023).",
+        "hi": "यंगओम (रत्तफोंग फूरीसित, जन्म 1998) एक थाई रैपर, गायक और गीतकार हैं, जो थाईलैंड के हिप-हॉप दृश्य की एक प्रमुख हस्ती हैं। उन्होंने 2017 में सिंगल \"Choey Moei\" से प्रसिद्धि पाई और Bangkok Legacy (2020) तथा Thatthong Sound (2023) एल्बम जारी किए।",
+        "zh": "Youngohm(拉塔蓬·普里西特,生于1998年)是泰国说唱歌手、歌手兼词曲作者,是泰国嘻哈界的重要人物。他于2017年凭借单曲《Choey Moei》走红,并发行了专辑《Bangkok Legacy》(2020)和《Thatthong Sound》(2023)。",
+        "ja": "ヤングオーム(ラタポン・プーリシット、1998年生まれ)はタイのラッパー、シンガーソングライターで、タイのヒップホップシーンを代表する存在。2017年にシングル「Choey Moei」で人気を博し、アルバム『Bangkok Legacy』(2020年)と『Thatthong Sound』(2023年)を発表した。"
+      },
+      "handles": {
+        "youtube": "UCQ9v04cmBdKAUbR4-SH6v2g",
+        "tiktok": "youngohm",
+        "instagram": "youngohmm",
+        "facebook": "YOUNGOHMBKK",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 6350000
+        }
+      }
+    },
+    {
+      "id": "serhii-sternenko",
+      "name": "Serhii Sternenko",
+      "country": "UA",
+      "topic": {
+        "es": "Comentario político ucraniano y análisis de guerra",
+        "en": "Ukrainian political commentary and war analysis",
+        "pt": "Comentário político ucraniano e análise da guerra",
+        "fr": "Commentaire politique ukrainien et analyse de la guerre",
+        "de": "Ukrainischer politischer Kommentar und Kriegsanalyse",
+        "ru": "Украинская политическая аналитика и обзор войны",
+        "ar": "تعليق سياسي أوكراني وتحليل للحرب",
+        "hi": "यूक्रेनी राजनीतिक टिप्पणी और युद्ध विश्लेषण",
+        "zh": "乌克兰政治评论与战争分析",
+        "ja": "ウクライナの政治解説と戦況分析"
+      },
+      "about": {
+        "es": "Activista y voluntario nacido en Odesa que en enero de 2026 se convirtió en asesor del Ministro de Defensa de Ucrania sobre el uso eficaz de drones; vive en Kiev bajo estrictas medidas de seguridad tras varios atentados contra su vida.",
+        "en": "Odesa-born activist and volunteer who in January 2026 became an adviser to Ukraine's Minister of Defense on drone warfare efficiency; he lives in Kyiv under tight security after several assassination attempts on his life.",
+        "pt": "Ativista e voluntário nascido em Odessa que, em janeiro de 2026, tornou-se conselheiro do Ministro da Defesa da Ucrânia sobre a eficácia do uso de drones; vive em Kiev sob forte segurança após vários atentados contra sua vida.",
+        "fr": "Militant et volontaire né à Odessa, devenu en janvier 2026 conseiller du ministre de la Défense de l'Ukraine sur l'efficacité de la guerre des drones ; il vit à Kiev sous haute sécurité après plusieurs tentatives d'assassinat contre lui.",
+        "de": "Aus Odessa stammender Aktivist und Freiwilliger, der im Januar 2026 Berater des ukrainischen Verteidigungsministers für die Effizienz der Drohnenkriegsführung wurde; er lebt in Kiew unter strengen Sicherheitsvorkehrungen nach mehreren Attentatsversuchen auf sein Leben.",
+        "ru": "Активист и волонтёр из Одессы, в январе 2026 года ставший советником министра обороны Украины по вопросам эффективности применения дронов; живёт в Киеве под усиленной охраной после нескольких покушений на его жизнь.",
+        "ar": "ناشط ومتطوع من مواليد أوديسا أصبح في يناير 2026 مستشارًا لوزير الدفاع الأوكراني بشأن كفاءة استخدام الطائرات المسيّرة؛ يعيش في كييف تحت حراسة أمنية مشددة بعد عدة محاولات اغتيال استهدفت حياته.",
+        "hi": "ओडेसा में जन्मे कार्यकर्ता और स्वयंसेवक, जो जनवरी 2026 में यूक्रेन के रक्षा मंत्री के ड्रोन युद्ध दक्षता संबंधी सलाहकार बने; अपनी जान पर कई हमलों के बाद वे कीव में कड़ी सुरक्षा के बीच रहते हैं।",
+        "zh": "出生于敖德萨的活动人士和志愿者,2026年1月成为乌克兰国防部长在无人机作战效率方面的顾问;由于多次遭遇暗杀企图,他目前在基辅严密安保下生活。",
+        "ja": "オデーサ出身の活動家・ボランティアで、2026年1月にウクライナ国防大臣のドローン戦効率化に関する顧問に就任。命を狙われる暗殺未遂事件が複数回あったため、キーウで厳重な警備のもと生活している。"
+      },
+      "handles": {
+        "youtube": "UC5HBd4l_kpba5b0O1pK-Bfg",
+        "tiktok": null,
+        "instagram": "s_sternenko",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2190000
+        }
+      }
+    },
+    {
+      "id": "dmytro-komarov",
+      "name": "Dmytro Komarov",
+      "country": "UA",
+      "topic": {
+        "es": "Periodismo documental de viajes",
+        "en": "Travel documentary journalism",
+        "pt": "Jornalismo documental de viagens",
+        "fr": "Journalisme documentaire de voyage",
+        "de": "Reise-Dokumentarjournalismus",
+        "ru": "Документальная тревел-журналистика",
+        "ar": "صحافة وثائقية للسفر",
+        "hi": "यात्रा वृत्तचित्र पत्रकारिता",
+        "zh": "旅行纪录片新闻报道",
+        "ja": "旅行ドキュメンタリージャーナリズム"
+      },
+      "about": {
+        "es": "Periodista nacido en Kiev, reconocido en 2020 como 'Periodista Honorario de Ucrania'; presentador del programa de viajes 'El mundo al revés' desde 2010, ahora graba 'El mundo al revés. Ucrania', recorriendo el país durante la guerra y mostrando comunidades afectadas por el conflicto.",
+        "en": "Kyiv-born journalist honored as 'Honored Journalist of Ukraine' in 2020; host of the travel show 'World Turned Inside Out' since 2010, he now films 'World Turned Inside Out. Ukraine', touring the country during the war and covering war-affected communities.",
+        "pt": "Jornalista nascido em Kiev, reconhecido em 2020 como 'Jornalista Honorário da Ucrânia'; apresentador do programa de viagens 'O Mundo ao Contrário' desde 2010, agora grava 'O Mundo ao Contrário. Ucrânia', percorrendo o país durante a guerra e mostrando comunidades afetadas pelo conflito.",
+        "fr": "Journaliste né à Kiev, distingué en 2020 du titre de 'Journaliste honoré d'Ukraine' ; animateur de l'émission de voyage 'Le monde à l'envers' depuis 2010, il tourne désormais 'Le monde à l'envers. Ukraine', parcourant le pays pendant la guerre et montrant des communautés touchées par le conflit.",
+        "de": "In Kiew geborener Journalist, 2020 als 'Verdienter Journalist der Ukraine' ausgezeichnet; seit 2010 Moderator der Reisesendung 'Die Welt auf links gedreht', dreht er nun 'Die Welt auf links gedreht. Ukraine', bereist das Land während des Krieges und zeigt vom Krieg betroffene Gemeinden.",
+        "ru": "Журналист, родившийся в Киеве, в 2020 году удостоенный звания 'Заслуженный журналист Украины'; ведущий тревел-шоу 'Мир наизнанку' с 2010 года, сейчас снимает 'Мир наизнанку. Украина', путешествуя по стране во время войны и показывая пострадавшие от конфликта общины.",
+        "ar": "صحفي وُلد في كييف، حصل عام 2020 على لقب 'صحفي أوكرانيا الفخري'؛ مقدّم برنامج السفر 'العالم المقلوب' منذ عام 2010، ويصوّر الآن 'العالم المقلوب. أوكرانيا'، حيث يجول في البلاد خلال الحرب ويوثّق المجتمعات المتضررة من النزاع.",
+        "hi": "कीव में जन्मे पत्रकार, जिन्हें 2020 में 'यूक्रेन के सम्मानित पत्रकार' की उपाधि मिली; 2010 से यात्रा शो 'वर्ल्ड टर्न्ड इनसाइड आउट' के प्रस्तोता, अब वे 'वर्ल्ड टर्न्ड इनसाइड आउट. यूक्रेन' की शूटिंग कर रहे हैं, युद्ध के दौरान देश भर की यात्रा करते हुए युद्ध-प्रभावित समुदायों को दिखा रहे हैं।",
+        "zh": "出生于基辅的记者,2020年获得“乌克兰荣誉记者”称号;自2010年起主持旅行节目《颠倒的世界》,如今拍摄《颠倒的世界·乌克兰》,在战争期间走遍全国,记录受战争影响的社区。",
+        "ja": "キーウ出身のジャーナリストで、2020年に「ウクライナ功労ジャーナリスト」の称号を授与された。2010年から旅番組「世界は裏返し」の司会を務め、現在は戦時下のウクライナ各地を巡り被災地域を伝える「世界は裏返し・ウクライナ」を制作している。"
+      },
+      "handles": {
+        "youtube": "UCbM5f7K1MCroCjCFSzumUIg",
+        "tiktok": null,
+        "instagram": "komarovmir",
+        "facebook": "1plus1.DmitroKomarov",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 884000
+        }
+      }
+    },
+    {
+      "id": "ramina-eshakzai",
+      "name": "Ramina Eshakzai",
+      "country": "UA",
+      "topic": {
+        "es": "Reportajes de guerra y entrevistas",
+        "en": "War reporting and interviews",
+        "pt": "Reportagens de guerra e entrevistas",
+        "fr": "Reportages de guerre et entretiens",
+        "de": "Kriegsberichterstattung und Interviews",
+        "ru": "Военные репортажи и интервью",
+        "ar": "تغطية الحرب وإجراء المقابلات",
+        "hi": "युद्ध रिपोर्टिंग और साक्षात्कार",
+        "zh": "战争报道与采访",
+        "ja": "戦争報道とインタビュー"
+      },
+      "about": {
+        "es": "Nacida en Kiev en 1992, hija de padre afgano y madre ucraniana, filmó las últimas imágenes del avión Antonov An-225 el 23 de febrero de 2022, un día antes de su destrucción; presenta el canal RAMINA, centrado en entrevistas desde el frente y reportajes de guerra.",
+        "en": "Born in Kyiv in 1992 to an Afghan father and Ukrainian mother, she filmed the last footage of the Antonov An-225 aircraft on 23 February 2022, one day before it was destroyed, and now hosts the channel RAMINA, focused on frontline interviews and war reporting.",
+        "pt": "Nascida em Kiev em 1992, filha de pai afegão e mãe ucraniana, ela filmou as últimas imagens da aeronave Antonov An-225 em 23 de fevereiro de 2022, um dia antes de sua destruição; hoje apresenta o canal RAMINA, focado em entrevistas na linha de frente e reportagens de guerra.",
+        "fr": "Née à Kiev en 1992 d'un père afghan et d'une mère ukrainienne, elle a filmé les dernières images de l'avion Antonov An-225 le 23 février 2022, un jour avant sa destruction ; elle anime aujourd'hui la chaîne RAMINA, consacrée aux entretiens de première ligne et aux reportages de guerre.",
+        "de": "1992 in Kiew als Tochter eines afghanischen Vaters und einer ukrainischen Mutter geboren, filmte sie am 23. Februar 2022, einen Tag vor seiner Zerstörung, die letzten Aufnahmen des Flugzeugs Antonow An-225; heute moderiert sie den Kanal RAMINA mit Fokus auf Frontinterviews und Kriegsberichterstattung.",
+        "ru": "Родилась в Киеве в 1992 году в семье афганского отца и украинской матери; 23 февраля 2022 года, за день до уничтожения самолёта Ан-225, сняла последние кадры этого самолёта. Ведёт канал RAMINA, посвящённый интервью с передовой и военным репортажам.",
+        "ar": "وُلدت في كييف عام 1992 لأب أفغاني وأم أوكرانية، وقامت بتصوير آخر لقطات لطائرة أنتونوف An-225 في 23 فبراير 2022، قبل يوم واحد من تدميرها؛ تقدّم الآن قناة RAMINA التي تركز على مقابلات من خط الجبهة والتغطية الحربية.",
+        "hi": "1992 में कीव में एक अफ़ग़ान पिता और यूक्रेनी माँ के घर जन्मी, उन्होंने 23 फरवरी 2022 को, विमान के नष्ट होने से एक दिन पहले, एंतोनोव An-225 विमान की अंतिम फुटेज फिल्माई; अब वे RAMINA चैनल की मेज़बानी करती हैं, जो मोर्चे से साक्षात्कार और युद्ध रिपोर्टिंग पर केंद्रित है।",
+        "zh": "1992年出生于基辅,父亲是阿富汗人,母亲是乌克兰人。她在2022年2月23日,也就是安-225飞机被摧毁的前一天,拍下了该飞机的最后画面;如今她主持RAMINA频道,专注于前线采访和战争报道。",
+        "ja": "1992年キーウ生まれ、父はアフガニスタン人、母はウクライナ人。2022年2月23日、アントノフAn-225輸送機が破壊される前日に最後の映像を撮影した。現在はRAMINAチャンネルを運営し、前線でのインタビューと戦争報道に取り組んでいる。"
+      },
+      "handles": {
+        "youtube": "UCLDEqLXMGf7tATPhB_eF1dA",
+        "tiktok": null,
+        "instagram": "raminalalala",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1500000
+        }
+      }
+    },
+    {
+      "id": "yanina-sokolova",
+      "name": "Yanina Sokolova",
+      "country": "UA",
+      "topic": {
+        "es": "Sátira política y contenido contra la propaganda",
+        "en": "Political satire and anti-propaganda commentary",
+        "pt": "Sátira política e conteúdo contra a propaganda",
+        "fr": "Satire politique et lutte contre la propagande",
+        "de": "Politische Satire und Anti-Propaganda-Kommentar",
+        "ru": "Политическая сатира и разоблачение пропаганды",
+        "ar": "سخرية سياسية ومحتوى مناهض للدعاية",
+        "hi": "राजनीतिक व्यंग्य और प्रचार-विरोधी टिप्पणी",
+        "zh": "政治讽刺与反宣传评论",
+        "ja": "政治風刺と反プロパガンダ解説"
+      },
+      "about": {
+        "es": "Nacida en Zaporiyia en 1984, superviviente de cáncer que fundó el proyecto 'Ya, Nina' y la fundación benéfica 'Varto Zhyty' para pacientes oncológicos en 2020; presentó el programa satírico 'Vechir con Yanina Sokolova' de 2018 a 2025.",
+        "en": "Born in Zaporizhzhia in 1984, a cancer survivor who founded the 'Ya, Nina' project and the 'Varto Zhyty' charitable foundation for oncology patients in 2020; she hosted the satirical show 'Evening with Yanina Sokolova' from 2018 to 2025.",
+        "pt": "Nascida em Zaporíjia em 1984, sobrevivente de câncer que fundou o projeto 'Ya, Nina' e a fundação beneficente 'Varto Zhyty' para pacientes oncológicos em 2020; apresentou o programa satírico 'Noite com Yanina Sokolova' de 2018 a 2025.",
+        "fr": "Née à Zaporijjia en 1984, survivante du cancer, elle a fondé le projet 'Ya, Nina' et la fondation caritative 'Varto Jyty' pour les patients atteints de cancer en 2020 ; elle a animé l'émission satirique 'Soirée avec Yanina Sokolova' de 2018 à 2025.",
+        "de": "1984 in Saporischschja geboren, Krebsüberlebende, die 2020 das Projekt 'Ja, Nina' und die Wohltätigkeitsstiftung 'Warto Schyty' für Krebspatienten gründete; moderierte von 2018 bis 2025 die satirische Sendung 'Abend mit Janina Sokolowa'.",
+        "ru": "Родилась в Запорожье в 1984 году, пережила рак и в 2020 году основала проект 'Я, Нина' и благотворительный фонд 'Варто жити' для онкобольных; вела сатирическую программу 'Вечер с Яниной Соколовой' с 2018 по 2025 год.",
+        "ar": "وُلدت في زابوريجيا عام 1984، وهي ناجية من مرض السرطان أسست مشروع 'أنا، نينا' ومؤسسة 'فارتو جيتي' الخيرية لمرضى الأورام عام 2020؛ قدّمت البرنامج الساخر 'أمسية مع يانينا سوكولوفا' من عام 2018 حتى 2025.",
+        "hi": "1984 में ज़ापोरिज़्ज़्या में जन्मीं, कैंसर से उबरी इस महिला ने 2020 में 'या, नीना' परियोजना और कैंसर रोगियों के लिए 'वार्तो झ़ित्य' धर्मार्थ फाउंडेशन की स्थापना की; उन्होंने 2018 से 2025 तक व्यंग्यात्मक कार्यक्रम 'एवनिंग विद यानीना सोकोलोवा' की मेज़बानी की।",
+        "zh": "1984年出生于扎波罗热,是一名癌症幸存者,2020年创立了“我是尼娜”项目及面向肿瘤患者的“Varto Zhyty”慈善基金会;她在2018年至2025年间主持讽刺节目《与雅尼娜·索科洛娃的夜晚》。",
+        "ja": "1984年ザポリージャ生まれ。がんを克服した経験を持ち、2020年に「ヤー・ニーナ」プロジェクトとがん患者支援の慈善基金「ヴァルト・ジティ」を設立。2018年から2025年まで風刺番組「ヤニナ・ソコロワとの夜」の司会を務めた。"
+      },
+      "handles": {
+        "youtube": "UChFxTDIV1yh9VUeQN5S3XPQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 534000
+        }
+      }
+    },
+    {
+      "id": "kateryna-soliar",
+      "name": "Kateryna Soliar",
+      "country": "UA",
+      "topic": {
+        "es": "Comentario informativo y político",
+        "en": "News commentary and political talk",
+        "pt": "Comentário jornalístico e político",
+        "fr": "Commentaire d'actualité et débat politique",
+        "de": "Nachrichtenkommentar und politisches Gespräch",
+        "ru": "Новостной и политический комментарий",
+        "ar": "تعليق إخباري وحوار سياسي",
+        "hi": "समाचार टिप्पणी और राजनीतिक चर्चा",
+        "zh": "新闻评论与政治谈话",
+        "ja": "ニュース解説と政治トーク"
+      },
+      "about": {
+        "es": "Nacida en Zhovti Vody en 1987, es presentadora en el canal 24 de Ucrania y en Radio Maximum/Lux FM; se hizo ampliamente conocida en 2022 por criticar públicamente la postura ambigua de la cantante Svitlana Loboda ante la invasión rusa de Ucrania.",
+        "en": "Born in Zhovti Vody in 1987, she is a host at Ukraine's 24 Kanal and at Radio Maximum/Lux FM, and became widely known in 2022 for publicly criticizing singer Svitlana Loboda's ambiguous stance on Russia's invasion of Ukraine.",
+        "pt": "Nascida em Zhovti Vody em 1987, é apresentadora no canal 24 da Ucrânia e nas rádios Maximum/Lux FM; tornou-se amplamente conhecida em 2022 por criticar publicamente a postura ambígua da cantora Svitlana Loboda diante da invasão russa da Ucrânia.",
+        "fr": "Née à Jovti Vody en 1987, elle est présentatrice sur la chaîne ukrainienne 24 Kanal et sur Radio Maximum/Lux FM ; elle s'est fait connaître en 2022 en critiquant publiquement la position ambiguë de la chanteuse Svitlana Loboda face à l'invasion russe de l'Ukraine.",
+        "de": "1987 in Schowti Wody geboren, ist sie Moderatorin beim ukrainischen Sender 24 Kanal sowie bei Radio Maximum/Lux FM; 2022 wurde sie bekannt, weil sie öffentlich die zweideutige Haltung der Sängerin Swetlana Loboda zur russischen Invasion der Ukraine kritisierte.",
+        "ru": "Родилась в Жёлтых Водах в 1987 году, ведущая украинского 24 канала, а также радиостанций 'Максимум' и Lux FM; получила широкую известность в 2022 году, публично раскритиковав неоднозначную позицию певицы Светланы Лободы по поводу российского вторжения в Украину.",
+        "ar": "وُلدت في جوفتي فودي عام 1987، وهي مذيعة في قناة 24 الأوكرانية وفي إذاعتي ماكسيموم ولوكس إف إم؛ اشتهرت على نطاق واسع عام 2022 بانتقادها العلني لموقف المغنية سفيتلانا لوبودا الغامض من الغزو الروسي لأوكرانيا.",
+        "hi": "1987 में ज़ोव्ती वोडी में जन्मीं, वे यूक्रेन के 24 कानाल तथा रेडियो मैक्सिमम/लक्स एफएम की मेज़बान हैं; 2022 में गायिका स्वित्लाना लोबोदा के रूस के यूक्रेन पर आक्रमण को लेकर अस्पष्ट रुख की सार्वजनिक आलोचना करने से वे व्यापक रूप से प्रसिद्ध हुईं।",
+        "zh": "1987年出生于若夫季沃迪,现任乌克兰24频道及Maximum电台/Lux FM主持人;2022年因公开批评歌手斯维特兰娜·洛博达对俄罗斯入侵乌克兰态度暧昧而广为人知。",
+        "ja": "1987年ジョウティ・ヴォディ生まれ。ウクライナの24チャンネルおよびラジオMaximum/Lux FMの司会者を務める。2022年、歌手スヴィトラーナ・ロボダのロシアによるウクライナ侵攻に対する曖昧な態度を公に批判したことで広く知られるようになった。"
+      },
+      "handles": {
+        "youtube": "UC3yg0uhbAzAffTFJeJ_Y74w",
+        "tiktok": null,
+        "instagram": "soliarqueen",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 132000
+        }
+      }
+    },
+    {
+      "id": "dmytro-povoroznyuk",
+      "name": "Dmytro Povoroznyuk",
+      "country": "UA",
+      "topic": {
+        "es": "Cultura del fútbol ucraniano y contenido entre bastidores",
+        "en": "Ukrainian football culture and behind-the-scenes reporting",
+        "pt": "Cultura do futebol ucraniano e bastidores",
+        "fr": "Culture du football ukrainien et coulisses",
+        "de": "Ukrainische Fußballkultur und Blicke hinter die Kulissen",
+        "ru": "Культура украинского футбола и репортажи за кулисами",
+        "ar": "ثقافة كرة القدم الأوكرانية وتقارير من الكواليس",
+        "hi": "यूक्रेनी फुटबॉल संस्कृति और पर्दे के पीछे की रिपोर्टिंग",
+        "zh": "乌克兰足球文化与幕后报道",
+        "ja": "ウクライナサッカー文化と舞台裏レポート"
+      },
+      "about": {
+        "es": "Periodista deportivo de Rivne que en 2020 firmó un contrato simbólico de un año con el FC Veres y donó todo su salario a un hogar infantil; presenta 'Trendets', un canal que recorre clubes de fútbol ucranianos, incluidos equipos que juegan bajo bombardeos.",
+        "en": "Sports journalist from Rivne who in 2020 signed a symbolic one-year contract with FC Veres and donated his entire salary to a children's home; he hosts 'Trendets', a channel touring Ukrainian football clubs, including teams playing under shelling.",
+        "pt": "Jornalista esportivo de Rivne que, em 2020, assinou um contrato simbólico de um ano com o FC Veres e doou todo o salário a um lar de crianças; apresenta o canal 'Trendets', que percorre clubes de futebol ucranianos, incluindo equipes que jogam sob bombardeios.",
+        "fr": "Journaliste sportif originaire de Rivne, il a signé en 2020 un contrat symbolique d'un an avec le FC Veres et reversé tout son salaire à un foyer pour enfants ; il anime 'Trendets', une chaîne qui parcourt les clubs de football ukrainiens, y compris des équipes jouant sous les bombardements.",
+        "de": "Sportjournalist aus Riwne, der 2020 einen symbolischen Einjahresvertrag mit dem FC Weres unterschrieb und sein gesamtes Gehalt einem Kinderheim spendete; er moderiert 'Trendez', einen Kanal, der ukrainische Fußballvereine besucht, darunter Mannschaften, die unter Beschuss spielen.",
+        "ru": "Спортивный журналист из Ровно, в 2020 году подписавший символический годичный контракт с ФК 'Верес' и пожертвовавший всю зарплату детскому дому; ведёт канал 'Трендец', посвящённый украинским футбольным клубам, включая команды, играющие под обстрелами.",
+        "ar": "صحفي رياضي من ريفني وقّع عام 2020 عقدًا رمزيًا لمدة عام مع نادي فيريس وتبرّع بكامل راتبه لدار للأطفال؛ يقدّم قناة 'ترينديتس' التي تجول على أندية كرة القدم الأوكرانية، بما في ذلك فرق تلعب تحت القصف.",
+        "hi": "रिव्ने के खेल पत्रकार, जिन्होंने 2020 में एफसी वेरेस के साथ प्रतीकात्मक एक-वर्षीय अनुबंध पर हस्ताक्षर किए और अपना पूरा वेतन एक बाल गृह को दान कर दिया; वे 'ट्रेंडेट्स' चैनल की मेज़बानी करते हैं, जो यूक्रेनी फुटबॉल क्लबों का दौरा करता है, जिनमें गोलाबारी के बीच खेलने वाली टीमें भी शामिल हैं।",
+        "zh": "来自里夫内的体育记者,2020年与FC Veres签署象征性的一年合同,并将全部薪水捐给一家儿童之家;他主持《Trendets》频道,走访乌克兰各足球俱乐部,包括在炮击下坚持比赛的球队。",
+        "ja": "リヴネ出身のスポーツジャーナリスト。2020年にFCヴェレスと象徴的な1年契約を結び、給与全額を児童養護施設に寄付した。現在は「トレンデツ」チャンネルを運営し、砲撃下で試合を続けるチームを含むウクライナ各地のサッカークラブを取材している。"
+      },
+      "handles": {
+        "youtube": "UCsew9F3jiQssi1_sbAFkjug",
+        "tiktok": "povoroznyuk_dmytro",
+        "instagram": "povoroznyuk_dmytro",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 397000
+        }
+      }
+    },
+    {
+      "id": "roman-skrypin",
+      "name": "Roman Skrypin",
+      "country": "UA",
+      "topic": {
+        "es": "Periodismo independiente y podcasts de entrevistas",
+        "en": "Independent journalism and interview podcasts",
+        "pt": "Jornalismo independente e podcasts de entrevistas",
+        "fr": "Journalisme indépendant et podcasts d'entretiens",
+        "de": "Unabhängiger Journalismus und Interview-Podcasts",
+        "ru": "Независимая журналистика и подкасты-интервью",
+        "ar": "صحافة مستقلة وبودكاست حواري",
+        "hi": "स्वतंत्र पत्रकारिता और साक्षात्कार पॉडकास्ट",
+        "zh": "独立新闻报道与访谈播客",
+        "ja": "独立系ジャーナリズムとインタビューポッドキャスト"
+      },
+      "about": {
+        "es": "Nacido en Poltava en 1973, cofundador de la televisión Hromadske en 2013; tras la invasión rusa a gran escala, trasladó su estudio de medios al pueblo de Verjovyna, en la óblast de Ivano-Frankivsk, donde continúa produciendo el canal skrypin.ua y podcasts de entrevistas.",
+        "en": "Born in Poltava in 1973, co-founder of Hromadske Television in 2013; after Russia's full-scale invasion he relocated his media studio to the village of Verkhovyna in Ivano-Frankivsk Oblast, where he continues producing the skrypin.ua channel and podcast interviews.",
+        "pt": "Nascido em Poltava em 1973, cofundador da televisão Hromadske em 2013; após a invasão russa em grande escala, transferiu seu estúdio de mídia para a vila de Verkhovyna, na oblast de Ivano-Frankivsk, onde continua produzindo o canal skrypin.ua e podcasts de entrevistas.",
+        "fr": "Né à Poltava en 1973, cofondateur de la télévision Hromadske en 2013 ; après l'invasion russe à grande échelle, il a transféré son studio médiatique dans le village de Verkhovyna, dans l'oblast d'Ivano-Frankivsk, où il continue de produire la chaîne skrypin.ua et des podcasts d'entretiens.",
+        "de": "1973 in Poltawa geboren, Mitbegründer des Senders Hromadske Television im Jahr 2013; nach der groß angelegten russischen Invasion verlegte er sein Medienstudio in das Dorf Werchowyna in der Oblast Iwano-Frankiwsk, wo er weiterhin den Kanal skrypin.ua und Interview-Podcasts produziert.",
+        "ru": "Родился в Полтаве в 1973 году, в 2013 году стал соучредителем телеканала 'Громадське'; после полномасштабного вторжения России перенёс свою медиастудию в село Верховина Ивано-Франковской области, где продолжает выпускать канал skrypin.ua и подкасты-интервью.",
+        "ar": "وُلد في بولتافا عام 1973، وشارك في تأسيس تلفزيون 'هروماديسكه' عام 2013؛ بعد الغزو الروسي الشامل، نقل استوديو الإعلام الخاص به إلى قرية فيرخوفينا في إقليم إيفانو-فرانكيفسك، حيث يواصل إنتاج قناة skrypin.ua وبودكاست المقابلات.",
+        "hi": "1973 में पोल्तावा में जन्मे, 2013 में ह्रोमादस्के टेलीविज़न के सह-संस्थापक; रूस के पूर्ण पैमाने पर आक्रमण के बाद उन्होंने अपना मीडिया स्टूडियो इवानो-फ्रांकिव्स्क क्षेत्र के वेरखोविना गांव में स्थानांतरित कर दिया, जहां वे skrypin.ua चैनल और साक्षात्कार पॉडकास्ट का निर्माण जारी रखे हुए हैं।",
+        "zh": "1973年出生于波尔塔瓦,2013年联合创办了Hromadske电视台;俄罗斯全面入侵后,他将媒体工作室迁至伊万诺-弗兰科夫斯克州的韦尔霍维纳村,继续制作skrypin.ua频道及访谈播客。",
+        "ja": "1973年ポルタヴァ生まれ。2013年にフロマツケ・テレビジョンを共同設立。ロシアによる全面侵攻後、メディアスタジオをイヴァノ=フランキーウシク州のヴェルホヴィナ村に移転し、現在もskrypin.uaチャンネルとインタビューポッドキャストの制作を続けている。"
+      },
+      "handles": {
+        "youtube": "UC-UYoJdfHiMXzO_FHfQaABw",
+        "tiktok": null,
+        "instagram": "skrypin",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 431000
+        }
+      }
+    },
+    {
+      "id": "natalan",
+      "name": "Natalan",
+      "country": "GT",
+      "topic": {
+        "es": "Gaming, streams y comedia",
+        "en": "Gaming, streaming and comedy",
+        "pt": "Gaming, streams e comédia",
+        "fr": "Jeu vidéo, streams et comédie",
+        "de": "Gaming, Streams und Comedy",
+        "ru": "Гейминг, стримы и юмор",
+        "ar": "الألعاب والبث المباشر والكوميديا",
+        "hi": "गेमिंग, स्ट्रीमिंग और कॉमेडी",
+        "zh": "游戏、直播与喜剧",
+        "ja": "ゲーム実況・配信・コメディ"
+      },
+      "about": {
+        "es": "Natalan (Allan Gabriel Chajón Colocho) es un streamer y youtuber guatemalteco que comenzó su canal en enero de 2018, conocido por sus streams, parodias, comedia y gameplays; cuenta con más de 1.9 millones de seguidores en Twitch además de su canal de YouTube.",
+        "en": "Natalan (Allan Gabriel Chajón Colocho) is a Guatemalan streamer and YouTuber who started his channel in January 2018, known for streams, parodies, comedy and gameplay videos; he also has over 1.9 million followers on Twitch in addition to his YouTube channel.",
+        "pt": "Natalan (Allan Gabriel Chajón Colocho) é um streamer e youtuber guatemalteco que iniciou seu canal em janeiro de 2018, conhecido por suas lives, paródias, comédia e gameplays; também tem mais de 1,9 milhão de seguidores na Twitch além do canal no YouTube.",
+        "fr": "Natalan (Allan Gabriel Chajón Colocho) est un streamer et youtubeur guatémaltèque qui a lancé sa chaîne en janvier 2018, connu pour ses streams, parodies, contenus comiques et parties de jeux vidéo ; il compte aussi plus de 1,9 million d'abonnés sur Twitch en plus de sa chaîne YouTube.",
+        "de": "Natalan (Allan Gabriel Chajón Colocho) ist ein guatemaltekischer Streamer und YouTuber, der seinen Kanal im Januar 2018 startete und für Streams, Parodien, Comedy und Gameplay-Videos bekannt ist; zusätzlich zu seinem YouTube-Kanal hat er über 1,9 Millionen Follower auf Twitch.",
+        "ru": "Наталан (Аллан Габриэль Чахон Колочо) — гватемальский стример и ютубер, начавший свой канал в январе 2018 года; известен стримами, пародиями, юмористическими роликами и геймплеем, а также имеет более 1,9 миллиона подписчиков на Twitch помимо канала на YouTube.",
+        "ar": "ناتالان (ألان غابرييل تشاخون كولوتشو) هو ستريمر ويوتيوبر غواتيمالي بدأ قناته في يناير 2018، ويُعرف بالبث المباشر والمحاكاات الساخرة والكوميديا ومقاطع الألعاب؛ ولديه أيضًا أكثر من 1.9 مليون متابع على تويتش إلى جانب قناته على يوتيوب.",
+        "hi": "नटालान (अलान गैब्रियल चाहोन कोलोचो) एक ग्वाटेमाला के स्ट्रीमर और यूट्यूबर हैं, जिन्होंने जनवरी 2018 में अपना चैनल शुरू किया था; वे स्ट्रीम, पैरोडी, कॉमेडी और गेमप्ले वीडियो के लिए जाने जाते हैं और यूट्यूब चैनल के अलावा ट्विच पर उनके 1.9 मिलियन से अधिक फॉलोअर्स हैं।",
+        "zh": "纳塔兰(阿兰·加布里埃尔·查洪·科洛乔)是危地马拉的主播兼YouTuber,于2018年1月开设频道,以直播、模仿喜剧和游戏实况视频著称;除YouTube频道外,他在Twitch上还拥有超过190万粉丝。",
+        "ja": "ナタラン(アラン・ガブリエル・チャホン・コロチョ)はグアテマラのストリーマー兼ユーチューバーで、2018年1月にチャンネルを開設。配信、パロディ、コメディ、ゲーム実況で知られ、YouTubeチャンネルに加えてTwitchでも190万人以上のフォロワーを持つ。"
+      },
+      "handles": {
+        "youtube": "UCBp8uzjMbdkMwON1v5DXWRg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 3690000
+        }
+      }
+    },
+    {
+      "id": "isaac-perez-lopez",
+      "name": "Isaac Pérez López",
+      "country": "GT",
+      "topic": {
+        "es": "Comedia y humor guatemalteco",
+        "en": "Comedy and Guatemalan humor",
+        "pt": "Comédia e humor guatemalteco",
+        "fr": "Comédie et humour guatémaltèque",
+        "de": "Comedy und guatemaltekischer Humor",
+        "ru": "Комедия и гватемальский юмор",
+        "ar": "الكوميديا والفكاهة الغواتيمالية",
+        "hi": "कॉमेडी और ग्वाटेमाला हास्य",
+        "zh": "喜剧与危地马拉式幽默",
+        "ja": "コメディとグアテマラ流ユーモア"
+      },
+      "about": {
+        "es": "Isaac Pérez López es un youtuber guatemalteco que creó su canal en mayo de 2020 y recibió el Botón de Plata de YouTube en julio de 2021 al superar los 100,000 suscriptores; su contenido, inspirado en la cultura y el día a día de Guatemala, ha acumulado más de 60 millones de vistas.",
+        "en": "Isaac Pérez López is a Guatemalan YouTuber who created his channel in May 2020 and received YouTube's Silver Play Button in July 2021 after surpassing 100,000 subscribers; his content, inspired by Guatemalan culture and everyday life, has amassed more than 60 million views.",
+        "pt": "Isaac Pérez López é um youtuber guatemalteco que criou seu canal em maio de 2020 e recebeu o Botão de Prata do YouTube em julho de 2021 ao ultrapassar 100 mil inscritos; seu conteúdo, inspirado na cultura e no cotidiano da Guatemala, já acumulou mais de 60 milhões de visualizações.",
+        "fr": "Isaac Pérez López est un youtubeur guatémaltèque qui a créé sa chaîne en mai 2020 et a reçu le bouton Argent de YouTube en juillet 2021 après avoir dépassé 100 000 abonnés ; son contenu, inspiré de la culture et du quotidien guatémaltèque, a accumulé plus de 60 millions de vues.",
+        "de": "Isaac Pérez López ist ein guatemaltekischer YouTuber, der seinen Kanal im Mai 2020 erstellte und im Juli 2021 den Silbernen Play-Button von YouTube erhielt, nachdem er 100.000 Abonnenten überschritten hatte; seine von der guatemaltekischen Kultur und dem Alltag inspirierten Inhalte haben über 60 Millionen Aufrufe gesammelt.",
+        "ru": "Исаак Перес Лопес — гватемальский ютубер, создавший свой канал в мае 2020 года и получивший «Серебряную кнопку» YouTube в июле 2021 года после превышения 100 000 подписчиков; его контент, вдохновлённый гватемальской культурой и повседневной жизнью, набрал более 60 миллионов просмотров.",
+        "ar": "إسحاق بيريز لوبيز هو يوتيوبر غواتيمالي أنشأ قناته في مايو 2020 وحصل على الزر الفضي من يوتيوب في يوليو 2021 بعد تجاوزه 100,000 مشترك؛ حقق محتواه المستوحى من الثقافة والحياة اليومية الغواتيمالية أكثر من 60 مليون مشاهدة.",
+        "hi": "इसाक पेरेज़ लोपेज़ एक ग्वाटेमाला के यूट्यूबर हैं जिन्होंने मई 2020 में अपना चैनल बनाया और जुलाई 2021 में 100,000 सब्सक्राइबर पार करने पर यूट्यूब का सिल्वर प्ले बटन प्राप्त किया; ग्वाटेमाला की संस्कृति और रोज़मर्रा की ज़िंदगी से प्रेरित उनकी सामग्री को 6 करोड़ से अधिक बार देखा जा चुका है।",
+        "zh": "以撒·佩雷斯·洛佩斯是一名危地马拉YouTuber,于2020年5月创建频道,并在2021年7月订阅数突破10万后获得YouTube银色奖章;他以危地马拉文化和日常生活为灵感的内容累计观看量已超过6000万次。",
+        "ja": "イサック・ペレス・ロペスはグアテマラのユーチューバーで、2020年5月にチャンネルを開設し、2021年7月に登録者10万人を突破してYouTubeのシルバーボタンを受賞した。グアテマラの文化と日常生活に着想を得たコンテンツは累計6000万回以上再生されている。"
+      },
+      "handles": {
+        "youtube": "UCyoBSXidYkj49vMaNnhZR9A",
+        "tiktok": "isaacperezlopezoficial",
+        "instagram": "isaac_perez_lopez",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 461000
+        }
+      }
+    },
+    {
+      "id": "master-loquendo",
+      "name": "Master Loquendo",
+      "country": "GT",
+      "topic": {
+        "es": "Parodias de GTA San Andreas con voces Loquendo",
+        "en": "GTA San Andreas parodies with Loquendo voices",
+        "pt": "Paródias de GTA San Andreas com vozes Loquendo",
+        "fr": "Parodies de GTA San Andreas avec des voix Loquendo",
+        "de": "GTA-San-Andreas-Parodien mit Loquendo-Stimmen",
+        "ru": "Пародии на GTA San Andreas с озвучкой Loquendo",
+        "ar": "محاكاات ساخرة للعبة GTA San Andreas بأصوات Loquendo",
+        "hi": "लोक्वेंडो आवाज़ों के साथ GTA San Andreas पैरोडी",
+        "zh": "使用Loquendo配音的GTA圣安地列斯恶搞视频",
+        "ja": "Loquendo音声を使ったGTAサンアンドレアスのパロディ"
+      },
+      "about": {
+        "es": "Douglas Soto, conocido como Master Loquendo, es un youtuber guatemalteco que creó su canal el 6 de diciembre de 2013, dedicado a parodias y videos cómicos de Grand Theft Auto: San Andreas narrados con voces de Loquendo; alcanzó el millón de suscriptores el 3 de agosto de 2024 y es uno de los 'loquenderos' más reconocidos del género.",
+        "en": "Douglas Soto, known as Master Loquendo, is a Guatemalan YouTuber who created his channel on December 6, 2013, dedicated to parodies and comedic videos of Grand Theft Auto: San Andreas narrated with Loquendo text-to-speech voices; he reached one million subscribers on August 3, 2024, and is one of the most recognized creators of this genre.",
+        "pt": "Douglas Soto, conhecido como Master Loquendo, é um youtuber guatemalteco que criou seu canal em 6 de dezembro de 2013, dedicado a paródias e vídeos cômicos de Grand Theft Auto: San Andreas narrados com vozes Loquendo; alcançou um milhão de inscritos em 3 de agosto de 2024 e é um dos criadores mais reconhecidos do gênero.",
+        "fr": "Douglas Soto, connu sous le nom de Master Loquendo, est un youtubeur guatémaltèque qui a créé sa chaîne le 6 décembre 2013, consacrée aux parodies et vidéos comiques de Grand Theft Auto: San Andreas narrées avec des voix de synthèse Loquendo ; il a atteint le million d'abonnés le 3 août 2024 et est l'un des créateurs les plus reconnus de ce genre.",
+        "de": "Douglas Soto, bekannt als Master Loquendo, ist ein guatemaltekischer YouTuber, der seinen Kanal am 6. Dezember 2013 gründete und sich Parodien und komischen Videos von Grand Theft Auto: San Andreas mit Loquendo-Sprachsynthese widmet; er erreichte am 3. August 2024 eine Million Abonnenten und gehört zu den bekanntesten Schöpfern dieses Genres.",
+        "ru": "Дуглас Сото, известный как Master Loquendo, — гватемальский ютубер, создавший свой канал 6 декабря 2013 года и посвящённый пародиям и юмористическим видео по Grand Theft Auto: San Andreas с озвучкой синтезатором речи Loquendo; 3 августа 2024 года он достиг миллиона подписчиков и является одним из самых известных создателей этого жанра.",
+        "ar": "دوغلاس سوتو، المعروف باسم Master Loquendo، هو يوتيوبر غواتيمالي أنشأ قناته في 6 ديسمبر 2013، مخصصة لمحاكاات ساخرة ومقاطع كوميدية من لعبة Grand Theft Auto: San Andreas بأصوات تحويل النص إلى كلام Loquendo؛ وصل إلى مليون مشترك في 3 أغسطس 2024 ويُعد من أشهر صنّاع هذا النوع من المحتوى.",
+        "hi": "डगलस सोटो, जिन्हें मास्टर लोक्वेंडो के नाम से जाना जाता है, एक ग्वाटेमाला के यूट्यूबर हैं जिन्होंने 6 दिसंबर 2013 को अपना चैनल बनाया, जो Grand Theft Auto: San Andreas की पैरोडी और लोक्वेंडो टेक्स्ट-टू-स्पीच आवाज़ों वाले हास्य वीडियो के लिए समर्पित है; उन्होंने 3 अगस्त 2024 को दस लाख सब्सक्राइबर हासिल किए और इस शैली के सबसे प्रसिद्ध रचनाकारों में से एक हैं।",
+        "zh": "道格拉斯·索托,人称Master Loquendo,是一名危地马拉YouTuber,于2013年12月6日创建频道,专门制作使用Loquendo语音合成配音的《侠盗猎车手:圣安地列斯》恶搞喜剧视频;他于2024年8月3日订阅数突破100万,是该类型中最知名的创作者之一。",
+        "ja": "ダグラス・ソト、通称マスター・ロケンドは、2013年12月6日にチャンネルを開設したグアテマラのユーチューバーで、Loquendo音声合成を使った『グランド・セフト・オート:サンアンドレアス』のパロディ・コメディ動画を専門としている。2024年8月3日に登録者100万人を達成し、このジャンルで最も知られたクリエイターの一人である。"
+      },
+      "handles": {
+        "youtube": "UCGxsdFZIGyo3e53yCED7QhA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1040000
+        }
+      }
+    },
+    {
+      "id": "ese-maje-engasado",
+      "name": "Ese Maje Engasado",
+      "country": "GT",
+      "topic": {
+        "es": "Comedia y humor guatemalteco callejero",
+        "en": "Guatemalan street comedy and humor",
+        "pt": "Comédia e humor de rua guatemalteco",
+        "fr": "Comédie et humour de rue guatémaltèque",
+        "de": "Guatemaltekische Straßen-Comedy und Humor",
+        "ru": "Гватемальская уличная комедия и юмор",
+        "ar": "الكوميديا والفكاهة الشعبية الغواتيمالية",
+        "hi": "ग्वाटेमाला की स्ट्रीट कॉमेडी और हास्य",
+        "zh": "危地马拉街头喜剧与幽默",
+        "ja": "グアテマラのストリートコメディ・ユーモア"
+      },
+      "about": {
+        "es": "Abner Agustín, conocido como Ese Maje Engasado, es un bombero, diseñador y youtuber guatemalteco que creó su canal en 2017; su contenido usa humor y modismos guatemaltecos para narrar historias, peleas virales y videos de tendencia, y cuenta con 2 millones de suscriptores en YouTube y 2 millones de seguidores en Facebook.",
+        "en": "Abner Agustín, known as Ese Maje Engasado, is a Guatemalan firefighter, designer and YouTuber who created his channel in 2017; his content uses Guatemalan humor and slang to narrate stories, viral fights and trending videos, and he has 2 million YouTube subscribers and 2 million Facebook followers.",
+        "pt": "Abner Agustín, conhecido como Ese Maje Engasado, é um bombeiro, designer e youtuber guatemalteco que criou seu canal em 2017; seu conteúdo usa humor e gírias guatemaltecas para narrar histórias, brigas virais e vídeos em alta, e conta com 2 milhões de inscritos no YouTube e 2 milhões de seguidores no Facebook.",
+        "fr": "Abner Agustín, connu sous le nom d'Ese Maje Engasado, est un pompier, designer et youtubeur guatémaltèque qui a créé sa chaîne en 2017 ; son contenu utilise l'humour et l'argot guatémaltèques pour raconter des histoires, des bagarres virales et des vidéos tendance, et il compte 2 millions d'abonnés sur YouTube et 2 millions sur Facebook.",
+        "de": "Abner Agustín, bekannt als Ese Maje Engasado, ist ein guatemaltekischer Feuerwehrmann, Designer und YouTuber, der seinen Kanal 2017 gründete; seine Inhalte nutzen guatemaltekischen Humor und Slang, um Geschichten, virale Kämpfe und Trendvideos zu erzählen, und er hat 2 Millionen YouTube-Abonnenten und 2 Millionen Facebook-Follower.",
+        "ru": "Абнер Агустин, известный как Ese Maje Engasado, — гватемальский пожарный, дизайнер и ютубер, создавший свой канал в 2017 году; в его контенте используются гватемальский юмор и сленг для рассказа историй, вирусных драк и трендовых видео, у него 2 миллиона подписчиков на YouTube и 2 миллиона подписчиков на Facebook.",
+        "ar": "أبنر أغوستين، المعروف باسم Ese Maje Engasado، هو رجل إطفاء ومصمم ويوتيوبر غواتيمالي أنشأ قناته عام 2017؛ يستخدم محتواه الفكاهة والعامية الغواتيمالية لسرد القصص والمشاجرات الفيروسية ومقاطع الفيديو الرائجة، ولديه مليونا مشترك على يوتيوب ومليونا متابع على فيسبوك.",
+        "hi": "अब्नर अगुस्तिन, जिन्हें Ese Maje Engasado के नाम से जाना जाता है, एक ग्वाटेमाला के अग्निशामक, डिज़ाइनर और यूट्यूबर हैं जिन्होंने 2017 में अपना चैनल बनाया; उनकी सामग्री कहानियों, वायरल झगड़ों और ट्रेंडिंग वीडियो को बताने के लिए ग्वाटेमाला के हास्य और स्थानीय भाषा का उपयोग करती है, और उनके यूट्यूब पर 20 लाख सब्सक्राइबर और फेसबुक पर 20 लाख फॉलोअर्स हैं।",
+        "zh": "阿布纳·阿古斯丁,人称Ese Maje Engasado,是危地马拉的消防员、设计师兼YouTuber,于2017年创建频道;其内容用危地马拉式幽默和俚语讲述故事、病毒式打斗视频和热门话题,YouTube订阅数达200万,Facebook粉丝也达200万。",
+        "ja": "アブネル・アグスティン、通称Ese Maje Engasadoは、2017年にチャンネルを開設したグアテマラの消防士兼デザイナー、ユーチューバーである。グアテマラ流のユーモアとスラングを使って物語やバイラルな喧嘩動画、トレンド動画を紹介しており、YouTube登録者200万人、Facebookフォロワー200万人を有する。"
+      },
+      "handles": {
+        "youtube": "UCTizqMNOKtwOv0w5s4w9Mtg",
+        "tiktok": "esemajeengasado",
+        "instagram": "esemajeengasadotv",
+        "facebook": "esemajeengasado",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2450000
+        }
+      }
+    },
+    {
+      "id": "tuti-furlan",
+      "name": "Tuti Furlán",
+      "country": "GT",
+      "topic": {
+        "es": "Bienestar personal y psicología positiva",
+        "en": "Personal well-being and positive psychology",
+        "pt": "Bem-estar pessoal e psicologia positiva",
+        "fr": "Bien-être personnel et psychologie positive",
+        "de": "Persönliches Wohlbefinden und positive Psychologie",
+        "ru": "Личное благополучие и позитивная психология",
+        "ar": "الرفاهية الشخصية وعلم النفس الإيجابي",
+        "hi": "व्यक्तिगत कल्याण और सकारात्मक मनोविज्ञान",
+        "zh": "个人幸福感与积极心理学",
+        "ja": "個人のウェルビーイングとポジティブ心理学"
+      },
+      "about": {
+        "es": "María del Rosario 'Tuti' Furlán es una psicóloga clínica, presentadora de televisión, conferencista y escritora guatemalteca, autora de los libros 'Vivir a Colores' y 'Feliz vida imperfecta'; en su canal de YouTube 'Vivir a Colores' comparte reflexiones y herramientas de bienestar emocional, y en 2018 recibió la Medalla de la Paz en Guatemala por su trayectoria y aporte social.",
+        "en": "María del Rosario 'Tuti' Furlán is a Guatemalan clinical psychologist, TV presenter, speaker and author of the books 'Vivir a Colores' and 'Feliz vida imperfecta'; on her YouTube channel 'Vivir a Colores' she shares reflections and tools for emotional well-being, and in 2018 she received the Medal of Peace in Guatemala for her career and social contribution.",
+        "pt": "María del Rosario 'Tuti' Furlán é uma psicóloga clínica, apresentadora de TV, palestrante e escritora guatemalteca, autora dos livros 'Vivir a Colores' e 'Feliz vida imperfecta'; em seu canal do YouTube 'Vivir a Colores' compartilha reflexões e ferramentas de bem-estar emocional, e em 2018 recebeu a Medalha da Paz na Guatemala por sua trajetória e contribuição social.",
+        "fr": "María del Rosario « Tuti » Furlán est une psychologue clinicienne, présentatrice de télévision, conférencière et autrice guatémaltèque des livres « Vivir a Colores » et « Feliz vida imperfecta » ; sur sa chaîne YouTube « Vivir a Colores », elle partage des réflexions et des outils de bien-être émotionnel, et a reçu en 2018 la Médaille de la Paix au Guatemala pour sa carrière et sa contribution sociale.",
+        "de": "María del Rosario „Tuti“ Furlán ist eine guatemaltekische klinische Psychologin, Fernsehmoderatorin, Rednerin und Autorin der Bücher „Vivir a Colores“ und „Feliz vida imperfecta“; auf ihrem YouTube-Kanal „Vivir a Colores“ teilt sie Reflexionen und Werkzeuge für emotionales Wohlbefinden und erhielt 2018 in Guatemala die Friedensmedaille für ihre Laufbahn und ihren sozialen Beitrag.",
+        "ru": "Мария дель Росарио «Тути» Фурлан — гватемальский клинический психолог, телеведущая, спикер и автор книг «Vivir a Colores» и «Feliz vida imperfecta»; на своём YouTube-канале «Vivir a Colores» она делится размышлениями и инструментами эмоционального благополучия, а в 2018 году получила Медаль мира в Гватемале за карьеру и вклад в общество.",
+        "ar": "ماريا ديل روساريو 'توتي' فورلان هي أخصائية نفسية سريرية ومقدمة تلفزيونية ومتحدثة وكاتبة غواتيمالية، ألّفت كتابي 'Vivir a Colores' و'Feliz vida imperfecta'؛ في قناتها على يوتيوب 'Vivir a Colores' تشارك تأملات وأدوات للرفاهية العاطفية، وحصلت عام 2018 على ميدالية السلام في غواتيمالا تقديرًا لمسيرتها وإسهامها الاجتماعي.",
+        "hi": "मारिया डेल रोसारियो 'तूती' फुरलान एक ग्वाटेमाला की नैदानिक मनोवैज्ञानिक, टीवी प्रस्तोता, वक्ता और 'Vivir a Colores' तथा 'Feliz vida imperfecta' पुस्तकों की लेखिका हैं; अपने यूट्यूब चैनल 'Vivir a Colores' पर वे भावनात्मक कल्याण पर विचार और उपकरण साझा करती हैं, और 2018 में उन्हें उनके करियर और सामाजिक योगदान के लिए ग्वाटेमाला में शांति पदक मिला।",
+        "zh": "玛丽亚·德尔·罗萨里奥“图蒂”富尔兰是危地马拉的临床心理学家、电视节目主持人、演讲者,著有《Vivir a Colores》和《Feliz vida imperfecta》两本书;她在YouTube频道“Vivir a Colores”上分享情绪健康方面的思考与工具,并于2018年因其职业生涯和社会贡献在危地马拉获得和平勋章。",
+        "ja": "マリア・デル・ロサリオ「トゥティ」フルランは、グアテマラの臨床心理士、テレビ司会者、講演家であり、『Vivir a Colores』と『Feliz vida imperfecta』の著者。YouTubeチャンネル「Vivir a Colores」で感情面のウェルビーイングに関する考察やツールを共有しており、2018年にはその功績と社会貢献によりグアテマラで平和勲章を受章した。"
+      },
+      "handles": {
+        "youtube": "UC5aHdUuSsRfRWER7c9WpqMA",
+        "tiktok": "tutifurlan",
+        "instagram": "tutifurlan",
+        "facebook": "TutiFurlan",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 216000
+        }
+      }
+    },
+    {
+      "id": "el-utz-chapin",
+      "name": "El Utz Chapin",
+      "country": "GT",
+      "topic": {
+        "es": "Ayuda humanitaria y contenido social",
+        "en": "Humanitarian aid and social content",
+        "pt": "Ajuda humanitária e conteúdo social",
+        "fr": "Aide humanitaire et contenu social",
+        "de": "Humanitäre Hilfe und soziale Inhalte",
+        "ru": "Гуманитарная помощь и социальный контент",
+        "ar": "المساعدات الإنسانية والمحتوى الاجتماعي",
+        "hi": "मानवीय सहायता और सामाजिक सामग्री",
+        "zh": "人道援助与社会公益内容",
+        "ja": "人道支援・社会派コンテンツ"
+      },
+      "about": {
+        "es": "El Utz Chapin es un canal de YouTube guatemalteco iniciado el 22 de octubre de 2020, enfocado en ayudar a personas y animales en situación vulnerable, con contenido sobre acoso, reencuentros emotivos y apoyo comunitario bajo el lema 'Ayudemos animalitos y personas'; supera los 300,000 suscriptores y 160 millones de reproducciones acumuladas.",
+        "en": "El Utz Chapin is a Guatemalan YouTube channel started on October 22, 2020, focused on helping vulnerable people and animals, featuring content about harassment, emotional reunions and community support under the motto 'Let's help animals and people'; it has surpassed 300,000 subscribers and 160 million cumulative views.",
+        "pt": "El Utz Chapin é um canal do YouTube guatemalteco iniciado em 22 de outubro de 2020, focado em ajudar pessoas e animais em situação vulnerável, com conteúdo sobre assédio, reencontros emocionantes e apoio comunitário sob o lema 'Ajudemos animais e pessoas'; ultrapassa 300 mil inscritos e 160 milhões de visualizações acumuladas.",
+        "fr": "El Utz Chapin est une chaîne YouTube guatémaltèque lancée le 22 octobre 2020, dédiée à l'aide aux personnes et animaux vulnérables, avec des contenus sur le harcèlement, des retrouvailles émouvantes et le soutien communautaire sous la devise « Aidons les animaux et les gens » ; elle dépasse 300 000 abonnés et 160 millions de vues cumulées.",
+        "de": "El Utz Chapin ist ein guatemaltekischer YouTube-Kanal, der am 22. Oktober 2020 gestartet wurde und sich auf die Hilfe für gefährdete Menschen und Tiere konzentriert, mit Inhalten über Mobbing, emotionale Wiedervereinigungen und Gemeinschaftshilfe unter dem Motto „Helfen wir Tieren und Menschen“; er hat über 300.000 Abonnenten und 160 Millionen Aufrufe insgesamt.",
+        "ru": "El Utz Chapin — гватемальский YouTube-канал, запущенный 22 октября 2020 года и посвящённый помощи уязвимым людям и животным, с контентом о травле, трогательных воссоединениях и поддержке сообщества под девизом «Поможем животным и людям»; насчитывает более 300 000 подписчиков и 160 миллионов совокупных просмотров.",
+        "ar": "El Utz Chapin هي قناة يوتيوب غواتيمالية انطلقت في 22 أكتوبر 2020، وتركز على مساعدة الأشخاص والحيوانات المستضعفة، بمحتوى حول التنمر ولحظات لم شمل مؤثرة ودعم مجتمعي تحت شعار 'لنساعد الحيوانات والناس'؛ تجاوزت 300,000 مشترك و160 مليون مشاهدة تراكمية.",
+        "hi": "El Utz Chapin एक ग्वाटेमाला यूट्यूब चैनल है जिसे 22 अक्टूबर 2020 को शुरू किया गया, जो कमजोर लोगों और जानवरों की मदद पर केंद्रित है, जिसमें उत्पीड़न, भावनात्मक पुनर्मिलन और सामुदायिक सहायता से जुड़ी सामग्री 'चलो जानवरों और लोगों की मदद करें' के नारे के तहत शामिल है; यह 3 लाख सब्सक्राइबर और 16 करोड़ संचयी व्यूज़ को पार कर चुका है।",
+        "zh": "El Utz Chapin是一个于2020年10月22日创立的危地马拉YouTube频道,专注于帮助弱势人群和动物,内容涉及欺凌、感人重逢和社区互助,口号是“让我们帮助动物和人”;该频道订阅数已超过30万,累计观看量超过1.6亿次。",
+        "ja": "El Utz Chapinは2020年10月22日に開設されたグアテマラのYouTubeチャンネルで、「動物と人を助けよう」をモットーに、いじめ問題や感動の再会、地域支援などを扱い、弱い立場の人々や動物を助けることに焦点を当てている。登録者数30万人以上、累計再生回数1億6000万回を超える。"
+      },
+      "handles": {
+        "youtube": "UCib6_OYeTVbiq4LfCzRY7jA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 316000
+        }
+      }
+    },
+    {
+      "id": "la-abuelita-ofelia",
+      "name": "La Abuelita Ofelia",
+      "country": "GT",
+      "topic": {
+        "es": "Jardinería y cuidado de plantas",
+        "en": "Gardening and plant care",
+        "pt": "Jardinagem e cuidado de plantas",
+        "fr": "Jardinage et entretien des plantes",
+        "de": "Gartenarbeit und Pflanzenpflege",
+        "ru": "Садоводство и уход за растениями",
+        "ar": "البستنة والعناية بالنباتات",
+        "hi": "बागवानी और पौधों की देखभाल",
+        "zh": "园艺与植物养护",
+        "ja": "ガーデニングと植物のケア"
+      },
+      "about": {
+        "es": "Ofelia Pérez, conocida como La Abuelita Ofelia, es una creadora de contenido guatemalteca especializada en consejos de jardinería y cuidado de plantas para principiantes; su comunidad incluye 747,000 seguidores en Instagram y 1.5 millones en TikTok, además de su canal de YouTube.",
+        "en": "Ofelia Pérez, known as La Abuelita Ofelia, is a Guatemalan content creator specializing in gardening tips and plant care advice for beginners; her community includes 747,000 followers on Instagram and 1.5 million on TikTok, in addition to her YouTube channel.",
+        "pt": "Ofelia Pérez, conhecida como La Abuelita Ofelia, é uma criadora de conteúdo guatemalteca especializada em dicas de jardinagem e cuidado de plantas para iniciantes; sua comunidade inclui 747 mil seguidores no Instagram e 1,5 milhão no TikTok, além do canal no YouTube.",
+        "fr": "Ofelia Pérez, connue sous le nom de La Abuelita Ofelia, est une créatrice de contenu guatémaltèque spécialisée dans les conseils de jardinage et l'entretien des plantes pour débutants ; sa communauté compte 747 000 abonnés sur Instagram et 1,5 million sur TikTok, en plus de sa chaîne YouTube.",
+        "de": "Ofelia Pérez, bekannt als La Abuelita Ofelia, ist eine guatemaltekische Content-Erstellerin, die sich auf Gartentipps und Pflanzenpflege für Anfänger spezialisiert hat; ihre Community umfasst 747.000 Follower auf Instagram und 1,5 Millionen auf TikTok, zusätzlich zu ihrem YouTube-Kanal.",
+        "ru": "Офелия Перес, известная как La Abuelita Ofelia, — гватемальский создатель контента, специализирующийся на советах по садоводству и уходу за растениями для новичков; её аудитория включает 747 000 подписчиков в Instagram и 1,5 миллиона в TikTok, помимо канала на YouTube.",
+        "ar": "أوفيليا بيريز، المعروفة باسم La Abuelita Ofelia، هي صانعة محتوى غواتيمالية متخصصة في نصائح البستنة والعناية بالنباتات للمبتدئين؛ يضم مجتمعها 747,000 متابع على إنستغرام و1.5 مليون على تيك توك، إضافة إلى قناتها على يوتيوب.",
+        "hi": "ओफेलिया पेरेज़, जिन्हें La Abuelita Ofelia के नाम से जाना जाता है, एक ग्वाटेमाला की कंटेंट क्रिएटर हैं जो शुरुआती लोगों के लिए बागवानी और पौधों की देखभाल की सलाह में विशेषज्ञ हैं; उनके समुदाय में इंस्टाग्राम पर 747,000 फॉलोअर्स और टिकटॉक पर 1.5 मिलियन फॉलोअर्स शामिल हैं, इसके अलावा उनका यूट्यूब चैनल भी है।",
+        "zh": "奥费莉亚·佩雷斯,人称“奥费莉亚奶奶”,是危地马拉的内容创作者,专注于为初学者提供园艺和植物养护建议;除YouTube频道外,她在Instagram上有74.7万粉丝,在TikTok上有150万粉丝。",
+        "ja": "オフェリア・ペレス、通称「おばあちゃんオフェリア」は、初心者向けのガーデニングと植物のケアのアドバイスを専門とするグアテマラのコンテンツクリエイターである。YouTubeチャンネルに加え、Instagramで74.7万人、TikTokで150万人のフォロワーを持つ。"
+      },
+      "handles": {
+        "youtube": "UCsOCFCEuB3TlINA3-EWaN3w",
+        "tiktok": "la_abuelita_ofelia",
+        "instagram": "la_abuelita_ofelia",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 491000
+        }
+      }
+    },
+    {
+      "id": "ronald-mackay",
+      "name": "Ronald MacKay",
+      "country": "GT",
+      "topic": {
+        "es": "Doblaje cómico y reacciones al estilo chapín",
+        "en": "Comedic dubbing and Guatemalan-style reactions",
+        "pt": "Dublagem cômica e reações ao estilo guatemalteco",
+        "fr": "Doublage comique et réactions à la guatémaltèque",
+        "de": "Comedy-Synchronisation und Reaktionen im guatemaltekischen Stil",
+        "ru": "Комедийный дубляж и реакции в гватемальском стиле",
+        "ar": "الدوبلاج الكوميدي وردود الأفعال بالطراز الغواتيمالي",
+        "hi": "हास्य डबिंग और ग्वाटेमाला शैली की प्रतिक्रियाएँ",
+        "zh": "喜剧配音与危地马拉风格的反应视频",
+        "ja": "コメディ吹き替えとグアテマラ流リアクション動画"
+      },
+      "about": {
+        "es": "Ronald Alejandro Ramírez MacKay, nacido el 14 de enero de 1975 en la Ciudad de Guatemala, es un youtuber y actor de doblaje guatemalteco conocido por sus 'doblajes al buen chapín' y su canal 'ChocoReaccion'; en 2017 fue invitado a poner voz a un personaje en la película Emoji: La Película, y ha sido locutor de radio en programas de humor y parodias.",
+        "en": "Ronald Alejandro Ramírez MacKay, born January 14, 1975 in Guatemala City, is a Guatemalan YouTuber and voice actor known for his Guatemalan-slang movie dubs and his channel 'ChocoReaccion'; in 2017 he was invited to voice a character in The Emoji Movie, and he has worked as a radio host on comedy and parody programs.",
+        "pt": "Ronald Alejandro Ramírez MacKay, nascido em 14 de janeiro de 1975 na Cidade da Guatemala, é um youtuber e dublador guatemalteco conhecido por suas dublagens com gírias guatemaltecas e seu canal 'ChocoReaccion'; em 2017 foi convidado a dublar um personagem no filme Emoji: O Filme, e atuou como locutor de rádio em programas de humor e paródias.",
+        "fr": "Ronald Alejandro Ramírez MacKay, né le 14 janvier 1975 à Guatemala City, est un youtubeur et doubleur guatémaltèque connu pour ses doublages en argot guatémaltèque et sa chaîne « ChocoReaccion » ; en 2017, il a été invité à doubler un personnage dans le film Le Monde secret des Emoji, et a travaillé comme animateur radio sur des émissions humoristiques et parodiques.",
+        "de": "Ronald Alejandro Ramírez MacKay, geboren am 14. Januar 1975 in Guatemala-Stadt, ist ein guatemaltekischer YouTuber und Synchronsprecher, bekannt für seine Synchronisationen im guatemaltekischen Slang und seinen Kanal „ChocoReaccion“; 2017 wurde er eingeladen, einer Figur in Emoji – Der Film seine Stimme zu leihen, und arbeitete als Radiomoderator bei Comedy- und Parodiesendungen.",
+        "ru": "Рональд Алехандро Рамирес МакКей, родившийся 14 января 1975 года в Гватемала-Сити, — гватемальский ютубер и актёр озвучивания, известный своим дубляжом на гватемальском сленге и каналом «ChocoReaccion»; в 2017 году его пригласили озвучить персонажа в фильме «Эмоджи фильм», а также он работал радиоведущим на юмористических и пародийных программах.",
+        "ar": "رونالد أليخاندرو راميريز ماكاي، المولود في 14 يناير 1975 في مدينة غواتيمالا، هو يوتيوبر وممثل دبلجة غواتيمالي معروف بدبلجاته باللهجة الغواتيمالية العامية وقناته 'ChocoReaccion'؛ في عام 2017 دُعي لأداء صوت شخصية في فيلم Emoji: The Movie، وعمل مذيع إذاعي في برامج كوميدية وساخرة.",
+        "hi": "रोनाल्ड अलेजांद्रो रामिरेज़ मैककाय, जिनका जन्म 14 जनवरी 1975 को ग्वाटेमाला सिटी में हुआ, एक ग्वाटेमाला के यूट्यूबर और वॉयस एक्टर हैं, जो ग्वाटेमाला की बोलचाल भाषा में की गई डबिंग और अपने चैनल 'ChocoReaccion' के लिए जाने जाते हैं; 2017 में उन्हें फिल्म इमोजी मूवी में एक किरदार को आवाज़ देने के लिए आमंत्रित किया गया था, और वे हास्य व पैरोडी कार्यक्रमों में रेडियो होस्ट भी रह चुके हैं।",
+        "zh": "罗纳德·亚历杭德罗·拉米雷斯·麦凯,1975年1月14日出生于危地马拉城,是一名危地马拉YouTuber和配音演员,以其危地马拉俚语配音作品和频道“ChocoReaccion”而闻名;2017年他受邀为电影《表情奇幻冒险》中的一个角色配音,并曾在喜剧和恶搞节目中担任电台主持人。",
+        "ja": "ロナルド・アレハンドロ・ラミレス・マッケイは1975年1月14日にグアテマラシティで生まれた、グアテマラのユーチューバー兼声優で、グアテマラ訛りの吹き替えとチャンネル「ChocoReaccion」で知られる。2017年には映画『エモジー・ザ・ムービー』のキャラクターの声優に招かれ、コメディやパロディ番組のラジオ司会者としても活動してきた。"
+      },
+      "handles": {
+        "youtube": "UCTUUDS1LrFmMScuJb-AP_Tg",
+        "tiktok": "ronald_mackay",
+        "instagram": "ronald_mackay",
+        "facebook": null,
+        "linkedin": "ronald-mackay-665145aa",
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 167000
+        }
+      }
+    },
+    {
+      "id": "mustapha-swinga",
+      "name": "Mustapha Swinga",
+      "country": "MA",
+      "topic": {
+        "es": "Videos educativos explicativos en darija marroquí",
+        "en": "Educational explainer videos in Moroccan Darija",
+        "pt": "Vídeos educativos explicativos em darija marroquino",
+        "fr": "Vidéos éducatives explicatives en darija marocaine",
+        "de": "Lehrreiche Erklärvideos auf marokkanischem Darija",
+        "ru": "Образовательные видео-объяснения на марокканском диалекте дарижа",
+        "ar": "فيديوهات تعليمية توضيحية بالدارجة المغربية",
+        "hi": "मोरक्को की दारिजा भाषा में शैक्षिक व्याख्यात्मक वीडियो",
+        "zh": "摩洛哥达里贾语教育解说视频",
+        "ja": "モロッコ・ダリジャ語による教育解説動画"
+      },
+      "about": {
+        "es": "Mustapha Swinga (nombre real Mustapha El Fekkak) es un youtuber marroquí nacido en 1986 en Imintanoute que creció en Casablanca; es conocido sobre todo por su programa educativo \"Aji Tfham\", que explica temas complejos en darija marroquí.",
+        "en": "Mustapha Swinga (real name Mustapha El Fekkak) is a Moroccan YouTuber born in 1986 in Imintanoute who grew up in Casablanca; he is best known for his educational program \"Aji Tfham\", which explains complex topics in Moroccan Darija.",
+        "pt": "Mustapha Swinga (nome real Mustapha El Fekkak) é um youtuber marroquino nascido em 1986 em Imintanoute que cresceu em Casablanca; é mais conhecido pelo seu programa educativo \"Aji Tfham\", que explica temas complexos em darija marroquino.",
+        "fr": "Mustapha Swinga (de son vrai nom Mustapha El Fekkak) est un youtubeur marocain né en 1986 à Imintanoute et qui a grandi à Casablanca ; il est surtout connu pour son programme éducatif « Aji Tfham », qui explique des sujets complexes en darija marocaine.",
+        "de": "Mustapha Swinga (echter Name Mustapha El Fekkak) ist ein marokkanischer YouTuber, geboren 1986 in Imintanoute, der in Casablanca aufwuchs; bekannt wurde er vor allem durch sein Lehrprogramm „Aji Tfham“, das komplexe Themen auf marokkanischem Darija erklärt.",
+        "ru": "Мустафа Свинга (настоящее имя Мустафа Эль-Феккак) — марокканский ютубер, родившийся в 1986 году в Иминтануте и выросший в Касабланке; наиболее известен своей образовательной программой «Aji Tfham», в которой он объясняет сложные темы на марокканском диалекте дарижа.",
+        "ar": "مصطفى سوينغا (اسمه الحقيقي مصطفى الفكاك) يوتيوبر مغربي وُلد سنة 1986 بإمنتانوت ونشأ في الدار البيضاء؛ يُعرف بشكل خاص ببرنامجه التعليمي \"آجي تفهم\" الذي يشرح مواضيع معقدة بالدارجة المغربية.",
+        "hi": "मुस्तफा स्विंगा (असली नाम मुस्तफा एल फेक्काक) एक मोरक्कन यूट्यूबर हैं, जिनका जन्म 1986 में इमिनतानूत में हुआ और जो कासाब्लांका में पले-बढ़े; वे अपने शैक्षिक कार्यक्रम \"आजी तफ़हम\" के लिए सबसे अधिक जाने जाते हैं, जो जटिल विषयों को मोरक्को की दारिजा भाषा में समझाता है।",
+        "zh": "穆斯塔法·斯温加(真名穆斯塔法·埃尔费卡克)是一位摩洛哥YouTuber,1986年出生于伊明塔努特,在卡萨布兰卡长大;他最出名的是其教育节目《Aji Tfham》,该节目用摩洛哥达里贾语讲解复杂话题。",
+        "ja": "ムスタファ・スウィンガ(本名ムスタファ・エル・フェッカク)は1986年にイミンタヌートで生まれ、カサブランカで育ったモロッコのユーチューバーである。複雑なテーマをモロッコ・ダリジャ語で解説する教育番組「アジ・トファム」で特に知られている。"
+      },
+      "handles": {
+        "youtube": "UCMPBiSwYY4fS1LYw4KkDZuw",
+        "tiktok": "mustapha_swinga",
+        "instagram": "mustapha_swinga",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1080000
+        }
+      }
+    },
+    {
+      "id": "simo-sedraty",
+      "name": "Simo Sedraty",
+      "country": "MA",
+      "topic": {
+        "es": "Sketches de comedia y vlogs de estilo de vida",
+        "en": "Comedy sketches and lifestyle vlogs",
+        "pt": "Esquetes de comédia e vlogs de estilo de vida",
+        "fr": "Sketches comiques et vlogs lifestyle",
+        "de": "Comedy-Sketche und Lifestyle-Vlogs",
+        "ru": "Комедийные скетчи и влоги о повседневной жизни",
+        "ar": "مقاطع كوميدية ومدونات فيديو عن نمط الحياة",
+        "hi": "कॉमेडी स्केच और लाइफस्टाइल व्लॉग",
+        "zh": "喜剧短剧与生活方式视频博客",
+        "ja": "コメディスケッチとライフスタイルVlog"
+      },
+      "about": {
+        "es": "Simo Sedraty es un comediante y youtuber marroquí nacido el 16 de agosto de 1991, que lanzó su canal de YouTube homónimo el 9 de julio de 2013, conocido por sus sketches cómicos y vlogs grabados en gran parte en Marruecos.",
+        "en": "Simo Sedraty is a Moroccan comedian and YouTuber born on August 16, 1991, who launched his self-titled YouTube channel on July 9, 2013, known for comedic sketches and vlogs filmed largely in Morocco.",
+        "pt": "Simo Sedraty é um comediante e youtuber marroquino nascido em 16 de agosto de 1991, que lançou o seu canal homónimo no YouTube em 9 de julho de 2013, conhecido pelos seus esquetes cómicos e vlogs filmados em grande parte em Marrocos.",
+        "fr": "Simo Sedraty est un humoriste et youtubeur marocain né le 16 août 1991, qui a lancé sa chaîne YouTube éponyme le 9 juillet 2013, connu pour ses sketches comiques et ses vlogs tournés en grande partie au Maroc.",
+        "de": "Simo Sedraty ist ein marokkanischer Komiker und YouTuber, geboren am 16. August 1991, der seinen gleichnamigen YouTube-Kanal am 9. Juli 2013 startete und für seine Comedy-Sketche und Vlogs bekannt ist, die größtenteils in Marokko gedreht werden.",
+        "ru": "Симо Седрати — марокканский комик и ютубер, родившийся 16 августа 1991 года, запустивший свой одноимённый YouTube-канал 9 июля 2013 года; известен комедийными скетчами и влогами, снятыми в основном в Марокко.",
+        "ar": "سيمو سدراتي فكاهي ويوتيوبر مغربي وُلد في 16 غشت 1991، أطلق قناته على يوتيوب التي تحمل اسمه في 9 يوليوز 2013، ويُعرف بمقاطعه الكوميدية ومدوناته المصورة التي يُصوَّر معظمها في المغرب.",
+        "hi": "सिमो सेदराती एक मोरक्कन कॉमेडियन और यूट्यूबर हैं, जिनका जन्म 16 अगस्त 1991 को हुआ; उन्होंने 9 जुलाई 2013 को अपने नाम पर यूट्यूब चैनल शुरू किया और अपने हास्य स्केच तथा अधिकांशतः मोरक्को में फिल्माए गए व्लॉग के लिए जाने जाते हैं।",
+        "zh": "西莫·塞德拉蒂是一位摩洛哥喜剧演员兼YouTuber,生于1991年8月16日,于2013年7月9日创建了以自己名字命名的YouTube频道,以其喜剧短剧和大部分在摩洛哥拍摄的视频博客而闻名。",
+        "ja": "シモ・セドラティは1991年8月16日生まれのモロッコのコメディアン兼ユーチューバーで、2013年7月9日に自身の名を冠したYouTubeチャンネルを開設し、主にモロッコで撮影されたコメディスケッチやVlogで知られている。"
+      },
+      "handles": {
+        "youtube": "UCWkmLEuhRrDGPzRFvEBC7dw",
+        "tiktok": "simosedraty",
+        "instagram": "simosedraty",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1990000
+        }
+      }
+    },
+    {
+      "id": "halima-choujaa-filali",
+      "name": "Halima Choujaa (Filali)",
+      "country": "MA",
+      "topic": {
+        "es": "Recetas tradicionales de cocina marroquí",
+        "en": "Traditional Moroccan cooking tutorials",
+        "pt": "Tutoriais de culinária marroquina tradicional",
+        "fr": "Tutoriels de cuisine marocaine traditionnelle",
+        "de": "Traditionelle marokkanische Kochanleitungen",
+        "ru": "Уроки традиционной марокканской кухни",
+        "ar": "دروس في الطبخ المغربي التقليدي",
+        "hi": "पारंपरिक मोरक्कन खाना पकाने की ट्यूटोरियल",
+        "zh": "传统摩洛哥烹饪教程",
+        "ja": "モロッコ伝統料理のレシピ動画"
+      },
+      "about": {
+        "es": "Halima Choujaa, conocida como Halima Filali, es una youtuber marroquí cuyo canal \"Cuisine Halima Filali\" (Chehiwat Dari) se ha convertido en una referencia de la cocina tradicional marroquí, con videos que explican paso a paso recetas de platos y repostería marroquíes.",
+        "en": "Halima Choujaa, known as Halima Filali, is a Moroccan YouTuber whose channel \"Cuisine Halima Filali\" (Chehiwat Dari) has become a reference for traditional Moroccan cuisine, with videos explaining step-by-step recipes for Moroccan dishes and pastries.",
+        "pt": "Halima Choujaa, conhecida como Halima Filali, é uma youtuber marroquina cujo canal \"Cuisine Halima Filali\" (Chehiwat Dari) se tornou uma referência da culinária tradicional marroquina, com vídeos que explicam passo a passo receitas de pratos e doces marroquinos.",
+        "fr": "Halima Choujaa, connue sous le nom de Halima Filali, est une youtubeuse marocaine dont la chaîne « Cuisine Halima Filali » (Chehiwat Dari) est devenue une référence de la cuisine marocaine traditionnelle, avec des vidéos expliquant pas à pas des recettes de plats et de pâtisseries marocains.",
+        "de": "Halima Choujaa, bekannt als Halima Filali, ist eine marokkanische YouTuberin, deren Kanal „Cuisine Halima Filali“ (Chehiwat Dari) zu einer Referenz für die traditionelle marokkanische Küche geworden ist, mit Videos, die Schritt für Schritt Rezepte für marokkanische Gerichte und Gebäck erklären.",
+        "ru": "Халима Шуджаа, известная как Халима Филали, — марокканская ютуберша, чей канал «Cuisine Halima Filali» (Chehiwat Dari) стал эталоном традиционной марокканской кухни благодаря видео с пошаговым объяснением рецептов марокканских блюд и выпечки.",
+        "ar": "حليمة الشجاعة، المعروفة باسم حليمة الفيلالي، يوتيوبر مغربية أصبحت قناتها \"مطبخ حليمة الفيلالي\" (شهيوات داري) مرجعاً في الطبخ المغربي التقليدي، من خلال فيديوهات تشرح خطوة بخطوة وصفات الأطباق والحلويات المغربية.",
+        "hi": "हलीमा शौजा, जिन्हें हलीमा फिलाली के नाम से जाना जाता है, एक मोरक्कन यूट्यूबर हैं जिनका चैनल \"क्युज़िन हलीमा फिलाली\" (शहिवात दारी) पारंपरिक मोरक्कन व्यंजनों के लिए एक संदर्भ बन गया है, जिसमें मोरक्कन व्यंजनों और मिठाइयों की विधियाँ चरण-दर-चरण समझाई जाती हैं।",
+        "zh": "哈利玛·舒贾,人称哈利玛·菲拉利,是一位摩洛哥YouTuber,她的频道《哈利玛·菲拉利的厨房》(Chehiwat Dari)已成为传统摩洛哥美食的代表,视频中详细讲解摩洛哥菜肴和糕点的分步做法。",
+        "ja": "ハリマ・ショウジャ、通称ハリマ・フィラリは、モロッコのユーチューバーで、そのチャンネル「Cuisine Halima Filali(シェヒワット・ダリ)」は伝統的なモロッコ料理の定番となっており、モロッコの料理や菓子の作り方を段階的に解説する動画を配信している。"
+      },
+      "handles": {
+        "youtube": "UCg-N83OHoYpeA-cDb2VXodQ",
+        "tiktok": null,
+        "instagram": "cuisine_halima__filali",
+        "facebook": "Cuisine.Halima.Filali",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 7590000
+        }
+      }
+    },
+    {
+      "id": "nationale-bedarija",
+      "name": "Nationale Bedarija",
+      "country": "MA",
+      "topic": {
+        "es": "Sketches satíricos en darija marroquí",
+        "en": "Satirical comedy sketches in Moroccan Darija",
+        "pt": "Esquetes satíricos em darija marroquino",
+        "fr": "Sketches satiriques en darija marocaine",
+        "de": "Satirische Comedy-Sketche auf marokkanischem Darija",
+        "ru": "Сатирические комедийные скетчи на марокканском дарижа",
+        "ar": "مقاطع كوميدية ساخرة بالدارجة المغربية",
+        "hi": "मोरक्को की दारिजा भाषा में व्यंग्यात्मक कॉमेडी स्केच",
+        "zh": "摩洛哥达里贾语讽刺喜剧短剧",
+        "ja": "モロッコ・ダリジャ語による風刺コメディスケッチ"
+      },
+      "about": {
+        "es": "Nationale Bedarija es un canal de YouTube marroquí creado por los hermanos gemelos Mouad y Marwane Chakrida, que producen contenido de comedia satírica en darija marroquí desde 2021.",
+        "en": "Nationale Bedarija is a Moroccan YouTube channel created by twin brothers Mouad and Marwane Chakrida, who have produced satirical comedy content in Moroccan Darija since 2021.",
+        "pt": "Nationale Bedarija é um canal de YouTube marroquino criado pelos irmãos gémeos Mouad e Marwane Chakrida, que produzem conteúdo de comédia satírica em darija marroquino desde 2021.",
+        "fr": "Nationale Bedarija est une chaîne YouTube marocaine créée par les frères jumeaux Mouad et Marwane Chakrida, qui produisent du contenu comique satirique en darija marocaine depuis 2021.",
+        "de": "Nationale Bedarija ist ein marokkanischer YouTube-Kanal, der von den Zwillingsbrüdern Mouad und Marwane Chakrida gegründet wurde, die seit 2021 satirische Comedy-Inhalte auf marokkanischem Darija produzieren.",
+        "ru": "Nationale Bedarija — марокканский YouTube-канал, созданный братьями-близнецами Муадом и Марваном Чакрида, которые с 2021 года выпускают сатирический комедийный контент на марокканском диалекте дарижа.",
+        "ar": "ناشيونال بالدارجة قناة يوتيوب مغربية أسسها التوأمان مواد ومروان الشكريدة، اللذان ينتجان محتوى كوميدياً ساخراً بالدارجة المغربية منذ سنة 2021.",
+        "hi": "नेशनल बेदारीजा एक मोरक्कन यूट्यूब चैनल है, जिसे जुड़वां भाइयों मौद और मरवान शकरिदा ने बनाया है, जो 2021 से मोरक्को की दारिजा भाषा में व्यंग्यात्मक हास्य सामग्री बना रहे हैं।",
+        "zh": "Nationale Bedarija是一个摩洛哥YouTube频道,由双胞胎兄弟穆阿德和马尔万·沙克里达创建,自2021年起制作以摩洛哥达里贾语讲述的讽刺喜剧内容。",
+        "ja": "ナシオナル・ベダリジャは、双子の兄弟ムアドとマルワン・シャクリダによって設立されたモロッコのYouTubeチャンネルで、2021年からモロッコ・ダリジャ語による風刺コメディコンテンツを制作している。"
+      },
+      "handles": {
+        "youtube": "UCVDExRloqHhhgcBH88dU_Vw",
+        "tiktok": null,
+        "instagram": "nationale_bedarija",
+        "facebook": "nationalebedarija",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 198000
+        }
+      }
+    },
+    {
+      "id": "amine-nkaity",
+      "name": "Amine Nkaity",
+      "country": "MA",
+      "topic": {
+        "es": "Narración de historias de misterio y terror",
+        "en": "Mystery and horror storytelling",
+        "pt": "Narração de histórias de mistério e terror",
+        "fr": "Récits d'histoires de mystère et d'horreur",
+        "de": "Erzählungen von Mystery- und Horrorgeschichten",
+        "ru": "Рассказы историй о тайнах и ужасах",
+        "ar": "سرد قصص الغموض والرعب",
+        "hi": "रहस्य और डरावनी कहानियों की कथावाचन",
+        "zh": "悬疑与恐怖故事讲述",
+        "ja": "ミステリー・ホラー系ストーリーテリング"
+      },
+      "about": {
+        "es": "Amine Nkaity es un youtuber marroquí originario de Mohammedia, conocido por narrar historias de suspenso y misterio que se inspiran en el folclore y en temas sobrenaturales.",
+        "en": "Amine Nkaity is a Moroccan YouTuber from Mohammedia known for narrating suspenseful and mysterious stories drawing on folklore and supernatural themes.",
+        "pt": "Amine Nkaity é um youtuber marroquino originário de Mohammedia, conhecido por narrar histórias de suspense e mistério inspiradas no folclore e em temas sobrenaturais.",
+        "fr": "Amine Nkaity est un youtubeur marocain originaire de Mohammedia, connu pour raconter des histoires suspensives et mystérieuses puisant dans le folklore et les thèmes surnaturels.",
+        "de": "Amine Nkaity ist ein marokkanischer YouTuber aus Mohammedia, bekannt für das Erzählen spannender und mysteriöser Geschichten, die sich an Folklore und übernatürlichen Themen orientieren.",
+        "ru": "Амин Нкаити — марокканский ютубер родом из Мохаммедии, известный тем, что рассказывает напряжённые и таинственные истории, основанные на фольклоре и сверхъестественных темах.",
+        "ar": "أمين نقيطي يوتيوبر مغربي من مدينة المحمدية، يُعرف بسرده لقصص مشوقة وغامضة مستوحاة من الفولكلور والمواضيع الخارقة للطبيعة.",
+        "hi": "अमीन नकैती मोहम्मदिया, मोरक्को के एक यूट्यूबर हैं, जो लोककथाओं और अलौकिक विषयों पर आधारित रोमांचक और रहस्यमय कहानियाँ सुनाने के लिए जाने जाते हैं।",
+        "zh": "阿明·恩凯提是一位来自摩洛哥穆罕默迪亚的YouTuber,以讲述取材于民间传说和超自然主题的悬疑神秘故事而闻名。",
+        "ja": "アミン・ンカイティはモハメディア出身のモロッコのユーチューバーで、民間伝承や超自然的なテーマを題材にしたサスペンスフルで謎めいた物語の語りで知られている。"
+      },
+      "handles": {
+        "youtube": "UC31a-0Ek3RpT-uM3wpIzrZQ",
+        "tiktok": "amine.nkaity",
+        "instagram": "aminenkaity",
+        "facebook": "Aminenkaityofficial",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1630000
+        }
+      }
+    },
+    {
+      "id": "9al-games-mehdi-badaine",
+      "name": "9AL Games (Mehdi Badaine)",
+      "country": "MA",
+      "topic": {
+        "es": "Contenido de gaming de eFootball / PES Mobile",
+        "en": "eFootball / PES Mobile gaming content",
+        "pt": "Conteúdo de gaming de eFootball / PES Mobile",
+        "fr": "Contenu gaming eFootball / PES Mobile",
+        "de": "eFootball/PES-Mobile-Gaming-Inhalte",
+        "ru": "Игровой контент по eFootball / PES Mobile",
+        "ar": "محتوى ألعاب إي فوتبول / PES موبايل",
+        "hi": "eFootball / PES मोबाइल गेमिंग सामग्री",
+        "zh": "eFootball / PES Mobile 游戏内容",
+        "ja": "eFootball / PESモバイルのゲーム実況コンテンツ"
+      },
+      "about": {
+        "es": "9AL, cuyo nombre real es Mehdi Badaine, es un creador de contenido de videojuegos marroquí que subió su primer video en enero de 2016 y es conocido por sus partidas de eFootball (PES Mobile), demostraciones de habilidad y videos de apertura de paquetes.",
+        "en": "9AL, real name Mehdi Badaine, is a Moroccan gaming content creator who uploaded his first video in January 2016 and is known for eFootball (PES Mobile) gameplay, skill showcases and pack-opening videos.",
+        "pt": "9AL, cujo nome real é Mehdi Badaine, é um criador de conteúdo de videojogos marroquino que publicou o seu primeiro vídeo em janeiro de 2016 e é conhecido pelas suas partidas de eFootball (PES Mobile), demonstrações de habilidade e vídeos de abertura de pacotes.",
+        "fr": "9AL, de son vrai nom Mehdi Badaine, est un créateur de contenu gaming marocain qui a publié sa première vidéo en janvier 2016 et est connu pour ses parties d'eFootball (PES Mobile), ses démonstrations de compétences et ses vidéos d'ouverture de packs.",
+        "de": "9AL, mit bürgerlichem Namen Mehdi Badaine, ist ein marokkanischer Gaming-Content-Creator, der im Januar 2016 sein erstes Video hochlud und für sein eFootball-Gameplay (PES Mobile), Skill-Showcases und Pack-Opening-Videos bekannt ist.",
+        "ru": "9AL, настоящее имя Мехди Бадэн, — марокканский автор игрового контента, загрузивший своё первое видео в январе 2016 года; известен геймплеем eFootball (PES Mobile), демонстрациями навыков и видео с открытием паков.",
+        "ar": "9AL، واسمه الحقيقي مهدي البدين، صانع محتوى ألعاب مغربي رفع أول فيديو له في يناير 2016، ويُعرف بمقاطع لعب إي فوتبول (PES موبايل) وعروض المهارات وفيديوهات فتح الحزم.",
+        "hi": "9AL, जिनका असली नाम मेहदी बदाइने है, एक मोरक्कन गेमिंग कंटेंट क्रिएटर हैं, जिन्होंने जनवरी 2016 में अपना पहला वीडियो अपलोड किया था; वे eFootball (PES मोबाइल) गेमप्ले, कौशल प्रदर्शन और पैक-ओपनिंग वीडियो के लिए जाने जाते हैं।",
+        "zh": "9AL,真名迈赫迪·巴代恩,是一位摩洛哥游戏内容创作者,于2016年1月上传了他的第一个视频,以eFootball(PES Mobile)游戏实况、技巧展示和开包视频而闻名。",
+        "ja": "9AL、本名メフディ・バダインは、2016年1月に最初の動画を投稿したモロッコのゲーム実況者で、eFootball(PESモバイル)のプレイ動画、スキル披露、パック開封動画で知られている。"
+      },
+      "handles": {
+        "youtube": "UCvzTJH6G9bH5nCQ1Hfb8nGg",
+        "tiktok": "9al_games",
+        "instagram": "9al_games",
+        "facebook": "9al9algames",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1030000
+        }
+      }
+    },
+    {
+      "id": "halawiyat-karamilla",
+      "name": "Halawiyat Karamilla",
+      "country": "MA",
+      "topic": {
+        "es": "Recetas de repostería marroquí tradicional y moderna",
+        "en": "Traditional and modern Moroccan dessert recipes",
+        "pt": "Receitas de sobremesas marroquinas tradicionais e modernas",
+        "fr": "Recettes de pâtisseries marocaines traditionnelles et modernes",
+        "de": "Traditionelle und moderne marokkanische Dessertrezepte",
+        "ru": "Рецепты традиционных и современных марокканских десертов",
+        "ar": "وصفات حلويات مغربية تقليدية وعصرية",
+        "hi": "पारंपरिक और आधुनिक मोरक्कन मिठाई व्यंजन",
+        "zh": "传统与现代摩洛哥甜点食谱",
+        "ja": "伝統的・現代的なモロッコ菓子のレシピ"
+      },
+      "about": {
+        "es": "Halawiyat Karamilla es un canal de YouTube de cocina marroquí con sede en Nador, activo desde 2015, especializado en dulces y postres marroquíes tradicionales y modernos.",
+        "en": "Halawiyat Karamilla is a Moroccan YouTube cooking channel based in Nador, active since 2015, specializing in traditional and modern Moroccan sweets and desserts.",
+        "pt": "Halawiyat Karamilla é um canal de culinária marroquino no YouTube, sediado em Nador, ativo desde 2015, especializado em doces e sobremesas marroquinas tradicionais e modernas.",
+        "fr": "Halawiyat Karamilla est une chaîne YouTube de cuisine marocaine basée à Nador, active depuis 2015, spécialisée dans les douceurs et desserts marocains traditionnels et modernes.",
+        "de": "Halawiyat Karamilla ist ein marokkanischer Koch-YouTube-Kanal mit Sitz in Nador, aktiv seit 2015, spezialisiert auf traditionelle und moderne marokkanische Süßigkeiten und Desserts.",
+        "ru": "Halawiyat Karamilla — марокканский кулинарный YouTube-канал из города Надор, работающий с 2015 года и специализирующийся на традиционных и современных марокканских сладостях и десертах.",
+        "ar": "حلويات كراميلا قناة يوتيوب مغربية للطبخ مقرها الناظور، نشطة منذ سنة 2015، ومتخصصة في الحلويات المغربية التقليدية والعصرية.",
+        "hi": "हलाविआत करामिला नाडोर स्थित एक मोरक्कन कुकिंग यूट्यूब चैनल है, जो 2015 से सक्रिय है और पारंपरिक तथा आधुनिक मोरक्कन मिठाइयों में विशेषज्ञता रखता है।",
+        "zh": "Halawiyat Karamilla是一个位于摩洛哥纳祖尔(Nador)的烹饪YouTube频道,自2015年起活跃,专注于传统与现代摩洛哥甜点。",
+        "ja": "ハラウィヤット・カラミラは、モロッコのナドールを拠点とする料理系YouTubeチャンネルで、2015年から活動しており、伝統的および現代的なモロッコの甘味・デザートを専門としている。"
+      },
+      "handles": {
+        "youtube": "UCfhOpHNCA8nUq4_hQQr_QNQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": "halawiyatkaramilla",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4540000
+        }
+      }
+    },
+    {
+      "id": "bar-s-ozcan",
+      "name": "Barış Özcan",
+      "country": "TR",
+      "topic": {
+        "es": "Arte, diseño y tecnología",
+        "en": "Art, design and technology",
+        "pt": "Arte, design e tecnologia",
+        "fr": "Art, design et technologie",
+        "de": "Kunst, Design und Technik",
+        "ru": "Искусство, дизайн и технологии",
+        "ar": "الفن والتصميم والتكنولوجيا",
+        "hi": "कला, डिज़ाइन और तकनीक",
+        "zh": "艺术、设计与科技",
+        "ja": "アート、デザイン、テクノロジー"
+      },
+      "about": {
+        "es": "Creador turco nacido y radicado en Estambul; combina narrativa visual, diseño y divulgación tecnológica en videos muy elaborados.",
+        "en": "Turkish creator born and based in Istanbul; combines visual storytelling, design and tech explainers in highly produced videos.",
+        "pt": "Criador turco nascido e radicado em Istambul; combina narrativa visual, design e divulgação tecnológica em vídeos muito elaborados.",
+        "fr": "Créateur turc né et installé à Istanbul ; combine narration visuelle, design et vulgarisation technologique dans des vidéos très travaillées.",
+        "de": "Türkischer Creator, geboren und ansässig in Istanbul; verbindet visuelles Storytelling, Design und Technik-Erklärvideos in aufwendig produzierten Videos.",
+        "ru": "Турецкий автор, родившийся и живущий в Стамбуле; сочетает визуальное повествование, дизайн и технологические объяснения в тщательно продуманных видео.",
+        "ar": "صانع محتوى تركي وُلد ويقيم في إسطنبول؛ يمزج بين السرد البصري والتصميم وشرح التكنولوجيا في مقاطع فيديو عالية الإنتاج.",
+        "hi": "तुर्की क्रिएटर, इस्तांबुल में जन्मे और वहीं रहते हैं; अत्यधिक निर्मित वीडियो में विज़ुअल कहानी, डिज़ाइन और तकनीकी व्याख्या को जोड़ते हैं।",
+        "zh": "土耳其创作者,出生并居住在伊斯坦布尔;在制作精良的视频中融合视觉叙事、设计与科技解说。",
+        "ja": "トルコのクリエイターで、イスタンブール生まれ・在住。ビジュアルストーリーテリング、デザイン、テクノロジー解説を組み合わせた作り込まれた動画を制作している。"
+      },
+      "handles": {
+        "youtube": "UCv6jcPwFujuTIwFQ11jt1Yw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
+        "followers": {
+          "youtube": 6630000
+        }
+      }
+    },
+    {
+      "id": "ruhi-cenet",
+      "name": "Ruhi Çenet",
+      "country": "TR",
+      "topic": {
+        "es": "Documentales de viaje",
+        "en": "Travel documentaries",
+        "pt": "Documentários de viagem",
+        "fr": "Documentaires de voyage",
+        "de": "Reisedokumentationen",
+        "ru": "Дорожные документальные фильмы",
+        "ar": "أفلام وثائقية عن السفر",
+        "hi": "यात्रा वृत्तचित्र",
+        "zh": "旅行纪录片",
+        "ja": "旅行ドキュメンタリー"
+      },
+      "about": {
+        "es": "Creador turco radicado en Estambul, conocido por documentales de viaje inmersivos por lugares remotos del mundo, con una narrativa muy cuidada.",
+        "en": "Turkish creator based in Istanbul, known for immersive travel documentaries in remote parts of the world, with carefully crafted storytelling.",
+        "pt": "Criador turco radicado em Istambul, conhecido por documentários de viagem imersivos em lugares remotos do mundo, com narrativa muito cuidada.",
+        "fr": "Créateur turc installé à Istanbul, connu pour ses documentaires de voyage immersifs dans des régions reculées du monde, à la narration très soignée.",
+        "de": "Türkischer Creator mit Sitz in Istanbul, bekannt für immersive Reisedokumentationen in entlegenen Teilen der Welt mit sorgfältig ausgearbeitetem Storytelling.",
+        "ru": "Турецкий автор, живущий в Стамбуле, известен захватывающими документальными фильмами о путешествиях в отдалённые уголки мира с продуманным повествованием.",
+        "ar": "صانع محتوى تركي يقيم في إسطنبول، اشتهر بأفلامه الوثائقية الغامرة عن السفر إلى أماكن نائية حول العالم بسرد مُتقن.",
+        "hi": "इस्तांबुल में रहने वाले तुर्की क्रिएटर, दुनिया के दूरदराज़ हिस्सों की गहन यात्रा वृत्तचित्रों और सावधानीपूर्वक तैयार की गई कहानी के लिए जाने जाते हैं।",
+        "zh": "居住在伊斯坦布尔的土耳其创作者,以深入世界偏远地区、叙事精心打磨的旅行纪录片著称。",
+        "ja": "イスタンブール在住のトルコ人クリエイターで、世界の辺境地を巡る没入感のある旅行ドキュメンタリーと、丁寧に練られたストーリーテリングで知られる。"
+      },
+      "handles": {
+        "youtube": "UCWpk9PSGHoJW1hZT4egxTNQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
+        "followers": {
+          "youtube": 19600000
+        }
+      }
+    },
+    {
+      "id": "chloe-ting",
+      "name": "Chloe Ting",
+      "country": "AU",
+      "topic": {
+        "es": "Fitness y retos de entrenamiento",
+        "en": "Fitness and workout challenges",
+        "pt": "Fitness e desafios de treino",
+        "fr": "Fitness et défis d'entraînement",
+        "de": "Fitness und Workout-Challenges",
+        "ru": "Фитнес и тренировочные челленджи",
+        "ar": "اللياقة البدنية وتحديات التمارين",
+        "hi": "फिटनेस और वर्कआउट चैलेंज",
+        "zh": "健身与训练挑战",
+        "ja": "フィットネスとワークアウトチャレンジ"
+      },
+      "about": {
+        "es": "Creadora radicada en Melbourne, conocida mundialmente por sus retos de entrenamiento en casa de varias semanas, uno de los formatos fitness más virales de YouTube.",
+        "en": "Melbourne-based creator, globally known for her multi-week at-home workout challenges, one of YouTube's most viral fitness formats.",
+        "pt": "Criadora radicada em Melbourne, mundialmente conhecida por seus desafios de treino em casa de várias semanas, um dos formatos fitness mais virais do YouTube.",
+        "fr": "Créatrice installée à Melbourne, connue mondialement pour ses défis d'entraînement à domicile de plusieurs semaines, l'un des formats fitness les plus viraux de YouTube.",
+        "de": "Creatorin mit Sitz in Melbourne, weltbekannt für ihre mehrwöchigen Home-Workout-Challenges, eines der viralsten Fitness-Formate auf YouTube.",
+        "ru": "Автор из Мельбурна, всемирно известна многонедельными домашними фитнес-челленджами — одним из самых вирусных фитнес-форматов на YouTube.",
+        "ar": "صانعة محتوى تقيم في ملبورن، اشتهرت عالميًا بتحدياتها الرياضية المنزلية التي تمتد لأسابيع، وهي من أكثر صيغ محتوى اللياقة انتشارًا على يوتيوب.",
+        "hi": "मेलबर्न में रहने वाली क्रिएटर, अपनी बहु-सप्ताह की घरेलू वर्कआउट चुनौतियों के लिए विश्व प्रसिद्ध हैं, जो यूट्यूब के सबसे वायरल फिटनेस फ़ॉर्मेट में से एक है।",
+        "zh": "居住在墨尔本的创作者,以数周一期的居家训练挑战闻名全球,是YouTube上最具传播力的健身内容形式之一。",
+        "ja": "メルボルン在住のクリエイターで、数週間にわたる自宅ワークアウトチャレンジで世界的に知られ、YouTubeで最もバイラルなフィットネス形式の一つを生み出した。"
+      },
+      "handles": {
+        "youtube": "UCCgLoMYIyP0U56dEhEL1wXQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
+        "followers": {
+          "youtube": 26100000
+        }
+      }
+    },
+    {
+      "id": "josh2funny",
+      "name": "Josh2Funny",
+      "country": "NG",
+      "topic": {
+        "es": "Comedia en skits",
+        "en": "Comedy skits",
+        "pt": "Comédia em esquetes",
+        "fr": "Sketchs comiques",
+        "de": "Comedy-Sketche",
+        "ru": "Комедийные скетчи",
+        "ar": "سكتشات كوميدية",
+        "hi": "कॉमेडी स्केच",
+        "zh": "喜剧短剧",
+        "ja": "コメディスケッチ"
+      },
+      "about": {
+        "es": "Nombre real Chibuike Josh Alfred; creador nigeriano radicado en Lagos desde los 8 años, conocido por el skit viral #DontLeaveMe y por su acto de 'lector más rápido del mundo' en America's Got Talent.",
+        "en": "Real name Chibuike Josh Alfred; Nigerian creator based in Lagos since age 8, known for the viral #DontLeaveMe skit and his 'world's fastest reader' act on America's Got Talent.",
+        "pt": "Nome real Chibuike Josh Alfred; criador nigeriano radicado em Lagos desde os 8 anos, conhecido pelo esquete viral #DontLeaveMe e por seu número de 'leitor mais rápido do mundo' no America's Got Talent.",
+        "fr": "Vrai nom Chibuike Josh Alfred ; créateur nigérian installé à Lagos depuis l'âge de 8 ans, connu pour le sketch viral #DontLeaveMe et son numéro de « lecteur le plus rapide du monde » à America's Got Talent.",
+        "de": "Bürgerlicher Name Chibuike Josh Alfred; nigerianischer Creator, seit seinem 8. Lebensjahr in Lagos ansässig, bekannt für den viralen Sketch #DontLeaveMe und seinen Auftritt als „schnellster Leser der Welt“ bei America's Got Talent.",
+        "ru": "Настоящее имя Чибуике Джош Альфред; нигерийский автор, живущий в Лагосе с 8 лет, известен вирусным скетчем #DontLeaveMe и номером «самый быстрый чтец в мире» на America's Got Talent.",
+        "ar": "اسمه الحقيقي تشيبويكي جوش ألفريد؛ صانع محتوى نيجيري يقيم في لاغوس منذ سن الثامنة، اشتهر بسكتش #DontLeaveMe الفيروسي وبعرضه كـ'أسرع قارئ في العالم' في برنامج America's Got Talent.",
+        "hi": "असली नाम चिबुइके जॉश अल्फ्रेड; नाइजीरियाई क्रिएटर, 8 साल की उम्र से लागोस में रहते हैं, वायरल स्केच #DontLeaveMe और America's Got Talent पर 'दुनिया के सबसे तेज़ पाठक' के प्रदर्शन के लिए जाने जाते हैं।",
+        "zh": "真名奇布伊克·乔希·阿尔弗雷德;尼日利亚创作者,自8岁起定居拉各斯,因病毒式短剧#DontLeaveMe以及在《America's Got Talent》上表演'世界最快阅读者'而知名。",
+        "ja": "本名チブイケ・ジョシュ・アルフレッド。8歳からラゴスに住むナイジェリア人クリエイターで、バイラルスケッチ「#DontLeaveMe」と『America's Got Talent』での「世界最速の読み手」パフォーマンスで知られる。"
+      },
+      "handles": {
+        "youtube": "UC6AIZZlzcP3csZcPgltF22Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
+        "followers": {
+          "youtube": 867000
+        }
+      }
+    },
+    {
+      "id": "taaooma",
+      "name": "Taaooma",
+      "country": "NG",
+      "topic": {
+        "es": "Comedia de personajes",
+        "en": "Character comedy",
+        "pt": "Comédia de personagens",
+        "fr": "Comédie de personnages",
+        "de": "Charakter-Comedy",
+        "ru": "Комедия персонажей",
+        "ar": "كوميديا الشخصيات",
+        "hi": "कैरेक्टर कॉमेडी",
+        "zh": "角色喜剧",
+        "ja": "キャラクターコメディ"
+      },
+      "about": {
+        "es": "Nombre real Maryam Apaokagi; creadora nigeriana radicada en Lagos, autodidacta en edición de video desde 2015, famosa por su personaje recurrente de madre africana estricta.",
+        "en": "Real name Maryam Apaokagi; Nigerian creator based in Lagos, self-taught in video editing since 2015, famous for her recurring strict-African-mother character.",
+        "pt": "Nome real Maryam Apaokagi; criadora nigeriana radicada em Lagos, autodidata em edição de vídeo desde 2015, famosa por seu personagem recorrente de mãe africana rigorosa.",
+        "fr": "Vrai nom Maryam Apaokagi ; créatrice nigériane installée à Lagos, autodidacte en montage vidéo depuis 2015, célèbre pour son personnage récurrent de mère africaine stricte.",
+        "de": "Bürgerlicher Name Maryam Apaokagi; nigerianische Creatorin mit Sitz in Lagos, seit 2015 autodidaktisch in Videoschnitt, bekannt für ihre wiederkehrende Figur der strengen afrikanischen Mutter.",
+        "ru": "Настоящее имя Марьям Апаокаги; нигерийская авторка из Лагоса, самостоятельно освоила видеомонтаж с 2015 года, известна регулярным персонажем строгой африканской матери.",
+        "ar": "اسمها الحقيقي مريم أباوكاجي؛ صانعة محتوى نيجيرية تقيم في لاغوس، تعلمت مونتاج الفيديو ذاتيًا منذ 2015، اشتهرت بشخصيتها المتكررة للأم الأفريقية الصارمة.",
+        "hi": "असली नाम मरियम अपाओकागी; नाइजीरियाई क्रिएटर, लागोस में रहती हैं, 2015 से स्व-सिखाया वीडियो एडिटिंग करती हैं, सख्त अफ्रीकी माँ के अपने बार-बार आने वाले किरदार के लिए प्रसिद्ध हैं।",
+        "zh": "真名玛丽亚姆·阿帕奥卡吉;尼日利亚创作者,居住在拉各斯,自2015年起自学视频剪辑,以反复出演的'严厉非洲母亲'角色而闻名。",
+        "ja": "本名マリヤム・アパオカギ。ラゴス在住のナイジェリア人クリエイターで、2015年から独学で動画編集を学び、繰り返し登場する「厳格なアフリカ人の母」キャラクターで有名。"
+      },
+      "handles": {
+        "youtube": "UCvG_RH3tAekGN5rPUVUmcIg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
+        "followers": {
+          "youtube": 1280000
+        }
+      }
+    },
+    {
+      "id": "layi-wasabi",
+      "name": "Layi Wasabi",
+      "country": "NG",
+      "topic": {
+        "es": "Comedia con temática legal",
+        "en": "Legal-themed comedy",
+        "pt": "Comédia com temática jurídica",
+        "fr": "Comédie à thème juridique",
+        "de": "Comedy mit juristischem Thema",
+        "ru": "Комедия на юридическую тематику",
+        "ar": "كوميديا بطابع قانوني",
+        "hi": "कानूनी विषयों पर कॉमेडी",
+        "zh": "法律题材喜剧",
+        "ja": "法律テーマのコメディ"
+      },
+      "about": {
+        "es": "Creador nigeriano radicado en Lagos, abogado de formación, conocido por sketches de comedia con temática legal que combinan humor cotidiano con su experiencia en derecho.",
+        "en": "Nigerian creator based in Lagos, trained as a lawyer, known for legal-themed comedy skits that blend everyday humor with his background in law.",
+        "pt": "Criador nigeriano radicado em Lagos, formado em direito, conhecido por esquetes de comédia com temática jurídica que combinam humor cotidiano com sua formação em direito.",
+        "fr": "Créateur nigérian installé à Lagos, formé comme avocat, connu pour ses sketchs comiques à thème juridique mêlant humour du quotidien et sa formation en droit.",
+        "de": "Nigerianischer Creator mit Sitz in Lagos, ausgebildeter Jurist, bekannt für Comedy-Sketche mit juristischem Thema, die Alltagshumor mit seiner Rechtsausbildung verbinden.",
+        "ru": "Нигерийский автор из Лагоса, по образованию юрист, известен комедийными скетчами на юридическую тематику, сочетающими бытовой юмор с его юридическим опытом.",
+        "ar": "صانع محتوى نيجيري يقيم في لاغوس، محامٍ بالتدريب، اشتهر بسكتشات كوميدية بطابع قانوني تمزج الفكاهة اليومية بخلفيته في القانون.",
+        "hi": "नाइजीरियाई क्रिएटर, लागोस में रहते हैं, पेशे से वकील, कानूनी विषयों पर आधारित कॉमेडी स्केच के लिए जाने जाते हैं जो रोज़मर्रा के हास्य को उनके कानूनी अनुभव से जोड़ते हैं।",
+        "zh": "尼日利亚创作者,居住在拉各斯,接受过律师训练,以融合日常幽默与法律背景的法律题材喜剧短剧而闻名。",
+        "ja": "ラゴス在住のナイジェリア人クリエイターで、弁護士としての訓練を受けており、日常のユーモアと法律の知識を組み合わせた法律テーマのコメディスケッチで知られる。"
+      },
+      "handles": {
+        "youtube": "UCJWrb-dnwFY0GTAeA2gKHPg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
+        "followers": {
+          "youtube": 149000
+        }
+      }
+    },
+    {
+      "id": "creator-6eysoe4w",
+      "name": "يوميات حمدي ووفاء",
+      "country": "EG",
+      "topic": {
+        "es": "Vlogs familiares",
+        "en": "Family vlogs",
+        "pt": "Vlogs familiares",
+        "fr": "Vlogs familiaux",
+        "de": "Familien-Vlogs",
+        "ru": "Семейные влоги",
+        "ar": "مدونات فيديو عائلية",
+        "hi": "पारिवारिक व्लॉग",
+        "zh": "家庭视频博客",
+        "ja": "家族Vlog"
+      },
+      "about": {
+        "es": "Hamdy Jaber y Wafaa Sayed, pareja egipcia que documenta su día a día familiar; también son dueños de un restaurante propio en Egipto, donde operan según reportajes de prensa egipcia.",
+        "en": "Hamdy Jaber and Wafaa Sayed, an Egyptian couple documenting their daily family life; they also own a restaurant in Egypt, where they operate according to Egyptian press reports.",
+        "pt": "Hamdy Jaber e Wafaa Sayed, casal egípcio que documenta seu dia a dia em família; também são donos de um restaurante próprio no Egito, onde operam segundo reportagens da imprensa egípcia.",
+        "fr": "Hamdy Jaber et Wafaa Sayed, couple égyptien qui documente leur quotidien familial ; ils possèdent aussi leur propre restaurant en Égypte, où ils opèrent selon la presse égyptienne.",
+        "de": "Hamdy Jaber und Wafaa Sayed, ein ägyptisches Paar, das seinen familiären Alltag dokumentiert; laut ägyptischer Presse betreiben sie zudem ein eigenes Restaurant in Ägypten.",
+        "ru": "Хамди Джабер и Вафаа Сайед, египетская пара, документирующая повседневную семейную жизнь; по данным египетской прессы, также владеют собственным рестораном в Египте.",
+        "ar": "حمدي جابر ووفاء سيد، زوجان مصريان يوثقان حياتهما العائلية اليومية؛ ويمتلكان أيضًا مطعمًا خاصًا بهما في مصر يديرانه وفقًا لتقارير الصحافة المصرية.",
+        "hi": "हमदी जाबेर और वफ़ा सयेद, मिस्री दंपत्ति जो अपने पारिवारिक दैनिक जीवन को दर्शाते हैं; मिस्री प्रेस रिपोर्टों के अनुसार वे मिस्र में अपना खुद का रेस्तरां भी चलाते हैं।",
+        "zh": "哈姆迪·贾比尔与瓦法·赛义德,一对记录家庭日常生活的埃及夫妇;据埃及媒体报道,他们还在埃及经营自己的餐厅。",
+        "ja": "ハムディ・ジャベルとワファー・サイードによるエジプト人夫婦で、家族の日常を記録している。エジプトの報道によれば、エジプト国内で自身のレストランも経営している。"
+      },
+      "handles": {
+        "youtube": "UCLACApi-a7dewNn6EysoE4w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
+        "followers": {
+          "youtube": 9690000
+        }
+      }
+    },
+    {
+      "id": "volodymyr-zolkin",
+      "name": "Volodymyr Zolkin",
+      "country": "UA",
+      "topic": {
+        "es": "Vida cotidiana y reportaje en Ucrania",
+        "en": "Everyday life and reporting from Ukraine",
+        "pt": "Vida cotidiana e reportagem na Ucrânia",
+        "fr": "Vie quotidienne et reportage en Ukraine",
+        "de": "Alltag und Berichterstattung aus der Ukraine",
+        "ru": "Повседневная жизнь и репортажи из Украины",
+        "ar": "الحياة اليومية والتقارير من أوكرانيا",
+        "hi": "यूक्रेन से रोज़मर्रा का जीवन और रिपोर्टिंग",
+        "zh": "乌克兰日常生活与报道",
+        "ja": "ウクライナの日常生活とレポート"
+      },
+      "about": {
+        "es": "Creador ucraniano movilizado en las Fuerzas Armadas de Ucrania en 2026 en un batallón antitanque; documenta su experiencia y la vida cotidiana del país.",
+        "en": "Ukrainian creator mobilized into the Armed Forces of Ukraine in 2026 with an anti-tank battalion; documents his experience and everyday life in the country.",
+        "pt": "Criador ucraniano mobilizado nas Forças Armadas da Ucrânia em 2026 em um batalhão antitanque; documenta sua experiência e o cotidiano do país.",
+        "fr": "Créateur ukrainien mobilisé dans les forces armées ukrainiennes en 2026 au sein d'un bataillon antichar ; documente son expérience et la vie quotidienne du pays.",
+        "de": "Ukrainischer Creator, der 2026 in ein Panzerabwehrbataillon der ukrainischen Streitkräfte einberufen wurde; dokumentiert seine Erfahrungen und den Alltag im Land.",
+        "ru": "Украинский автор, мобилизованный в Вооружённые силы Украины в 2026 году в противотанковый батальон; документирует свой опыт и повседневную жизнь страны.",
+        "ar": "صانع محتوى أوكراني جُند في القوات المسلحة الأوكرانية عام 2026 ضمن كتيبة مضادة للدبابات؛ يوثق تجربته والحياة اليومية في البلاد.",
+        "hi": "यूक्रेनी क्रिएटर, जिन्हें 2026 में यूक्रेन की सशस्त्र सेना में एक एंटी-टैंक बटालियन में शामिल किया गया; अपने अनुभव और देश के रोज़मर्रा के जीवन को दर्शाते हैं।",
+        "zh": "乌克兰创作者,2026年被征召加入乌克兰武装部队反坦克营;记录自己的经历与国内日常生活。",
+        "ja": "2026年にウクライナ軍の対戦車大隊に動員されたウクライナ人クリエイターで、自身の体験と国内の日常生活を記録している。"
+      },
+      "handles": {
+        "youtube": "UC8juxfcRfSm9Af90S4mZE1Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
+        "followers": {
+          "youtube": 2310000
+        }
+      }
+    },
+    {
+      "id": "oussama-bl",
+      "name": "Oussama BL",
+      "country": "MA",
+      "topic": {
+        "es": "Vlogs y contenido de estilo de vida",
+        "en": "Vlogs and lifestyle content",
+        "pt": "Vlogs e conteúdo de estilo de vida",
+        "fr": "Vlogs et contenu lifestyle",
+        "de": "Vlogs und Lifestyle-Inhalte",
+        "ru": "Влоги и лайфстайл-контент",
+        "ar": "مدونات فيديو ومحتوى نمط الحياة",
+        "hi": "व्लॉग और लाइफस्टाइल कंटेंट",
+        "zh": "视频博客与生活方式内容",
+        "ja": "Vlogとライフスタイルコンテンツ"
+      },
+      "about": {
+        "es": "Creador marroquí nacido el 1 de noviembre de 1992, verificado a través de HypeAuditor y su canal oficial; produce contenido de vlogs y estilo de vida en francés y árabe.",
+        "en": "Moroccan creator born November 1, 1992, verified via HypeAuditor and his official channel; produces vlog and lifestyle content in French and Arabic.",
+        "pt": "Criador marroquino nascido em 1º de novembro de 1992, verificado via HypeAuditor e seu canal oficial; produz conteúdo de vlogs e estilo de vida em francês e árabe.",
+        "fr": "Créateur marocain né le 1er novembre 1992, vérifié via HypeAuditor et sa chaîne officielle ; produit du contenu vlog et lifestyle en français et en arabe.",
+        "de": "Marokkanischer Creator, geboren am 1. November 1992, verifiziert über HypeAuditor und seinen offiziellen Kanal; produziert Vlog- und Lifestyle-Inhalte auf Französisch und Arabisch.",
+        "ru": "Марокканский автор, родившийся 1 ноября 1992 года, подтверждён через HypeAuditor и его официальный канал; создаёт влоги и лайфстайл-контент на французском и арабском языках.",
+        "ar": "صانع محتوى مغربي وُلد في 1 نوفمبر 1992، تم التحقق منه عبر HypeAuditor وقناته الرسمية؛ ينتج محتوى مدونات فيديو ونمط حياة بالفرنسية والعربية.",
+        "hi": "मोरक्को के क्रिएटर, जन्म 1 नवंबर 1992, HypeAuditor और उनके आधिकारिक चैनल से सत्यापित; फ्रेंच और अरबी में व्लॉग और लाइफस्टाइल सामग्री बनाते हैं।",
+        "zh": "摩洛哥创作者,1992年11月1日出生,通过HypeAuditor及其官方频道核实身份;以法语和阿拉伯语制作视频博客与生活方式内容。",
+        "ja": "モロッコのクリエイターで、1992年11月1日生まれ。HypeAuditorおよび公式チャンネルで身元確認済み。フランス語とアラビア語でVlogとライフスタイルコンテンツを制作している。"
+      },
+      "handles": {
+        "youtube": "UClSh66QSQuUw8oYGV9TMrCg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
+        "followers": {
+          "youtube": 1950000
+        }
+      }
     }
   ]
 }
