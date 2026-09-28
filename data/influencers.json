@@ -22273,6 +22273,446 @@
           "youtube": 8960000
         }
       }
+    },
+    {
+      "id": "cristiano-ronaldo",
+      "name": "Cristiano Ronaldo",
+      "country": "PT",
+      "topic": {
+        "es": "Fútbol, familia y estilo de vida",
+        "en": "Football, family and lifestyle",
+        "pt": "Futebol, família e estilo de vida",
+        "fr": "Football, famille et style de vie",
+        "de": "Fußball, Familie und Lifestyle",
+        "ru": "Футбол, семья и образ жизни",
+        "ar": "كرة القدم والعائلة وأسلوب الحياة",
+        "hi": "फुटबॉल, परिवार और जीवनशैली",
+        "zh": "足球、家庭与生活方式",
+        "ja": "サッカー、家族、ライフスタイル"
+      },
+      "about": {
+        "es": "Futbolista profesional portugués que lanzó su canal oficial 'UR Cristiano' en agosto de 2024, alcanzando 1 millón de suscriptores en solo 90 minutos, un récord mundial. El canal muestra contenido sobre su carrera deportiva, su familia, bienestar y proyectos de negocio.",
+        "en": "Portuguese professional footballer who launched his official channel 'UR Cristiano' in August 2024, reaching 1 million subscribers in just 90 minutes, a world record. The channel features content about his sporting career, family, wellness and business ventures.",
+        "pt": "Futebolista profissional português que lançou o seu canal oficial 'UR Cristiano' em agosto de 2024, atingindo 1 milhão de subscritores em apenas 90 minutos, um recorde mundial. O canal mostra conteúdo sobre a sua carreira desportiva, família, bem-estar e projetos empresariais.",
+        "fr": "Footballeur professionnel portugais qui a lancé sa chaîne officielle « UR Cristiano » en août 2024, atteignant 1 million d'abonnés en seulement 90 minutes, un record mondial. La chaîne présente du contenu sur sa carrière sportive, sa famille, son bien-être et ses projets d'affaires.",
+        "de": "Portugiesischer Profifußballer, der im August 2024 seinen offiziellen Kanal „UR Cristiano“ startete und in nur 90 Minuten 1 Million Abonnenten erreichte – ein Weltrekord. Der Kanal zeigt Inhalte über seine sportliche Karriere, Familie, Wohlbefinden und geschäftliche Projekte.",
+        "ru": "Португальский профессиональный футболист, запустивший в августе 2024 года свой официальный канал «UR Cristiano», который за 90 минут набрал 1 миллион подписчиков — мировой рекорд. На канале публикуется контент о его спортивной карьере, семье, здоровье и бизнес-проектах.",
+        "ar": "لاعب كرة قدم محترف برتغالي أطلق قناته الرسمية 'UR Cristiano' في أغسطس 2024، ووصل إلى مليون مشترك خلال 90 دقيقة فقط، محققًا رقمًا قياسيًا عالميًا. تعرض القناة محتوى عن مسيرته الرياضية وعائلته وصحته ومشاريعه التجارية.",
+        "hi": "पुर्तगाली पेशेवर फुटबॉलर, जिन्होंने अगस्त 2024 में अपना आधिकारिक चैनल 'UR Cristiano' लॉन्च किया और केवल 90 मिनट में 10 लाख सब्सक्राइबर तक पहुंचकर विश्व रिकॉर्ड बनाया। इस चैनल पर उनके खेल करियर, परिवार, स्वास्थ्य और व्यावसायिक परियोजनाओं से जुड़ी सामग्री दिखाई जाती है।",
+        "zh": "葡萄牙职业足球运动员,于2024年8月推出官方频道'UR Cristiano',仅90分钟便达到100万订阅者,创下世界纪录。该频道展示他的体育生涯、家庭、健康生活及商业项目相关内容。",
+        "ja": "ポルトガルのプロサッカー選手で、2024年8月に公式チャンネル「UR Cristiano」を開設し、わずか90分で登録者100万人を達成して世界記録を樹立した。チャンネルではサッカー人生、家族、健康、ビジネスに関するコンテンツを配信している。"
+      },
+      "handles": {
+        "youtube": "UCtxD0x6AuNNqdXO9Wp5GHew",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 83400000
+        }
+      }
+    },
+    {
+      "id": "sirkazzio",
+      "name": "SirKazzio",
+      "country": "PT",
+      "topic": {
+        "es": "Gaming, vlogs y entretenimiento",
+        "en": "Gaming, vlogs and entertainment",
+        "pt": "Gaming, vlogs e entretenimento",
+        "fr": "Jeux vidéo, vlogs et divertissement",
+        "de": "Gaming, Vlogs und Unterhaltung",
+        "ru": "Игры, влоги и развлечения",
+        "ar": "الألعاب والفلوجات والترفيه",
+        "hi": "गेमिंग, व्लॉग और मनोरंजन",
+        "zh": "游戏、视频博客与娱乐",
+        "ja": "ゲーム実況、ブイログ、エンターテインメント"
+      },
+      "about": {
+        "es": "Anthony José Badra de Sousa, nacido en Maracay (Venezuela) y residente en Lisboa desde su infancia, creó su canal en 2012 y es descrito por medios portugueses como el youtuber con más suscriptores de Portugal, con contenido de Minecraft, retos y vlogs. Es también cantante y autor de dos libros.",
+        "en": "Anthony José Badra de Sousa, born in Maracay (Venezuela) and a resident of Lisbon since childhood, created his channel in 2012 and is described by Portuguese media as the country's most-subscribed YouTuber, with Minecraft, challenge and vlog content. He is also a singer and the author of two books.",
+        "pt": "Anthony José Badra de Sousa, nascido em Maracay (Venezuela) e residente em Lisboa desde a infância, criou o seu canal em 2012 e é apontado pela imprensa portuguesa como o youtuber com mais subscritores de Portugal, com conteúdo de Minecraft, desafios e vlogs. É também cantor e autor de dois livros.",
+        "fr": "Anthony José Badra de Sousa, né à Maracay (Venezuela) et résidant à Lisbonne depuis l'enfance, a créé sa chaîne en 2012 et est présenté par les médias portugais comme le YouTubeur le plus suivi du pays, avec du contenu Minecraft, des défis et des vlogs. Il est aussi chanteur et auteur de deux livres.",
+        "de": "Anthony José Badra de Sousa, geboren in Maracay (Venezuela) und seit seiner Kindheit in Lissabon ansässig, gründete seinen Kanal 2012 und wird von portugiesischen Medien als meistabonnierter YouTuber des Landes bezeichnet, mit Minecraft-, Challenge- und Vlog-Inhalten. Er ist zudem Sänger und Autor zweier Bücher.",
+        "ru": "Энтони Хосе Бадра де Соуза, родившийся в Маракае (Венесуэла) и проживающий в Лиссабоне с детства, создал свой канал в 2012 году; португальские СМИ называют его самым популярным ютубером страны — контент о Minecraft, челленджах и влогах. Он также певец и автор двух книг.",
+        "ar": "أنتوني خوسيه بدرا دي سوزا، وُلد في ماراكاي (فنزويلا) ويقيم في لشبونة منذ طفولته، أنشأ قناته عام 2012 وتصفه وسائل الإعلام البرتغالية بأنه صاحب أكبر عدد مشتركين بين يوتيوبرز البلاد، بمحتوى عن ماينكرافت والتحديات والفلوجات. وهو أيضًا مغنٍّ ومؤلف كتابين.",
+        "hi": "एंथनी जोसे बद्रा दे सूजा, जिनका जन्म माराके (वेनेज़ुएला) में हुआ और जो बचपन से लिस्बन में रहते हैं, उन्होंने 2012 में अपना चैनल बनाया और पुर्तगाली मीडिया उन्हें देश का सबसे अधिक सब्सक्राइबर वाला यूट्यूबर बताता है, जिसमें Minecraft, चुनौतियाँ और व्लॉग शामिल हैं। वे गायक और दो पुस्तकों के लेखक भी हैं।",
+        "zh": "安东尼·若泽·巴德拉·德·索萨出生于委内瑞拉马拉凯,自幼定居里斯本,于2012年创建频道,被葡萄牙媒体称为该国订阅者最多的YouTuber,内容涵盖《我的世界》、挑战和视频博客。他还是一名歌手,并著有两本书。",
+        "ja": "アントニー・ジョゼ・バドラ・デ・ソウザはベネズエラのマラカイ生まれで、幼少期からリスボンに在住。2012年にチャンネルを開設し、ポルトガルのメディアからは同国で最も登録者数の多いYouTuberとされ、Minecraftやチャレンジ、ブイログを配信している。歌手でもあり、著書2冊がある。"
+      },
+      "handles": {
+        "youtube": "UCaMYfhdKrlqqEpkynPvgVQw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 4860000
+        }
+      }
+    },
+    {
+      "id": "d4rkframe",
+      "name": "D4rkFrame",
+      "country": "PT",
+      "topic": {
+        "es": "Gaming de terror, retos y vlogs",
+        "en": "Horror gaming, challenges and vlogs",
+        "pt": "Gaming de terror, desafios e vlogs",
+        "fr": "Jeu vidéo d'horreur, défis et vlogs",
+        "de": "Horror-Gaming, Challenges und Vlogs",
+        "ru": "Игры в жанре хоррор, челленджи и влоги",
+        "ar": "ألعاب الرعب والتحديات والفلوجات",
+        "hi": "हॉरर गेमिंग, चुनौतियाँ और व्लॉग",
+        "zh": "恐怖游戏、挑战与视频博客",
+        "ja": "ホラーゲーム実況、チャレンジ、ブイログ"
+      },
+      "about": {
+        "es": "António Luís Martins Ramos, nacido el 22 de marzo de 1994 en Lisboa, creó su canal el 20 de junio de 2013, comenzando con gameplay mayoritariamente de terror y sketches; hoy suma cerca de 5 millones de suscriptores. Figuró entre los YouTubers más influyentes de Portugal según Forbes.",
+        "en": "António Luís Martins Ramos, born 22 March 1994 in Lisbon, created his channel on 20 June 2013, starting mostly with horror gameplay and sketches; he now has around 5 million subscribers. He ranked among Portugal's most influential YouTubers according to Forbes.",
+        "pt": "António Luís Martins Ramos, nascido a 22 de março de 1994 em Lisboa, criou o seu canal a 20 de junho de 2013, começando sobretudo com gameplay de terror e sketches; conta atualmente com cerca de 5 milhões de subscritores. Constou da lista dos YouTubers mais influentes de Portugal segundo a Forbes.",
+        "fr": "António Luís Martins Ramos, né le 22 mars 1994 à Lisbonne, a créé sa chaîne le 20 juin 2013, en commençant surtout par du gameplay d'horreur et des sketchs ; il compte aujourd'hui environ 5 millions d'abonnés. Il a figuré parmi les YouTubeurs les plus influents du Portugal selon Forbes.",
+        "de": "António Luís Martins Ramos, geboren am 22. März 1994 in Lissabon, gründete seinen Kanal am 20. Juni 2013 und begann vor allem mit Horror-Gameplay und Sketchen; heute hat er rund 5 Millionen Abonnenten. Laut Forbes zählte er zu den einflussreichsten YouTubern Portugals.",
+        "ru": "Антониу Луиш Мартинш Рамуш родился 22 марта 1994 года в Лиссабоне и создал свой канал 20 июня 2013 года, начав в основном с прохождений хорроров и скетчей; сейчас у него около 5 миллионов подписчиков. По версии Forbes входил в число самых влиятельных ютуберов Португалии.",
+        "ar": "أنطونيو لويس مارتينز راموس، وُلد في 22 مارس 1994 في لشبونة، أنشأ قناته في 20 يونيو 2013 بمحتوى ألعاب رعب وسكتشات في البداية؛ يمتلك الآن نحو 5 ملايين مشترك. صُنّف ضمن أكثر يوتيوبرز البرتغال تأثيرًا وفق مجلة فوربس.",
+        "hi": "एंतोनियो लुईश मार्टिंश रामोस, जन्म 22 मार्च 1994, लिस्बन में, उन्होंने 20 जून 2013 को अपना चैनल शुरू किया, मुख्य रूप से हॉरर गेमप्ले और स्केच के साथ; अब उनके लगभग 50 लाख सब्सक्राइबर हैं। फोर्ब्स के अनुसार वे पुर्तगाल के सबसे प्रभावशाली यूट्यूबरों में शामिल रहे।",
+        "zh": "安东尼奥·路易斯·马丁斯·拉莫斯于1994年3月22日出生在里斯本,2013年6月20日创建频道,最初以恐怖游戏实况和短剧为主,目前拥有约500万订阅者。据《福布斯》报道,他曾入选葡萄牙最具影响力的YouTuber名单。",
+        "ja": "アントニオ・ルイス・マルティンス・ラモスは1994年3月22日リスボン生まれ。2013年6月20日にチャンネルを開設し、当初はホラーゲーム実況やコント動画が中心で、現在は約500万人の登録者を持つ。フォーブス誌によればポルトガルで最も影響力のあるYouTuberの一人とされた。"
+      },
+      "handles": {
+        "youtube": "UC7wseMScXyaEP7ubWutNZmQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 4850000
+        }
+      }
+    },
+    {
+      "id": "wuant",
+      "name": "Wuant",
+      "country": "PT",
+      "topic": {
+        "es": "Gaming, música y entretenimiento",
+        "en": "Gaming, music and entertainment",
+        "pt": "Gaming, música e entretenimento",
+        "fr": "Jeux vidéo, musique et divertissement",
+        "de": "Gaming, Musik und Unterhaltung",
+        "ru": "Игры, музыка и развлечения",
+        "ar": "الألعاب والموسيقى والترفيه",
+        "hi": "गेमिंग, संगीत और मनोरंजन",
+        "zh": "游戏、音乐与娱乐",
+        "ja": "ゲーム実況、音楽、エンターテインメント"
+      },
+      "about": {
+        "es": "Paulo Filipe Morgado Borges, nacido el 9 de diciembre de 1995, comenzó en 2012 grabando vídeos de Minecraft y hoy suma unos 3,7 millones de suscriptores; con el tiempo amplió su contenido a música y streaming, incluso bajo el alias 'Blueyes' como productor musical, y también transmite en Twitch.",
+        "en": "Paulo Filipe Morgado Borges, born 9 December 1995, started in 2012 recording Minecraft videos and now has around 3.7 million subscribers; over time he expanded into music and livestreaming, including as a music producer under the alias 'Blueyes', and also streams on Twitch.",
+        "pt": "Paulo Filipe Morgado Borges, nascido a 9 de dezembro de 1995, começou em 2012 a gravar vídeos de Minecraft e conta hoje com cerca de 3,7 milhões de subscritores; ao longo do tempo alargou o conteúdo à música e às livestreams, incluindo como produtor musical sob o pseudónimo 'Blueyes', transmitindo também na Twitch.",
+        "fr": "Paulo Filipe Morgado Borges, né le 9 décembre 1995, a commencé en 2012 en enregistrant des vidéos Minecraft et compte aujourd'hui environ 3,7 millions d'abonnés ; il a ensuite élargi son contenu à la musique et aux diffusions en direct, notamment en tant que producteur musical sous le pseudonyme « Blueyes », et diffuse aussi sur Twitch.",
+        "de": "Paulo Filipe Morgado Borges, geboren am 9. Dezember 1995, begann 2012 mit Minecraft-Videos und hat heute rund 3,7 Millionen Abonnenten; im Laufe der Zeit erweiterte er sein Angebot um Musik und Livestreams, unter anderem als Musikproduzent unter dem Pseudonym „Blueyes“, und streamt auch auf Twitch.",
+        "ru": "Паулу Филипе Моргаду Боржиш родился 9 декабря 1995 года, начал в 2012 году с видео по Minecraft и сейчас имеет около 3,7 миллиона подписчиков; со временем добавил музыку и стримы, в том числе выступает как музыкальный продюсер под псевдонимом «Blueyes», а также ведёт трансляции на Twitch.",
+        "ar": "باولو فيليبي مورغادو بورجيس، وُلد في 9 ديسمبر 1995، بدأ عام 2012 بتسجيل مقاطع Minecraft ولديه الآن نحو 3.7 مليون مشترك؛ وسّع محتواه لاحقًا ليشمل الموسيقى والبث المباشر، بما في ذلك عمله كمنتج موسيقي تحت اسم 'Blueyes'، ويبث أيضًا على تويتش.",
+        "hi": "पाउलो फिलीप मोर्गादो बोर्जेस, जन्म 9 दिसंबर 1995, ने 2012 में Minecraft वीडियो बनाना शुरू किया और अब उनके लगभग 37 लाख सब्सक्राइबर हैं; समय के साथ उन्होंने संगीत और लाइवस्ट्रीमिंग में विस्तार किया, जिसमें 'Blueyes' उपनाम से संगीत निर्माता के रूप में काम करना भी शामिल है, और वे Twitch पर भी स्ट्रीम करते हैं।",
+        "zh": "保罗·菲利佩·莫尔加多·博尔赫斯生于1995年12月9日,2012年开始制作《我的世界》视频,目前拥有约370万订阅者;随着时间推移,他将内容扩展至音乐和直播领域,并以艺名'Blueyes'担任音乐制作人,同时也在Twitch上直播。",
+        "ja": "パウロ・フィリペ・モルガード・ボルジェスは1995年12月9日生まれ。2012年にMinecraft動画の制作を始め、現在は約370万人の登録者を持つ。その後、音楽制作やライブ配信にも活動を広げ、「Blueyes」名義で音楽プロデューサーとしても活動し、Twitchでも配信を行っている。"
+      },
+      "handles": {
+        "youtube": "UCSHSIx0CttXzzuT3YLVZC7Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 3670000
+        }
+      }
+    },
+    {
+      "id": "fer0m0nas",
+      "name": "Fer0m0nas",
+      "country": "PT",
+      "topic": {
+        "es": "Gaming (Minecraft)",
+        "en": "Gaming (Minecraft)",
+        "pt": "Gaming (Minecraft)",
+        "fr": "Jeux vidéo (Minecraft)",
+        "de": "Gaming (Minecraft)",
+        "ru": "Игры (Minecraft)",
+        "ar": "الألعاب (ماينكرافت)",
+        "hi": "गेमिंग (Minecraft)",
+        "zh": "游戏内容(我的世界)",
+        "ja": "ゲーム実況(Minecraft)"
+      },
+      "about": {
+        "es": "Miguel Campos, conocido como Fer0m0nas, creó su canal en octubre de 2011 centrado principalmente en Minecraft y llegó a ser descrito por la prensa portuguesa como el mayor youtuber del país, con más de 2,6 millones de suscriptores. Sus seguidores se autodenominan 'Fenoninhos'.",
+        "en": "Miguel Campos, known as Fer0m0nas, created his channel in October 2011 focused mainly on Minecraft and was described by the Portuguese press as the country's biggest YouTuber, with over 2.6 million subscribers. His fans call themselves 'Fenoninhos'.",
+        "pt": "Miguel Campos, conhecido como Fer0m0nas, criou o seu canal em outubro de 2011 focado sobretudo em Minecraft e chegou a ser apontado pela imprensa portuguesa como o maior youtuber do país, com mais de 2,6 milhões de subscritores. Os seus fãs autodenominam-se 'Fenoninhos'.",
+        "fr": "Miguel Campos, connu sous le nom de Fer0m0nas, a créé sa chaîne en octobre 2011, principalement consacrée à Minecraft, et a été présenté par la presse portugaise comme le plus grand YouTubeur du pays, avec plus de 2,6 millions d'abonnés. Ses fans se surnomment « Fenoninhos ».",
+        "de": "Miguel Campos, bekannt als Fer0m0nas, gründete seinen Kanal im Oktober 2011, der sich hauptsächlich Minecraft widmet, und wurde von der portugiesischen Presse als größter YouTuber des Landes mit über 2,6 Millionen Abonnenten bezeichnet. Seine Fans nennen sich „Fenoninhos“.",
+        "ru": "Мигел Кампуш, известный как Fer0m0nas, создал свой канал в октябре 2011 года, посвящённый в основном Minecraft, и был назван португальской прессой крупнейшим ютубером страны с более чем 2,6 миллиона подписчиков. Его поклонники называют себя «Fenoninhos».",
+        "ar": "ميغيل كامبوس، المعروف باسم Fer0m0nas، أنشأ قناته في أكتوبر 2011 وركّز فيها بشكل أساسي على لعبة Minecraft، ووصفته الصحافة البرتغالية بأنه أكبر يوتيوبر في البلاد بأكثر من 2.6 مليون مشترك. يُطلق معجبوه على أنفسهم اسم 'Fenoninhos'.",
+        "hi": "मिगेल कैम्पोस, जिन्हें Fer0m0nas के नाम से जाना जाता है, ने अक्टूबर 2011 में मुख्य रूप से Minecraft पर केंद्रित अपना चैनल बनाया और पुर्तगाली प्रेस ने उन्हें देश का सबसे बड़ा यूट्यूबर बताया, जिनके 26 लाख से अधिक सब्सक्राइबर हैं। उनके प्रशंसक खुद को 'Fenoninhos' कहते हैं।",
+        "zh": "米格尔·坎波斯,艺名Fer0m0nas,于2011年10月创建频道,主要制作《我的世界》内容,曾被葡萄牙媒体称为该国最大的YouTuber,订阅者超过260万。他的粉丝自称'Fenoninhos'。",
+        "ja": "ミゲル・カンポスは「Fer0m0nas」として知られ、2011年10月に主にMinecraftを扱うチャンネルを開設し、ポルトガルのメディアから同国最大のYouTuberと評され、登録者数は260万人を超える。ファンは自らを「Fenoninhos」と呼んでいる。"
+      },
+      "handles": {
+        "youtube": "UC4pxiz_9Ok-B4jiKBVYLODg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 3180000
+        }
+      }
+    },
+    {
+      "id": "tiagovski",
+      "name": "Tiagovski",
+      "country": "PT",
+      "topic": {
+        "es": "Gaming (GTA V y otros)",
+        "en": "Gaming (GTA V and others)",
+        "pt": "Gaming (GTA V e outros)",
+        "fr": "Jeux vidéo (GTA V et autres)",
+        "de": "Gaming (GTA V und andere)",
+        "ru": "Игры (GTA V и другие)",
+        "ar": "الألعاب (GTA V وغيرها)",
+        "hi": "गेमिंग (GTA V और अन्य)",
+        "zh": "游戏内容(GTA V等)",
+        "ja": "ゲーム実況(GTA Vなど)"
+      },
+      "about": {
+        "es": "Tiago Saramago, conocido como Tiagovski, es un youtuber portugués centrado principalmente en videojuegos como GTA V Online y Clash Royale. Su canal supera el millón de suscriptores y sigue activo con nuevo contenido, según estadísticas de rendimiento actualizadas en 2026.",
+        "en": "Tiago Saramago, known as Tiagovski, is a Portuguese YouTuber focused mainly on video games such as GTA V Online and Clash Royale. His channel has over one million subscribers and remains active with new content, according to performance statistics updated in 2026.",
+        "pt": "Tiago Saramago, conhecido como Tiagovski, é um youtuber português focado sobretudo em videojogos como GTA V Online e Clash Royale. O seu canal ultrapassa o milhão de subscritores e mantém-se ativo com conteúdo novo, segundo estatísticas de desempenho atualizadas em 2026.",
+        "fr": "Tiago Saramago, connu sous le nom de Tiagovski, est un YouTubeur portugais principalement axé sur les jeux vidéo comme GTA V Online et Clash Royale. Sa chaîne dépasse le million d'abonnés et reste active avec du nouveau contenu, selon des statistiques mises à jour en 2026.",
+        "de": "Tiago Saramago, bekannt als Tiagovski, ist ein portugiesischer YouTuber, der sich hauptsächlich auf Videospiele wie GTA V Online und Clash Royale konzentriert. Sein Kanal hat über eine Million Abonnenten und bleibt laut 2026 aktualisierten Leistungsstatistiken mit neuen Inhalten aktiv.",
+        "ru": "Тиагу Сарамагу, известный как Tiagovski, — португальский ютубер, сосредоточенный в основном на видеоиграх, таких как GTA V Online и Clash Royale. Его канал насчитывает более миллиона подписчиков и остаётся активным с новым контентом, согласно статистике, обновлённой в 2026 году.",
+        "ar": "تياغو سارامغو، المعروف باسم Tiagovski، هو يوتيوبر برتغالي يركز بشكل أساسي على ألعاب الفيديو مثل GTA V Online وClash Royale. تتجاوز قناته مليون مشترك ولا تزال نشطة بمحتوى جديد، وفق إحصاءات محدّثة في 2026.",
+        "hi": "तियागो सारामागो, जिन्हें Tiagovski के नाम से जाना जाता है, एक पुर्तगाली यूट्यूबर हैं जो मुख्य रूप से GTA V Online और Clash Royale जैसे वीडियो गेम पर केंद्रित हैं। उनका चैनल 10 लाख से अधिक सब्सक्राइबर रखता है और 2026 में अद्यतन प्रदर्शन आंकड़ों के अनुसार नई सामग्री के साथ सक्रिय है।",
+        "zh": "蒂亚戈·萨拉马戈,艺名Tiagovski,是一位葡萄牙YouTuber,主要制作《GTA V Online》和《皇室战争》等游戏内容。据2026年更新的数据统计,他的频道订阅者超过一百万,并持续更新活跃。",
+        "ja": "ティアゴ・サラマゴは「Tiagovski」として知られるポルトガルのYouTuberで、主に『GTA V Online』や『クラッシュ・ロワイヤル』などのゲーム実況を行っている。チャンネル登録者数は100万人を超え、2026年更新のデータによれば新規コンテンツを継続的に配信し活動中である。"
+      },
+      "handles": {
+        "youtube": "UCtMe4du_yvUS9FkR7nFQ5TQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 1030000
+        }
+      }
+    },
+    {
+      "id": "bernardo-almeida",
+      "name": "Bernardo Almeida",
+      "country": "PT",
+      "topic": {
+        "es": "Tecnología y finanzas personales",
+        "en": "Technology and personal finance",
+        "pt": "Tecnologia e finanças pessoais",
+        "fr": "Technologie et finances personnelles",
+        "de": "Technologie und persönliche Finanzen",
+        "ru": "Технологии и личные финансы",
+        "ar": "التقنية والتمويل الشخصي",
+        "hi": "प्रौद्योगिकी और व्यक्तिगत वित्त",
+        "zh": "科技与个人理财",
+        "ja": "テクノロジーと個人資産形成"
+      },
+      "about": {
+        "es": "Bernardo Almeida abandonó la ingeniería mecánica en el Instituto Superior Técnico para dedicarse al canal de tecnología que creó en 2014, con reseñas, unboxings y tutoriales que superan los 800.000 suscriptores y más de 130 millones de visualizaciones. En 2024 lanzó además 'Finanças do Bernardo', un canal centrado en educación financiera.",
+        "en": "Bernardo Almeida dropped out of mechanical engineering at Instituto Superior Técnico to focus on the technology channel he created in 2014, featuring reviews, unboxings and tutorials that have passed 800,000 subscribers and more than 130 million views. In 2024 he also launched 'Finanças do Bernardo', a channel focused on financial education.",
+        "pt": "Bernardo Almeida abandonou a engenharia mecânica no Instituto Superior Técnico para se dedicar ao canal de tecnologia que criou em 2014, com análises, unboxings e tutoriais que já ultrapassam os 800 mil subscritores e mais de 130 milhões de visualizações. Em 2024 lançou também o 'Finanças do Bernardo', canal focado em educação financeira.",
+        "fr": "Bernardo Almeida a abandonné le génie mécanique à l'Instituto Superior Técnico pour se consacrer à sa chaîne technologique créée en 2014, avec des tests, des déballages et des tutoriels qui dépassent 800 000 abonnés et plus de 130 millions de vues. En 2024, il a également lancé « Finanças do Bernardo », une chaîne consacrée à l'éducation financière.",
+        "de": "Bernardo Almeida brach sein Maschinenbaustudium am Instituto Superior Técnico ab, um sich seinem 2014 gegründeten Technologiekanal zu widmen, der mit Reviews, Unboxings und Tutorials über 800.000 Abonnenten und mehr als 130 Millionen Aufrufe verzeichnet. 2024 startete er zudem „Finanças do Bernardo“, einen Kanal zur Finanzbildung.",
+        "ru": "Бернарду Алмейда бросил обучение машиностроению в Высшем техническом институте, чтобы сосредоточиться на технологическом канале, созданном в 2014 году, — обзоры, распаковки и обучающие видео, набравшие более 800 000 подписчиков и свыше 130 миллионов просмотров. В 2024 году он также запустил «Finanças do Bernardo», канал о финансовой грамотности.",
+        "ar": "ترك برناردو ألميدا دراسة الهندسة الميكانيكية في المعهد العالي التقني للتفرغ لقناته التقنية التي أنشأها عام 2014، وتضم مراجعات وفتح صناديق ودروسًا تجاوزت 800 ألف مشترك وأكثر من 130 مليون مشاهدة. وفي 2024 أطلق أيضًا قناة 'Finanças do Bernardo' المخصصة للتثقيف المالي.",
+        "hi": "बर्नार्दो अल्मेइदा ने इंस्टीट्यूटो सुपीरियर टेकनीको में मैकेनिकल इंजीनियरिंग छोड़कर 2014 में बनाए गए अपने टेक्नोलॉजी चैनल पर ध्यान केंद्रित किया, जिसमें समीक्षाएं, अनबॉक्सिंग और ट्यूटोरियल शामिल हैं और जो 8 लाख सब्सक्राइबर तथा 13 करोड़ से अधिक व्यूज़ पार कर चुका है। 2024 में उन्होंने वित्तीय शिक्षा पर केंद्रित 'Finanças do Bernardo' चैनल भी शुरू किया।",
+        "zh": "贝尔纳多·阿尔梅达放弃了里斯本高等技术学院的机械工程学业,专注于他2014年创办的科技频道,内容包括评测、开箱和教程,订阅者已超过80万,观看次数逾1.3亿。2024年,他还推出了专注理财教育的频道'Finanças do Bernardo'。",
+        "ja": "ベルナルド・アルメイダはリスボン工科大学での機械工学の学業を中退し、2014年に開設した自身のテクノロジーチャンネルに専念した。レビューや開封動画、チュートリアルを配信し、登録者数は80万人を超え、総再生回数は1億3000万回以上に達している。2024年には金融教育に特化した新チャンネル「Finanças do Bernardo」も開設した。"
+      },
+      "handles": {
+        "youtube": "UCDOZDfbVGOrywV4n0WeaRAA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 1020000
+        }
+      }
+    },
+    {
+      "id": "catarina-filipe",
+      "name": "Catarina Filipe",
+      "country": "PT",
+      "topic": {
+        "es": "Moda, belleza y vlogs",
+        "en": "Fashion, beauty and vlogs",
+        "pt": "Moda, beleza e vlogs",
+        "fr": "Mode, beauté et vlogs",
+        "de": "Mode, Beauty und Vlogs",
+        "ru": "Мода, красота и влоги",
+        "ar": "الموضة والجمال والفلوجات",
+        "hi": "फैशन, सौंदर्य और व्लॉग",
+        "zh": "时尚、美妆与视频博客",
+        "ja": "ファッション、美容、ブイログ"
+      },
+      "about": {
+        "es": "Catarina Sofia Santos Filipe, nacida el 12 de febrero de 1995 en EE. UU. de padres emigrantes portugueses, se crió en Óbidos y Caldas da Rainha (Portugal) y en 2014 creó el proyecto 'Flores no Meu Cabelo' sobre moda y belleza. Su canal se mantiene activo con vlogs semanales publicados en 2025; también es autora de un libro y cantante.",
+        "en": "Catarina Sofia Santos Filipe, born 12 February 1995 in the US to Portuguese emigrant parents, grew up in Óbidos and Caldas da Rainha (Portugal) and in 2014 created the 'Flores no Meu Cabelo' project on fashion and beauty. Her channel stays active with weekly vlogs published in 2025; she is also a book author and a singer.",
+        "pt": "Catarina Sofia Santos Filipe, nascida a 12 de fevereiro de 1995 nos EUA, filha de emigrantes portugueses, cresceu em Óbidos e nas Caldas da Rainha (Portugal) e criou em 2014 o projeto 'Flores no Meu Cabelo' sobre moda e beleza. O canal mantém-se ativo, com vlogs semanais publicados em 2025; é também autora de um livro e cantora.",
+        "fr": "Catarina Sofia Santos Filipe, née le 12 février 1995 aux États-Unis de parents émigrés portugais, a grandi à Óbidos et Caldas da Rainha (Portugal) et a créé en 2014 le projet « Flores no Meu Cabelo » sur la mode et la beauté. Sa chaîne reste active, avec des vlogs hebdomadaires publiés en 2025 ; elle est aussi autrice d'un livre et chanteuse.",
+        "de": "Catarina Sofia Santos Filipe, geboren am 12. Februar 1995 in den USA als Tochter portugiesischer Auswanderer, wuchs in Óbidos und Caldas da Rainha (Portugal) auf und gründete 2014 das Projekt „Flores no Meu Cabelo“ über Mode und Beauty. Ihr Kanal bleibt aktiv, mit 2025 veröffentlichten wöchentlichen Vlogs; sie ist zudem Buchautorin und Sängerin.",
+        "ru": "Катарина Софиа Сантуш Филипе родилась 12 февраля 1995 года в США в семье португальских эмигрантов, выросла в Обидуше и Калдаш-да-Раинья (Португалия) и в 2014 году создала проект «Flores no Meu Cabelo» о моде и красоте. Её канал остаётся активным, еженедельные влоги публиковались в 2025 году; она также автор книги и певица.",
+        "ar": "كاتارينا صوفيا سانتوس فيليبي، وُلدت في 12 فبراير 1995 في الولايات المتحدة لأبوين مهاجرين برتغاليين، ونشأت في أوبيدوش وكالداش دا راينيا (البرتغال)، وأطلقت عام 2014 مشروع 'Flores no Meu Cabelo' عن الموضة والجمال. تبقى قناتها نشطة، بفلوجات أسبوعية نُشرت في 2025؛ وهي أيضًا مؤلفة كتاب ومغنية.",
+        "hi": "कातारीना सोफिया सांतोस फिलिपे, जन्म 12 फरवरी 1995, अमेरिका में पुर्तगाली प्रवासी माता-पिता के घर हुआ, वे ओबिदोश और काल्दास दा रैन्या (पुर्तगाल) में पली-बढ़ीं और 2014 में फैशन व सौंदर्य पर केंद्रित 'Flores no Meu Cabelo' परियोजना शुरू की। उनका चैनल सक्रिय है, 2025 में साप्ताहिक व्लॉग प्रकाशित हुए; वे एक पुस्तक की लेखिका और गायिका भी हैं।",
+        "zh": "卡塔琳娜·索菲亚·桑托斯·菲利佩1995年2月12日生于美国,父母是葡萄牙移民,她在葡萄牙的奥比杜什和卡尔达斯-达赖尼亚长大,并于2014年创立了关于时尚与美妆的项目'Flores no Meu Cabelo'。她的频道保持活跃,2025年发布了每周视频博客;她还是一本书的作者及歌手。",
+        "ja": "カタリナ・ソフィア・サントス・フィリペは1995年2月12日、ポルトガル系移民の両親のもとアメリカで生まれ、ポルトガルのオビドスとカルダス・ダ・ライーニャで育った。2014年にファッションと美容をテーマにしたプロジェクト「Flores no Meu Cabelo」を始めた。チャンネルは活発で、2025年にも週刊ブイログを公開している。書籍の著者であり歌手でもある。"
+      },
+      "handles": {
+        "youtube": "UCUKLdFGkSUWSZZadsEFDRZA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 246000
+        }
+      }
+    },
+    {
+      "id": "pedro-teixeira-da-mota",
+      "name": "Pedro Teixeira da Mota (watch.tm)",
+      "country": "PT",
+      "topic": {
+        "es": "Podcast de actualidad y opinión",
+        "en": "Current affairs and opinion podcast",
+        "pt": "Podcast de atualidade e opinião",
+        "fr": "Podcast d'actualité et d'opinion",
+        "de": "Podcast zu Aktuellem und Meinung",
+        "ru": "Подкаст о новостях и мнениях",
+        "ar": "بودكاست الأخبار والرأي",
+        "hi": "समसामयिक मामलों और विचार का पॉडकास्ट",
+        "zh": "时事与评论播客",
+        "ja": "時事・意見系ポッドキャスト"
+      },
+      "about": {
+        "es": "Pedro Teixeira da Mota conduce 'watch.tm', un podcast en formato de vídeo semanal publicado en su canal de YouTube, donde comenta actualidad, cultura pop y temas de sociedad en Portugal. El programa supera los 150 episodios y también se distribuye en Spotify y Patreon.",
+        "en": "Pedro Teixeira da Mota hosts 'watch.tm', a weekly video podcast published on his YouTube channel, where he comments on current events, pop culture and social topics in Portugal. The show has passed 150 episodes and is also distributed on Spotify and Patreon.",
+        "pt": "Pedro Teixeira da Mota apresenta o 'watch.tm', um podcast semanal em formato vídeo publicado no seu canal de YouTube, onde comenta atualidade, cultura pop e temas de sociedade em Portugal. O programa já ultrapassou os 150 episódios e é também distribuído no Spotify e no Patreon.",
+        "fr": "Pedro Teixeira da Mota anime « watch.tm », un podcast vidéo hebdomadaire publié sur sa chaîne YouTube, où il commente l'actualité, la culture populaire et des sujets de société au Portugal. L'émission a dépassé 150 épisodes et est également diffusée sur Spotify et Patreon.",
+        "de": "Pedro Teixeira da Mota moderiert „watch.tm“, einen wöchentlichen Video-Podcast auf seinem YouTube-Kanal, in dem er aktuelle Ereignisse, Popkultur und gesellschaftliche Themen in Portugal kommentiert. Die Sendung hat über 150 Episoden und wird auch auf Spotify und Patreon veröffentlicht.",
+        "ru": "Педру Тейшейра да Мота ведёт «watch.tm» — еженедельный видеоподкаст на своём YouTube-канале, где комментирует текущие события, поп-культуру и общественные темы в Португалии. Программа выпустила более 150 эпизодов и также распространяется на Spotify и Patreon.",
+        "ar": "يقدّم بيدرو تيكسيرا دا موتا برنامج 'watch.tm'، وهو بودكاست فيديو أسبوعي يُنشر على قناته في يوتيوب، يعلّق فيه على الأحداث الجارية والثقافة الشعبية والقضايا الاجتماعية في البرتغال. تجاوز البرنامج 150 حلقة ويُوزَّع أيضًا عبر سبوتيفاي وباتريون.",
+        "hi": "पेद्रो तेइशेइरा दा मोता 'watch.tm' नामक साप्ताहिक वीडियो पॉडकास्ट प्रस्तुत करते हैं, जो उनके यूट्यूब चैनल पर प्रकाशित होता है, जिसमें वे पुर्तगाल में समसामयिक घटनाओं, पॉप संस्कृति और सामाजिक विषयों पर टिप्पणी करते हैं। यह शो 150 से अधिक एपिसोड पार कर चुका है और Spotify तथा Patreon पर भी उपलब्ध है।",
+        "zh": "佩德罗·特谢拉·达莫塔主持'watch.tm',这是一档发布在其YouTube频道上的每周视频播客,评论葡萄牙的时事、流行文化和社会话题。该节目已超过150集,同时也在Spotify和Patreon上发布。",
+        "ja": "ペドロ・テイシェイラ・ダ・モタは、自身のYouTubeチャンネルで配信する週刊動画ポッドキャスト「watch.tm」の司会を務め、ポルトガルの時事問題やポップカルチャー、社会的テーマについて論評している。番組は150話を超え、SpotifyやPatreonでも配信されている。"
+      },
+      "handles": {
+        "youtube": "UCWRXJz3wf3QWq56n1MfGAdw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 232000
+        }
+      }
+    },
+    {
+      "id": "mafalda-sampaio",
+      "name": "Mafalda Sampaio",
+      "country": "PT",
+      "topic": {
+        "es": "Moda, belleza y estilo de vida",
+        "en": "Fashion, beauty and lifestyle",
+        "pt": "Moda, beleza e estilo de vida",
+        "fr": "Mode, beauté et style de vie",
+        "de": "Mode, Beauty und Lifestyle",
+        "ru": "Мода, красота и образ жизни",
+        "ar": "الموضة والجمال وأسلوب الحياة",
+        "hi": "फैशन, सौंदर्य और जीवनशैली",
+        "zh": "时尚、美妆与生活方式",
+        "ja": "ファッション、美容、ライフスタイル"
+      },
+      "about": {
+        "es": "Maria Mafalda Melo e Sampaio, nacida en Lisboa el 20 de noviembre de 1990, inició su carrera en YouTube en agosto de 2014 bajo el seudónimo 'A Maria Vaidosa'. Según Forbes Portugal es la youtuber más influyente del país en moda y belleza; su canal sigue activo, con vídeos publicados en 2025 sobre su vida como madre de tres hijos.",
+        "en": "Maria Mafalda Melo e Sampaio, born in Lisbon on 20 November 1990, started her YouTube career in August 2014 under the pseudonym 'A Maria Vaidosa'. According to Forbes Portugal, she is the country's most influential fashion and beauty YouTuber; her channel remains active, with videos published in 2025 about her life as a mother of three.",
+        "pt": "Maria Mafalda Melo e Sampaio, nascida em Lisboa a 20 de novembro de 1990, iniciou a carreira no YouTube em agosto de 2014 com o pseudónimo 'A Maria Vaidosa'. Segundo a Forbes Portugal, é a youtuber mais influente do país nas categorias de moda e beleza; o canal mantém-se ativo, com vídeos publicados em 2025 sobre a sua vida como mãe de três filhos.",
+        "fr": "Maria Mafalda Melo e Sampaio, née à Lisbonne le 20 novembre 1990, a débuté sur YouTube en août 2014 sous le pseudonyme « A Maria Vaidosa ». Selon Forbes Portugal, elle est la YouTubeuse la plus influente du pays dans la mode et la beauté ; sa chaîne reste active, avec des vidéos publiées en 2025 sur sa vie de mère de trois enfants.",
+        "de": "Maria Mafalda Melo e Sampaio, geboren am 20. November 1990 in Lissabon, startete ihre YouTube-Karriere im August 2014 unter dem Pseudonym „A Maria Vaidosa“. Laut Forbes Portugal ist sie die einflussreichste YouTuberin des Landes in den Bereichen Mode und Beauty; ihr Kanal bleibt aktiv, mit 2025 veröffentlichten Videos über ihr Leben als dreifache Mutter.",
+        "ru": "Мария Мафалда Мелу-и-Сампайу родилась в Лиссабоне 20 ноября 1990 года и начала карьеру на YouTube в августе 2014 года под псевдонимом «A Maria Vaidosa». По версии Forbes Portugal, она самая влиятельная ютуберша страны в сфере моды и красоты; канал остаётся активным, в 2025 году публиковались видео о её жизни как матери троих детей.",
+        "ar": "ماريا مافالدا ميلو إي سامبايو، وُلدت في لشبونة في 20 نوفمبر 1990، بدأت مسيرتها على يوتيوب في أغسطس 2014 تحت اسم مستعار 'A Maria Vaidosa'. وبحسب مجلة فوربس البرتغال، فهي أكثر يوتيوبر تأثيرًا في البلاد في مجالي الموضة والجمال؛ لا تزال قناتها نشطة، بمقاطع نُشرت في 2025 عن حياتها كأم لثلاثة أطفال.",
+        "hi": "मारिया मफाल्दा मेलो ए सांपाइयो, जन्म 20 नवंबर 1990, लिस्बन में, उन्होंने अगस्त 2014 में 'A Maria Vaidosa' उपनाम से यूट्यूब करियर शुरू किया। फोर्ब्स पुर्तगाल के अनुसार, वे देश की फैशन और सौंदर्य क्षेत्र की सबसे प्रभावशाली यूट्यूबर हैं; उनका चैनल सक्रिय है, 2025 में तीन बच्चों की मां के रूप में उनके जीवन पर वीडियो प्रकाशित हुए।",
+        "zh": "玛丽亚·马法尔达·梅洛-埃-桑帕约1990年11月20日生于里斯本,2014年8月以化名'A Maria Vaidosa'开始其YouTube生涯。据《福布斯》葡萄牙版报道,她是该国时尚美妆领域最具影响力的YouTuber;她的频道仍在活跃更新,2025年发布了关于她作为三个孩子母亲生活的视频。",
+        "ja": "マリア・マファルダ・メロ・エ・サンパイオは1990年11月20日リスボン生まれで、2014年8月に「A Maria Vaidosa」という偽名でYouTubeキャリアを開始した。フォーブス・ポルトガルによれば、同国のファッション・美容分野で最も影響力のあるYouTuberとされる。チャンネルは現在も活発で、2025年には3児の母としての生活を綴った動画も公開している。"
+      },
+      "handles": {
+        "youtube": "UCJw7J5dcJsf2hFdPotfSAqA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:11:26.593Z)",
+        "followers": {
+          "youtube": 225000
+        }
+      }
     }
   ]
 }
