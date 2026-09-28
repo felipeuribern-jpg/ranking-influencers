@@ -23144,6 +23144,446 @@
           "youtube": 5640000
         }
       }
+    },
+    {
+      "id": "alan-walker",
+      "name": "Alan Walker",
+      "country": "NO",
+      "topic": {
+        "es": "DJ y producción de música electrónica",
+        "en": "DJ and electronic music production",
+        "pt": "DJ e produção de música eletrônica",
+        "fr": "DJ et production de musique électronique",
+        "de": "DJ und elektronische Musikproduktion",
+        "ru": "DJ и продюсирование электронной музыки",
+        "ar": "دي جي وإنتاج الموسيقى الإلكترونية",
+        "hi": "डीजे और इलेक्ट्रॉनिक संगीत निर्माण",
+        "zh": "DJ与电子音乐制作",
+        "ja": "DJおよびエレクトロニックミュージック制作"
+      },
+      "about": {
+        "es": "Alan Olav Walker nació el 24 de agosto de 1997 en Northampton, Inglaterra, hijo de padre británico y madre noruega, y se crió desde los dos años en Bergen, Noruega, donde se identifica como noruego. Saltó a la fama mundial con el sencillo \"Faded\" (2015) y es conocido por ocultar su rostro con capucha y máscara; su canal supera los 47 millones de suscriptores.",
+        "en": "Alan Olav Walker was born on 24 August 1997 in Northampton, England, to a British father and a Norwegian mother, and grew up from age two in Bergen, Norway, where he identifies as Norwegian. He rose to global fame with the single \"Faded\" (2015) and is known for hiding his face with a hoodie and mask; his channel has over 47 million subscribers.",
+        "pt": "Alan Olav Walker nasceu em 24 de agosto de 1997 em Northampton, Inglaterra, filho de pai britânico e mãe norueguesa, e cresceu desde os dois anos em Bergen, Noruega, onde se identifica como norueguês. Alcançou fama mundial com o single \"Faded\" (2015) e é conhecido por esconder o rosto com capuz e máscara; seu canal ultrapassa 47 milhões de inscritos.",
+        "fr": "Alan Olav Walker est né le 24 août 1997 à Northampton, en Angleterre, d'un père britannique et d'une mère norvégienne, et a grandi dès l'âge de deux ans à Bergen, en Norvège, où il s'identifie comme norvégien. Il est devenu célèbre mondialement avec le single \"Faded\" (2015) et est connu pour cacher son visage avec une capuche et un masque ; sa chaîne dépasse les 47 millions d'abonnés.",
+        "de": "Alan Olav Walker wurde am 24. August 1997 in Northampton, England, als Sohn eines britischen Vaters und einer norwegischen Mutter geboren und wuchs ab dem zweiten Lebensjahr in Bergen, Norwegen, auf, wo er sich als Norweger identifiziert. Mit der Single \"Faded\" (2015) wurde er weltberühmt und ist dafür bekannt, sein Gesicht mit Kapuze und Maske zu verbergen; sein Kanal hat über 47 Millionen Abonnenten.",
+        "ru": "Алан Олав Уокер родился 24 августа 1997 года в Нортгемптоне, Англия, в семье британского отца и норвежской матери, и с двух лет вырос в Бергене, Норвегия, где считает себя норвежцем. Он стал всемирно известен благодаря синглу \"Faded\" (2015) и известен тем, что скрывает лицо под капюшоном и маской; его канал насчитывает более 47 миллионов подписчиков.",
+        "ar": "وُلد آلان أولاف ووكر في 24 أغسطس 1997 في نورثهامبتون، إنجلترا، لأب بريطاني وأم نرويجية، ونشأ منذ سن الثانية في بيرغن، النرويج، حيث يعتبر نفسه نرويجيًا. اشتهر عالميًا بأغنيته \"Faded\" (2015) ويُعرف بإخفاء وجهه بقلنسوة وقناع؛ يتجاوز عدد مشتركي قناته 47 مليون مشترك.",
+        "hi": "एलन ओलाव वॉकर का जन्म 24 अगस्त 1997 को नॉर्थम्प्टन, इंग्लैंड में हुआ, जिनके पिता ब्रिटिश और माँ नॉर्वेजियन थीं; वे दो साल की उम्र से बर्गेन, नॉर्वे में पले-बढ़े और खुद को नॉर्वेजियन मानते हैं। वे सिंगल \"Faded\" (2015) से विश्वभर में प्रसिद्ध हुए और हुडी व मास्क से चेहरा छिपाने के लिए जाने जाते हैं; उनके चैनल पर 4.7 करोड़ से अधिक सब्सक्राइबर हैं।",
+        "zh": "艾伦·奥拉夫·沃克(Alan Olav Walker)于1997年8月24日出生在英格兰北安普顿,父亲是英国人,母亲是挪威人;他两岁起在挪威卑尔根长大,并自认为是挪威人。他凭借单曲《Faded》(2015年)一举成名,以戴兜帽和面罩遮脸著称;其YouTube频道订阅人数已超过4700万。",
+        "ja": "アラン・オラフ・ウォーカーは1997年8月24日、英国人の父とノルウェー人の母のもとイングランドのノーサンプトンで生まれ、2歳からノルウェーのベルゲンで育ち、自らをノルウェー人と認識している。シングル「Faded」(2015年)で世界的な名声を得て、フードとマスクで顔を隠すスタイルで知られる。チャンネル登録者数は4700万人を超える。"
+      },
+      "handles": {
+        "youtube": "UCJrOtniJ0-NWz37R30urifQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 47800000
+        }
+      }
+    },
+    {
+      "id": "thelovelyhorrorshow",
+      "name": "Jan Olav Baustad (thelovelyhorrorshow)",
+      "country": "NO",
+      "topic": {
+        "es": "Animación y cortos de humor negro",
+        "en": "Animation and dark-humor shorts",
+        "pt": "Animação e curtas de humor negro",
+        "fr": "Animation et courts métrages d'humour noir",
+        "de": "Animation und Kurzfilme mit schwarzem Humor",
+        "ru": "Анимация и короткие ролики с чёрным юмором",
+        "ar": "الرسوم المتحركة وأفلام قصيرة بروح الفكاهة السوداء",
+        "hi": "एनिमेशन और डार्क-ह्यूमर शॉर्ट्स",
+        "zh": "动画与黑色幽默短片",
+        "ja": "アニメーションとブラックユーモア系ショート動画"
+      },
+      "about": {
+        "es": "Jan Olav Baustad es un animador noruego que publica bajo el nombre \"thelovelyhorrorshow\" cortos animados en bucle sobre monstruos, miedos y temas oscuros con un toque tierno. Empezó a subir en TikTok en diciembre de 2020 y en YouTube en marzo de 2022; alcanzó el millón de suscriptores en febrero de 2023 y hacia 2025 su canal superaba los 9,7 millones de suscriptores.",
+        "en": "Jan Olav Baustad is a Norwegian animator who posts under the name \"thelovelyhorrorshow\", creating looped animated shorts about monsters, fears and dark themes with a cute twist. He started uploading on TikTok in December 2020 and on YouTube in March 2022; he reached one million subscribers in February 2023, and by 2025 his channel had surpassed 9.7 million subscribers.",
+        "pt": "Jan Olav Baustad é um animador norueguês que publica sob o nome \"thelovelyhorrorshow\", criando curtas animados em loop sobre monstros, medos e temas sombrios com um toque fofo. Começou a publicar no TikTok em dezembro de 2020 e no YouTube em março de 2022; alcançou um milhão de inscritos em fevereiro de 2023, e por volta de 2025 seu canal ultrapassava 9,7 milhões de inscritos.",
+        "fr": "Jan Olav Baustad est un animateur norvégien qui publie sous le nom \"thelovelyhorrorshow\", créant des courts métrages animés en boucle sur les monstres, les peurs et des thèmes sombres avec une touche mignonne. Il a commencé à publier sur TikTok en décembre 2020 puis sur YouTube en mars 2022 ; il a atteint un million d'abonnés en février 2023, et en 2025 sa chaîne dépassait 9,7 millions d'abonnés.",
+        "de": "Jan Olav Baustad ist ein norwegischer Animator, der unter dem Namen \"thelovelyhorrorshow\" veröffentlicht und geloopte animierte Kurzfilme über Monster, Ängste und dunkle Themen mit einem niedlichen Twist erstellt. Er begann im Dezember 2020 auf TikTok und im März 2022 auf YouTube hochzuladen; im Februar 2023 erreichte er eine Million Abonnenten, und 2025 hatte sein Kanal bereits über 9,7 Millionen Abonnenten.",
+        "ru": "Ян Улав Баустад — норвежский аниматор, публикующийся под именем \"thelovelyhorrorshow\" и создающий зацикленные анимационные ролики о монстрах, страхах и мрачных темах с милым оттенком. Он начал выкладывать видео в TikTok в декабре 2020 года и на YouTube в марте 2022 года; в феврале 2023 года достиг миллиона подписчиков, а к 2025 году его канал превысил 9,7 миллиона подписчиков.",
+        "ar": "يان أولاف باوستاد رسام رسوم متحركة نرويجي ينشر تحت اسم \"thelovelyhorrorshow\"، حيث يبتكر مقاطع رسوم متحركة قصيرة ومتكررة عن الوحوش والمخاوف والمواضيع المظلمة بلمسة لطيفة. بدأ النشر على تيك توك في ديسمبر 2020 وعلى يوتيوب في مارس 2022؛ وبلغ مليون مشترك في فبراير 2023، وبحلول 2025 تجاوزت قناته 9.7 مليون مشترك.",
+        "hi": "यान ओलाव बाउस्टाड एक नॉर्वेजियन एनिमेटर हैं जो \"thelovelyhorrorshow\" नाम से लूप वाले एनिमेटेड शॉर्ट्स बनाते हैं, जिनमें राक्षसों, डर और डार्क थीम को प्यारे अंदाज़ में दिखाया जाता है। उन्होंने दिसंबर 2020 में टिकटॉक पर और मार्च 2022 में यूट्यूब पर अपलोड करना शुरू किया; फरवरी 2023 में उनके एक मिलियन सब्सक्राइबर हुए, और 2025 तक उनका चैनल 97 लाख से अधिक सब्सक्राइबर तक पहुंच गया।",
+        "zh": "扬·奥拉夫·鲍斯塔德(Jan Olav Baustad)是一位挪威动画师,以\"thelovelyhorrorshow\"之名发布关于怪物、恐惧与黑暗主题却带着可爱风格的循环动画短片。他于2020年12月开始在TikTok发布作品,2022年3月开始更新YouTube;2023年2月订阅数突破100万,截至2025年频道订阅人数已超过970万。",
+        "ja": "ヤン・オラヴ・バウスタッドは「thelovelyhorrorshow」名義で活動するノルウェーのアニメーターで、モンスターや恐怖、ダークなテーマを可愛らしくループアニメーションにして制作している。2020年12月にTikTokで投稿を開始し、2022年3月からYouTubeにも投稿。2023年2月に登録者100万人を達成し、2025年時点でチャンネル登録者は970万人を超えている。"
+      },
+      "handles": {
+        "youtube": "UC9zyXRd97WhPvDUWPrJFuIQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 10100000
+        }
+      }
+    },
+    {
+      "id": "kygo",
+      "name": "Kygo",
+      "country": "NO",
+      "topic": {
+        "es": "DJ y producción de música tropical house",
+        "en": "DJ and tropical house production",
+        "pt": "DJ e produção de música tropical house",
+        "fr": "DJ et production de musique tropical house",
+        "de": "DJ und Tropical-House-Produktion",
+        "ru": "DJ и продюсирование тропического хауса",
+        "ar": "دي جي وإنتاج موسيقى التروبيكال هاوس",
+        "hi": "डीजे और ट्रॉपिकल हाउस संगीत निर्माण",
+        "zh": "DJ与热带浩室音乐制作",
+        "ja": "DJおよびトロピカルハウス制作"
+      },
+      "about": {
+        "es": "Kyrre Gørvell-Dahll, conocido como Kygo, nació el 11 de septiembre de 1991 en Singapur de padres noruegos y se crió en Bergen, Noruega. Es reconocido como una de las figuras clave que llevó el tropical house al mainstream a mediados de la década de 2010, con éxitos como su remix de \"I See Fire\" y el sencillo \"Firestone\".",
+        "en": "Kyrre Gørvell-Dahll, known as Kygo, was born on 11 September 1991 in Singapore to Norwegian parents and raised in Bergen, Norway. He is recognized as a key figure who brought tropical house into the mainstream in the mid-2010s, with hits such as his \"I See Fire\" remix and the single \"Firestone\".",
+        "pt": "Kyrre Gørvell-Dahll, conhecido como Kygo, nasceu em 11 de setembro de 1991 em Singapura, filho de pais noruegueses, e cresceu em Bergen, Noruega. É reconhecido como uma figura-chave que levou o tropical house ao mainstream em meados da década de 2010, com sucessos como seu remix de \"I See Fire\" e o single \"Firestone\".",
+        "fr": "Kyrre Gørvell-Dahll, connu sous le nom de Kygo, est né le 11 septembre 1991 à Singapour de parents norvégiens et a grandi à Bergen, en Norvège. Il est reconnu comme l'une des figures clés ayant popularisé le tropical house au milieu des années 2010, avec des succès comme son remix de \"I See Fire\" et le single \"Firestone\".",
+        "de": "Kyrre Gørvell-Dahll, bekannt als Kygo, wurde am 11. September 1991 in Singapur als Kind norwegischer Eltern geboren und wuchs in Bergen, Norwegen, auf. Er gilt als eine Schlüsselfigur, die Tropical House Mitte der 2010er-Jahre in den Mainstream brachte, mit Hits wie seinem \"I See Fire\"-Remix und der Single \"Firestone\".",
+        "ru": "Кирре Гёрвелл-Даль, известный как Kygo, родился 11 сентября 1991 года в Сингапуре в норвежской семье и вырос в Бергене, Норвегия. Он считается одной из ключевых фигур, выведших тропический хаус в мейнстрим в середине 2010-х годов, благодаря таким хитам, как его ремикс на \"I See Fire\" и сингл \"Firestone\".",
+        "ar": "وُلد كيري غورفيل-دال، المعروف باسم كايغو، في 11 سبتمبر 1991 في سنغافورة لأبوين نرويجيين، ونشأ في بيرغن، النرويج. يُعتبر أحد أبرز الشخصيات التي قدّمت موسيقى التروبيكال هاوس للجمهور العام في منتصف العقد الثاني من الألفية، بأغانٍ ناجحة مثل ريمكس \"I See Fire\" وأغنية \"Firestone\".",
+        "hi": "कीरे गॉर्वेल-डाल, जिन्हें कायगो के नाम से जाना जाता है, का जन्म 11 सितंबर 1991 को सिंगापुर में नॉर्वेजियन माता-पिता के घर हुआ और वे बर्गेन, नॉर्वे में पले-बढ़े। वे 2010 के दशक के मध्य में ट्रॉपिकल हाउस संगीत को मुख्यधारा में लाने वाली प्रमुख हस्तियों में गिने जाते हैं, जिनमें \"I See Fire\" का रीमिक्स और सिंगल \"Firestone\" शामिल हैं।",
+        "zh": "希尔·戈维尔-达尔(Kyrre Gørvell-Dahll),艺名Kygo,1991年9月11日出生于新加坡,父母均为挪威人,在挪威卑尔根长大。他被认为是2010年代中期将热带浩室音乐推向主流的关键人物之一,代表作包括《I See Fire》混音版和单曲《Firestone》。",
+        "ja": "キーレ・ゲルヴェル=ダール(Kygo)は1991年9月11日、ノルウェー人の両親のもとシンガポールで生まれ、ノルウェーのベルゲンで育った。「I See Fire」のリミックスやシングル「Firestone」などのヒット曲で知られ、2010年代半ばにトロピカルハウスを主流に押し上げた重要人物とされる。"
+      },
+      "handles": {
+        "youtube": "UCCFJeI-2sT_cWgz-QJRgbCw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 7050000
+        }
+      }
+    },
+    {
+      "id": "alexander-rybak",
+      "name": "Alexander Rybak",
+      "country": "NO",
+      "topic": {
+        "es": "Música, violín y vlogs",
+        "en": "Music, violin and vlogs",
+        "pt": "Música, violino e vlogs",
+        "fr": "Musique, violon et vlogs",
+        "de": "Musik, Geige und Vlogs",
+        "ru": "Музыка, скрипка и влоги",
+        "ar": "الموسيقى والكمان والفلوجات",
+        "hi": "संगीत, वायलिन और व्लॉग",
+        "zh": "音乐、小提琴与视频博客",
+        "ja": "音楽、バイオリン、Vlog"
+      },
+      "about": {
+        "es": "Alexander Rybak nació el 13 de mayo de 1986 en Minsk, entonces parte de la URSS, y se trasladó de niño a Noruega, país que representó en Eurovisión 2009, donde ganó con la canción \"Fairytale\" y obtuvo la puntuación más alta registrada hasta entonces en el certamen. Es violinista, pianista, cantautor y actor; su canal de YouTube mezcla vlogs, interpretaciones musicales y videoclips, y sigue publicando música nueva en 2025 y 2026.",
+        "en": "Alexander Rybak was born on 13 May 1986 in Minsk, then part of the USSR, and moved to Norway as a child, the country he represented at Eurovision 2009, where he won with the song \"Fairytale\" and set the highest score recorded in the contest up to that point. He is a violinist, pianist, singer-songwriter and actor; his YouTube channel mixes vlogs, musical performances and music videos, and he continues releasing new music in 2025 and 2026.",
+        "pt": "Alexander Rybak nasceu em 13 de maio de 1986 em Minsk, então parte da URSS, e mudou-se ainda criança para a Noruega, país que representou na Eurovisão 2009, onde venceu com a canção \"Fairytale\" e obteve a maior pontuação registrada até então no concurso. É violinista, pianista, cantor-compositor e ator; seu canal no YouTube mistura vlogs, performances musicais e videoclipes, e ele continua lançando novas músicas em 2025 e 2026.",
+        "fr": "Alexander Rybak est né le 13 mai 1986 à Minsk, alors en URSS, et a déménagé enfant en Norvège, pays qu'il a représenté à l'Eurovision 2009, où il a remporté la victoire avec la chanson \"Fairytale\", obtenant le score le plus élevé enregistré jusqu'alors dans le concours. Violoniste, pianiste, auteur-compositeur-interprète et acteur, sa chaîne YouTube mêle vlogs, prestations musicales et clips ; il continue de sortir de nouvelles chansons en 2025 et 2026.",
+        "de": "Alexander Rybak wurde am 13. Mai 1986 in Minsk geboren, damals Teil der UdSSR, und zog als Kind nach Norwegen, das er 2009 beim Eurovision Song Contest vertrat, wo er mit dem Lied \"Fairytale\" gewann und die bis dahin höchste Punktzahl des Wettbewerbs erzielte. Er ist Geiger, Pianist, Singer-Songwriter und Schauspieler; sein YouTube-Kanal vereint Vlogs, musikalische Auftritte und Musikvideos, und er veröffentlicht 2025 und 2026 weiterhin neue Musik.",
+        "ru": "Александр Рыбак родился 13 мая 1986 года в Минске, тогда входившем в состав СССР, и в детстве переехал в Норвегию, которую представлял на «Евровидении-2009», где победил с песней \"Fairytale\", набрав рекордное на тот момент количество баллов конкурса. Он скрипач, пианист, автор-исполнитель и актёр; его YouTube-канал сочетает влоги, музыкальные выступления и клипы, и он продолжает выпускать новую музыку в 2025 и 2026 годах.",
+        "ar": "وُلد ألكسندر ريباك في 13 مايو 1986 في مينسك، التي كانت آنذاك جزءًا من الاتحاد السوفيتي، وانتقل وهو طفل إلى النرويج التي مثّلها في مسابقة يوروفيجن 2009 وفاز بأغنية \"Fairytale\" محققًا أعلى نتيجة مسجلة في المسابقة حتى ذلك الحين. هو عازف كمان وبيانو ومغنٍ وممثل؛ تجمع قناته على يوتيوب بين الفلوجات والعروض الموسيقية ومقاطع الفيديو، ولا يزال يصدر موسيقى جديدة في 2025 و2026.",
+        "hi": "अलेक्जेंडर रायबक का जन्म 13 मई 1986 को मिन्स्क (तब सोवियत संघ का हिस्सा) में हुआ था और वे बचपन में नॉर्वे चले गए, जिस देश का प्रतिनिधित्व उन्होंने यूरोविज़न 2009 में किया और गीत \"Fairytale\" से जीत हासिल की, जिसमें प्रतियोगिता का तब तक का सर्वोच्च स्कोर मिला। वे वायलिन वादक, पियानोवादक, गीतकार-गायक और अभिनेता हैं; उनके यूट्यूब चैनल पर व्लॉग, संगीत प्रस्तुतियां और म्यूज़िक वीडियो हैं, और वे 2025-2026 में भी नया संगीत जारी करते रहे हैं।",
+        "zh": "亚历山大·雷巴克(Alexander Rybak)1986年5月13日出生于当时属于苏联的明斯克,幼年移居挪威,并于2009年代表挪威参加欧洲歌唱大赛,凭借歌曲《Fairytale》夺冠,创下当时赛事历史最高分。他是小提琴家、钢琴家、创作歌手兼演员;其YouTube频道融合了视频博客、音乐演出和音乐视频,并在2025和2026年持续发布新作品。",
+        "ja": "アレクサンダー・リバクは1986年5月13日、当時のソ連領ミンスクで生まれ、幼少期にノルウェーへ移住。2009年のユーロビジョン・ソング・コンテストにノルウェー代表として出場し、楽曲「Fairytale」でそれまでの大会最高得点を記録して優勝した。バイオリニスト、ピアニスト、シンガーソングライター、俳優でもあり、YouTubeチャンネルではVlog、演奏、ミュージックビデオを発信し、2025年・2026年も新曲をリリースし続けている。"
+      },
+      "handles": {
+        "youtube": "UC_KZSgBFgavi5JqxQ1XhT_w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 1720000
+        }
+      }
+    },
+    {
+      "id": "bjorn-andreas-bull-hansen",
+      "name": "Bjørn Andreas Bull-Hansen",
+      "country": "NO",
+      "topic": {
+        "es": "Historia vikinga y vida al aire libre",
+        "en": "Viking history and outdoor life",
+        "pt": "História viking e vida ao ar livre",
+        "fr": "Histoire viking et vie en plein air",
+        "de": "Wikingergeschichte und Outdoor-Leben",
+        "ru": "История викингов и жизнь на природе",
+        "ar": "تاريخ الفايكنغ والحياة في الهواء الطلق",
+        "hi": "वाइकिंग इतिहास और आउटडोर जीवन",
+        "zh": "维京历史与户外生活",
+        "ja": "ヴァイキングの歴史とアウトドアライフ"
+      },
+      "about": {
+        "es": "Bjørn Andreas Bull-Hansen nació en 1972 en Oslo, Noruega, y es un novelista superventas conocido por su serie sobre la era vikinga \"Jomsviking\". En su canal de YouTube combina bushcraft, arquería histórica y navegación tradicional con datos curiosos sobre los vikingos y la Edad Media, acercándose al millón de suscriptores.",
+        "en": "Bjørn Andreas Bull-Hansen was born in 1972 in Oslo, Norway, and is a bestselling novelist known for his Viking Age series \"Jomsviking\". On his YouTube channel he combines bushcraft, historical archery and traditional sailing with fun facts about Vikings and the Middle Ages, nearing one million subscribers.",
+        "pt": "Bjørn Andreas Bull-Hansen nasceu em 1972 em Oslo, Noruega, e é um romancista best-seller conhecido por sua série sobre a era viking \"Jomsviking\". Em seu canal do YouTube, combina bushcraft, arquearia histórica e navegação tradicional com curiosidades sobre os vikings e a Idade Média, aproximando-se de um milhão de inscritos.",
+        "fr": "Bjørn Andreas Bull-Hansen est né en 1972 à Oslo, en Norvège, et est un romancier à succès connu pour sa série sur l'ère viking \"Jomsviking\". Sur sa chaîne YouTube, il combine bushcraft, tir à l'arc historique et navigation traditionnelle avec des anecdotes sur les Vikings et le Moyen Âge, approchant du million d'abonnés.",
+        "de": "Bjørn Andreas Bull-Hansen wurde 1972 in Oslo, Norwegen, geboren und ist ein Bestsellerautor, bekannt für seine Wikingerzeit-Reihe \"Jomsviking\". Auf seinem YouTube-Kanal verbindet er Bushcraft, historisches Bogenschießen und traditionelles Segeln mit interessanten Fakten über die Wikinger und das Mittelalter und nähert sich einer Million Abonnenten.",
+        "ru": "Бьёрн Андреас Булль-Хансен родился в 1972 году в Осло, Норвегия, и является автором бестселлеров, известным своей серией о эпохе викингов \"Jomsviking\". На своём YouTube-канале он сочетает бушкрафт, историческую стрельбу из лука и традиционное парусное дело с интересными фактами о викингах и Средневековье, приближаясь к миллиону подписчиков.",
+        "ar": "وُلد بيورن أندرياس بول-هانسن عام 1972 في أوسلو، النرويج، وهو روائي صاحب أكثر الكتب مبيعًا، معروف بسلسلته عن عصر الفايكنغ \"Jomsviking\". يجمع في قناته على يوتيوب بين مهارات البقاء في البرية والرماية التاريخية والإبحار التقليدي مع حقائق ممتعة عن الفايكنغ والعصور الوسطى، ويقترب عدد مشتركيه من مليون مشترك.",
+        "hi": "बियोर्न आंद्रियास बुल-हांसेन का जन्म 1972 में ओस्लो, नॉर्वे में हुआ था, और वे अपनी वाइकिंग युग श्रृंखला \"Jomsviking\" के लिए मशहूर बेस्टसेलिंग उपन्यासकार हैं। अपने यूट्यूब चैनल पर वे बुशक्राफ्ट, ऐतिहासिक तीरंदाज़ी और पारंपरिक नौकायन को वाइकिंग्स और मध्य युग की रोचक जानकारियों के साथ जोड़ते हैं, और उनके सब्सक्राइबर की संख्या दस लाख के करीब है।",
+        "zh": "比约恩·安德烈亚斯·布尔-汉森(Bjørn Andreas Bull-Hansen)1972年出生于挪威奥斯陆,是畅销小说家,以维京时代系列小说《Jomsviking》闻名。他的YouTube频道将野外生存技能、历史射箭和传统航海与维京人及中世纪趣味知识结合在一起,订阅人数接近百万。",
+        "ja": "ビョルン・アンドレアス・ブル=ハンセンは1972年、ノルウェーのオスロで生まれ、ヴァイキング時代を描いたシリーズ小説「Jomsviking」で知られるベストセラー作家である。YouTubeチャンネルではブッシュクラフト、歴史的なアーチェリー、伝統的な航海術に加え、ヴァイキングや中世に関する豆知識を発信しており、登録者数は100万人に迫っている。"
+      },
+      "handles": {
+        "youtube": "UC95m7aBYo7wgNCoHb1ojQYw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 781000
+        }
+      }
+    },
+    {
+      "id": "jonas-olsen-woodcraft",
+      "name": "Jonas Olsen Woodcraft",
+      "country": "NO",
+      "topic": {
+        "es": "Talla en madera y artesanía tradicional",
+        "en": "Woodcarving and traditional craft",
+        "pt": "Talha em madeira e artesanato tradicional",
+        "fr": "Sculpture sur bois et artisanat traditionnel",
+        "de": "Holzschnitzerei und traditionelles Handwerk",
+        "ru": "Резьба по дереву и традиционное ремесло",
+        "ar": "نحت الخشب والحرف التقليدية",
+        "hi": "वुडकार्विंग और पारंपरिक शिल्प",
+        "zh": "木雕与传统工艺",
+        "ja": "木彫りと伝統工芸"
+      },
+      "about": {
+        "es": "Jonas Olsen es un artista de la madera originario del norte de Noruega, conocido en YouTube como \"Jonas Olsen Woodcraft\" por sus esculturas y tallas en madera realizadas a mano, a menudo grabadas al aire libre en paisajes nórdicos. Su canal figura entre los más seguidos de Noruega dentro del nicho de artesanía y estilo de vida rural.",
+        "en": "Jonas Olsen is a woodcraft artist from northern Norway, known on YouTube as \"Jonas Olsen Woodcraft\" for his hand-carved wood sculptures, often filmed outdoors amid Nordic landscapes. His channel ranks among Norway's most followed in the craft and rural-lifestyle niche.",
+        "pt": "Jonas Olsen é um artista da madeira do norte da Noruega, conhecido no YouTube como \"Jonas Olsen Woodcraft\" por suas esculturas em madeira feitas à mão, frequentemente filmadas ao ar livre em paisagens nórdicas. Seu canal está entre os mais seguidos da Noruega no nicho de artesanato e estilo de vida rural.",
+        "fr": "Jonas Olsen est un artisan du bois originaire du nord de la Norvège, connu sur YouTube sous le nom \"Jonas Olsen Woodcraft\" pour ses sculptures en bois façonnées à la main, souvent filmées en extérieur dans des paysages nordiques. Sa chaîne figure parmi les plus suivies de Norvège dans la niche de l'artisanat et du mode de vie rural.",
+        "de": "Jonas Olsen ist ein Holzkünstler aus Nordnorwegen, bekannt auf YouTube als \"Jonas Olsen Woodcraft\" für seine handgeschnitzten Holzskulpturen, oft im Freien in nordischen Landschaften gefilmt. Sein Kanal zählt in Norwegen zu den meistgefolgten im Bereich Handwerk und ländlicher Lebensstil.",
+        "ru": "Йонас Ольсен — мастер по дереву с севера Норвегии, известный на YouTube как \"Jonas Olsen Woodcraft\" благодаря своим вырезанным вручную деревянным скульптурам, часто снятым на природе среди северных пейзажей. Его канал входит в число самых популярных в Норвегии в нише ремесла и сельского образа жизни.",
+        "ar": "يوناس أولسن فنان نحت خشبي من شمال النرويج، معروف على يوتيوب باسم \"Jonas Olsen Woodcraft\" بمنحوتاته الخشبية اليدوية التي غالبًا ما تُصوَّر في الهواء الطلق وسط المناظر الطبيعية الإسكندنافية. تُعد قناته من بين الأكثر متابعة في النرويج ضمن فئة الحرف اليدوية وأسلوب الحياة الريفي.",
+        "hi": "योनास ओल्सेन उत्तरी नॉर्वे के एक लकड़ी शिल्पकार हैं, जिन्हें यूट्यूब पर \"Jonas Olsen Woodcraft\" नाम से जाना जाता है, अपनी हाथ से बनाई गई लकड़ी की मूर्तियों के लिए, जिन्हें अक्सर नॉर्डिक प्राकृतिक दृश्यों में खुले में फिल्माया जाता है। उनका चैनल नॉर्वे में शिल्प और ग्रामीण जीवनशैली की श्रेणी में सबसे ज़्यादा फॉलो किए जाने वाले चैनलों में गिना जाता है।",
+        "zh": "约纳斯·奥尔森是来自挪威北部的木艺匠人,在YouTube上以\"Jonas Olsen Woodcraft\"之名闻名,擅长手工木雕作品,常在北欧户外自然风光中拍摄。他的频道是挪威手工艺与乡村生活类别中关注度最高的频道之一。",
+        "ja": "ヨナス・オルセンはノルウェー北部出身の木工作家で、YouTubeでは「Jonas Olsen Woodcraft」として知られ、北欧の自然の中で撮影されることが多い手彫りの木彫作品を発表している。彼のチャンネルは、工芸・田舎暮らしジャンルにおいてノルウェーで最もフォロワーの多いチャンネルの一つである。"
+      },
+      "handles": {
+        "youtube": "UCfuEOvj7e0xH36ZmejNUSxQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 475000
+        }
+      }
+    },
+    {
+      "id": "emma-ellingsen",
+      "name": "Emma Ellingsen",
+      "country": "NO",
+      "topic": {
+        "es": "Belleza, moda y vlogs",
+        "en": "Beauty, fashion and vlogs",
+        "pt": "Beleza, moda e vlogs",
+        "fr": "Beauté, mode et vlogs",
+        "de": "Beauty, Mode und Vlogs",
+        "ru": "Красота, мода и влоги",
+        "ar": "الجمال والموضة والفلوجات",
+        "hi": "ब्यूटी, फैशन और व्लॉग",
+        "zh": "美妆、时尚与视频博客",
+        "ja": "美容、ファッション、Vlog"
+      },
+      "about": {
+        "es": "Emma Kongslie Ellingsen nació el 9 de septiembre de 2001 en Tønsberg, Noruega, y es modelo y youtuber; su canal incluye tutoriales de maquillaje, vlogs personales y videos de viajes. Salió como mujer transgénero ante su familia a los nueve años y formó parte del documental noruego \"Født i feil kropp\" (Born in the Wrong Body); está representada por la agencia Team Models de Oslo.",
+        "en": "Emma Kongslie Ellingsen was born on 9 September 2001 in Tønsberg, Norway, and is a model and YouTuber; her channel features makeup tutorials, personal vlogs and travel videos. She came out as transgender to her family at age nine and appeared in the Norwegian documentary \"Født i feil kropp\" (Born in the Wrong Body); she is signed with the Oslo-based agency Team Models.",
+        "pt": "Emma Kongslie Ellingsen nasceu em 9 de setembro de 2001 em Tønsberg, Noruega, e é modelo e youtuber; seu canal traz tutoriais de maquiagem, vlogs pessoais e vídeos de viagem. Ela se assumiu transgênero para a família aos nove anos e apareceu no documentário norueguês \"Født i feil kropp\" (Born in the Wrong Body); é representada pela agência Team Models, de Oslo.",
+        "fr": "Emma Kongslie Ellingsen est née le 9 septembre 2001 à Tønsberg, en Norvège, et est mannequin et youtubeuse ; sa chaîne propose des tutoriels de maquillage, des vlogs personnels et des vidéos de voyage. Elle a fait son coming-out transgenre auprès de sa famille à neuf ans et est apparue dans le documentaire norvégien \"Født i feil kropp\" (Born in the Wrong Body) ; elle est représentée par l'agence Team Models, basée à Oslo.",
+        "de": "Emma Kongslie Ellingsen wurde am 9. September 2001 in Tønsberg, Norwegen, geboren und ist Model und YouTuberin; ihr Kanal umfasst Make-up-Tutorials, persönliche Vlogs und Reisevideos. Mit neun Jahren outete sie sich vor ihrer Familie als transgender und war Teil der norwegischen Dokumentation \"Født i feil kropp\" (Born in the Wrong Body); sie wird von der Osloer Agentur Team Models vertreten.",
+        "ru": "Эмма Конгсли Эллингсен родилась 9 сентября 2001 года в Тёнсберге, Норвегия, и является моделью и youtube-блогером; на её канале выходят видеоуроки по макияжу, личные влоги и видео о путешествиях. В девять лет она призналась семье, что является трансгендером, и снялась в норвежском документальном фильме \"Født i feil kropp\" (Born in the Wrong Body); её представляет агентство Team Models из Осло.",
+        "ar": "وُلدت إيما كونغسلي إيلينغسن في 9 سبتمبر 2001 في تونسبرغ، النرويج، وهي عارضة أزياء ومنشئة محتوى على يوتيوب؛ تتضمن قناتها دروسًا في المكياج وفلوجات شخصية ومقاطع سفر. أعلنت لعائلتها عن كونها امرأة متحولة جنسيًا في سن التاسعة وظهرت في الفيلم الوثائقي النرويجي \"Født i feil kropp\" (وُلدت في جسد خاطئ)؛ وتمثلها وكالة Team Models في أوسلو.",
+        "hi": "एमा कोंग्सली एलिंगसेन का जन्म 9 सितंबर 2001 को टोन्सबर्ग, नॉर्वे में हुआ, और वे एक मॉडल व यूट्यूबर हैं; उनके चैनल में मेकअप ट्यूटोरियल, व्यक्तिगत व्लॉग और यात्रा वीडियो शामिल हैं। उन्होंने नौ साल की उम्र में परिवार के सामने ट्रांसजेंडर होने की बात स्वीकार की और नॉर्वेजियन डॉक्यूमेंट्री \"Født i feil kropp\" (गलत शरीर में जन्मी) में भाग लिया; वे ओस्लो स्थित एजेंसी Team Models से जुड़ी हैं।",
+        "zh": "艾玛·孔斯利·埃林森(Emma Kongslie Ellingsen)于2001年9月9日出生于挪威腾斯贝格,是模特兼YouTuber,频道内容包括化妆教程、个人视频日志和旅行视频。她九岁时向家人出柜为跨性别女性,并出演挪威纪录片《Født i feil kropp》(生错身体);现签约奥斯陆的Team Models模特经纪公司。",
+        "ja": "エマ・コングスリー・エリングセンは2001年9月9日、ノルウェーのトンスベルグで生まれ、モデル兼YouTuberとして活動している。チャンネルではメイクアップチュートリアル、個人Vlog、旅行動画を発信。9歳のときに家族にトランスジェンダーであることをカミングアウトし、ノルウェーのドキュメンタリー「Født i feil kropp」(間違った体に生まれて)にも出演した。オスロを拠点とするモデル事務所Team Modelsに所属している。"
+      },
+      "handles": {
+        "youtube": "UCpdmlPZMeDCqhGqzM4Zd1ww",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 463000
+        }
+      }
+    },
+    {
+      "id": "zizaran",
+      "name": "Zizaran",
+      "country": "NO",
+      "topic": {
+        "es": "Videojuegos: Path of Exile y ARPG",
+        "en": "Gaming: Path of Exile and ARPGs",
+        "pt": "Games: Path of Exile e ARPGs",
+        "fr": "Jeux vidéo : Path of Exile et ARPG",
+        "de": "Gaming: Path of Exile und ARPGs",
+        "ru": "Видеоигры: Path of Exile и ARPG",
+        "ar": "ألعاب الفيديو: Path of Exile وألعاب تقمص الأدوار",
+        "hi": "गेमिंग: पाथ ऑफ एक्साइल और ARPG",
+        "zh": "游戏:《流亡黯道》与动作角色扮演游戏",
+        "ja": "ゲーム実況:Path of ExileとARPG"
+      },
+      "about": {
+        "es": "Kjetil, conocido en internet como Zizaran, es un streamer y creador de contenido noruego especializado en \"Path of Exile\" y otros juegos de rol de acción (ARPG) desde octubre de 2015. Se trasladó a Belfast para estudiar informática y hoy combina transmisiones en Twitch con un canal de YouTube donde publica resúmenes de sus directos y un pódcast de entrevistas con otros creadores del género.",
+        "en": "Kjetil, known online as Zizaran, is a Norwegian streamer and content creator specializing in \"Path of Exile\" and other action role-playing games (ARPGs) since October 2015. He moved to Belfast to study computer science and now combines Twitch streaming with a YouTube channel where he posts stream highlights and a one-on-one podcast interviewing other creators in the genre.",
+        "pt": "Kjetil, conhecido online como Zizaran, é um streamer e criador de conteúdo norueguês especializado em \"Path of Exile\" e outros jogos de RPG de ação (ARPGs) desde outubro de 2015. Mudou-se para Belfast para estudar ciência da computação e hoje combina transmissões na Twitch com um canal no YouTube onde publica destaques de suas lives e um podcast de entrevistas com outros criadores do gênero.",
+        "fr": "Kjetil, connu en ligne sous le nom de Zizaran, est un streamer et créateur de contenu norvégien spécialisé dans \"Path of Exile\" et d'autres jeux de rôle d'action (ARPG) depuis octobre 2015. Il s'est installé à Belfast pour étudier l'informatique et combine aujourd'hui des diffusions sur Twitch avec une chaîne YouTube où il publie les temps forts de ses lives et un podcast d'entretiens avec d'autres créateurs du genre.",
+        "de": "Kjetil, online bekannt als Zizaran, ist ein norwegischer Streamer und Content-Creator, der sich seit Oktober 2015 auf \"Path of Exile\" und andere Action-Rollenspiele (ARPGs) spezialisiert hat. Er zog nach Belfast, um Informatik zu studieren, und kombiniert heute Twitch-Streams mit einem YouTube-Kanal, auf dem er Stream-Highlights sowie einen Interview-Podcast mit anderen Creators des Genres veröffentlicht.",
+        "ru": "Кьетиль, известный в сети как Zizaran, — норвежский стример и создатель контента, специализирующийся на \"Path of Exile\" и других action-RPG (ARPG) с октября 2015 года. Он переехал в Белфаст изучать информатику и сегодня совмещает трансляции на Twitch с YouTube-каналом, где публикует хайлайты стримов и подкаст с интервью других авторов жанра.",
+        "ar": "كيتيل، المعروف على الإنترنت باسم زيزاران، هو صانع محتوى وستريمر نرويجي متخصص في لعبة \"Path of Exile\" وألعاب تقمص الأدوار الحركية (ARPG) الأخرى منذ أكتوبر 2015. انتقل إلى بلفاست لدراسة علوم الحاسوب، ويجمع اليوم بين البث المباشر على تويتش وقناة على يوتيوب ينشر فيها أبرز لحظات بثه وبودكاست يستضيف فيه صانعي محتوى آخرين في هذا النوع من الألعاب.",
+        "hi": "क्येतिल, जिन्हें ऑनलाइन ज़िज़ारान के नाम से जाना जाता है, एक नॉर्वेजियन स्ट्रीमर और कंटेंट क्रिएटर हैं जो अक्टूबर 2015 से \"Path of Exile\" और अन्य एक्शन रोल-प्लेइंग गेम्स (ARPG) में विशेषज्ञ हैं। वे कंप्यूटर साइंस पढ़ने के लिए बेलफ़ास्ट चले गए और अब ट्विच पर स्ट्रीमिंग के साथ-साथ यूट्यूब चैनल भी चलाते हैं, जहां वे अपने स्ट्रीम की झलकियां और इस विधा के अन्य क्रिएटर्स के साथ एक इंटरव्यू पॉडकास्ट प्रकाशित करते हैं।",
+        "zh": "谢蒂尔(Kjetil),网络昵称Zizaran,是一名挪威主播和内容创作者,自2015年10月起专注于《流亡黯道》(Path of Exile)及其他动作角色扮演游戏(ARPG)。他移居贝尔法斯特攻读计算机科学,如今在Twitch直播的同时经营YouTube频道,发布直播精华并制作邀请同类型创作者的一对一访谈播客。",
+        "ja": "オンラインでZizaranとして知られるシェティルは、2015年10月から「Path of Exile」やその他のアクションRPG(ARPG)を専門とするノルウェー人ストリーマー兼コンテンツクリエイターである。コンピューターサイエンスを学ぶためにベルファストに移住し、現在はTwitchでの配信に加え、YouTubeチャンネルで配信のハイライトや同ジャンルの他クリエイターとの対談ポッドキャストを公開している。"
+      },
+      "handles": {
+        "youtube": "UCAG3CiKOUkQysyKCXSFEBPA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 332000
+        }
+      }
+    },
+    {
+      "id": "prebz-og-dennis",
+      "name": "Prebz og Dennis",
+      "country": "NO",
+      "topic": {
+        "es": "Gaming, retos y comedia",
+        "en": "Gaming, challenges and comedy",
+        "pt": "Gaming, desafios e comédia",
+        "fr": "Jeu vidéo, défis et comédie",
+        "de": "Gaming, Challenges und Comedy",
+        "ru": "Игры, челленджи и комедия",
+        "ar": "الألعاب والتحديات والكوميديا",
+        "hi": "गेमिंग, चुनौतियां और कॉमेडी",
+        "zh": "游戏、挑战与喜剧",
+        "ja": "ゲーム実況、チャレンジ、コメディ"
+      },
+      "about": {
+        "es": "Prebz og Dennis es un dúo formado por los amigos Preben Fjell y Dennis Vareide, que comenzaron a subir videos de gaming, vlogs y comedia en 2012 y se convirtieron en referentes del entretenimiento juvenil noruego en YouTube. Tras varios años de pausa, regresaron en abril de 2025 con el video \"VI ER TILBAKE\" (Hemos vuelto) y lanzaron un pódcast propio con episodios semanales.",
+        "en": "Prebz og Dennis is a duo formed by friends Preben Fjell and Dennis Vareide, who began posting gaming, vlog and comedy videos in 2012 and became a reference point for Norwegian youth entertainment on YouTube. After several years' hiatus, they returned in April 2025 with the video \"VI ER TILBAKE\" (We Are Back) and launched their own podcast with weekly episodes.",
+        "pt": "Prebz og Dennis é uma dupla formada pelos amigos Preben Fjell e Dennis Vareide, que começaram a postar vídeos de games, vlogs e comédia em 2012 e se tornaram referência no entretenimento jovem norueguês no YouTube. Após vários anos de pausa, retornaram em abril de 2025 com o vídeo \"VI ER TILBAKE\" (Estamos de volta) e lançaram um podcast próprio com episódios semanais.",
+        "fr": "Prebz og Dennis est un duo formé par les amis Preben Fjell et Dennis Vareide, qui ont commencé à publier des vidéos de jeu vidéo, des vlogs et du contenu comique en 2012, devenant une référence du divertissement jeunesse norvégien sur YouTube. Après plusieurs années de pause, ils sont revenus en avril 2025 avec la vidéo \"VI ER TILBAKE\" (Nous sommes de retour) et ont lancé leur propre podcast à épisodes hebdomadaires.",
+        "de": "Prebz og Dennis ist ein Duo aus den Freunden Preben Fjell und Dennis Vareide, die 2012 begannen, Gaming-, Vlog- und Comedy-Videos zu veröffentlichen, und zu einer festen Größe der norwegischen Jugendunterhaltung auf YouTube wurden. Nach mehreren Jahren Pause kehrten sie im April 2025 mit dem Video \"VI ER TILBAKE\" (Wir sind zurück) zurück und starteten einen eigenen Podcast mit wöchentlichen Folgen.",
+        "ru": "Prebz og Dennis — дуэт друзей Пребена Фьелля и Денниса Варейде, начавших выкладывать видео об играх, влоги и комедийный контент в 2012 году и ставших знаковыми фигурами норвежского молодёжного развлекательного YouTube. После нескольких лет паузы они вернулись в апреле 2025 года с видео \"VI ER TILBAKE\" (Мы вернулись) и запустили собственный подкаст с еженедельными выпусками.",
+        "ar": "\"بريبز أوغ دينيس\" ثنائي يتكوّن من الصديقين بريبن فييل ودينيس فاريدي، اللذين بدآ نشر مقاطع ألعاب وفلوجات ومحتوى كوميدي عام 2012 وأصبحا مرجعًا في ترفيه الشباب النرويجي على يوتيوب. بعد سنوات من التوقف، عادا في أبريل 2025 بفيديو \"VI ER TILBAKE\" (لقد عدنا) وأطلقا بودكاست خاصًا بحلقات أسبوعية.",
+        "hi": "प्रेब्ज़ ओग डेनिस दोस्तों प्रेबेन फियेल और डेनिस वारेइडे की जोड़ी है, जिन्होंने 2012 में गेमिंग, व्लॉग और कॉमेडी वीडियो पोस्ट करना शुरू किया और नॉर्वेजियन युवा मनोरंजन में यूट्यूब पर एक बड़ा नाम बन गए। कई वर्षों के ब्रेक के बाद, वे अप्रैल 2025 में वीडियो \"VI ER TILBAKE\" (हम वापस आ गए हैं) के साथ लौटे और साप्ताहिक एपिसोड वाला अपना पॉडकास्ट शुरू किया।",
+        "zh": "Prebz og Dennis是由好友普雷本·菲耶尔(Preben Fjell)和丹尼斯·瓦雷德(Dennis Vareide)组成的组合,他们从2012年开始发布游戏、视频日志和喜剧内容,成为挪威青年娱乐YouTube的标志性人物。经过数年停更后,他们于2025年4月带着视频《VI ER TILBAKE》(我们回来了)回归,并推出了每周更新的播客节目。",
+        "ja": "Prebz og Dennisは友人プレーベン・フィエルとデニス・ヴァレイデによるデュオで、2012年からゲーム実況、Vlog、コメディ動画を投稿し始め、ノルウェーの若者向けYouTubeエンタメの代表格となった。数年間の休止を経て、2025年4月に動画「VI ER TILBAKE」(戻ってきた)で復帰し、毎週更新の独自ポッドキャストも開始した。"
+      },
+      "handles": {
+        "youtube": "UCBNW5_epy0Yv_WLtflcGi_A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 272000
+        }
+      }
+    },
+    {
+      "id": "sophie-elise-isachsen",
+      "name": "Sophie Elise Isachsen",
+      "country": "NO",
+      "topic": {
+        "es": "Estilo de vida, salud mental y opinión",
+        "en": "Lifestyle, mental health and opinion",
+        "pt": "Estilo de vida, saúde mental e opinião",
+        "fr": "Style de vie, santé mentale et opinion",
+        "de": "Lifestyle, psychische Gesundheit und Meinung",
+        "ru": "Лайфстайл, психическое здоровье и мнения",
+        "ar": "نمط الحياة والصحة النفسية والآراء",
+        "hi": "लाइफस्टाइल, मानसिक स्वास्थ्य और राय",
+        "zh": "生活方式、心理健康与观点",
+        "ja": "ライフスタイル、メンタルヘルス、意見発信"
+      },
+      "about": {
+        "es": "Sofie Steen Isachsen, conocida como Sophie Elise, nació el 18 de diciembre de 1994 en Harstad, Noruega, y comenzó como bloguera en 2011, siendo considerada una de las primeras influencers del país. Ha escrito tres libros autobiográficos sobre autoestima y salud mental, produce un pódcast y ha convertido su marca personal en un negocio con más de una década de trayectoria.",
+        "en": "Sofie Steen Isachsen, known as Sophie Elise, was born on 18 December 1994 in Harstad, Norway, and started as a blogger in 2011, regarded as one of the country's first influencers. She has written three autobiographical books on self-esteem and mental health, produces a podcast, and has turned her personal brand into a business spanning more than a decade.",
+        "pt": "Sofie Steen Isachsen, conhecida como Sophie Elise, nasceu em 18 de dezembro de 1994 em Harstad, Noruega, e começou como blogueira em 2011, sendo considerada uma das primeiras influenciadoras do país. Escreveu três livros autobiográficos sobre autoestima e saúde mental, produz um podcast e transformou sua marca pessoal em um negócio com mais de uma década de trajetória.",
+        "fr": "Sofie Steen Isachsen, connue sous le nom de Sophie Elise, est née le 18 décembre 1994 à Harstad, en Norvège, et a débuté comme blogueuse en 2011, considérée comme l'une des premières influenceuses du pays. Elle a écrit trois livres autobiographiques sur l'estime de soi et la santé mentale, produit un podcast et a transformé sa marque personnelle en une entreprise depuis plus d'une décennie.",
+        "de": "Sofie Steen Isachsen, bekannt als Sophie Elise, wurde am 18. Dezember 1994 in Harstad, Norwegen, geboren und begann 2011 als Bloggerin; sie gilt als eine der ersten Influencerinnen des Landes. Sie hat drei autobiografische Bücher über Selbstwertgefühl und psychische Gesundheit geschrieben, produziert einen Podcast und hat ihre persönliche Marke seit über einem Jahrzehnt zu einem Geschäft ausgebaut.",
+        "ru": "Софи Стеен Исаксен, известная как Sophie Elise, родилась 18 декабря 1994 года в Харстаде, Норвегия, и начала как блогер в 2011 году, считаясь одной из первых инфлюенсеров страны. Она написала три автобиографические книги о самооценке и психическом здоровье, ведёт подкаст и превратила свой личный бренд в бизнес с более чем десятилетней историей.",
+        "ar": "وُلدت صوفي ستين إيساكسن، المعروفة باسم صوفي إليز، في 18 ديسمبر 1994 في هارستاد، النرويج، وبدأت كمدونة عام 2011، وتُعد من أوائل المؤثرين في البلاد. ألّفت ثلاثة كتب سيرة ذاتية عن تقدير الذات والصحة النفسية، وتنتج بودكاست خاصًا بها، وحوّلت علامتها الشخصية إلى مشروع تجاري يمتد لأكثر من عقد.",
+        "hi": "सोफी स्टीन इसाकसेन, जिन्हें सोफी एलिस के नाम से जाना जाता है, का जन्म 18 दिसंबर 1994 को हार्स्टाड, नॉर्वे में हुआ, और उन्होंने 2011 में ब्लॉगर के रूप में शुरुआत की, जिन्हें देश की पहली इन्फ्लुएंसर्स में गिना जाता है। उन्होंने आत्म-सम्मान और मानसिक स्वास्थ्य पर तीन आत्मकथात्मक किताबें लिखी हैं, एक पॉडकास्ट बनाती हैं, और अपने व्यक्तिगत ब्रांड को एक दशक से अधिक समय में व्यवसाय में बदल दिया है।",
+        "zh": "索菲·斯汀·伊萨克森(Sofie Steen Isachsen),艺名Sophie Elise,1994年12月18日出生于挪威哈尔斯塔德,2011年以博主身份出道,被认为是挪威最早的网红之一。她撰写了三本关于自尊与心理健康的自传体书籍,制作播客节目,并在十余年间将个人品牌发展成商业实体。",
+        "ja": "ソフィー・スティーン・イサクセン(通称ソフィー・エリーゼ)は1994年12月18日、ノルウェーのハルスタで生まれ、2011年にブロガーとして活動を開始し、同国最初期のインフルエンサーの一人とされる。自尊心とメンタルヘルスをテーマにした自伝的著書を3冊執筆し、ポッドキャストも制作、10年以上かけて個人ブランドをビジネスへと発展させた。"
+      },
+      "handles": {
+        "youtube": "UCAjmDZIuqr9mBpIXhopV9Iw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
+        "followers": {
+          "youtube": 53000
+        }
+      }
     }
   ]
 }
