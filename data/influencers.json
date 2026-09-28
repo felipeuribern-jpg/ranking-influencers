@@ -3057,94 +3057,6 @@
       }
     },
     {
-      "id": "brayan-yecauri",
-      "name": "Brayan & Yecauri",
-      "country": "DO",
-      "topic": {
-        "es": "Comedia y sketches",
-        "en": "Comedy and skits",
-        "pt": "Comédia e esquetes",
-        "fr": "Comédie et sketchs",
-        "de": "Comedy und Sketche",
-        "ru": "Комедия и скетчи",
-        "ar": "كوميديا وسكتشات",
-        "hi": "कॉमेडी और स्किट्स",
-        "zh": "喜剧短剧",
-        "ja": "コメディとコント"
-      },
-      "about": {
-        "es": "Dúo de creadores radicado en Santo Domingo, República Dominicana, que produce sketches cómicos sobre situaciones de la vida diaria bajo el lema \"solo queremos que ustedes aprendan y nosotros también\".",
-        "en": "A duo of creators based in Santo Domingo, Dominican Republic, who produce comedic skits about everyday life situations under the motto \"we just want you to learn, and us too.\"",
-        "pt": "Dupla de criadores baseada em Santo Domingo, República Dominicana, que produz esquetes cômicos sobre situações do dia a dia com o lema \"só queremos que vocês aprendam, e nós também\".",
-        "fr": "Duo de créateurs basé à Saint-Domingue, en République dominicaine, qui réalise des sketches comiques sur des situations de la vie quotidienne, avec pour devise \"nous voulons juste que vous appreniez, et nous aussi\".",
-        "de": "Ein Creator-Duo mit Sitz in Santo Domingo, Dominikanische Republik, das komische Sketche über Alltagssituationen produziert, unter dem Motto \"wir wollen nur, dass ihr lernt, und wir auch\".",
-        "ru": "Дуэт авторов из Санто-Доминго, Доминиканская Республика, снимающий комедийные скетчи о повседневных ситуациях под девизом «мы просто хотим, чтобы вы учились, и мы тоже».",
-        "ar": "ثنائي من صانعي المحتوى مقيم في سانتو دومينغو بجمهورية الدومينيكان، ينتج سكتشات كوميدية عن مواقف الحياة اليومية تحت شعار \"نريد فقط أن تتعلموا، ونحن أيضًا\".",
-        "hi": "सैंटो डोमिंगो, डोमिनिकन गणराज्य स्थित क्रिएटर जोड़ी, जो रोज़मर्रा की स्थितियों पर हास्य स्किट्स बनाती है, आदर्श वाक्य के साथ \"हम बस चाहते हैं कि आप सीखें, और हम भी\"।",
-        "zh": "常驻多米尼加共和国圣多明各的创作者组合,以“我们只希望你们学到东西,我们也一样”为口号,制作关于日常生活情境的搞笑短剧。",
-        "ja": "ドミニカ共和国サントドミンゴを拠点とするクリエイターデュオ。「あなたたちに学んでほしい、私たちも学ぶ」をモットーに、日常生活を題材にしたコメディコントを制作している。"
-      },
-      "handles": {
-        "youtube": "UCiiwh-lH4yxNmpZKI-qXyCA",
-        "tiktok": "@brayan_yecauri.1",
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 208000
-        }
-      }
-    },
-    {
-      "id": "yanet-fernandez",
-      "name": "Yanet Fernández",
-      "country": "DO",
-      "topic": {
-        "es": "Vlogs y viajes",
-        "en": "Vlogs and travel",
-        "pt": "Vlogs e viagens",
-        "fr": "Vlogs et voyages",
-        "de": "Vlogs und Reisen",
-        "ru": "Влоги и путешествия",
-        "ar": "مدونات فيديو وسفر",
-        "hi": "व्लॉग और यात्रा",
-        "zh": "视频博客与旅行",
-        "ja": "ブログと旅行"
-      },
-      "about": {
-        "es": "Creadora cubana radicada en República Dominicana que comparte vlogs sobre su vida diaria y viajes por el país, incluyendo recorridos por regiones como el Cibao.",
-        "en": "A Cuban creator based in the Dominican Republic who shares vlogs about her daily life and travels around the country, including trips through regions like the Cibao.",
-        "pt": "Criadora cubana radicada na República Dominicana que compartilha vlogs sobre seu dia a dia e viagens pelo país, incluindo passeios por regiões como o Cibao.",
-        "fr": "Créatrice cubaine installée en République dominicaine qui partage des vlogs sur son quotidien et ses voyages dans le pays, notamment dans des régions comme le Cibao.",
-        "de": "Eine kubanische Creatorin mit Wohnsitz in der Dominikanischen Republik, die Vlogs über ihren Alltag und Reisen im Land teilt, unter anderem durch Regionen wie den Cibao.",
-        "ru": "Кубинская создательница контента, живущая в Доминиканской Республике, публикует влоги о повседневной жизни и путешествиях по стране, включая поездки по региону Сибао.",
-        "ar": "مبدعة كوبية مقيمة في جمهورية الدومينيكان تشارك مدونات فيديو عن حياتها اليومية ورحلاتها في البلاد، بما في ذلك جولات في مناطق مثل سيباو.",
-        "hi": "डोमिनिकन गणराज्य में रहने वाली क्यूबाई क्रिएटर, जो अपने रोज़मर्रा के जीवन और देश भर की यात्राओं, जिसमें सिबाओ जैसे क्षेत्रों की यात्राएँ शामिल हैं, पर व्लॉग साझा करती हैं।",
-        "zh": "居住在多米尼加共和国的古巴创作者,分享她的日常生活及在该国各地(包括西瓦奥地区)的旅行视频博客。",
-        "ja": "ドミニカ共和国在住のキューバ出身クリエイター。シバオ地方など国内各地への旅行を含む日常生活のブログを発信している。"
-      },
-      "handles": {
-        "youtube": "UCq-mYkYKBy1YzHAf9TpbC4g",
-        "tiktok": null,
-        "instagram": "yanet_fernandez__",
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 105000
-        }
-      }
-    },
-    {
       "id": "el-chico-sandy",
       "name": "el chico sandy",
       "country": "DO",
@@ -6401,94 +6313,6 @@
       }
     },
     {
-      "id": "diana-eneje",
-      "name": "Diana Eneje",
-      "country": "NG",
-      "topic": {
-        "es": "Moda y vlogs",
-        "en": "Fashion vlogging",
-        "pt": "Moda e vlogs",
-        "fr": "Mode et vlogs",
-        "de": "Mode-Vlogs",
-        "ru": "Мода и влоги",
-        "ar": "أزياء ومدونات فيديو",
-        "hi": "फैशन व्लॉगिंग",
-        "zh": "时尚视频博客",
-        "ja": "ファッションVlog"
-      },
-      "about": {
-        "es": "Vloguera de moda nigeriana nacida y criada en Lagos que apareció en el videoclip de la canción \"Dumebi\" de Rema.",
-        "en": "Nigerian fashion vlogger born and raised in Lagos who appeared in the music video for Rema's song \"Dumebi\".",
-        "pt": "Vlogueira de moda nigeriana nascida e criada em Lagos que apareceu no videoclipe da música \"Dumebi\" de Rema.",
-        "fr": "Vlogueuse mode nigériane née et élevée à Lagos, apparue dans le clip de la chanson \"Dumebi\" de Rema.",
-        "de": "Nigerianische Mode-Vloggerin, geboren und aufgewachsen in Lagos, die im Musikvideo zu Remas Song \"Dumebi\" mitwirkte.",
-        "ru": "Нигерийский видеоблогер о моде, родившаяся и выросшая в Лагосе, снялась в клипе на песню Rema \"Dumebi\".",
-        "ar": "مدونة فيديو نيجيرية متخصصة في الأزياء وُلدت ونشأت في لاغوس وظهرت في الفيديو الموسيقي لأغنية \"Dumebi\" لـ Rema.",
-        "hi": "लागोस में जन्मी और पली-बढ़ी नाइजीरियाई फैशन व्लॉगर, जो रेमा के गाने \"Dumebi\" के म्यूज़िक वीडियो में नज़र आईं।",
-        "zh": "这位在拉各斯出生并长大的尼日利亚时尚视频博主曾出演Rema歌曲《Dumebi》的音乐视频。",
-        "ja": "ラゴスで生まれ育ったナイジェリア人ファッションVloggerで、Remaの曲「Dumebi」のミュージックビデオに出演した。"
-      },
-      "handles": {
-        "youtube": "UCyiN00eOKq-OWS0ixpvsqtg",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 127000
-        }
-      }
-    },
-    {
-      "id": "james-brown",
-      "name": "James Brown",
-      "country": "NG",
-      "topic": {
-        "es": "Entretenimiento y estilo de vida",
-        "en": "Entertainment & lifestyle",
-        "pt": "Entretenimento e estilo de vida",
-        "fr": "Divertissement et style de vie",
-        "de": "Unterhaltung & Lifestyle",
-        "ru": "Развлечения и лайфстайл",
-        "ar": "ترفيه وأسلوب حياة",
-        "hi": "मनोरंजन और लाइफस्टाइल",
-        "zh": "娱乐与生活方式",
-        "ja": "エンタメ&ライフスタイル"
-      },
-      "about": {
-        "es": "Personalidad de internet nigeriana radicada en Lagos que trabaja como animador, influencer de marcas y creador de contenido.",
-        "en": "Nigerian internet personality based in Lagos who works as an entertainer, brand influencer and content creator.",
-        "pt": "Personalidade da internet nigeriana radicada em Lagos que atua como entretenedor, influenciador de marcas e criador de conteúdo.",
-        "fr": "Personnalité internet nigériane basée à Lagos, animateur, influenceur de marques et créateur de contenu.",
-        "de": "Nigerianische Internetpersönlichkeit mit Sitz in Lagos, tätig als Entertainer, Markenbotschafter und Content Creator.",
-        "ru": "Нигерийская интернет-персона из Лагоса, работающая как артист-развлекатель, бренд-инфлюенсер и создатель контента.",
-        "ar": "شخصية إنترنت نيجيرية مقيمة في لاغوس تعمل كفنان ترفيهي ومؤثر للعلامات التجارية وصانع محتوى.",
-        "hi": "लागोस स्थित नाइजीरियाई इंटरनेट हस्ती, जो एक एंटरटेनर, ब्रांड इन्फ्लुएंसर और कंटेंट क्रिएटर के रूप में काम करती हैं।",
-        "zh": "这位常驻拉各斯的尼日利亚网络红人从事娱乐表演、品牌代言和内容创作工作。",
-        "ja": "ラゴスを拠点とするナイジェリア人インターネットパーソナリティで、エンターテイナー、ブランドインフルエンサー、コンテンツクリエイターとして活動している。"
-      },
-      "handles": {
-        "youtube": "UCCsTF4fkyjOsFsXMDgE3nZA",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 100000
-        }
-      }
-    },
-    {
       "id": "shin-fujiyama",
       "name": "Shin Fujiyama",
       "country": "HN",
@@ -7379,51 +7203,6 @@
         "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
         "followers": {
           "youtube": 505000
-        }
-      }
-    },
-    {
-      "id": "mohamed-almasry",
-      "name": "دكتور محمد المصري",
-      "country": "EG",
-      "topic": {
-        "es": "Religión y oraciones",
-        "en": "Religion and prayers",
-        "pt": "Religião e orações",
-        "fr": "Religion et prières",
-        "de": "Religion und Gebete",
-        "ru": "Религия и молитвы",
-        "ar": "دين وأدعية",
-        "hi": "धर्म और प्रार्थनाएँ",
-        "zh": "宗教与祈祷",
-        "ja": "宗教と祈り"
-      },
-      "about": {
-        "es": "En su canal de YouTube, دكتور محمد المصري comparte contenido sobre Religión y oraciones.",
-        "en": "On their YouTube channel, دكتور محمد المصري shares content about Religion and prayers.",
-        "pt": "No seu canal do YouTube, دكتور محمد المصري compartilha conteúdo sobre Religião e orações.",
-        "fr": "Sur sa chaîne YouTube, دكتور محمد المصري partage du contenu sur le thème : Religion et prières.",
-        "de": "Auf dem YouTube-Kanal von دكتور محمد المصري geht es um Religion und Gebete.",
-        "ru": "На YouTube-канале دكتور محمد المصري публикуются видео на тему «Религия и молитвы».",
-        "ar": "ينشر دكتور محمد المصري على قناته في يوتيوب محتوى عن دين وأدعية.",
-        "hi": "دكتور محمد المصري अपने YouTube चैनल पर धर्म और प्रार्थनाएँ से जुड़ी सामग्री साझा करते हैं।",
-        "zh": "دكتور محمد المصري 的 YouTube 频道分享有关宗教与祈祷的内容。",
-        "ja": "دكتور محمد المصريのYouTubeチャンネルでは、宗教と祈りに関する動画を公開しています。"
-      },
-      "handles": {
-        "youtube": "UCVTxYtLFAgNCMGheZ9kX_Vg",
-        "instagram": null,
-        "tiktok": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "discoveredAuto": true,
-      "baseline": {
-        "source": "YouTube Data API v3; 2026-09-26T15:41:16.377Z",
-        "followers": {
-          "youtube": 112000
         }
       }
     },
@@ -14167,50 +13946,6 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
         "followers": {
           "youtube": 1280000
-        }
-      }
-    },
-    {
-      "id": "layi-wasabi",
-      "name": "Layi Wasabi",
-      "country": "NG",
-      "topic": {
-        "es": "Comedia con temática legal",
-        "en": "Legal-themed comedy",
-        "pt": "Comédia com temática jurídica",
-        "fr": "Comédie à thème juridique",
-        "de": "Comedy mit juristischem Thema",
-        "ru": "Комедия на юридическую тематику",
-        "ar": "كوميديا بطابع قانوني",
-        "hi": "कानूनी विषयों पर कॉमेडी",
-        "zh": "法律题材喜剧",
-        "ja": "法律テーマのコメディ"
-      },
-      "about": {
-        "es": "Creador nigeriano radicado en Lagos, abogado de formación, conocido por sketches de comedia con temática legal que combinan humor cotidiano con su experiencia en derecho.",
-        "en": "Nigerian creator based in Lagos, trained as a lawyer, known for legal-themed comedy skits that blend everyday humor with his background in law.",
-        "pt": "Criador nigeriano radicado em Lagos, formado em direito, conhecido por esquetes de comédia com temática jurídica que combinam humor cotidiano com sua formação em direito.",
-        "fr": "Créateur nigérian installé à Lagos, formé comme avocat, connu pour ses sketchs comiques à thème juridique mêlant humour du quotidien et sa formation en droit.",
-        "de": "Nigerianischer Creator mit Sitz in Lagos, ausgebildeter Jurist, bekannt für Comedy-Sketche mit juristischem Thema, die Alltagshumor mit seiner Rechtsausbildung verbinden.",
-        "ru": "Нигерийский автор из Лагоса, по образованию юрист, известен комедийными скетчами на юридическую тематику, сочетающими бытовой юмор с его юридическим опытом.",
-        "ar": "صانع محتوى نيجيري يقيم في لاغوس، محامٍ بالتدريب، اشتهر بسكتشات كوميدية بطابع قانوني تمزج الفكاهة اليومية بخلفيته في القانون.",
-        "hi": "नाइजीरियाई क्रिएटर, लागोस में रहते हैं, पेशे से वकील, कानूनी विषयों पर आधारित कॉमेडी स्केच के लिए जाने जाते हैं जो रोज़मर्रा के हास्य को उनके कानूनी अनुभव से जोड़ते हैं।",
-        "zh": "尼日利亚创作者,居住在拉各斯,接受过律师训练,以融合日常幽默与法律背景的法律题材喜剧短剧而闻名。",
-        "ja": "ラゴス在住のナイジェリア人クリエイターで、弁護士としての訓練を受けており、日常のユーモアと法律の知識を組み合わせた法律テーマのコメディスケッチで知られる。"
-      },
-      "handles": {
-        "youtube": "UCJWrb-dnwFY0GTAeA2gKHPg",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, channels.list (curado a mano, reincorporado tras revisión de criterio de país)",
-        "followers": {
-          "youtube": 149000
         }
       }
     },
@@ -23143,6 +22878,270 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:43:18.505Z)",
         "followers": {
           "youtube": 56700000
+        }
+      }
+    },
+    {
+      "id": "burna-boy",
+      "name": "Burna Boy",
+      "country": "NG",
+      "topic": {
+        "es": "Afrobeats",
+        "en": "Afrobeats",
+        "pt": "Afrobeats",
+        "fr": "Afrobeats",
+        "de": "Afrobeats",
+        "ru": "Афробитс",
+        "ar": "الأفروبيتس",
+        "hi": "अफ्रोबीट्स",
+        "zh": "非洲节拍",
+        "ja": "アフロビーツ"
+      },
+      "about": {
+        "es": "Burna Boy (Damini Ogulu) es un cantante y compositor nigeriano de afrobeats, ganador de un premio Grammy. Ha llevado el género a estadios y festivales globales con éxitos como \"Last Last\" y el álbum \"Twice as Tall\".",
+        "en": "Burna Boy (Damini Ogulu) is a Nigerian Afrobeats singer and songwriter, a Grammy Award winner. He has brought the genre to global stadiums and festivals with hits like \"Last Last\" and the album \"Twice as Tall.\"",
+        "pt": "Burna Boy (Damini Ogulu) é um cantor e compositor nigeriano de afrobeats, vencedor de um prêmio Grammy. Levou o gênero a estádios e festivais globais com sucessos como \"Last Last\" e o álbum \"Twice as Tall\".",
+        "fr": "Burna Boy (Damini Ogulu) est un chanteur et compositeur nigérian d'afrobeats, lauréat d'un Grammy Award. Il a porté ce genre musical dans des stades et festivals du monde entier avec des titres comme « Last Last » et l'album « Twice as Tall ».",
+        "de": "Burna Boy (Damini Ogulu) ist ein nigerianischer Afrobeats-Sänger und Songwriter und Gewinner eines Grammy Awards. Mit Hits wie „Last Last“ und dem Album „Twice as Tall“ brachte er das Genre in Stadien und auf Festivals weltweit.",
+        "ru": "Бёрна Бой (Дамини Огулу) — нигерийский исполнитель афробитс и автор песен, лауреат премии Grammy. Он вывел жанр на мировые стадионы и фестивали с хитом «Last Last» и альбомом «Twice as Tall».",
+        "ar": "بورنا بوي (داميني أوغولو) مغنٍّ وكاتب أغانٍ نيجيري لموسيقى الأفروبيتس، حائز على جائزة غرامي. نقل هذا النوع الموسيقي إلى الملاعب والمهرجانات العالمية بأغنية \"Last Last\" وألبوم \"Twice as Tall\".",
+        "hi": "बर्ना बॉय (दामिनी ओगुलू) एक नाइजीरियाई अफ्रोबीट्स गायक और गीतकार हैं, जो ग्रैमी पुरस्कार विजेता हैं। उन्होंने \"Last Last\" जैसे हिट गानों और \"Twice as Tall\" एल्बम के साथ इस शैली को वैश्विक स्टेडियमों और उत्सवों तक पहुंचाया।",
+        "zh": "布尔纳男孩（本名Damini Ogulu）是尼日利亚非洲节拍（Afrobeats）歌手兼词曲作者，格莱美奖得主。他凭借《Last Last》等热门歌曲及专辑《Twice as Tall》将该音乐流派带上全球体育场和音乐节舞台。",
+        "ja": "バーナ・ボーイ（本名ダミーニ・オグル）はナイジェリア出身のアフロビーツ歌手・作曲家で、グラミー賞受賞者。「Last Last」などのヒット曲とアルバム「Twice as Tall」で、このジャンルを世界のスタジアムやフェスティバルへと広めた。"
+      },
+      "handles": {
+        "youtube": "UCEzDdNqNkT-7rSfSGSr1hWg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:50:50.090Z)",
+        "followers": {
+          "youtube": 7390000
+        }
+      }
+    },
+    {
+      "id": "davido",
+      "name": "Davido",
+      "country": "NG",
+      "topic": {
+        "es": "Afrobeats",
+        "en": "Afrobeats",
+        "pt": "Afrobeats",
+        "fr": "Afrobeats",
+        "de": "Afrobeats",
+        "ru": "Афробитс",
+        "ar": "الأفروبيتس",
+        "hi": "अफ्रोबीट्स",
+        "zh": "非洲节拍",
+        "ja": "アフロビーツ"
+      },
+      "about": {
+        "es": "Davido (David Adedeji Adeleke) es un cantante y compositor nigeriano, uno de los mayores exponentes del afrobeats a nivel mundial, conocido por éxitos como \"Fall\" y \"Unavailable\".",
+        "en": "Davido (David Adedeji Adeleke) is a Nigerian singer and songwriter, one of the biggest names in Afrobeats worldwide, known for hits like \"Fall\" and \"Unavailable.\"",
+        "pt": "Davido (David Adedeji Adeleke) é um cantor e compositor nigeriano, um dos maiores nomes do afrobeats no mundo, conhecido por sucessos como \"Fall\" e \"Unavailable\".",
+        "fr": "Davido (David Adedeji Adeleke) est un chanteur et compositeur nigérian, l'un des plus grands noms de l'afrobeats à l'échelle mondiale, connu pour des titres comme « Fall » et « Unavailable ».",
+        "de": "Davido (David Adedeji Adeleke) ist ein nigerianischer Sänger und Songwriter, einer der größten Namen im weltweiten Afrobeats, bekannt für Hits wie „Fall“ und „Unavailable“.",
+        "ru": "Давидо (Дэвид Адедеджи Аделеке) — нигерийский певец и автор песен, один из крупнейших исполнителей афробитс в мире, известный хитами «Fall» и «Unavailable».",
+        "ar": "دافيدو (ديفيد أديديجي أديليكي) مغنٍّ وكاتب أغانٍ نيجيري، من أكبر أسماء موسيقى الأفروبيتس عالميًا، اشتهر بأغانٍ مثل \"Fall\" و\"Unavailable\".",
+        "hi": "डेविडो (डेविड अडेडेजी अडेलेके) एक नाइजीरियाई गायक और गीतकार हैं, जो दुनिया भर में अफ्रोबीट्स के सबसे बड़े नामों में से एक हैं, \"Fall\" और \"Unavailable\" जैसे हिट गानों के लिए मशहूर।",
+        "zh": "达维多（本名David Adedeji Adeleke）是尼日利亚歌手兼词曲作者，是全球非洲节拍音乐最具代表性的名字之一，凭借《Fall》和《Unavailable》等歌曲闻名。",
+        "ja": "ダヴィド（本名デイヴィッド・アデデジ・アデレケ）はナイジェリア出身の歌手・作曲家で、世界的なアフロビーツの代表的存在。「Fall」「Unavailable」などのヒット曲で知られる。"
+      },
+      "handles": {
+        "youtube": "UCkBV3nBa0iRdxEGc4DUS3xA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:50:50.090Z)",
+        "followers": {
+          "youtube": 5150000
+        }
+      }
+    },
+    {
+      "id": "wizkid",
+      "name": "Wizkid",
+      "country": "NG",
+      "topic": {
+        "es": "Afrobeats",
+        "en": "Afrobeats",
+        "pt": "Afrobeats",
+        "fr": "Afrobeats",
+        "de": "Afrobeats",
+        "ru": "Афробитс",
+        "ar": "الأفروبيتس",
+        "hi": "अफ्रोबीट्स",
+        "zh": "非洲节拍",
+        "ja": "アフロビーツ"
+      },
+      "about": {
+        "es": "Wizkid (Ayodeji Balogun) es un cantante nigeriano pionero del afrobeats a nivel global, ganador de un Grammy por su colaboración en \"Brown Skin Girl\" y conocido por el éxito mundial \"Essence\".",
+        "en": "Wizkid (Ayodeji Balogun) is a Nigerian singer and one of the pioneers of Afrobeats on the global stage, a Grammy winner for his feature on \"Brown Skin Girl\" and known for the worldwide hit \"Essence.\"",
+        "pt": "Wizkid (Ayodeji Balogun) é um cantor nigeriano, um dos pioneiros do afrobeats em nível global, vencedor de um Grammy por sua participação em \"Brown Skin Girl\" e conhecido pelo sucesso mundial \"Essence\".",
+        "fr": "Wizkid (Ayodeji Balogun) est un chanteur nigérian, l'un des pionniers de l'afrobeats sur la scène mondiale, lauréat d'un Grammy pour sa participation à « Brown Skin Girl » et connu pour le succès international « Essence ».",
+        "de": "Wizkid (Ayodeji Balogun) ist ein nigerianischer Sänger und einer der Pioniere des Afrobeats auf globaler Ebene, Grammy-Gewinner für seinen Beitrag zu „Brown Skin Girl“ und bekannt für den Welthit „Essence“.",
+        "ru": "Уизкид (Айодеджи Балогун) — нигерийский певец, один из пионеров афробитс на мировой сцене, лауреат премии Grammy за участие в «Brown Skin Girl», известен мировым хитом «Essence».",
+        "ar": "ويزكيد (أيوديجي بالوغون) مغنٍّ نيجيري، من رواد موسيقى الأفروبيتس عالميًا، فاز بجائزة غرامي عن مشاركته في \"Brown Skin Girl\"، واشتهر بأغنية \"Essence\" العالمية.",
+        "hi": "विज़किड (अयोदेजी बालोगुन) एक नाइजीरियाई गायक हैं, जो वैश्विक स्तर पर अफ्रोबीट्स के अग्रदूतों में से एक हैं, \"Brown Skin Girl\" में योगदान के लिए ग्रैमी विजेता, और विश्व हिट \"Essence\" के लिए जाने जाते हैं।",
+        "zh": "维兹小子（本名Ayodeji Balogun）是尼日利亚歌手，全球非洲节拍音乐的先驱之一，凭借参与《Brown Skin Girl》获得格莱美奖，并以全球热曲《Essence》闻名。",
+        "ja": "ウィズキッド（本名アヨデジ・バログン）はナイジェリア出身の歌手で、世界的なアフロビーツの先駆者の一人。「Brown Skin Girl」への参加でグラミー賞を受賞し、世界的ヒット曲「Essence」で知られる。"
+      },
+      "handles": {
+        "youtube": "UCi7Cbr-F3zFQjwafFh5RWJA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:50:50.090Z)",
+        "followers": {
+          "youtube": 3740000
+        }
+      }
+    },
+    {
+      "id": "amr-diab",
+      "name": "Amr Diab",
+      "country": "EG",
+      "topic": {
+        "es": "Música pop árabe",
+        "en": "Arabic pop music",
+        "pt": "Música pop árabe",
+        "fr": "Pop arabe",
+        "de": "Arabische Popmusik",
+        "ru": "Арабская поп-музыка",
+        "ar": "موسيقى البوب العربية",
+        "hi": "अरबी पॉप संगीत",
+        "zh": "阿拉伯流行音乐",
+        "ja": "アラブ・ポップミュージック"
+      },
+      "about": {
+        "es": "Amr Diab es un cantante egipcio, considerado el padre del pop mediterráneo/árabe moderno y uno de los artistas más vendidos de Oriente Medio, con una carrera de más de cuatro décadas y múltiples récords Guinness.",
+        "en": "Amr Diab is an Egyptian singer, considered the father of modern Mediterranean/Arabic pop and one of the best-selling artists in the Middle East, with a career spanning more than four decades and multiple Guinness World Records.",
+        "pt": "Amr Diab é um cantor egípcio, considerado o pai do pop mediterrâneo/árabe moderno e um dos artistas mais vendidos do Oriente Médio, com uma carreira de mais de quatro décadas e vários recordes do Guinness.",
+        "fr": "Amr Diab est un chanteur égyptien, considéré comme le père de la pop méditerranéenne/arabe moderne et l'un des artistes les plus vendus du Moyen-Orient, avec une carrière de plus de quatre décennies et plusieurs records Guinness.",
+        "de": "Amr Diab ist ein ägyptischer Sänger, der als Vater des modernen mediterranen/arabischen Pop gilt und einer der meistverkauften Künstler im Nahen Osten ist, mit einer über vier Jahrzehnte währenden Karriere und mehreren Guinness-Weltrekorden.",
+        "ru": "Амр Диаб — египетский певец, которого считают отцом современной средиземноморской/арабской поп-музыки и одним из самых продаваемых артистов Ближнего Востока, с карьерой более четырёх десятилетий и несколькими рекордами Гиннесса.",
+        "ar": "عمرو دياب مغنٍّ مصري، يُعتبر أب البوب المتوسطي/العربي الحديث وواحدًا من أكثر الفنانين مبيعًا في الشرق الأوسط، بمسيرة تمتد لأكثر من أربعة عقود وأرقام قياسية عديدة في موسوعة غينيس.",
+        "hi": "अम्र दियाब एक मिस्री गायक हैं, जिन्हें आधुनिक भूमध्यसागरीय/अरबी पॉप का जनक माना जाता है और जो मध्य पूर्व के सबसे अधिक बिकने वाले कलाकारों में से एक हैं, चार दशकों से अधिक के करियर और कई गिनीज़ वर्ल्ड रिकॉर्ड्स के साथ।",
+        "zh": "阿姆尔·迪亚布是一位埃及歌手，被誉为现代地中海/阿拉伯流行音乐之父，也是中东最畅销的艺人之一，职业生涯超过四十年，创下多项吉尼斯世界纪录。",
+        "ja": "アムル・ディアブはエジプト出身の歌手で、現代の地中海・アラブ系ポップミュージックの父と称され、中東で最も売れているアーティストの一人。40年以上のキャリアを持ち、複数のギネス世界記録を保持している。"
+      },
+      "handles": {
+        "youtube": "UCpui0-2JqcAcII4ybpB1q3w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:50:50.090Z)",
+        "followers": {
+          "youtube": 7510000
+        }
+      }
+    },
+    {
+      "id": "romeo-santos",
+      "name": "Romeo Santos",
+      "country": "DO",
+      "topic": {
+        "es": "Bachata",
+        "en": "Bachata",
+        "pt": "Bachata",
+        "fr": "Bachata",
+        "de": "Bachata",
+        "ru": "Бачата",
+        "ar": "الباتشاتا",
+        "hi": "बाचाटा",
+        "zh": "巴恰塔",
+        "ja": "バチャータ"
+      },
+      "about": {
+        "es": "Romeo Santos es un cantante dominicano, conocido como el \"Rey de la Bachata\". Fue líder del grupo Aventura y en su carrera solista ha llenado estadios como el Yankee Stadium, con éxitos como \"Propuesta Indecente\" y \"Odio\".",
+        "en": "Romeo Santos is a Dominican singer known as the \"King of Bachata.\" He was the leader of the group Aventura and, as a solo artist, has sold out stadiums like Yankee Stadium, with hits like \"Propuesta Indecente\" and \"Odio.\"",
+        "pt": "Romeo Santos é um cantor dominicano conhecido como o \"Rei da Bachata\". Foi líder do grupo Aventura e, como artista solo, já lotou estádios como o Yankee Stadium, com sucessos como \"Propuesta Indecente\" e \"Odio\".",
+        "fr": "Romeo Santos est un chanteur dominicain surnommé le « Roi de la Bachata ». Il a été le leader du groupe Aventura et, en solo, a rempli des stades comme le Yankee Stadium, avec des titres comme « Propuesta Indecente » et « Odio ».",
+        "de": "Romeo Santos ist ein dominikanischer Sänger, bekannt als „König der Bachata“. Er war Anführer der Gruppe Aventura und hat als Solokünstler Stadien wie das Yankee Stadium gefüllt, mit Hits wie „Propuesta Indecente“ und „Odio“.",
+        "ru": "Ромео Сантос — доминиканский певец, известный как «Король бачаты». Он был лидером группы Aventura, а как сольный артист собирал стадионы, включая «Янки Стэдиум», с хитами «Propuesta Indecente» и «Odio».",
+        "ar": "روميو سانتوس مغنٍّ دومينيكاني يُعرف بلقب \"ملك الباتشاتا\". كان قائد فرقة Aventura، وكفنان منفرد ملأ ملاعب مثل ملعب يانكي، بأغانٍ ناجحة مثل \"Propuesta Indecente\" و\"Odio\".",
+        "hi": "रोमियो सैंटोस एक डोमिनिकन गायक हैं, जिन्हें \"बाचाटा के राजा\" के रूप में जाना जाता है। वे Aventura समूह के नेता थे और एकल कलाकार के रूप में यांकी स्टेडियम जैसे स्टेडियम भर चुके हैं, \"Propuesta Indecente\" और \"Odio\" जैसे हिट गानों के साथ।",
+        "zh": "罗密欧·桑托斯是多米尼加歌手，被誉为\"巴恰塔之王\"。他曾是乐队Aventura的主唱，单飞后曾在洋基体育场等场馆举办万人演唱会，代表作包括《Propuesta Indecente》和《Odio》。",
+        "ja": "ロメオ・サントスはドミニカ共和国出身の歌手で、「バチャータの王」として知られる。グループAventuraのリーダーを務め、ソロ活動ではヤンキースタジアムなどを満員にし、「Propuesta Indecente」「Odio」などのヒット曲で知られる。"
+      },
+      "handles": {
+        "youtube": "UCNnwYefwrkVBAbMUzLpxbEQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:50:50.090Z)",
+        "followers": {
+          "youtube": 8790000
+        }
+      }
+    },
+    {
+      "id": "prince-royce",
+      "name": "Prince Royce",
+      "country": "DO",
+      "topic": {
+        "es": "Bachata",
+        "en": "Bachata",
+        "pt": "Bachata",
+        "fr": "Bachata",
+        "de": "Bachata",
+        "ru": "Бачата",
+        "ar": "الباتشاتا",
+        "hi": "बाचाटा",
+        "zh": "巴恰塔",
+        "ja": "バチャータ"
+      },
+      "about": {
+        "es": "Prince Royce (Geoffrey Royce Rojas) es un cantante dominicano-estadounidense de bachata, uno de los artistas latinos más exitosos de su generación, conocido por éxitos como \"Stand by Me\" (versión en español) y \"Darte un Beso\".",
+        "en": "Prince Royce (Geoffrey Royce Rojas) is a Dominican-American bachata singer, one of the most successful Latin artists of his generation, known for hits like his Spanish-language version of \"Stand by Me\" and \"Darte un Beso.\"",
+        "pt": "Prince Royce (Geoffrey Royce Rojas) é um cantor domínico-americano de bachata, um dos artistas latinos mais bem-sucedidos de sua geração, conhecido por sucessos como sua versão em espanhol de \"Stand by Me\" e \"Darte un Beso\".",
+        "fr": "Prince Royce (Geoffrey Royce Rojas) est un chanteur dominico-américain de bachata, l'un des artistes latino les plus populaires de sa génération, connu pour des titres comme sa version espagnole de « Stand by Me » et « Darte un Beso ».",
+        "de": "Prince Royce (Geoffrey Royce Rojas) ist ein dominikanisch-amerikanischer Bachata-Sänger und einer der erfolgreichsten lateinamerikanischen Künstler seiner Generation, bekannt für Hits wie seine spanische Version von „Stand by Me“ und „Darte un Beso“.",
+        "ru": "Принс Ройс (Джеффри Ройс Рохас) — доминикано-американский исполнитель бачаты, один из самых успешных латиноамериканских артистов своего поколения, известен испаноязычной версией «Stand by Me» и хитом «Darte un Beso».",
+        "ar": "برينس رويس (جيفري رويس روخاس) مغنٍّ دومينيكاني أمريكي للباتشاتا، من أنجح الفنانين اللاتينيين في جيله، اشتهر بأغانٍ مثل نسخته الإسبانية من \"Stand by Me\" وأغنية \"Darte un Beso\".",
+        "hi": "प्रिंस रॉयस (जेफ्री रॉयस रोजास) एक डोमिनिकन-अमेरिकी बाचाटा गायक हैं, जो अपनी पीढ़ी के सबसे सफल लैटिन कलाकारों में से एक हैं, \"Stand by Me\" के स्पेनिश संस्करण और \"Darte un Beso\" जैसे हिट गानों के लिए मशहूर।",
+        "zh": "普林斯·罗伊斯（本名Geoffrey Royce Rojas）是多米尼加裔美国巴恰塔歌手，是同代最成功的拉丁艺人之一，凭借西班牙语版《Stand by Me》和《Darte un Beso》等歌曲闻名。",
+        "ja": "プリンス・ロイス（本名ジェフリー・ロイス・ロハス）はドミニカ系アメリカ人のバチャータ歌手で、同世代で最も成功したラテン系アーティストの一人。スペイン語版「Stand by Me」や「Darte un Beso」などのヒット曲で知られる。"
+      },
+      "handles": {
+        "youtube": "UCphlOJ8CqfyUi9ayZ2UZmfg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:50:50.090Z)",
+        "followers": {
+          "youtube": 5640000
         }
       }
     }
