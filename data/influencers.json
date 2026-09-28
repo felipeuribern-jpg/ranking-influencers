@@ -22713,6 +22713,446 @@
           "youtube": 225000
         }
       }
+    },
+    {
+      "id": "li-ziqi",
+      "name": "Li Ziqi (李子柒)",
+      "country": "CN",
+      "topic": {
+        "es": "Vida rural y gastronomía tradicional china",
+        "en": "Rural life and traditional Chinese cuisine",
+        "pt": "Vida rural e gastronomia tradicional chinesa",
+        "fr": "Vie rurale et gastronomie traditionnelle chinoise",
+        "de": "Ländliches Leben und traditionelle chinesische Küche",
+        "ru": "Сельская жизнь и традиционная китайская кухня",
+        "ar": "الحياة الريفية والمطبخ الصيني التقليدي",
+        "hi": "ग्रामीण जीवन और पारंपरिक चीनी भोजन",
+        "zh": "乡村生活与中国传统美食",
+        "ja": "田舎暮らしと中国伝統料理"
+      },
+      "about": {
+        "es": "Creadora originaria de Sichuan conocida por sus videos sin diálogos sobre vida rural, artesanía y gastronomía tradicional china. En 2021 obtuvo el Récord Guinness al canal en idioma chino con más suscriptores de YouTube, y tras un receso volvió a publicar en 2024; su canal ronda los 30 millones de suscriptores.",
+        "en": "A creator from Sichuan known for her dialogue-free videos on rural life, traditional Chinese crafts and cuisine. In 2021 she set the Guinness World Record for most subscribers on a Chinese-language YouTube channel, and after a hiatus resumed uploading in 2024; her channel has around 30 million subscribers.",
+        "pt": "Criadora originária de Sichuan conhecida por seus vídeos sem diálogos sobre vida rural, artesanato e gastronomia tradicional chinesa. Em 2021 obteve o Recorde Guinness de canal em chinês com mais inscritos no YouTube, e após uma pausa voltou a publicar em 2024; seu canal tem cerca de 30 milhões de inscritos.",
+        "fr": "Créatrice originaire du Sichuan connue pour ses vidéos sans dialogue sur la vie rurale, l'artisanat et la gastronomie traditionnelle chinoise. En 2021, elle a obtenu le record Guinness de la chaîne YouTube en chinois comptant le plus d'abonnés, et après une pause elle a repris ses publications en 2024 ; sa chaîne compte environ 30 millions d'abonnés.",
+        "de": "Eine Creatorin aus Sichuan, bekannt für ihre dialogfreien Videos über ländliches Leben, traditionelles chinesisches Handwerk und Küche. 2021 stellte sie den Guinness-Weltrekord für den chinesischsprachigen YouTube-Kanal mit den meisten Abonnenten auf; nach einer Pause kehrte sie 2024 zurück. Ihr Kanal hat rund 30 Millionen Abonnenten.",
+        "ru": "Создательница контента родом из провинции Сычуань, известная видео без диалогов о сельской жизни, традиционных китайских ремёслах и кухне. В 2021 году установила рекорд Гиннесса как китаеязычный YouTube-канал с наибольшим числом подписчиков, а после перерыва вернулась к публикациям в 2024 году; на канале около 30 миллионов подписчиков.",
+        "ar": "صانعة محتوى من مقاطعة سيتشوان اشتهرت بمقاطع فيديو بلا حوار عن الحياة الريفية والحرف اليدوية والمطبخ الصيني التقليدي. سجّلت عام 2021 رقماً قياسياً في موسوعة غينيس لأكثر قناة يوتيوب باللغة الصينية اشتراكاً، وعادت للنشر عام 2024 بعد توقف؛ تضم قناتها نحو 30 مليون مشترك.",
+        "hi": "सिचुआन की मूल निवासी क्रिएटर, जो ग्रामीण जीवन, पारंपरिक चीनी शिल्प और भोजन पर बिना संवाद वाले वीडियो के लिए जानी जाती हैं। 2021 में उन्होंने सबसे अधिक सब्सक्राइबर वाले चीनी-भाषा यूट्यूब चैनल का गिनीज वर्ल्ड रिकॉर्ड बनाया, और एक विराम के बाद 2024 में फिर से वीडियो अपलोड करना शुरू किया; उनके चैनल पर लगभग 3 करोड़ सब्सक्राइबर हैं।",
+        "zh": "来自四川的创作者，以无对白展示中国乡村生活、传统手工艺与美食的视频著称。2021年她创下中文YouTube频道订阅人数最多的吉尼斯世界纪录，经过一段停更后于2024年恢复更新；频道订阅人数约3000万。",
+        "ja": "四川省出身のクリエイターで、セリフのない動画で中国の田舎暮らし、伝統工芸、料理を紹介することで知られる。2021年には中国語YouTubeチャンネルの登録者数世界一としてギネス世界記録を樹立し、活動休止を経て2024年に投稿を再開。チャンネル登録者数は約3000万人。"
+      },
+      "handles": {
+        "youtube": "UCoC47do520os_4DBMEFGg4A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 33500000
+        }
+      }
+    },
+    {
+      "id": "ms-yeah",
+      "name": "Ms Yeah (办公室小野)",
+      "country": "CN",
+      "topic": {
+        "es": "Cocina ingeniosa con objetos de oficina",
+        "en": "Inventive cooking with office supplies",
+        "pt": "Culinária engenhosa com objetos de escritório",
+        "fr": "Cuisine ingénieuse avec des objets de bureau",
+        "de": "Einfallsreiches Kochen mit Bürogegenständen",
+        "ru": "Изобретательная кухня из офисных предметов",
+        "ar": "طبخ مبتكر باستخدام أدوات المكتب",
+        "hi": "ऑफिस की चीज़ों से रचनात्मक खाना बनाना",
+        "zh": "用办公用品创意做饭",
+        "ja": "オフィス用品を使った創作料理"
+      },
+      "about": {
+        "es": "Zhou Xiaohui, nacida en 1994 en Chengdu, Sichuan, se hizo viral preparando platillos sichuaneses elaborados con objetos de oficina como planchas y dispensadores de agua. Su canal supera los 14 millones de suscriptores en YouTube.",
+        "en": "Zhou Xiaohui, born in 1994 in Chengdu, Sichuan, went viral preparing elaborate Sichuan dishes using office objects like clothing irons and water dispensers. Her channel has more than 14 million YouTube subscribers.",
+        "pt": "Zhou Xiaohui, nascida em 1994 em Chengdu, Sichuan, viralizou preparando pratos elaborados de Sichuan usando objetos de escritório, como ferros de passar roupa e bebedouros. Seu canal tem mais de 14 milhões de inscritos no YouTube.",
+        "fr": "Zhou Xiaohui, née en 1994 à Chengdu, dans le Sichuan, est devenue virale en préparant des plats élaborés du Sichuan à l'aide d'objets de bureau comme des fers à repasser et des fontaines à eau. Sa chaîne compte plus de 14 millions d'abonnés sur YouTube.",
+        "de": "Zhou Xiaohui, geboren 1994 in Chengdu, Sichuan, wurde viral, weil sie aufwendige Sichuan-Gerichte mit Bürogegenständen wie Bügeleisen und Wasserspendern zubereitete. Ihr Kanal hat mehr als 14 Millionen YouTube-Abonnenten.",
+        "ru": "Чжоу Сяохуэй, родившаяся в 1994 году в Чэнду, провинция Сычуань, прославилась, готовя сложные сычуаньские блюда с помощью офисных предметов — утюгов и кулеров для воды. На её канале более 14 миллионов подписчиков на YouTube.",
+        "ar": "تشو شياوهوي، المولودة عام 1994 في تشنغدو بمقاطعة سيتشوان، اشتهرت بإعداد أطباق سيتشوانية متقنة باستخدام أدوات مكتبية مثل المكواة وموزعات المياه. تضم قناتها أكثر من 14 مليون مشترك على يوتيوب.",
+        "hi": "झोउ श्याओहुई, 1994 में चेंगदू, सिचुआन में जन्मीं, ऑफिस की चीज़ों जैसे इस्त्री और वॉटर डिस्पेंसर से जटिल सिचुआनी व्यंजन बनाकर वायरल हुईं। उनके चैनल पर यूट्यूब पर 1.4 करोड़ से अधिक सब्सक्राइबर हैं।",
+        "zh": "周晓慧1994年生于四川成都，因用电熨斗、饮水机等办公用品制作精致川菜而走红网络。其频道在YouTube上订阅人数超过1400万。",
+        "ja": "周暁慧(ジョウ・シャオホイ)は1994年四川省成都生まれ。アイロンやウォーターサーバーなどオフィス用品を使って本格的な四川料理を作る動画でバイラルヒットした。チャンネル登録者数はYouTubeで1400万人を超える。"
+      },
+      "handles": {
+        "youtube": "UCRB4xZ_2ew7fzmrcv8aj4Lw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 14000000
+        }
+      }
+    },
+    {
+      "id": "dianxi-xiaoge",
+      "name": "Dianxi Xiaoge (滇西小哥)",
+      "country": "CN",
+      "topic": {
+        "es": "Gastronomía y vida rural de Yunnan",
+        "en": "Yunnan cuisine and rural life",
+        "pt": "Gastronomia e vida rural de Yunnan",
+        "fr": "Gastronomie et vie rurale du Yunnan",
+        "de": "Küche und ländliches Leben aus Yunnan",
+        "ru": "Кухня и сельская жизнь провинции Юньнань",
+        "ar": "مطبخ يوننان والحياة الريفية",
+        "hi": "युन्नान का भोजन और ग्रामीण जीवन",
+        "zh": "云南美食与乡村生活",
+        "ja": "雲南の食と田舎暮らし"
+      },
+      "about": {
+        "es": "Dong Meihua, originaria del condado de Shidian, Yunnan, muestra en sus videos la preparación de ingredientes y platillos locales siguiendo el ciclo de las estaciones. Su canal principal supera los 10 millones de suscriptores en YouTube.",
+        "en": "Dong Meihua, from Shidian County in Yunnan, shows the preparation of local ingredients and dishes following the seasons. Her main channel has more than 10 million YouTube subscribers.",
+        "pt": "Dong Meihua, natural do condado de Shidian, Yunnan, mostra em seus vídeos o preparo de ingredientes e pratos locais conforme as estações do ano. Seu canal principal tem mais de 10 milhões de inscritos no YouTube.",
+        "fr": "Dong Meihua, originaire du comté de Shidian, dans le Yunnan, montre dans ses vidéos la préparation d'ingrédients et de plats locaux au fil des saisons. Sa chaîne principale compte plus de 10 millions d'abonnés sur YouTube.",
+        "de": "Dong Meihua stammt aus dem Kreis Shidian in Yunnan und zeigt in ihren Videos die Zubereitung lokaler Zutaten und Gerichte im Rhythmus der Jahreszeiten. Ihr Hauptkanal hat über 10 Millionen YouTube-Abonnenten.",
+        "ru": "Дун Мэйхуа родом из уезда Шидянь провинции Юньнань показывает в своих видео приготовление местных ингредиентов и блюд в соответствии со сменой сезонов. На её основном канале более 10 миллионов подписчиков на YouTube.",
+        "ar": "دونغ مي هوا، من مقاطعة شيديان في يوننان، تعرض في مقاطعها تحضير المكونات والأطباق المحلية وفق فصول السنة. يضم قناتها الرئيسية أكثر من 10 ملايين مشترك على يوتيوب.",
+        "hi": "डोंग मेइहुआ, युन्नान के शिडियान काउंटी की रहने वाली हैं, जो अपने वीडियो में मौसम के अनुसार स्थानीय सामग्री और व्यंजन बनाना दिखाती हैं। उनके मुख्य चैनल पर यूट्यूब पर 1 करोड़ से अधिक सब्सक्राइबर हैं।",
+        "zh": "董梅华来自云南施甸县，视频中按四季展示当地食材与菜肴的制作过程。其主频道在YouTube上订阅人数超过1000万。",
+        "ja": "雲南省施甸県出身の董梅華(ドン・メイホア)は、季節に合わせた雲南の食材と料理の調理過程を動画で紹介している。メインチャンネルのYouTube登録者数は1000万人を超える。"
+      },
+      "handles": {
+        "youtube": "UCQG_fzADCunBTV1KwjkfAQQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 12400000
+        }
+      }
+    },
+    {
+      "id": "grandpa-amu",
+      "name": "Grandpa Amu (阿木爷爷)",
+      "country": "CN",
+      "topic": {
+        "es": "Carpintería tradicional china",
+        "en": "Traditional Chinese carpentry",
+        "pt": "Carpintaria tradicional chinesa",
+        "fr": "Menuiserie traditionnelle chinoise",
+        "de": "Traditionelle chinesische Zimmermannskunst",
+        "ru": "Традиционное китайское столярное искусство",
+        "ar": "النجارة الصينية التقليدية",
+        "hi": "पारंपरिक चीनी बढ़ईगीरी",
+        "zh": "中国传统木工技艺",
+        "ja": "中国伝統の木工技術"
+      },
+      "about": {
+        "es": "Wang Dewen, agricultor y carpintero originario de Shandong, muestra técnicas tradicionales chinas de ensamblaje de espiga y mortaja, sin clavos ni pegamento, similares a las usadas en la Ciudad Prohibida, al construir juguetes y estructuras para su nieto. Su canal supera 1.2 millones de suscriptores en YouTube.",
+        "en": "Wang Dewen, a farmer and carpenter from Shandong, demonstrates traditional Chinese mortise-and-tenon joinery — without nails or glue, similar to techniques used in the Forbidden City — while building toys and structures for his grandson. His channel has more than 1.2 million YouTube subscribers.",
+        "pt": "Wang Dewen, agricultor e carpinteiro originário de Shandong, mostra técnicas tradicionais chinesas de encaixe macho-fêmea, sem pregos ou cola, semelhantes às usadas na Cidade Proibida, ao construir brinquedos e estruturas para seu neto. Seu canal tem mais de 1,2 milhão de inscritos no YouTube.",
+        "fr": "Wang Dewen, agriculteur et menuisier originaire du Shandong, montre des techniques traditionnelles chinoises d'assemblage à tenon et mortaise, sans clous ni colle, similaires à celles utilisées dans la Cité interdite, en construisant des jouets et structures pour son petit-fils. Sa chaîne compte plus de 1,2 million d'abonnés sur YouTube.",
+        "de": "Wang Dewen, Bauer und Zimmermann aus Shandong, zeigt traditionelle chinesische Zapfen- und Nutverbindungen ohne Nägel oder Leim, ähnlich den Techniken der Verbotenen Stadt, beim Bau von Spielzeug und Konstruktionen für seinen Enkel. Sein Kanal hat mehr als 1,2 Millionen YouTube-Abonnenten.",
+        "ru": "Ван Дэвэнь, фермер и плотник из провинции Шаньдун, демонстрирует традиционное китайское соединение «шип-паз» без гвоздей и клея, подобное технике, использованной при строительстве Запретного города, создавая игрушки и конструкции для своего внука. На его канале более 1,2 миллиона подписчиков на YouTube.",
+        "ar": "وانغ ديوين، مزارع ونجار من شاندونغ، يعرض تقنيات النجارة الصينية التقليدية بنظام اللسان والمجرى دون مسامير أو غراء، شبيهة بتلك المستخدمة في المدينة المحرمة، أثناء صنعه ألعاباً وهياكل لحفيده. تضم قناته أكثر من 1.2 مليون مشترك على يوتيوب.",
+        "hi": "वांग देवेन, शांडोंग के एक किसान और बढ़ई हैं, जो अपने पोते के लिए खिलौने और संरचनाएं बनाते समय बिना कील या गोंद के पारंपरिक चीनी मोर्टाइज़-टेनन जोड़ तकनीक दिखाते हैं, जो निषिद्ध शहर में इस्तेमाल तकनीकों जैसी है। उनके चैनल पर यूट्यूब पर 12 लाख से अधिक सब्सक्राइबर हैं।",
+        "zh": "王德文是山东的一位农民兼木匠，在为孙子制作玩具与结构时展示不用钉子和胶水的中国传统榫卯工艺，与故宫所用技法类似。其频道在YouTube上订阅人数超过120万。",
+        "ja": "王徳文(ワン・ドゥーウェン)は山東省出身の農民兼大工で、孫のためにおもちゃや構造物を作る際、釘や接着剤を使わない中国伝統のほぞ組み技術（紫禁城で使われた技法に類似）を披露している。YouTubeチャンネル登録者数は120万人を超える。"
+      },
+      "handles": {
+        "youtube": "UClaEdLrmti779-tyovta8zw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 2270000
+        }
+      }
+    },
+    {
+      "id": "chef-wang-gang",
+      "name": "Chef Wang / Wang Gang (美食作家王刚)",
+      "country": "CN",
+      "topic": {
+        "es": "Gastronomía sichuanesa profesional",
+        "en": "Professional Sichuan cuisine",
+        "pt": "Gastronomia sichuanesa profissional",
+        "fr": "Cuisine sichuanaise professionnelle",
+        "de": "Professionelle Sichuan-Küche",
+        "ru": "Профессиональная сычуаньская кухня",
+        "ar": "المطبخ السيتشواني الاحترافي",
+        "hi": "पेशेवर सिचुआनी भोजन",
+        "zh": "专业川菜厨艺",
+        "ja": "本格四川料理"
+      },
+      "about": {
+        "es": "Wang Gang, chef profesional de Sichuan, comenzó su canal de YouTube 'Chef Wang 美食作家王刚' en enero de 2018 mostrando recetas paso a paso de cocina china. Supera los 2 millones de suscriptores y también mantiene un canal internacional en inglés, Chef Wang Gang International.",
+        "en": "Wang Gang, a professional Sichuan chef, started his YouTube channel 'Chef Wang 美食作家王刚' in January 2018, showing step-by-step Chinese recipes. It has more than 2 million subscribers, and he also runs an English-language channel, Chef Wang Gang International.",
+        "pt": "Wang Gang, chef profissional de Sichuan, iniciou seu canal do YouTube 'Chef Wang 美食作家王刚' em janeiro de 2018, mostrando receitas chinesas passo a passo. Tem mais de 2 milhões de inscritos, e ele também mantém um canal em inglês, Chef Wang Gang International.",
+        "fr": "Wang Gang, chef professionnel du Sichuan, a lancé sa chaîne YouTube « Chef Wang 美食作家王刚 » en janvier 2018, montrant des recettes chinoises pas à pas. Elle compte plus de 2 millions d'abonnés, et il gère aussi une chaîne en anglais, Chef Wang Gang International.",
+        "de": "Wang Gang, ein professioneller Sichuan-Koch, startete seinen YouTube-Kanal „Chef Wang 美食作家王刚“ im Januar 2018 und zeigt dort chinesische Rezepte Schritt für Schritt. Der Kanal hat über 2 Millionen Abonnenten; zusätzlich betreibt er den englischsprachigen Kanal Chef Wang Gang International.",
+        "ru": "Ван Ган, профессиональный сычуаньский повар, запустил свой YouTube-канал «Chef Wang 美食作家王刚» в январе 2018 года, показывая пошаговые китайские рецепты. На канале более 2 миллионов подписчиков, также он ведёт англоязычный канал Chef Wang Gang International.",
+        "ar": "وانغ غانغ، طاهٍ محترف من سيتشوان، أطلق قناته على يوتيوب 'Chef Wang 美食作家王刚' في يناير 2018 لعرض وصفات صينية خطوة بخطوة. تضم القناة أكثر من مليوني مشترك، ويدير أيضاً قناة باللغة الإنجليزية باسم Chef Wang Gang International.",
+        "hi": "वांग गैंग, सिचुआन के एक पेशेवर शेफ, ने जनवरी 2018 में अपना यूट्यूब चैनल 'Chef Wang 美食作家王刚' शुरू किया, जिसमें वे चरण-दर-चरण चीनी व्यंजन दिखाते हैं। इसके 20 लाख से अधिक सब्सक्राइबर हैं, और वे एक अंग्रेज़ी चैनल, Chef Wang Gang International भी चलाते हैं।",
+        "zh": "王刚是四川专业厨师，2018年1月开设YouTube频道'Chef Wang 美食作家王刚'，分享中式菜肴的详细做法。频道订阅人数超过200万，他还运营一个英文频道Chef Wang Gang International。",
+        "ja": "王剛(ワン・ガン)は四川出身のプロの料理人で、2018年1月にYouTubeチャンネル「Chef Wang 美食作家王刚」を開設し、中華料理の作り方をステップごとに紹介している。登録者数は200万人を超え、英語版チャンネルChef Wang Gang Internationalも運営している。"
+      },
+      "handles": {
+        "youtube": "UCg0m_Ah8P_MQbnn77-vYnYw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 2150000
+        }
+      }
+    },
+    {
+      "id": "wang-zhian",
+      "name": "Wang Zhi'an (王志安)",
+      "country": "CN",
+      "topic": {
+        "es": "Periodismo de investigación y noticias",
+        "en": "Investigative journalism and news",
+        "pt": "Jornalismo investigativo e notícias",
+        "fr": "Journalisme d'investigation et actualités",
+        "de": "Investigativer Journalismus und Nachrichten",
+        "ru": "Журналистские расследования и новости",
+        "ar": "الصحافة الاستقصائية والأخبار",
+        "hi": "खोजी पत्रकारिता और समाचार",
+        "zh": "调查新闻报道",
+        "ja": "調査報道とニュース"
+      },
+      "about": {
+        "es": "Wang Zhi'an, periodista de investigación chino nacido en 1968, trabajó en CCTV y en The Beijing News antes de ser vetado de la internet china en 2019. Radicado en Japón desde 2021, lanzó en YouTube el programa 'Wang Ju Pai An' sobre temas sociales y políticos chinos; su canal supera los 2 millones de suscriptores.",
+        "en": "Wang Zhi'an, a Chinese investigative journalist born in 1968, worked at CCTV and The Beijing News before being banned from the Chinese internet in 2019. Based in Japan since 2021, he launched the YouTube program 'Wang Ju Pai An' covering Chinese social and political issues; his channel has more than 2 million subscribers.",
+        "pt": "Wang Zhi'an, jornalista investigativo chinês nascido em 1968, trabalhou na CCTV e no The Beijing News antes de ser banido da internet chinesa em 2019. Radicado no Japão desde 2021, lançou no YouTube o programa 'Wang Ju Pai An' sobre temas sociais e políticos chineses; seu canal tem mais de 2 milhões de inscritos.",
+        "fr": "Wang Zhi'an, journaliste d'investigation chinois né en 1968, a travaillé à la CCTV et au Beijing News avant d'être banni d'internet en Chine en 2019. Installé au Japon depuis 2021, il a lancé sur YouTube l'émission « Wang Ju Pai An » sur des thèmes sociaux et politiques chinois ; sa chaîne compte plus de 2 millions d'abonnés.",
+        "de": "Wang Zhi'an, ein 1968 geborener chinesischer investigativer Journalist, arbeitete bei CCTV und The Beijing News, bevor er 2019 aus dem chinesischen Internet verbannt wurde. Seit 2021 lebt er in Japan und startete auf YouTube die Sendung „Wang Ju Pai An“ über chinesische Gesellschafts- und Politikthemen; sein Kanal hat über 2 Millionen Abonnenten.",
+        "ru": "Ван Чжиань, китайский журналист-расследователь, родившийся в 1968 году, работал на CCTV и в издании The Beijing News, прежде чем в 2019 году был заблокирован в китайском интернете. С 2021 года живёт в Японии, где запустил на YouTube программу «Wang Ju Pai An» о социальных и политических темах Китая; на его канале более 2 миллионов подписчиков.",
+        "ar": "وانغ تشيان، صحفي استقصائي صيني وُلد عام 1968، عمل في محطة CCTV وصحيفة The Beijing News قبل أن يُحظر من الإنترنت الصيني عام 2019. يقيم في اليابان منذ 2021 وأطلق على يوتيوب برنامج 'وانغ جو باي آن' حول قضايا صينية اجتماعية وسياسية؛ تضم قناته أكثر من مليوني مشترك.",
+        "hi": "वांग झीआन, 1968 में जन्मे एक चीनी खोजी पत्रकार, ने CCTV और द बीजिंग न्यूज़ में काम किया, इससे पहले कि उन्हें 2019 में चीनी इंटरनेट से प्रतिबंधित कर दिया गया। 2021 से जापान में रहते हुए, उन्होंने यूट्यूब पर 'वांग जू पाई आन' कार्यक्रम शुरू किया, जो चीनी सामाजिक और राजनीतिक मुद्दों को कवर करता है; उनके चैनल पर 20 लाख से अधिक सब्सक्राइबर हैं।",
+        "zh": "王志安，1968年出生的中国调查记者，曾任职于中央电视台和《新京报》，2019年被中国互联网封禁。2021年起定居日本，在YouTube开设节目《王局拍案》，聚焦中国社会与政治议题；频道订阅人数超过200万。",
+        "ja": "王志安(ワン・ジーアン)は1968年生まれの中国の調査報道記者。中国中央テレビ(CCTV)と新京報で勤務した後、2019年に中国のインターネットから締め出された。2021年から日本を拠点とし、YouTubeで中国の社会・政治問題を扱う番組「王局拍案」を開始。チャンネル登録者数は200万人を超える。"
+      },
+      "handles": {
+        "youtube": "UCBKDRq35-L8xev4O7ZqBeLg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 2040000
+        }
+      }
+    },
+    {
+      "id": "mediastorm-tim-pan",
+      "name": "Mediastorm 影视飓风 (Tim Pan)",
+      "country": "CN",
+      "topic": {
+        "es": "Producción audiovisual y tecnología",
+        "en": "Video production and technology",
+        "pt": "Produção audiovisual e tecnologia",
+        "fr": "Production audiovisuelle et technologie",
+        "de": "Videoproduktion und Technik",
+        "ru": "Видеопродакшн и технологии",
+        "ar": "إنتاج الفيديو والتقنية",
+        "hi": "वीडियो प्रोडक्शन और तकनीक",
+        "zh": "影视制作与科技",
+        "ja": "映像制作とテクノロジー"
+      },
+      "about": {
+        "es": "Canal fundado por Pan Tianhong ('Tim'), con sede en Hangzhou a través de la productora Hangzhou Xingao Media, especializado en producción de video, cámaras y tecnología. Fue reconocido como uno de los 100 mejores creadores de Bilibili durante siete años consecutivos (2019-2025) y sindica sus videos también a YouTube.",
+        "en": "A channel founded by Pan Tianhong ('Tim'), based in Hangzhou through the production company Hangzhou Xingao Media, specializing in video production, cameras and technology. It was recognized as one of Bilibili's top 100 creators for seven consecutive years (2019-2025) and also syndicates its videos to YouTube.",
+        "pt": "Canal fundado por Pan Tianhong ('Tim'), sediado em Hangzhou pela produtora Hangzhou Xingao Media, especializado em produção de vídeo, câmeras e tecnologia. Foi reconhecido como um dos 100 melhores criadores do Bilibili por sete anos consecutivos (2019-2025) e também distribui seus vídeos no YouTube.",
+        "fr": "Chaîne fondée par Pan Tianhong (« Tim »), basée à Hangzhou via la société de production Hangzhou Xingao Media, spécialisée dans la production vidéo, les caméras et la technologie. Elle a été reconnue parmi les 100 meilleurs créateurs de Bilibili pendant sept années consécutives (2019-2025) et diffuse également ses vidéos sur YouTube.",
+        "de": "Ein von Pan Tianhong („Tim“) gegründeter Kanal mit Sitz in Hangzhou über die Produktionsfirma Hangzhou Xingao Media, spezialisiert auf Videoproduktion, Kameras und Technik. Er wurde sieben Jahre in Folge (2019–2025) als einer der Top-100-Creator von Bilibili ausgezeichnet und verbreitet seine Videos auch auf YouTube.",
+        "ru": "Канал, основанный Пань Тяньхуном («Тимом»), базирующийся в Ханчжоу через продюсерскую компанию Hangzhou Xingao Media, специализирующийся на видеопродакшне, камерах и технологиях. Семь лет подряд (2019–2025) входил в топ-100 авторов Bilibili и также распространяет видео на YouTube.",
+        "ar": "قناة أسسها بان تيانهونغ ('تيم')، ومقرها هانغتشو عبر شركة الإنتاج Hangzhou Xingao Media، متخصصة في إنتاج الفيديو والكاميرات والتقنية. حازت على مرتبة من أفضل 100 صانع محتوى على بيليبيلي لسبع سنوات متتالية (2019-2025)، وتنشر مقاطعها أيضاً على يوتيوب.",
+        "hi": "पैन तियानहोंग ('टिम') द्वारा स्थापित चैनल, जो हांगझोउ में निर्माण कंपनी Hangzhou Xingao Media के माध्यम से संचालित है और वीडियो प्रोडक्शन, कैमरा तथा तकनीक में विशेषज्ञ है। इसे लगातार सात वर्षों (2019-2025) तक बिलिबिली के शीर्ष 100 क्रिएटर्स में मान्यता मिली और यह अपने वीडियो यूट्यूब पर भी प्रसारित करता है।",
+        "zh": "由潘天鸿（Tim）创立的频道，通过杭州杏果传媒运营，专注于影视制作、摄影器材与科技内容。连续七年（2019-2025）入选B站百大UP主，并将视频同步发布至YouTube。",
+        "ja": "潘天鴻(パン・ティエンホン、通称「Tim」)が設立したチャンネルで、杭州星果メディア(Hangzhou Xingao Media)を通じて運営され、映像制作、カメラ、テクノロジーを専門とする。2019年から2025年まで7年連続でBilibiliのトップ100クリエイターに選出され、動画はYouTubeにも配信されている。"
+      },
+      "handles": {
+        "youtube": "UC2cRwTuSWxxEtrRnT4lrlQA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 934000
+        }
+      }
+    },
+    {
+      "id": "papi-jiang",
+      "name": "Papi Jiang (papi酱)",
+      "country": "CN",
+      "topic": {
+        "es": "Comedia y comentario sobre la vida cotidiana",
+        "en": "Comedy and commentary on everyday life",
+        "pt": "Humor e comentários sobre a vida cotidiana",
+        "fr": "Humour et commentaires sur la vie quotidienne",
+        "de": "Comedy und Kommentare zum Alltag",
+        "ru": "Комедия и комментарии о повседневной жизни",
+        "ar": "كوميديا وتعليقات على الحياة اليومية",
+        "hi": "हास्य और रोज़मर्रा की ज़िंदगी पर टिप्पणी",
+        "zh": "喜剧与日常生活评论",
+        "ja": "コメディと日常生活へのコメント"
+      },
+      "about": {
+        "es": "Jiang Yilei, nacida el 17 de febrero de 1987, es una de las creadoras de comedia más reconocidas de China gracias a sus videos satíricos sobre la vida cotidiana y la cultura popular. Su canal oficial de YouTube, Papi酱, difunde esos videos a audiencia internacional.",
+        "en": "Jiang Yilei, born February 17, 1987, is one of China's best-known comedy creators thanks to her satirical videos on everyday life and popular culture. Her official YouTube channel, Papi酱, brings those videos to an international audience.",
+        "pt": "Jiang Yilei, nascida em 17 de fevereiro de 1987, é uma das criadoras de comédia mais conhecidas da China, graças a seus vídeos satíricos sobre a vida cotidiana e a cultura popular. Seu canal oficial do YouTube, Papi酱, leva esses vídeos a um público internacional.",
+        "fr": "Jiang Yilei, née le 17 février 1987, est l'une des créatrices de comédie les plus connues de Chine grâce à ses vidéos satiriques sur la vie quotidienne et la culture populaire. Sa chaîne YouTube officielle, Papi酱, diffuse ces vidéos à un public international.",
+        "de": "Jiang Yilei, geboren am 17. Februar 1987, ist dank ihrer satirischen Videos über den Alltag und die Popkultur eine der bekanntesten Comedy-Creatorinnen Chinas. Ihr offizieller YouTube-Kanal Papi酱 bringt diese Videos einem internationalen Publikum näher.",
+        "ru": "Цзян Илэй, родившаяся 17 февраля 1987 года, — одна из самых известных китайских комедийных создательниц контента благодаря сатирическим видео о повседневной жизни и поп-культуре. Её официальный YouTube-канал Papi酱 знакомит с этими видео международную аудиторию.",
+        "ar": "جيانغ يي لي، المولودة في 17 فبراير 1987، من أشهر صانعات المحتوى الكوميدي في الصين بفضل مقاطعها الساخرة عن الحياة اليومية والثقافة الشعبية. تنقل قناتها الرسمية على يوتيوب، Papi酱، هذه المقاطع إلى جمهور دولي.",
+        "hi": "जियांग यीलेई, जिनका जन्म 17 फरवरी 1987 को हुआ, रोज़मर्रा की ज़िंदगी और लोकप्रिय संस्कृति पर व्यंग्यात्मक वीडियो के कारण चीन की सबसे प्रसिद्ध हास्य क्रिएटर्स में से एक हैं। उनका आधिकारिक यूट्यूब चैनल, Papi酱, इन वीडियो को अंतरराष्ट्रीय दर्शकों तक पहुंचाता है।",
+        "zh": "姜逸磊（Papi酱），1987年2月17日出生，凭借讽刺日常生活与流行文化的短视频成为中国最知名的喜剧内容创作者之一。其YouTube官方频道Papi酱面向国际观众发布这些作品。",
+        "ja": "姜逸磊(ジアン・イーレイ)は1987年2月17日生まれ。日常生活とポップカルチャーを風刺する動画で中国を代表するコメディ系クリエイターの一人となった。公式YouTubeチャンネル「Papi酱」を通じて国際的な視聴者にも作品を届けている。"
+      },
+      "handles": {
+        "youtube": "UCgHXsynhD8GxbFcNlPEn-_w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 464000
+        }
+      }
+    },
+    {
+      "id": "handy-geng",
+      "name": "Handy Geng (手工耿)",
+      "country": "CN",
+      "topic": {
+        "es": "Inventos caseros e ingenio artesanal",
+        "en": "Homemade inventions and craft ingenuity",
+        "pt": "Invenções caseiras e engenhosidade artesanal",
+        "fr": "Inventions artisanales et bricolages ingénieux",
+        "de": "Selbstgebaute Erfindungen und handwerklicher Einfallsreichtum",
+        "ru": "Самодельные изобретения и ремесленная смекалка",
+        "ar": "اختراعات منزلية وإبداع حرفي",
+        "hi": "घरेलू आविष्कार और शिल्प कौशल",
+        "zh": "手工发明与创意巧思",
+        "ja": "手作り発明と工作の知恵"
+      },
+      "about": {
+        "es": "Geng Shuai, apodado 'el Edison inútil de China', nacido en 1987 en Hebei, es un artesano de aldea que construye inventos caseros ingeniosos y a menudo humorísticos. Su canal de YouTube se presenta explícitamente como su único canal oficial.",
+        "en": "Geng Shuai, nicknamed 'China's Useless Edison,' born in 1987 in Hebei, is a village craftsman who builds inventive and often humorous homemade contraptions. His YouTube channel is explicitly presented as his only official channel.",
+        "pt": "Geng Shuai, apelidado de 'o Edison inútil da China', nascido em 1987 em Hebei, é um artesão de aldeia que constrói invenções caseiras engenhosas e muitas vezes bem-humoradas. Seu canal do YouTube é apresentado explicitamente como seu único canal oficial.",
+        "fr": "Geng Shuai, surnommé « l'Edison inutile de la Chine », né en 1987 dans le Hebei, est un artisan de village qui fabrique des inventions maison ingénieuses et souvent humoristiques. Sa chaîne YouTube se présente explicitement comme sa seule chaîne officielle.",
+        "de": "Geng Shuai, genannt „Chinas nutzloser Edison“, geboren 1987 in Hebei, ist ein Dorfhandwerker, der einfallsreiche und oft humorvolle selbstgebaute Konstruktionen baut. Sein YouTube-Kanal wird ausdrücklich als sein einziger offizieller Kanal bezeichnet.",
+        "ru": "Гэн Шуай, прозванный «бесполезным Эдисоном Китая», родился в 1987 году в провинции Хэбэй; деревенский умелец, создающий изобретательные и часто забавные самодельные устройства. Его YouTube-канал прямо заявлен как единственный официальный канал.",
+        "ar": "غينغ شواي، الملقب بـ'إديسون الصين عديم الفائدة'، وُلد عام 1987 في هيبي، وهو حرفي قروي يصنع اختراعات منزلية مبتكرة وغالباً ما تكون فكاهية. تُعرّف قناته على يوتيوب صراحة بأنها قناته الرسمية الوحيدة.",
+        "hi": "गेंग शुआई, जिन्हें 'चीन का बेकार एडिसन' उपनाम दिया गया है, 1987 में हेबेई में जन्मे एक ग्रामीण कारीगर हैं जो नवाचारी और अक्सर हास्यपूर्ण घरेलू उपकरण बनाते हैं। उनका यूट्यूब चैनल स्पष्ट रूप से उनके एकमात्र आधिकारिक चैनल के रूप में प्रस्तुत किया गया है।",
+        "zh": "耿帅，绰号'中国最没用的发明家'，1987年生于河北，是一位乡村手艺人，擅长制作富有创意、常带幽默感的手工发明。他的YouTube频道明确声明为其唯一官方频道。",
+        "ja": "耿帥(ゲン・シュアイ)は「中国の役に立たないエジソン」と呼ばれ、1987年河北省生まれの村の職人。独創的でしばしばユーモラスな手作りの発明品を作る。YouTubeチャンネルは唯一の公式チャンネルであると明記されている。"
+      },
+      "handles": {
+        "youtube": "UCEvlIrEAqIfOcvr9Qc8jquw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 403000
+        }
+      }
+    },
+    {
+      "id": "huanong-brothers",
+      "name": "Huanong Brothers (华农兄弟)",
+      "country": "CN",
+      "topic": {
+        "es": "Vida rural y granja en Jiangxi",
+        "en": "Rural and farm life in Jiangxi",
+        "pt": "Vida rural e agrícola em Jiangxi",
+        "fr": "Vie rurale et agricole dans le Jiangxi",
+        "de": "Ländliches Hofleben in Jiangxi",
+        "ru": "Сельская и фермерская жизнь в провинции Цзянси",
+        "ar": "الحياة الريفية والزراعية في جيانغشي",
+        "hi": "जियांग्शी में ग्रामीण और खेती का जीवन",
+        "zh": "江西农村与农场生活",
+        "ja": "江西省の農村・農場生活"
+      },
+      "about": {
+        "es": "Liu Suliang y Hu Yueqing, originarios de Ganzhou, Jiangxi, documentan su vida rural, la crianza de animales y la cocina campesina en un canal seguido por millones de personas en plataformas chinas. Se hicieron conocidos por criar ratas de bambú, actividad que dejaron cuando China prohibió esa cría tras el brote de COVID-19 en 2020.",
+        "en": "Liu Suliang and Hu Yueqing, from Ganzhou, Jiangxi, document their rural life, animal husbandry and farmhouse cooking on a channel followed by millions on Chinese platforms. They became known for raising bamboo rats, an activity they stopped after China banned the practice following the 2020 COVID-19 outbreak.",
+        "pt": "Liu Suliang e Hu Yueqing, originários de Ganzhou, Jiangxi, documentam sua vida rural, a criação de animais e a culinária caipira em um canal seguido por milhões nas plataformas chinesas. Ficaram conhecidos por criar ratos-de-bambu, atividade que abandonaram depois que a China proibiu essa criação após o surto de COVID-19 em 2020.",
+        "fr": "Liu Suliang et Hu Yueqing, originaires de Ganzhou, dans le Jiangxi, documentent leur vie rurale, l'élevage d'animaux et la cuisine paysanne sur une chaîne suivie par des millions de personnes sur les plateformes chinoises. Ils se sont fait connaître en élevant des rats de bambou, activité qu'ils ont abandonnée après l'interdiction décrétée par la Chine suite à l'épidémie de COVID-19 en 2020.",
+        "de": "Liu Suliang und Hu Yueqing aus Ganzhou, Jiangxi, dokumentieren ihr ländliches Leben, die Tierhaltung und bäuerliche Küche auf einem Kanal, dem Millionen auf chinesischen Plattformen folgen. Bekannt wurden sie durch die Zucht von Bambusratten, die sie aufgaben, nachdem China diese Praxis nach dem COVID-19-Ausbruch 2020 verboten hatte.",
+        "ru": "Лю Сулян и Ху Юэцин из города Ганьчжоу провинции Цзянси документируют свою сельскую жизнь, животноводство и деревенскую кухню на канале, за которым следят миллионы на китайских платформах. Они прославились разведением бамбуковых крыс — занятием, которое прекратили после того, как Китай запретил эту практику после вспышки COVID-19 в 2020 году.",
+        "ar": "ليو سوليانغ وهو يوتشينغ، من غانتشو بمقاطعة جيانغشي، يوثقان حياتهما الريفية وتربية الحيوانات والطبخ الريفي في قناة يتابعها الملايين على المنصات الصينية. اشتهرا بتربية فئران الخيزران، وهو نشاط توقفا عنه بعد حظر الصين لهذه الممارسة إثر تفشي كوفيد-19 عام 2020.",
+        "hi": "लियू सूलिआंग और हू युएकिंग, जियांग्शी के गानझोउ से हैं, जो चीनी प्लेटफ़ॉर्म पर लाखों लोगों द्वारा देखे जाने वाले चैनल पर अपने ग्रामीण जीवन, पशुपालन और देहाती खाना पकाने का दस्तावेज़ीकरण करते हैं। वे बांस चूहे पालने के लिए जाने गए, जो गतिविधि उन्होंने 2020 में COVID-19 प्रकोप के बाद चीन द्वारा इस पर प्रतिबंध लगाए जाने के बाद बंद कर दी।",
+        "zh": "刘苏良与胡跃清来自江西赣州，在中国各平台拥有数百万粉丝的频道中记录乡村生活、家禽家畜饲养与农家菜制作。两人曾因养殖竹鼠而走红，2020年新冠疫情后中国禁止相关养殖，他们随之停止该活动。",
+        "ja": "劉蘇良(リウ・スーリアン)と胡躍清(フー・ユエチン)は江西省贛州出身で、中国の各プラットフォームで数百万人が視聴するチャンネルで田舎暮らし、家畜の飼育、田舎料理を記録している。竹ネズミの飼育で有名になったが、2020年の新型コロナウイルス流行後、中国がこの飼育を禁止したため活動をやめた。"
+      },
+      "handles": {
+        "youtube": "UCjEGRKDfUOel8Hp9Iumw5NQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T17:45:32.318Z)",
+        "followers": {
+          "youtube": 305000
+        }
+      }
     }
   ]
 }
