@@ -15807,6 +15807,1766 @@
           "youtube": 133000
         }
       }
+    },
+    {
+      "id": "atta-halilintar",
+      "name": "Atta Halilintar",
+      "country": "ID",
+      "topic": {
+        "es": "Entretenimiento y vlogs",
+        "en": "Entertainment and vlogs",
+        "pt": "Entretenimento e vlogs",
+        "fr": "Divertissement et vlogs",
+        "de": "Unterhaltung und Vlogs",
+        "ru": "Развлечения и влоги",
+        "ar": "ترفيه ومدونات فيديو",
+        "hi": "मनोरंजन और व्लॉग",
+        "zh": "娱乐与视频博客",
+        "ja": "エンタメ・Vlog"
+      },
+      "about": {
+        "es": "YouTuber indonesio (nombre completo Muhammad Attamimi Halilintar), considerado el más popular de Indonesia; fue el primer creador del sudeste asiático en recibir el Diamond Play Button de YouTube.",
+        "en": "Indonesian YouTuber (full name Muhammad Attamimi Halilintar), regarded as the most popular YouTuber in Indonesia; he was the first creator in Southeast Asia to receive YouTube's Diamond Play Button.",
+        "pt": "YouTuber indonésio (nome completo Muhammad Attamimi Halilintar), considerado o mais popular da Indonésia; foi o primeiro criador do Sudeste Asiático a receber o Diamond Play Button do YouTube.",
+        "fr": "YouTubeur indonésien (nom complet Muhammad Attamimi Halilintar), considéré comme le plus populaire d'Indonésie ; il fut le premier créateur d'Asie du Sud-Est à recevoir le Diamond Play Button de YouTube.",
+        "de": "Indonesischer YouTuber (vollständiger Name Muhammad Attamimi Halilintar), gilt als der populärste YouTuber Indonesiens; er war der erste Creator Südostasiens, der den Diamond Play Button von YouTube erhielt.",
+        "ru": "Индонезийский ютубер (полное имя Мухаммад Аттамими Халилинтар), считается самым популярным ютубером Индонезии; первым в Юго-Восточной Азии получил алмазную кнопку YouTube.",
+        "ar": "يوتيوبر إندونيسي (اسمه الكامل محمد عتمي هاليلينتار)، يُعتبر الأشهر في إندونيسيا؛ وهو أول صانع محتوى في جنوب شرق آسيا يحصل على زر الماس من يوتيوب.",
+        "hi": "इंडोनेशियाई यूट्यूबर (पूरा नाम मुहम्मद अत्तामिमी हलिलिंतार), इंडोनेशिया के सबसे लोकप्रिय यूट्यूबर माने जाते हैं; दक्षिण-पूर्व एशिया में यूट्यूब का डायमंड प्ले बटन पाने वाले पहले क्रिएटर।",
+        "zh": "印度尼西亚YouTuber（本名Muhammad Attamimi Halilintar），被认为是印尼最受欢迎的YouTuber，也是东南亚首位获得YouTube钻石播放按钮的创作者。",
+        "ja": "インドネシアのYouTuber（本名ムハンマド・アッタミミ・ハリリンタル）。インドネシアで最も人気のあるYouTuberとされ、東南アジアで初めてYouTubeのダイヤモンドプレイボタンを受賞した。"
+      },
+      "handles": {
+        "youtube": "UCaKLg1ELiX0zTJ6Je3c5esA",
+        "tiktok": "attahalilintar",
+        "instagram": "attahalilintar",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 31400000
+        }
+      }
+    },
+    {
+      "id": "ria-ricis",
+      "name": "Ria Ricis",
+      "country": "ID",
+      "topic": {
+        "es": "Comedia, vlogs y reseñas de juguetes",
+        "en": "Comedy, vlogs and toy reviews",
+        "pt": "Comédia, vlogs e resenhas de brinquedos",
+        "fr": "Comédie, vlogs et tests de jouets",
+        "de": "Comedy, Vlogs und Spielzeug-Reviews",
+        "ru": "Комедия, влоги и обзоры игрушек",
+        "ar": "كوميديا ومدونات فيديو ومراجعات ألعاب",
+        "hi": "कॉमेडी, व्लॉग और खिलौनों की समीक्षा",
+        "zh": "喜剧、Vlog与玩具测评",
+        "ja": "コメディ・Vlog・おもちゃレビュー"
+      },
+      "about": {
+        "es": "YouTuber indonesia (nombre real Ria Yunita, nacida en Batam en 1995), conocida por sus videos de comedia, reseñas de juguetes de espuma y visitas a casas de celebridades; considerada la YouTuber más exitosa de Indonesia y Asia.",
+        "en": "Indonesian YouTuber (real name Ria Yunita, born in Batam in 1995), known for comedy videos, foam toy reviews and celebrity home visits; considered the most successful female YouTuber in Indonesia and Asia.",
+        "pt": "YouTuber indonésia (nome verdadeiro Ria Yunita, nascida em Batam em 1995), conhecida por vídeos de comédia, resenhas de brinquedos de espuma e visitas a casas de celebridades; considerada a YouTuber mais bem-sucedida da Indonésia e da Ásia.",
+        "fr": "YouTubeuse indonésienne (vrai nom Ria Yunita, née à Batam en 1995), connue pour ses vidéos comiques, ses tests de jouets en mousse et ses visites de maisons de célébrités ; considérée comme la YouTubeuse la plus populaire d'Indonésie et d'Asie.",
+        "de": "Indonesische YouTuberin (echter Name Ria Yunita, geboren 1995 in Batam), bekannt für Comedy-Videos, Schaumstoffspielzeug-Reviews und Besuche bei Prominenten; gilt als erfolgreichste weibliche YouTuberin Indonesiens und Asiens.",
+        "ru": "Индонезийская ютуберша (настоящее имя Риа Юнита, родилась в Батаме в 1995 году), известна комедийными видео, обзорами игрушек из пены и визитами к знаменитостям; считается самой успешной женщиной-ютубером Индонезии и Азии.",
+        "ar": "يوتيوبرة إندونيسية (اسمها الحقيقي ريا يونيتا، وُلدت في باتام عام 1995)، تشتهر بفيديوهات كوميدية ومراجعات ألعاب إسفنجية وزيارات لمنازل المشاهير؛ تُعتبر أنجح يوتيوبرة في إندونيسيا وآسيا.",
+        "hi": "इंडोनेशियाई यूट्यूबर (असली नाम रिया युनिता, जन्म 1995, बटम), कॉमेडी वीडियो, फोम खिलौनों की समीक्षा और सेलिब्रिटी घरों की यात्राओं के लिए प्रसिद्ध; इंडोनेशिया और एशिया की सबसे सफल महिला यूट्यूबर मानी जाती हैं।",
+        "zh": "印度尼西亚YouTuber（真名Ria Yunita，1995年生于巴淡岛），以喜剧视频、泡沫玩具测评和名人家庭探访闻名，被认为是印尼及亚洲最成功的女性YouTuber。",
+        "ja": "インドネシアのYouTuber（本名リア・ユニタ、1995年バタム島生まれ）。コメディ動画、スクイーズ玩具レビュー、セレブ宅訪問で知られ、インドネシア・アジアで最も成功した女性YouTuberとされる。"
+      },
+      "handles": {
+        "youtube": "UC4tS4Q_Cno5JVcIUXxQOOpA",
+        "tiktok": "riaricis",
+        "instagram": "riaricis1795",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 50300000
+        }
+      }
+    },
+    {
+      "id": "raffi-ahmad",
+      "name": "Raffi Ahmad",
+      "country": "ID",
+      "topic": {
+        "es": "Entretenimiento familiar y vlogs (RANS Entertainment)",
+        "en": "Family entertainment and vlogs (RANS Entertainment)",
+        "pt": "Entretenimento familiar e vlogs (RANS Entertainment)",
+        "fr": "Divertissement familial et vlogs (RANS Entertainment)",
+        "de": "Familien-Entertainment und Vlogs (RANS Entertainment)",
+        "ru": "Семейные развлечения и влоги (RANS Entertainment)",
+        "ar": "ترفيه عائلي ومدونات فيديو (RANS Entertainment)",
+        "hi": "पारिवारिक मनोरंजन और व्लॉग (RANS Entertainment)",
+        "zh": "家庭娱乐与Vlog（RANS Entertainment）",
+        "ja": "ファミリーエンタメ・Vlog（RANSエンターテインメント）"
+      },
+      "about": {
+        "es": "Presentador y actor indonesio; junto a su esposa, la actriz Nagita Slavina, creó el canal RANS Entertainment, una empresa de medios que produce vlogs, eventos y contenido de entretenimiento en Indonesia.",
+        "en": "Indonesian TV presenter and actor; together with his wife, actress Nagita Slavina, he created the RANS Entertainment channel, a media business producing vlogs, events and entertainment content in Indonesia.",
+        "pt": "Apresentador de TV e ator indonésio; junto com sua esposa, a atriz Nagita Slavina, criou o canal RANS Entertainment, uma empresa de mídia que produz vlogs, eventos e conteúdo de entretenimento na Indonésia.",
+        "fr": "Présentateur de télévision et acteur indonésien ; avec son épouse, l'actrice Nagita Slavina, il a créé la chaîne RANS Entertainment, une entreprise médiatique produisant vlogs, événements et contenus de divertissement en Indonésie.",
+        "de": "Indonesischer Fernsehmoderator und Schauspieler; zusammen mit seiner Frau, der Schauspielerin Nagita Slavina, gründete er den Kanal RANS Entertainment, ein Medienunternehmen, das Vlogs, Events und Unterhaltungsinhalte in Indonesien produziert.",
+        "ru": "Индонезийский телеведущий и актёр; вместе с женой, актрисой Нагитой Славиной, создал канал RANS Entertainment — медиакомпанию, производящую влоги, мероприятия и развлекательный контент в Индонезии.",
+        "ar": "مقدم تلفزيوني وممثل إندونيسي؛ أنشأ مع زوجته الممثلة ناجيتا سلافينا قناة RANS Entertainment، وهي شركة إعلامية تنتج مدونات فيديو وفعاليات ومحتوى ترفيهي في إندونيسيا.",
+        "hi": "इंडोनेशियाई टीवी प्रस्तोता और अभिनेता; अपनी पत्नी, अभिनेत्री नागिता स्लाविना के साथ मिलकर उन्होंने RANS Entertainment चैनल बनाया, जो इंडोनेशिया में व्लॉग, इवेंट्स और मनोरंजन सामग्री बनाने वाली मीडिया कंपनी है।",
+        "zh": "印度尼西亚电视主持人兼演员；与妻子、演员Nagita Slavina共同创办RANS Entertainment频道，这是一家在印尼制作Vlog、活动和娱乐内容的媒体公司。",
+        "ja": "インドネシアのテレビ司会者・俳優。妻で女優のナギタ・スラヴィナと共にRANSエンターテインメントチャンネルを創設。インドネシアでVlog・イベント・エンタメコンテンツを制作するメディア事業。"
+      },
+      "handles": {
+        "youtube": "UCvA9_f5Lwk-poMynabtrZPg",
+        "tiktok": "raffi_nagita",
+        "instagram": "raffinagita1717",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 27000000
+        }
+      }
+    },
+    {
+      "id": "deddy-corbuzier",
+      "name": "Deddy Corbuzier",
+      "country": "ID",
+      "topic": {
+        "es": "Podcast y entrevistas",
+        "en": "Podcast and interviews",
+        "pt": "Podcast e entrevistas",
+        "fr": "Podcast et interviews",
+        "de": "Podcast und Interviews",
+        "ru": "Подкаст и интервью",
+        "ar": "بودكاست ومقابلات",
+        "hi": "पॉडकास्ट और साक्षात्कार",
+        "zh": "播客与访谈",
+        "ja": "ポッドキャスト・インタビュー"
+      },
+      "about": {
+        "es": "Presentador de televisión, actor, mentalista y YouTuber indonesio (nacido en 1976); conduce el podcast 'Close The Door', donde conversa sobre noticias y actualidad de Indonesia.",
+        "en": "Indonesian TV presenter, actor, mentalist and YouTuber (born 1976); he hosts the podcast 'Close The Door', featuring conversations about Indonesian news and current events.",
+        "pt": "Apresentador de TV, ator, mentalista e YouTuber indonésio (nascido em 1976); apresenta o podcast 'Close The Door', com conversas sobre notícias e atualidades da Indonésia.",
+        "fr": "Présentateur de télévision, acteur, mentaliste et YouTubeur indonésien (né en 1976) ; il anime le podcast « Close The Door », consacré à l'actualité indonésienne.",
+        "de": "Indonesischer Fernsehmoderator, Schauspieler, Mentalist und YouTuber (geboren 1976); moderiert den Podcast „Close The Door“ mit Gesprächen über Nachrichten und aktuelle Themen aus Indonesien.",
+        "ru": "Индонезийский телеведущий, актёр, менталист и ютубер (родился в 1976 году); ведёт подкаст «Close The Door», посвящённый новостям и текущим событиям в Индонезии.",
+        "ar": "مقدم تلفزيوني وممثل وقارئ أفكار ويوتيوبر إندونيسي (مواليد 1976)؛ يقدم بودكاست 'Close The Door' الذي يناقش الأخبار والأحداث الجارية في إندونيسيا.",
+        "hi": "इंडोनेशियाई टीवी प्रस्तोता, अभिनेता, मेंटलिस्ट और यूट्यूबर (जन्म 1976); वे 'Close The Door' पॉडकास्ट होस्ट करते हैं, जिसमें इंडोनेशिया की खबरों और मौजूदा घटनाओं पर चर्चा होती है।",
+        "zh": "印度尼西亚电视主持人、演员、读心术表演者兼YouTuber（1976年出生）；主持播客节目《Close The Door》，探讨印尼新闻和时事。",
+        "ja": "インドネシアのテレビ司会者・俳優・メンタリスト・YouTuber（1976年生まれ）。ポッドキャスト「Close The Door」の司会を務め、インドネシアのニュースや時事問題について語る。"
+      },
+      "handles": {
+        "youtube": "UCYk4LJI0Pr6RBDWowMm-KUw",
+        "tiktok": "mastercorbuzier",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 25400000
+        }
+      }
+    },
+    {
+      "id": "jess-no-limit",
+      "name": "Jess No Limit",
+      "country": "ID",
+      "topic": {
+        "es": "Gaming (Mobile Legends) y esports",
+        "en": "Gaming (Mobile Legends) and esports",
+        "pt": "Gaming (Mobile Legends) e esports",
+        "fr": "Gaming (Mobile Legends) et esport",
+        "de": "Gaming (Mobile Legends) und E-Sport",
+        "ru": "Гейминг (Mobile Legends) и киберспорт",
+        "ar": "ألعاب الفيديو (Mobile Legends) والرياضات الإلكترونية",
+        "hi": "गेमिंग (Mobile Legends) और ईस्पोर्ट्स",
+        "zh": "游戏（Mobile Legends）与电竞",
+        "ja": "ゲーム実況（Mobile Legends）・eスポーツ"
+      },
+      "about": {
+        "es": "YouTuber indonesio (nombre real Tobias Justin, nacido en Jakarta en 1996), especializado en el videojuego Mobile Legends; en 2023 se convirtió en el YouTuber más suscrito de Indonesia y en 2025 Guinness World Records lo reconoció por tener el canal en idioma indonesio con más suscriptores.",
+        "en": "Indonesian YouTuber (real name Tobias Justin, born in Jakarta in 1996), specializing in the mobile game Mobile Legends; he became Indonesia's most-subscribed YouTuber in 2023, and in 2025 Guinness World Records recognized him for the most-subscribed Indonesian-language channel on YouTube.",
+        "pt": "YouTuber indonésio (nome verdadeiro Tobias Justin, nascido em Jacarta em 1996), especializado no jogo Mobile Legends; tornou-se o YouTuber mais inscrito da Indonésia em 2023, e em 2025 o Guinness World Records o reconheceu pelo canal em língua indonésia com mais inscritos.",
+        "fr": "YouTubeur indonésien (vrai nom Tobias Justin, né à Jakarta en 1996), spécialisé dans le jeu Mobile Legends ; il est devenu le YouTubeur le plus abonné d'Indonésie en 2023, et en 2025 le Guinness World Records l'a reconnu pour la chaîne en langue indonésienne la plus abonnée.",
+        "de": "Indonesischer YouTuber (echter Name Tobias Justin, geboren 1996 in Jakarta), spezialisiert auf das Spiel Mobile Legends; wurde 2023 zum meistabonnierten YouTuber Indonesiens und 2025 vom Guinness-Buch der Rekorde für den meistabonnierten indonesischsprachigen Kanal ausgezeichnet.",
+        "ru": "Индонезийский ютубер (настоящее имя Тобиас Джастин, родился в Джакарте в 1996 году), специализируется на игре Mobile Legends; в 2023 году стал самым популярным ютубером Индонезии, а в 2025 году попал в Книгу рекордов Гиннесса за самый популярный индонезийскоязычный канал YouTube.",
+        "ar": "يوتيوبر إندونيسي (اسمه الحقيقي توبياس جستن، وُلد في جاكرتا عام 1996)، متخصص في لعبة Mobile Legends؛ أصبح الأكثر اشتراكًا في إندونيسيا عام 2023، وفي 2025 سجله موسوعة غينيس للأرقام القياسية كصاحب أكثر قناة يوتيوب باللغة الإندونيسية اشتراكًا.",
+        "hi": "इंडोनेशियाई यूट्यूबर (असली नाम टोबियास जस्टिन, जन्म 1996, जकार्ता), Mobile Legends गेम में विशेषज्ञ; 2023 में इंडोनेशिया के सबसे ज़्यादा सब्सक्राइब किए गए यूट्यूबर बने, और 2025 में गिनीज वर्ल्ड रिकॉर्ड्स ने उन्हें सबसे ज़्यादा सब्सक्राइबर वाले इंडोनेशियाई-भाषा चैनल के रूप में मान्यता दी।",
+        "zh": "印度尼西亚YouTuber（真名Tobias Justin，1996年生于雅加达），专注于《Mobile Legends》手游内容；2023年成为印尼订阅数最高的YouTuber，2025年被吉尼斯世界纪录认证为订阅量最高的印尼语YouTube频道。",
+        "ja": "インドネシアのYouTuber（本名トビアス・ジャスティン、1996年ジャカルタ生まれ）。『Mobile Legends』のゲーム実況で知られ、2023年にインドネシアで最も登録者数の多いYouTuberとなり、2025年にはインドネシア語チャンネルとして最多登録者数でギネス世界記録に認定された。"
+      },
+      "handles": {
+        "youtube": "UCvh1at6xpV1ytYOAzxmqUsA",
+        "tiktok": "jessnolimit999",
+        "instagram": "jessnolimit",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 54600000
+        }
+      }
+    },
+    {
+      "id": "windah-basudara",
+      "name": "Windah Basudara",
+      "country": "ID",
+      "topic": {
+        "es": "Gaming y streaming en vivo",
+        "en": "Gaming and live streaming",
+        "pt": "Gaming e live streaming",
+        "fr": "Gaming et streaming en direct",
+        "de": "Gaming und Livestreaming",
+        "ru": "Игровой контент и стримы",
+        "ar": "ألعاب الفيديو والبث المباشر",
+        "hi": "गेमिंग और लाइव स्ट्रीमिंग",
+        "zh": "游戏与直播",
+        "ja": "ゲーム実況・ライブ配信"
+      },
+      "about": {
+        "es": "YouTuber indonesio (nombre real Brando Franco Windah, nacido en 1992 en Manado); su canal, lanzado en 2018, se centra en streaming y 'Let's Play' de videojuegos con un estilo cómico, y es embajador de la organización de esports Rex Regum Qeon desde 2021.",
+        "en": "Indonesian YouTuber (real name Brando Franco Windah, born 1992 in Manado); his channel, launched in 2018, focuses on live streaming and comedic 'Let's Play' videos, and he has been a brand ambassador for esports organization Rex Regum Qeon since 2021.",
+        "pt": "YouTuber indonésio (nome verdadeiro Brando Franco Windah, nascido em 1992 em Manado); seu canal, lançado em 2018, foca em transmissões ao vivo e vídeos cômicos de 'Let's Play', e é embaixador da organização de esports Rex Regum Qeon desde 2021.",
+        "fr": "YouTubeur indonésien (vrai nom Brando Franco Windah, né en 1992 à Manado) ; sa chaîne, lancée en 2018, est centrée sur le streaming en direct et des vidéos « Let's Play » comiques ; ambassadeur de l'organisation esport Rex Regum Qeon depuis 2021.",
+        "de": "Indonesischer YouTuber (echter Name Brando Franco Windah, geboren 1992 in Manado); sein 2018 gestarteter Kanal konzentriert sich auf Livestreams und komödiantische „Let's Play“-Videos; seit 2021 Markenbotschafter der E-Sport-Organisation Rex Regum Qeon.",
+        "ru": "Индонезийский ютубер (настоящее имя Брандо Франко Виндах, родился в 1992 году в Манадо); его канал, запущенный в 2018 году, посвящён стримам и комедийным видео «Let's Play»; с 2021 года посол киберспортивной организации Rex Regum Qeon.",
+        "ar": "يوتيوبر إندونيسي (اسمه الحقيقي براندو فرانكو ويندا، وُلد عام 1992 في مانادو)؛ قناته، التي أُطلقت عام 2018، تركز على البث المباشر ومقاطع 'Let's Play' الكوميدية، وهو سفير لمنظمة الرياضات الإلكترونية Rex Regum Qeon منذ 2021.",
+        "hi": "इंडोनेशियाई यूट्यूबर (असली नाम ब्रांडो फ्रांको विंदाह, जन्म 1992, मानादो); 2018 में शुरू हुआ उनका चैनल लाइव स्ट्रीमिंग और हास्यपूर्ण 'Let's Play' वीडियो पर केंद्रित है, और वे 2021 से ईस्पोर्ट्स संगठन Rex Regum Qeon के ब्रांड एंबेसडर हैं।",
+        "zh": "印度尼西亚YouTuber（真名Brando Franco Windah，1992年生于万鸦老）；其频道于2018年创立，专注于直播和搞笑风格的游戏实况（Let's Play），自2021年起担任电竞组织Rex Regum Qeon的品牌大使。",
+        "ja": "インドネシアのYouTuber（本名ブランド・フランコ・ウィンダ、1992年マナド生まれ）。2018年に開設したチャンネルはライブ配信やコミカルな実況プレイが中心で、2021年からeスポーツ団体Rex Regum Qeonのブランドアンバサダーを務める。"
+      },
+      "handles": {
+        "youtube": "UCoIiiHof6BJ85PLuLkuxuhw",
+        "tiktok": null,
+        "instagram": "windahbasudara",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 20500000
+        }
+      }
+    },
+    {
+      "id": "miawaug",
+      "name": "MiawAug",
+      "country": "ID",
+      "topic": {
+        "es": "Gaming y comedia",
+        "en": "Gaming and comedy",
+        "pt": "Gaming e comédia",
+        "fr": "Gaming et comédie",
+        "de": "Gaming und Comedy",
+        "ru": "Гейминг и комедия",
+        "ar": "ألعاب الفيديو والكوميديا",
+        "hi": "गेमिंग और कॉमेडी",
+        "zh": "游戏与喜剧",
+        "ja": "ゲーム実況・コメディ"
+      },
+      "about": {
+        "es": "YouTuber indonesio de contenido de videojuegos (nombre real Reggie Prabowo Wongkar); es uno de los creadores de gaming más grandes de Indonesia, conocido por el saludo 'Miaw' que da nombre a su canal.",
+        "en": "Indonesian gaming content creator (real name Reggie Prabowo Wongkar); one of the biggest gaming YouTubers in Indonesia, known for the 'Miaw' greeting that gives his channel its name.",
+        "pt": "Criador de conteúdo de games indonésio (nome verdadeiro Reggie Prabowo Wongkar); um dos maiores YouTubers de games da Indonésia, conhecido pela saudação 'Miaw' que dá nome ao canal.",
+        "fr": "Créateur de contenu gaming indonésien (vrai nom Reggie Prabowo Wongkar) ; l'un des plus grands YouTubeurs gaming d'Indonésie, connu pour la salutation « Miaw » qui donne son nom à la chaîne.",
+        "de": "Indonesischer Gaming-Content-Creator (echter Name Reggie Prabowo Wongkar); einer der größten Gaming-YouTuber Indonesiens, bekannt für den Gruß „Miaw“, der dem Kanal seinen Namen gibt.",
+        "ru": "Индонезийский геймерский блогер (настоящее имя Реджи Прабово Вонгкар); один из крупнейших гейминг-ютуберов Индонезии, известен приветствием «Miaw», давшим название его каналу.",
+        "ar": "صانع محتوى ألعاب إندونيسي (اسمه الحقيقي ريجي برابوو ونجكار)؛ واحد من أكبر يوتيوبرز الألعاب في إندونيسيا، يُعرف بتحية 'Miaw' التي سُمّيت قناته باسمها.",
+        "hi": "इंडोनेशियाई गेमिंग कंटेंट क्रिएटर (असली नाम रेजी प्रबोवो वोंगकर); इंडोनेशिया के सबसे बड़े गेमिंग यूट्यूबर्स में से एक, 'Miaw' अभिवादन के लिए प्रसिद्ध जिससे चैनल का नाम पड़ा।",
+        "zh": "印度尼西亚游戏内容创作者（真名Reggie Prabowo Wongkar）；印尼最大的游戏类YouTuber之一，以频道名称来源的招呼语“Miaw”而闻名。",
+        "ja": "インドネシアのゲーム系コンテンツクリエイター（本名レジー・プラボウォ・ウォンカル）。インドネシア最大級のゲーム実況者の一人で、チャンネル名の由来となった挨拶「Miaw」で知られる。"
+      },
+      "handles": {
+        "youtube": "UC3J4Q1grz46bdJ7NJLd4DGw",
+        "tiktok": "miawaug.official",
+        "instagram": "miawaug",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 25900000
+        }
+      }
+    },
+    {
+      "id": "irfan-junejo",
+      "name": "Irfan Junejo",
+      "country": "PK",
+      "topic": {
+        "es": "Vlogs de estilo de vida y documentales",
+        "en": "Lifestyle and documentary-style vlogs",
+        "pt": "Vlogs de estilo de vida e documentários",
+        "fr": "Vlogs lifestyle et documentaires",
+        "de": "Lifestyle- und Dokumentar-Vlogs",
+        "ru": "Влоги о стиле жизни и документалистика",
+        "ar": "مدونات فيديو عن نمط الحياة والوثائقيات",
+        "hi": "लाइफस्टाइल और डॉक्यूमेंट्री शैली के व्लॉग",
+        "zh": "生活方式与纪录片风格的视频博客",
+        "ja": "ライフスタイル系・ドキュメンタリー風ブログ"
+      },
+      "about": {
+        "es": "Irfan Junejo es un vlogger y creador de contenido pakistaní que comenzó su canal de YouTube en 2010, pionero del vlogging de estilo documental en Pakistán y copresentador del programa 'The Jo Bhi Show'.",
+        "en": "Irfan Junejo is a Pakistani vlogger and content creator who started his YouTube channel in 2010, a pioneer of documentary-style vlogging in Pakistan and co-host of 'The Jo Bhi Show'.",
+        "pt": "Irfan Junejo é um vlogger e criador de conteúdo paquistanês que criou seu canal no YouTube em 2010, pioneiro do vlog estilo documentário no Paquistão e co-apresentador do 'The Jo Bhi Show'.",
+        "fr": "Irfan Junejo est un vlogueur et créateur de contenu pakistanais qui a lancé sa chaîne YouTube en 2010, pionnier du vlog façon documentaire au Pakistan et co-animateur de 'The Jo Bhi Show'.",
+        "de": "Irfan Junejo ist ein pakistanischer Vlogger und Content-Creator, der 2010 seinen YouTube-Kanal startete, Pionier des dokumentarischen Vloggings in Pakistan und Co-Moderator von 'The Jo Bhi Show'.",
+        "ru": "Ирфан Джунеджо — пакистанский влогер и создатель контента, запустивший канал на YouTube в 2010 году, пионер документального влогинга в Пакистане и соведущий шоу 'The Jo Bhi Show'.",
+        "ar": "عرفان جونيجو هو مدون فيديو ومنشئ محتوى باكستاني بدأ قناته على يوتيوب عام 2010، ويُعد رائدًا لأسلوب التدوين الوثائقي في باكستان ومقدمًا مشاركًا لبرنامج 'The Jo Bhi Show'.",
+        "hi": "इरफ़ान जुनेजो एक पाकिस्तानी व्लॉगर और कंटेंट क्रिएटर हैं जिन्होंने 2010 में अपना यूट्यूब चैनल शुरू किया, पाकिस्तान में डॉक्यूमेंट्री-शैली व्लॉगिंग के अग्रणी और 'The Jo Bhi Show' के सह-मेज़बान।",
+        "zh": "伊尔凡·朱内霍是巴基斯坦的视频博主和内容创作者,2010年开设YouTube频道,是巴基斯坦纪录片风格视频博客的先驱,也是节目《The Jo Bhi Show》的联合主持人。",
+        "ja": "イルファン・ジュネジョは2010年にYouTubeチャンネルを開設したパキスタンのブロガー兼コンテンツクリエイターで、パキスタンにおけるドキュメンタリー風Vlogの先駆者であり、番組『The Jo Bhi Show』の共同司会者でもある。"
+      },
+      "handles": {
+        "youtube": "UCUuDUW0Y6IQZYDvH1QQBsgA",
+        "tiktok": "irfanjunejo",
+        "instagram": "irfanjunejo",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1480000
+        }
+      }
+    },
+    {
+      "id": "mooroo-taimoor-salahuddin",
+      "name": "Mooroo (Taimoor Salahuddin)",
+      "country": "PK",
+      "topic": {
+        "es": "Sketches de comedia, cortometrajes y vlogs",
+        "en": "Comedy sketches, short films and vlogs",
+        "pt": "Esquetes de comédia, curtas-metragens e vlogs",
+        "fr": "Sketches comiques, courts-métrages et vlogs",
+        "de": "Comedy-Sketche, Kurzfilme und Vlogs",
+        "ru": "Комедийные скетчи, короткометражки и влоги",
+        "ar": "سكتشات كوميدية وأفلام قصيرة ومدونات فيديو",
+        "hi": "कॉमेडी स्केच, लघु फ़िल्में और व्लॉग",
+        "zh": "喜剧短剧、短片与视频博客",
+        "ja": "コメディスケッチ、短編映画、ブログ"
+      },
+      "about": {
+        "es": "Taimoor Salahuddin, conocido como Mooroo, es un creador pakistaní nacido en Lahore, considerado uno de los pioneros del vlogging en Pakistán, conocido por sus sketches cómicos y también activo como músico, actor y director.",
+        "en": "Taimoor Salahuddin, known as Mooroo, is a Pakistani creator born in Lahore, regarded as one of the pioneers of vlogging in Pakistan, known for his comedic sketches and also active as a musician, actor and director.",
+        "pt": "Taimoor Salahuddin, conhecido como Mooroo, é um criador paquistanês nascido em Lahore, considerado um dos pioneiros do vlog no Paquistão, conhecido por seus esquetes cômicos e também atuante como músico, ator e diretor.",
+        "fr": "Taimoor Salahuddin, connu sous le nom de Mooroo, est un créateur pakistanais né à Lahore, considéré comme l'un des pionniers du vlog au Pakistan, connu pour ses sketches comiques et également actif comme musicien, acteur et réalisateur.",
+        "de": "Taimoor Salahuddin, bekannt als Mooroo, ist ein pakistanischer Creator aus Lahore, gilt als einer der Pioniere des Vloggings in Pakistan, bekannt für seine Comedy-Sketche und auch als Musiker, Schauspieler und Regisseur aktiv.",
+        "ru": "Таймур Салахуддин, известный как Mooroo, — пакистанский создатель контента из Лахора, считающийся одним из пионеров влогинга в Пакистане, известен своими комедийными скетчами, а также музыкант, актёр и режиссёр.",
+        "ar": "تيمور صلاح الدين، المعروف باسم مورو، هو صانع محتوى باكستاني وُلد في لاهور، ويُعتبر أحد رواد التدوين المرئي في باكستان، اشتهر بسكتشاته الكوميدية وهو أيضًا موسيقي وممثل ومخرج.",
+        "hi": "तैमूर सलाहुद्दीन, जिन्हें मूरू के नाम से जाना जाता है, लाहौर में जन्मे पाकिस्तानी क्रिएटर हैं, जिन्हें पाकिस्तान में व्लॉगिंग के अग्रदूतों में से एक माना जाता है, अपने हास्य स्केच के लिए जाने जाते हैं और संगीतकार, अभिनेता व निर्देशक भी हैं।",
+        "zh": "泰穆尔·萨拉胡丁,艺名Mooroo,出生于拉合尔的巴基斯坦创作者,被视为巴基斯坦视频博客的先驱之一,以喜剧短剧闻名,同时也是音乐人、演员和导演。",
+        "ja": "タイムール・サラフッディーン(通称Mooroo)はラホール出身のパキスタン人クリエイターで、パキスタンにおけるVlogの先駆者の一人とされ、コメディスケッチで知られるほか、音楽家・俳優・監督としても活動している。"
+      },
+      "handles": {
+        "youtube": "UC-rP-oFlxQGpSLYHBlhIWkg",
+        "tiktok": null,
+        "instagram": "mooroosicity",
+        "facebook": "mooroopage",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1210000
+        }
+      }
+    },
+    {
+      "id": "shahveer-jafry",
+      "name": "Shahveer Jafry",
+      "country": "PK",
+      "topic": {
+        "es": "Comedia, sketches y vlogs",
+        "en": "Comedy, sketches and vlogs",
+        "pt": "Comédia, esquetes e vlogs",
+        "fr": "Comédie, sketches et vlogs",
+        "de": "Comedy, Sketche und Vlogs",
+        "ru": "Комедия, скетчи и влоги",
+        "ar": "كوميديا وسكتشات ومدونات فيديو",
+        "hi": "कॉमेडी, स्केच और व्लॉग",
+        "zh": "喜剧、短剧与视频博客",
+        "ja": "コメディ、スケッチ、ブログ"
+      },
+      "about": {
+        "es": "Shahveer Jafry es un creador de contenido pakistaní-canadiense nacido en Islamabad y criado en Milton, Ontario, conocido por sus videos de comedia y sketches en YouTube desde 2016.",
+        "en": "Shahveer Jafry is a Pakistani-Canadian content creator born in Islamabad and raised in Milton, Ontario, known for his comedy and sketch videos on YouTube since 2016.",
+        "pt": "Shahveer Jafry é um criador de conteúdo paquistanês-canadense nascido em Islamabad e criado em Milton, Ontário, conhecido por seus vídeos de comédia e esquetes no YouTube desde 2016.",
+        "fr": "Shahveer Jafry est un créateur de contenu pakistano-canadien né à Islamabad et élevé à Milton, en Ontario, connu pour ses vidéos comiques et sketches sur YouTube depuis 2016.",
+        "de": "Shahveer Jafry ist ein pakistanisch-kanadischer Content-Creator, geboren in Islamabad und aufgewachsen in Milton, Ontario, bekannt für seine Comedy- und Sketch-Videos auf YouTube seit 2016.",
+        "ru": "Шахвир Джафри — пакистано-канадский создатель контента, родившийся в Исламабаде и выросший в Милтоне, Онтарио, известен своими комедийными видео и скетчами на YouTube с 2016 года.",
+        "ar": "شهفير جافري هو صانع محتوى باكستاني كندي وُلد في إسلام آباد ونشأ في ميلتون بأونتاريو، اشتهر بمقاطع الكوميديا والسكتشات على يوتيوب منذ عام 2016.",
+        "hi": "शहवीर जाफ़री एक पाकिस्तानी-कनाडाई कंटेंट क्रिएटर हैं, जिनका जन्म इस्लामाबाद में हुआ और पालन-पोषण मिल्टन, ओंटारियो में हुआ, जो 2016 से यूट्यूब पर अपने कॉमेडी और स्केच वीडियो के लिए जाने जाते हैं।",
+        "zh": "沙维尔·贾夫里是一位巴基斯坦裔加拿大内容创作者,出生于伊斯兰堡,在安大略省米尔顿长大,自2016年起因YouTube喜剧和短剧视频而知名。",
+        "ja": "シャヴィール・ジャフリーはイスラマバード生まれ、オンタリオ州ミルトン育ちのパキスタン系カナダ人クリエイターで、2016年から続けるYouTubeのコメディ・スケッチ動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UChIrj5Qb5V-TZIRrk0Df-Uw",
+        "tiktok": "shahveerjaytiktok",
+        "instagram": "shahveer_jafry",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": "shahveerj"
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4000000
+        }
+      }
+    },
+    {
+      "id": "junaid-akram",
+      "name": "Junaid Akram",
+      "country": "PK",
+      "topic": {
+        "es": "Comedia, podcasts y comentarios sociales",
+        "en": "Comedy, podcasts and social commentary",
+        "pt": "Comédia, podcasts e comentários sociais",
+        "fr": "Comédie, podcasts et commentaires sociaux",
+        "de": "Comedy, Podcasts und Gesellschaftskommentar",
+        "ru": "Комедия, подкасты и социальные комментарии",
+        "ar": "كوميديا وبودكاست وتعليقات اجتماعية",
+        "hi": "कॉमेडी, पॉडकास्ट और सामाजिक टिप्पणी",
+        "zh": "喜剧、播客与社会评论",
+        "ja": "コメディ、ポッドキャスト、社会評論"
+      },
+      "about": {
+        "es": "Junaid Akram, conocido en línea como Ganjiswag, es un comediante pakistaní famoso por su estilo de habla rápida 'Karachi Wala', sus videos de comentario social y su podcast en YouTube.",
+        "en": "Junaid Akram, known online as Ganjiswag, is a Pakistani comedian famous for his fast-paced 'Karachi Wala' speaking style, social commentary videos and podcast on YouTube.",
+        "pt": "Junaid Akram, conhecido online como Ganjiswag, é um comediante paquistanês famoso por seu estilo de fala acelerado 'Karachi Wala', vídeos de comentário social e podcast no YouTube.",
+        "fr": "Junaid Akram, connu en ligne sous le nom de Ganjiswag, est un comédien pakistanais célèbre pour son style d'élocution rapide 'Karachi Wala', ses vidéos de commentaire social et son podcast sur YouTube.",
+        "de": "Junaid Akram, online bekannt als Ganjiswag, ist ein pakistanischer Comedian, berühmt für seinen schnellen 'Karachi Wala'-Sprechstil, Gesellschaftskommentar-Videos und seinen Podcast auf YouTube.",
+        "ru": "Джунаид Акрам, известный в сети как Ganjiswag, — пакистанский комик, знаменитый быстрым стилем речи 'Karachi Wala', видео с социальными комментариями и подкастом на YouTube.",
+        "ar": "جنيد أكرم، المعروف على الإنترنت باسم Ganjiswag، هو كوميدي باكستاني اشتهر بأسلوبه السريع في الحديث المعروف بـ'كراتشي والا'، ومقاطع التعليق الاجتماعي وبودكاست على يوتيوب.",
+        "hi": "जुनैद अकरम, जिन्हें ऑनलाइन Ganjiswag के नाम से जाना जाता है, एक पाकिस्तानी कॉमेडियन हैं जो अपनी तेज़-तर्रार 'कराची वाला' बोलने की शैली, सामाजिक टिप्पणी वीडियो और यूट्यूब पॉडकास्ट के लिए प्रसिद्ध हैं।",
+        "zh": "朱奈德·阿克拉姆,网名Ganjiswag,是巴基斯坦喜剧演员,以其快节奏的'卡拉奇腔'说话风格、社会评论视频和YouTube播客而闻名。",
+        "ja": "ジュナイド・アクラム(オンライン名Ganjiswag)は、早口な「カラチ・ワーラ」語りで知られるパキスタンのコメディアンで、社会評論動画やYouTubeポッドキャストを手がける。"
+      },
+      "handles": {
+        "youtube": "UCFo9mvW4ythx_tgT3NHaw-Q",
+        "tiktok": "therealganjiswag",
+        "instagram": "ganjiswag",
+        "facebook": "junaid.akram",
+        "linkedin": null,
+        "snapchat": "ganjiswag"
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1270000
+        }
+      }
+    },
+    {
+      "id": "ducky-bhai-saad-ur-rehman",
+      "name": "Ducky Bhai (Saad Ur Rehman)",
+      "country": "PK",
+      "topic": {
+        "es": "Vlogs de estilo de vida, roasts y comentarios",
+        "en": "Lifestyle vlogs, roasts and commentary",
+        "pt": "Vlogs de estilo de vida, roasts e comentários",
+        "fr": "Vlogs lifestyle, roasts et commentaires",
+        "de": "Lifestyle-Vlogs, Roasts und Kommentare",
+        "ru": "Влоги о жизни, роасты и комментарии",
+        "ar": "مدونات فيديو عن نمط الحياة والتعليقات الساخرة",
+        "hi": "लाइफस्टाइल व्लॉग, रोस्ट और टिप्पणी वीडियो",
+        "zh": "生活方式视频博客、吐槽与评论",
+        "ja": "ライフスタイルVlog、ロースト、コメンタリー"
+      },
+      "about": {
+        "es": "Saad Ur Rehman, conocido como Ducky Bhai, es un vlogger pakistaní de Lahore que se convirtió en el primer vlogger de estilo de vida individual de Pakistán en superar los 10 millones de suscriptores en YouTube.",
+        "en": "Saad Ur Rehman, known as Ducky Bhai, is a Pakistani vlogger from Lahore who became the first individual lifestyle vlogger from Pakistan to surpass 10 million YouTube subscribers.",
+        "pt": "Saad Ur Rehman, conhecido como Ducky Bhai, é um vlogger paquistanês de Lahore que se tornou o primeiro vlogger de estilo de vida individual do Paquistão a ultrapassar 10 milhões de inscritos no YouTube.",
+        "fr": "Saad Ur Rehman, connu sous le nom de Ducky Bhai, est un vlogueur pakistanais de Lahore devenu le premier vlogueur lifestyle individuel du Pakistan à dépasser 10 millions d'abonnés YouTube.",
+        "de": "Saad Ur Rehman, bekannt als Ducky Bhai, ist ein pakistanischer Vlogger aus Lahore, der als erster individueller Lifestyle-Vlogger Pakistans die Marke von 10 Millionen YouTube-Abonnenten überschritt.",
+        "ru": "Саад ур Рехман, известный как Ducky Bhai, — пакистанский влогер из Лахора, ставший первым индивидуальным лайфстайл-влогером Пакистана, преодолевшим отметку в 10 миллионов подписчиков на YouTube.",
+        "ar": "سعد الرحمن، المعروف باسم داكي بهاي، هو مدون فيديو باكستاني من لاهور أصبح أول مدون نمط حياة فردي من باكستان يتجاوز 10 ملايين مشترك على يوتيوب.",
+        "hi": "साद उर रहमान, जिन्हें डकी भाई के नाम से जाना जाता है, लाहौर के एक पाकिस्तानी व्लॉगर हैं जो यूट्यूब पर 1 करोड़ सब्सक्राइबर पार करने वाले पाकिस्तान के पहले व्यक्तिगत लाइफस्टाइल व्लॉगर बने।",
+        "zh": "萨阿德·乌尔·拉赫曼(艺名Ducky Bhai)是来自拉合尔的巴基斯坦视频博主,成为巴基斯坦首位YouTube订阅数突破1000万的个人生活方式博主。",
+        "ja": "サアド・ウル・レフマーン(通称Ducky Bhai)はラホール出身のパキスタン人Vlogger。YouTube登録者数1000万人を突破したパキスタン初の個人ライフスタイルVloggerとなった。"
+      },
+      "handles": {
+        "youtube": "UC_c-RTowPbIlzMkIa_O7s6Q",
+        "tiktok": "duckybhai",
+        "instagram": "duckybhai",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 10200000
+        }
+      }
+    },
+    {
+      "id": "sham-idrees",
+      "name": "Sham Idrees",
+      "country": "PK",
+      "topic": {
+        "es": "Vlogs, comedia y entretenimiento",
+        "en": "Vlogs, comedy and entertainment",
+        "pt": "Vlogs, comédia e entretenimento",
+        "fr": "Vlogs, comédie et divertissement",
+        "de": "Vlogs, Comedy und Unterhaltung",
+        "ru": "Влоги, комедия и развлечения",
+        "ar": "مدونات فيديو وكوميديا وترفيه",
+        "hi": "व्लॉग, कॉमेडी और मनोरंजन",
+        "zh": "Vlog、喜剧与娱乐",
+        "ja": "Vlog、コメディ、エンターテインメント"
+      },
+      "about": {
+        "es": "Sham Idrees es un vlogger, actor y cantante pakistaní-canadiense nacido en Londres y criado con raíces familiares pakistaníes, conocido por sus vlogs de comedia en YouTube desde 2013.",
+        "en": "Sham Idrees is a Pakistani-Canadian vlogger, actor and singer born in London with Pakistani family roots, known for his comedy vlogs on YouTube since 2013.",
+        "pt": "Sham Idrees é um vlogger, ator e cantor paquistanês-canadense nascido em Londres com raízes familiares paquistanesas, conhecido por seus vlogs de comédia no YouTube desde 2013.",
+        "fr": "Sham Idrees est un vlogueur, acteur et chanteur pakistano-canadien né à Londres avec des racines familiales pakistanaises, connu pour ses vlogs comiques sur YouTube depuis 2013.",
+        "de": "Sham Idrees ist ein pakistanisch-kanadischer Vlogger, Schauspieler und Sänger, geboren in London mit pakistanischen Familienwurzeln, bekannt für seine Comedy-Vlogs auf YouTube seit 2013.",
+        "ru": "Шам Идрис — пакистано-канадский влогер, актёр и певец, родившийся в Лондоне в семье пакистанских корней, известен своими комедийными влогами на YouTube с 2013 года.",
+        "ar": "شام إدريس هو مدون فيديو وممثل ومغنٍ باكستاني كندي وُلد في لندن لعائلة ذات جذور باكستانية، اشتهر بمدوناته الفيديوية الكوميدية على يوتيوب منذ عام 2013.",
+        "hi": "शाम इदरीस एक पाकिस्तानी-कनाडाई व्लॉगर, अभिनेता और गायक हैं, जिनका जन्म लंदन में पाकिस्तानी पारिवारिक जड़ों के साथ हुआ, जो 2013 से यूट्यूब पर अपने कॉमेडी व्लॉग के लिए जाने जाते हैं।",
+        "zh": "沙姆·伊德里斯是一位巴基斯坦裔加拿大视频博主、演员兼歌手,出生于伦敦,拥有巴基斯坦家族血统,自2013年起因YouTube喜剧Vlog而知名。",
+        "ja": "シャム・イドリースはロンドン生まれ、パキスタン系の家系を持つパキスタン系カナダ人のVlogger・俳優・歌手で、2013年から続けるYouTubeのコメディVlogで知られる。"
+      },
+      "handles": {
+        "youtube": "UCmnt4lY5v9EQDWWE89OXrhQ",
+        "tiktok": "shamidrees",
+        "instagram": "shamidrees",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1840000
+        }
+      }
+    },
+    {
+      "id": "areeka-haq",
+      "name": "Areeka Haq",
+      "country": "PK",
+      "topic": {
+        "es": "Estilo de vida, moda y entretenimiento",
+        "en": "Lifestyle, fashion and entertainment",
+        "pt": "Estilo de vida, moda e entretenimento",
+        "fr": "Lifestyle, mode et divertissement",
+        "de": "Lifestyle, Mode und Unterhaltung",
+        "ru": "Лайфстайл, мода и развлечения",
+        "ar": "نمط الحياة والموضة والترفيه",
+        "hi": "लाइफस्टाइल, फैशन और मनोरंजन",
+        "zh": "生活方式、时尚与娱乐",
+        "ja": "ライフスタイル、ファッション、エンターテインメント"
+      },
+      "about": {
+        "es": "Areeka Haq es una creadora de contenido pakistaní nacida en 2003, conocida principalmente por sus videos de lip-sync y moda en TikTok, con más de 12 millones de seguidores allí y un canal de YouTube con contenido de estilo de vida.",
+        "en": "Areeka Haq is a Pakistani content creator born in 2003, known primarily for her lip-sync and fashion videos on TikTok, with over 12 million followers there and a YouTube channel featuring lifestyle content.",
+        "pt": "Areeka Haq é uma criadora de conteúdo paquistanesa nascida em 2003, conhecida principalmente por seus vídeos de lip-sync e moda no TikTok, com mais de 12 milhões de seguidores lá e um canal no YouTube com conteúdo de estilo de vida.",
+        "fr": "Areeka Haq est une créatrice de contenu pakistanaise née en 2003, connue principalement pour ses vidéos de playback et de mode sur TikTok, avec plus de 12 millions d'abonnés là-bas et une chaîne YouTube de contenu lifestyle.",
+        "de": "Areeka Haq ist eine pakistanische Content-Creatorin, geboren 2003, vor allem bekannt für ihre Lip-Sync- und Modevideos auf TikTok mit über 12 Millionen Followern dort sowie einen YouTube-Kanal mit Lifestyle-Inhalten.",
+        "ru": "Арика Хак — пакистанская создательница контента, родившаяся в 2003 году, известна прежде всего своими видео под фонограмму и модными роликами в TikTok с более чем 12 миллионами подписчиков, а также каналом на YouTube с лайфстайл-контентом.",
+        "ar": "أريكا حق هي صانعة محتوى باكستانية وُلدت عام 2003، اشتهرت بشكل أساسي بمقاطع الليب سينك والموضة على تيك توك حيث تجاوز متابعوها 12 مليونًا، ولديها أيضًا قناة يوتيوب لمحتوى نمط الحياة.",
+        "hi": "अरीका हक़ एक पाकिस्तानी कंटेंट क्रिएटर हैं, जिनका जन्म 2003 में हुआ, जो मुख्य रूप से टिकटॉक पर अपने लिप-सिंक और फैशन वीडियो के लिए जानी जाती हैं, जहां उनके 1.2 करोड़ से अधिक फॉलोअर्स हैं, साथ ही लाइफस्टाइल कंटेंट वाला एक यूट्यूब चैनल भी है।",
+        "zh": "阿里卡·哈克是2003年出生的巴基斯坦内容创作者,主要以在TikTok上发布对口型和时尚视频闻名,拥有超过1200万粉丝,并在YouTube上发布生活方式内容。",
+        "ja": "アリーカ・ハクは2003年生まれのパキスタン人コンテンツクリエイターで、主にTikTokでのリップシンクやファッション動画で知られ、フォロワーは1200万人超。YouTubeでもライフスタイル系コンテンツを発信している。"
+      },
+      "handles": {
+        "youtube": "UCMEh419g3Lli7BJbMNf9bJA",
+        "tiktok": "areeka__haq",
+        "instagram": "areeka__haq",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 353000
+        }
+      }
+    },
+    {
+      "id": "nadir-ali",
+      "name": "Nadir Ali",
+      "country": "PK",
+      "topic": {
+        "es": "Comedia, bromas y vlogs familiares",
+        "en": "Comedy, pranks and family vlogs",
+        "pt": "Comédia, pegadinhas e vlogs familiares",
+        "fr": "Comédie, canulars et vlogs familiaux",
+        "de": "Comedy, Streiche und Familien-Vlogs",
+        "ru": "Комедия, розыгрыши и семейные влоги",
+        "ar": "كوميديا ومقالب ومدونات فيديو عائلية",
+        "hi": "कॉमेडी, प्रैंक और पारिवारिक व्लॉग",
+        "zh": "喜剧、整蛊与家庭视频博客",
+        "ja": "コメディ、いたずら企画、ファミリーVlog"
+      },
+      "about": {
+        "es": "Nadir Ali es un comediante y personalidad de YouTube pakistaní, conocido por su canal P4 Pakao, que comenzó en 2016 tras trabajar en el programa de bromas 'Zara Hut Kay' en Metro TV, con contenido de comedia, bromas y vlogs familiares grabados principalmente en Karachi.",
+        "en": "Nadir Ali is a Pakistani comedian and YouTube personality, known for his channel P4 Pakao, which he started in 2016 after working on the prank show 'Zara Hut Kay' on Metro TV, featuring comedy, pranks and family vlogs mostly filmed in Karachi.",
+        "pt": "Nadir Ali é um comediante e personalidade do YouTube paquistanês, conhecido por seu canal P4 Pakao, que começou em 2016 após trabalhar no programa de pegadinhas 'Zara Hut Kay' na Metro TV, com conteúdo de comédia, pegadinhas e vlogs familiares filmados principalmente em Karachi.",
+        "fr": "Nadir Ali est un comédien et personnalité YouTube pakistanais, connu pour sa chaîne P4 Pakao, lancée en 2016 après avoir travaillé sur l'émission de canulars 'Zara Hut Kay' sur Metro TV, avec du contenu comique, des canulars et des vlogs familiaux tournés principalement à Karachi.",
+        "de": "Nadir Ali ist ein pakistanischer Comedian und YouTube-Persönlichkeit, bekannt für seinen Kanal P4 Pakao, den er 2016 startete, nachdem er bei der Streich-Show 'Zara Hut Kay' auf Metro TV gearbeitet hatte, mit Comedy-, Streich- und Familien-Vlog-Inhalten, meist gedreht in Karachi.",
+        "ru": "Надир Али — пакистанский комик и звезда YouTube, известен своим каналом P4 Pakao, который он запустил в 2016 году после работы на шоу розыгрышей 'Zara Hut Kay' на Metro TV, с комедийным контентом, розыгрышами и семейными влогами, снятыми в основном в Карачи.",
+        "ar": "نادر علي هو كوميدي وشخصية يوتيوب باكستانية، اشتهر بقناته P4 Pakao التي بدأها عام 2016 بعد عمله في برنامج المقالب 'Zara Hut Kay' على Metro TV، ويقدم محتوى كوميديًا ومقالب ومدونات فيديو عائلية تُصوَّر غالبًا في كراتشي.",
+        "hi": "नादिर अली एक पाकिस्तानी कॉमेडियन और यूट्यूब पर्सनैलिटी हैं, जो अपने चैनल P4 Pakao के लिए जाने जाते हैं, जिसे उन्होंने Metro TV के प्रैंक शो 'Zara Hut Kay' में काम करने के बाद 2016 में शुरू किया, जिसमें मुख्यतः कराची में फिल्माए गए कॉमेडी, प्रैंक और पारिवारिक व्लॉग शामिल हैं।",
+        "zh": "纳迪尔·阿里是巴基斯坦喜剧演员兼YouTube红人,以其频道P4 Pakao闻名,该频道于2016年在他曾参与Metro TV恶作剧节目《Zara Hut Kay》后创立,主要在卡拉奇拍摄喜剧、恶作剧和家庭Vlog内容。",
+        "ja": "ナディル・アリーはパキスタンのコメディアン・YouTuberで、Metro TVのドッキリ番組『Zara Hut Kay』出演後の2016年に開設したチャンネル「P4 Pakao」で知られ、主にカラチで撮影されたコメディ・ドッキリ・家族Vlogを発信している。"
+      },
+      "handles": {
+        "youtube": "UCI9tIvSPsdxNEICjZk7ujUA",
+        "tiktok": null,
+        "instagram": "p4pakao",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4140000
+        }
+      }
+    },
+    {
+      "id": "amna-riaz",
+      "name": "Amna Riaz",
+      "country": "PK",
+      "topic": {
+        "es": "Cocina y recetas pakistaníes",
+        "en": "Cooking and Pakistani recipes",
+        "pt": "Culinária e receitas paquistanesas",
+        "fr": "Cuisine et recettes pakistanaises",
+        "de": "Kochen und pakistanische Rezepte",
+        "ru": "Кулинария и пакистанские рецепты",
+        "ar": "الطبخ والوصفات الباكستانية",
+        "hi": "खाना पकाना और पाकिस्तानी व्यंजन",
+        "zh": "烹饪与巴基斯坦食谱",
+        "ja": "料理とパキスタン料理レシピ"
+      },
+      "about": {
+        "es": "Amna Riaz es una youtuber y experta culinaria pakistaní nacida en Lahore en 1990, creadora del canal 'Kitchen with Amna' desde 2016, y la primera mujer pakistaní en recibir el Gold Play Button de YouTube.",
+        "en": "Amna Riaz is a Pakistani YouTuber and food expert born in Lahore in 1990, creator of the channel 'Kitchen with Amna' since 2016, and the first Pakistani woman to receive YouTube's Gold Play Button.",
+        "pt": "Amna Riaz é uma youtuber e especialista culinária paquistanesa nascida em Lahore em 1990, criadora do canal 'Kitchen with Amna' desde 2016, e a primeira mulher paquistanesa a receber o Gold Play Button do YouTube.",
+        "fr": "Amna Riaz est une youtubeuse et experte culinaire pakistanaise née à Lahore en 1990, créatrice de la chaîne 'Kitchen with Amna' depuis 2016, et la première femme pakistanaise à recevoir le bouton d'or de YouTube.",
+        "de": "Amna Riaz ist eine pakistanische YouTuberin und Kochexpertin, geboren 1990 in Lahore, Gründerin des Kanals 'Kitchen with Amna' seit 2016 und die erste pakistanische Frau, die den YouTube Gold Play Button erhielt.",
+        "ru": "Амна Рияз — пакистанская ютубер и кулинарный эксперт, родилась в Лахоре в 1990 году, создательница канала 'Kitchen with Amna' с 2016 года, первая пакистанская женщина, получившая золотую кнопку YouTube.",
+        "ar": "آمنة رياض هي يوتيوبر باكستانية وخبيرة طهي وُلدت في لاهور عام 1990، وأنشأت قناة 'Kitchen with Amna' منذ عام 2016، وهي أول امرأة باكستانية تحصل على زر يوتيوب الذهبي.",
+        "hi": "आमना रियाज़ एक पाकिस्तानी यूट्यूबर और खाना पकाने की विशेषज्ञ हैं, जिनका जन्म 1990 में लाहौर में हुआ, जिन्होंने 2016 से 'Kitchen with Amna' चैनल बनाया, और यूट्यूब का गोल्ड प्ले बटन पाने वाली पहली पाकिस्तानी महिला हैं।",
+        "zh": "阿姆娜·里亚兹是1990年出生于拉合尔的巴基斯坦YouTuber和美食专家,自2016年起创建频道《Kitchen with Amna》,是首位获得YouTube金按钮的巴基斯坦女性。",
+        "ja": "アムナ・リヤーズは1990年ラホール生まれのパキスタン人YouTuber・料理専門家で、2016年からチャンネル「Kitchen with Amna」を運営し、YouTubeのゴールドプレイボタンを受賞した初のパキスタン人女性である。"
+      },
+      "handles": {
+        "youtube": "UCQ2P7C8UGoVM6AhqsVx-M0Q",
+        "tiktok": null,
+        "instagram": "amnariazofficial",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4390000
+        }
+      }
+    },
+    {
+      "id": "tawhid-afridi",
+      "name": "Tawhid Afridi",
+      "country": "BD",
+      "topic": {
+        "es": "Vlogs, comedia y estilo de vida",
+        "en": "Vlogs, comedy and lifestyle",
+        "pt": "Vlogs, comédia e estilo de vida",
+        "fr": "Vlogs, comédie et style de vie",
+        "de": "Vlogs, Comedy und Lifestyle",
+        "ru": "Влоги, комедия и лайфстайл",
+        "ar": "مدونات فيديو وكوميديا وأسلوب حياة",
+        "hi": "व्लॉग, कॉमेडी और लाइफस्टाइल",
+        "zh": "视频博客、喜剧与生活方式",
+        "ja": "Vlog・コメディ・ライフスタイル"
+      },
+      "about": {
+        "es": "YouTuber y actor bangladesí que lanzó su canal en 2015; es considerado el YouTuber no corporativo más suscrito de Bangladesh, conocido por sus vlogs y contenido de comedia.",
+        "en": "Bangladeshi YouTuber and actor who launched his channel in 2015; regarded as the most-subscribed non-corporate YouTuber from Bangladesh, known for his vlogs and comedy content.",
+        "pt": "YouTuber e ator bangladês que lançou seu canal em 2015; é considerado o YouTuber não corporativo mais inscrito de Bangladesh, conhecido por seus vlogs e conteúdo de comédia.",
+        "fr": "YouTubeur et acteur bangladais qui a lancé sa chaîne en 2015 ; considéré comme le YouTubeur non corporatif le plus suivi du Bangladesh, connu pour ses vlogs et son contenu comique.",
+        "de": "Bangladeschischer YouTuber und Schauspieler, der seinen Kanal 2015 startete; gilt als meistabonnierter nicht-kommerzieller YouTuber Bangladeschs, bekannt für seine Vlogs und Comedy-Inhalte.",
+        "ru": "Бангладешский ютубер и актёр, запустивший канал в 2015 году; считается самым популярным независимым ютубером Бангладеш, известен влогами и юмористическим контентом.",
+        "ar": "يوتيوبر وممثل بنغلاديشي أطلق قناته عام 2015؛ يُعتبر الأكثر اشتراكاً بين اليوتيوبرز غير المؤسسيين في بنغلاديش، ويُعرف بمدوناته الفيديوية ومحتواه الكوميدي.",
+        "hi": "बांग्लादेशी यूट्यूबर और अभिनेता, जिन्होंने 2015 में अपना चैनल शुरू किया; बांग्लादेश के सबसे अधिक सब्सक्राइब किए गए गैर-कॉर्पोरेट यूट्यूबर माने जाते हैं, अपने व्लॉग और कॉमेडी कंटेंट के लिए जाने जाते हैं।",
+        "zh": "孟加拉国YouTuber兼演员，2015年创立频道；被认为是孟加拉国订阅量最高的非企业类YouTuber，以视频博客和喜剧内容闻名。",
+        "ja": "2015年にチャンネルを開設したバングラデシュのYouTuber兼俳優。バングラデシュで最も登録者数の多い非企業系YouTuberとされ、Vlogやコメディコンテンツで知られる。"
+      },
+      "handles": {
+        "youtube": "UCEO0rIuBz8Dc8p7PpGE26ZQ",
+        "tiktok": null,
+        "instagram": "tawhid_afridi",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 6260000
+        }
+      }
+    },
+    {
+      "id": "rafsan-thechotobhai",
+      "name": "Rafsan TheChotoBhai",
+      "country": "BD",
+      "topic": {
+        "es": "Videoblogs gastronómicos y de comida callejera",
+        "en": "Food vlogging and street food",
+        "pt": "Vlogs gastronômicos e comida de rua",
+        "fr": "Vlogs culinaires et street food",
+        "de": "Food-Vlogging und Street Food",
+        "ru": "Влоги о еде и уличной кухне",
+        "ar": "مدونات فيديو عن الطعام والأكل الشعبي",
+        "hi": "फूड व्लॉगिंग और स्ट्रीट फूड",
+        "zh": "美食视频博客与街头小吃",
+        "ja": "フードVlog・屋台グルメ"
+      },
+      "about": {
+        "es": "Iftekhar Rafsan, conocido como Rafsan TheChotoBhai, es un YouTuber bangladesí que comenzó a crear contenido en 2017, reconocido por sus videos de comida callejera y gastronomía local de Bangladesh.",
+        "en": "Iftekhar Rafsan, known as Rafsan TheChotoBhai, is a Bangladeshi YouTuber who began creating content in 2017, best known for his street food and local Bangladeshi cuisine videos.",
+        "pt": "Iftekhar Rafsan, conhecido como Rafsan TheChotoBhai, é um YouTuber bangladês que começou a criar conteúdo em 2017, conhecido por seus vídeos de comida de rua e culinária local de Bangladesh.",
+        "fr": "Iftekhar Rafsan, connu sous le nom de Rafsan TheChotoBhai, est un YouTubeur bangladais qui a commencé à créer du contenu en 2017, connu pour ses vidéos de street food et de cuisine locale bangladaise.",
+        "de": "Iftekhar Rafsan, bekannt als Rafsan TheChotoBhai, ist ein bangladeschischer YouTuber, der 2017 mit dem Erstellen von Inhalten begann und für seine Street-Food- und Bangladesch-Küchenvideos bekannt ist.",
+        "ru": "Ифтехар Рафсан, известный как Rafsan TheChotoBhai, — бангладешский ютубер, начавший создавать контент в 2017 году; известен видео об уличной еде и местной бангладешской кухне.",
+        "ar": "إفتخار رفسان، المعروف باسم Rafsan TheChotoBhai، يوتيوبر بنغلاديشي بدأ إنشاء المحتوى عام 2017، ويشتهر بمقاطع فيديو عن الطعام الشعبي والمطبخ البنغلاديشي المحلي.",
+        "hi": "इफ्तेखार रफसान, जिन्हें Rafsan TheChotoBhai के नाम से जाना जाता है, एक बांग्लादेशी यूट्यूबर हैं जिन्होंने 2017 में कंटेंट बनाना शुरू किया; वे स्ट्रीट फूड और बांग्लादेशी स्थानीय व्यंजनों के वीडियो के लिए प्रसिद्ध हैं।",
+        "zh": "伊夫特哈尔·拉夫桑（艺名Rafsan TheChotoBhai）是孟加拉国YouTuber，2017年开始创作内容，以街头小吃和孟加拉本地美食视频闻名。",
+        "ja": "イフテカール・ラフサン（Rafsan TheChotoBhaiとして知られる）は2017年から活動するバングラデシュのYouTuberで、屋台グルメや地元バングラデシュ料理の動画で知られる。"
+      },
+      "handles": {
+        "youtube": "UCxbyDapSavjgvdtpcJ2BJKw",
+        "tiktok": "rafsanthechotobhai",
+        "instagram": "thechotobhai",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4000000
+        }
+      }
+    },
+    {
+      "id": "salman-muqtadir",
+      "name": "Salman Muqtadir",
+      "country": "BD",
+      "topic": {
+        "es": "Comedia, música y estilo de vida",
+        "en": "Comedy, music and lifestyle",
+        "pt": "Comédia, música e estilo de vida",
+        "fr": "Comédie, musique et style de vie",
+        "de": "Comedy, Musik und Lifestyle",
+        "ru": "Комедия, музыка и лайфстайл",
+        "ar": "كوميديا وموسيقى وأسلوب حياة",
+        "hi": "कॉमेडी, संगीत और लाइफस्टाइल",
+        "zh": "喜剧、音乐与生活方式",
+        "ja": "コメディ・音楽・ライフスタイル"
+      },
+      "about": {
+        "es": "Salman Muhammed Muqtadir, nacido en 1993, es un YouTuber, músico y actor bangladesí que creó su canal 'SalmoN TheBrownFish' en 2012, convirtiéndose en uno de los creadores más populares de Bangladesh.",
+        "en": "Salman Muhammed Muqtadir, born in 1993, is a Bangladeshi YouTuber, musician and actor who created his channel 'SalmoN TheBrownFish' in 2012, becoming one of Bangladesh's most popular creators.",
+        "pt": "Salman Muhammed Muqtadir, nascido em 1993, é um YouTuber, músico e ator bangladês que criou seu canal 'SalmoN TheBrownFish' em 2012, tornando-se um dos criadores mais populares de Bangladesh.",
+        "fr": "Salman Muhammed Muqtadir, né en 1993, est un YouTubeur, musicien et acteur bangladais qui a créé sa chaîne « SalmoN TheBrownFish » en 2012, devenant l'un des créateurs les plus populaires du Bangladesh.",
+        "de": "Salman Muhammed Muqtadir, geboren 1993, ist ein bangladeschischer YouTuber, Musiker und Schauspieler, der 2012 seinen Kanal 'SalmoN TheBrownFish' gründete und zu einem der beliebtesten Creator Bangladeschs wurde.",
+        "ru": "Салман Мухаммед Муктадир, родившийся в 1993 году, — бангладешский ютубер, музыкант и актёр, создавший канал 'SalmoN TheBrownFish' в 2012 году и ставший одним из самых популярных авторов контента Бангладеш.",
+        "ar": "سلمان محمد مقتدر، المولود عام 1993، يوتيوبر وموسيقي وممثل بنغلاديشي أنشأ قناته 'SalmoN TheBrownFish' عام 2012، ليصبح أحد أشهر صناع المحتوى في بنغلاديش.",
+        "hi": "सलमान मुहम्मद मुक्तादिर, जन्म 1993, एक बांग्लादेशी यूट्यूबर, संगीतकार और अभिनेता हैं जिन्होंने 2012 में अपना चैनल 'SalmoN TheBrownFish' बनाया, जो बांग्लादेश के सबसे लोकप्रिय क्रिएटर्स में से एक बन गए।",
+        "zh": "萨尔曼·穆罕默德·穆克塔迪尔（1993年出生）是孟加拉国YouTuber、音乐人兼演员，2012年创建频道'SalmoN TheBrownFish'，成为孟加拉国最受欢迎的创作者之一。",
+        "ja": "1993年生まれのサルマン・ムハンマド・ムクタディルは、2012年に'SalmoN TheBrownFish'チャンネルを開設したバングラデシュのYouTuber・ミュージシャン・俳優で、バングラデシュで最も人気のあるクリエイターの一人となった。"
+      },
+      "handles": {
+        "youtube": "UCivHZmJcD6mvSrpkI9k9htg",
+        "tiktok": null,
+        "instagram": "salmon_tbf",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1690000
+        }
+      }
+    },
+    {
+      "id": "hero-alom",
+      "name": "Hero Alom",
+      "country": "BD",
+      "topic": {
+        "es": "Videos musicales y entretenimiento",
+        "en": "Music videos and entertainment",
+        "pt": "Videoclipes e entretenimento",
+        "fr": "Clips musicaux et divertissement",
+        "de": "Musikvideos und Unterhaltung",
+        "ru": "Музыкальные клипы и развлечения",
+        "ar": "مقاطع فيديو موسيقية وترفيه",
+        "hi": "म्यूजिक वीडियो और मनोरंजन",
+        "zh": "音乐视频与娱乐内容",
+        "ja": "ミュージックビデオ・エンタメ"
+      },
+      "about": {
+        "es": "Ashraful Alom, conocido como Hero Alom, es una personalidad mediática bangladesí nacida en 1985 en el distrito de Bogura; alcanzó popularidad con sus videos musicales virales y contenido de entretenimiento desde 2015, y también ha incursionado en la política.",
+        "en": "Ashraful Alom, known as Hero Alom, is a Bangladeshi media personality born in 1985 in Bogura District; he gained popularity through his viral music videos and entertainment content starting in 2015, and has also entered politics.",
+        "pt": "Ashraful Alom, conhecido como Hero Alom, é uma personalidade da mídia bangladesa nascida em 1985 no distrito de Bogura; ganhou popularidade com seus videoclipes virais e conteúdo de entretenimento a partir de 2015, e também entrou na política.",
+        "fr": "Ashraful Alom, connu sous le nom de Hero Alom, est une personnalité médiatique bangladaise née en 1985 dans le district de Bogura ; il a gagné en popularité grâce à ses clips musicaux viraux et son contenu de divertissement à partir de 2015, et s'est également lancé en politique.",
+        "de": "Ashraful Alom, bekannt als Hero Alom, ist eine bangladeschische Medienpersönlichkeit, geboren 1985 im Distrikt Bogura; er wurde ab 2015 durch virale Musikvideos und Unterhaltungsinhalte bekannt und ist auch politisch aktiv.",
+        "ru": "Ашрафул Алом, известный как Hero Alom, — бангладешская медиаличность, родившаяся в 1985 году в районе Богура; приобрёл популярность благодаря вирусным музыкальным клипам и развлекательному контенту с 2015 года, также занимался политикой.",
+        "ar": "أشرف العالم، المعروف باسم Hero Alom، شخصية إعلامية بنغلاديشية وُلدت عام 1985 في منطقة بوغرا؛ اكتسب شهرته من خلال مقاطع الفيديو الموسيقية الرائجة والمحتوى الترفيهي منذ عام 2015، وخاض أيضاً غمار السياسة.",
+        "hi": "अशरफुल आलम, जिन्हें Hero Alom के नाम से जाना जाता है, एक बांग्लादेशी मीडिया हस्ती हैं जिनका जन्म 1985 में बोगुरा जिले में हुआ; उन्होंने 2015 से अपने वायरल म्यूजिक वीडियो और मनोरंजन कंटेंट से लोकप्रियता हासिल की, और राजनीति में भी कदम रखा।",
+        "zh": "阿什拉富尔·阿洛姆（艺名Hero Alom）是1985年出生于博格拉县的孟加拉国媒体名人，自2015年起凭借爆红音乐视频和娱乐内容走红，并曾涉足政界。",
+        "ja": "アシュラフル・アロム（Hero Alomとして知られる）は1985年にボグラ県で生まれたバングラデシュのメディアパーソナリティ。2015年から人気ミュージックビデオとエンタメコンテンツで知られるようになり、政界にも進出した。"
+      },
+      "handles": {
+        "youtube": "UCMnG2uX4BdrqKw0zhSYqsrQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1990000
+        }
+      }
+    },
+    {
+      "id": "samzone",
+      "name": "SamZone",
+      "country": "BD",
+      "topic": {
+        "es": "Reseñas de tecnología y gadgets",
+        "en": "Tech and gadget reviews",
+        "pt": "Análises de tecnologia e gadgets",
+        "fr": "Tests de technologie et de gadgets",
+        "de": "Technik- und Gadget-Reviews",
+        "ru": "Обзоры техники и гаджетов",
+        "ar": "مراجعات التقنية والأجهزة",
+        "hi": "टेक और गैजेट समीक्षाएं",
+        "zh": "科技与数码产品测评",
+        "ja": "テック・ガジェットレビュー"
+      },
+      "about": {
+        "es": "SamZone es el canal de YouTube de tecnología más popular de Bangladesh, creado en 2015, dedicado a reseñas de teléfonos inteligentes, gadgets y tutoriales técnicos en bengalí.",
+        "en": "SamZone is Bangladesh's most popular tech-focused YouTube channel, created in 2015, dedicated to smartphone reviews, gadget content and tech tutorials in Bengali.",
+        "pt": "SamZone é o canal de tecnologia mais popular do YouTube em Bangladesh, criado em 2015, dedicado a análises de smartphones, gadgets e tutoriais técnicos em bengali.",
+        "fr": "SamZone est la chaîne YouTube technologique la plus populaire du Bangladesh, créée en 2015, dédiée aux tests de smartphones, de gadgets et aux tutoriels techniques en bengali.",
+        "de": "SamZone ist Bangladeschs beliebtester Technik-YouTube-Kanal, gegründet 2015, spezialisiert auf Smartphone-Reviews, Gadgets und Technik-Tutorials auf Bengalisch.",
+        "ru": "SamZone — самый популярный технологический YouTube-канал Бангладеш, созданный в 2015 году, посвящённый обзорам смартфонов, гаджетов и техническим урокам на бенгальском языке.",
+        "ar": "SamZone هي أشهر قناة يوتيوب تقنية في بنغلاديش، أُنشئت عام 2015، وتُعنى بمراجعات الهواتف الذكية والأجهزة والدروس التقنية باللغة البنغالية.",
+        "hi": "SamZone बांग्लादेश का सबसे लोकप्रिय टेक यूट्यूब चैनल है, जिसे 2015 में बनाया गया; यह बंगाली भाषा में स्मार्टफोन समीक्षाओं, गैजेट्स और टेक ट्यूटोरियल्स पर केंद्रित है।",
+        "zh": "SamZone是孟加拉国最受欢迎的科技类YouTube频道，创建于2015年，专注于以孟加拉语制作的智能手机测评、数码产品和技术教程。",
+        "ja": "SamZoneは2015年に開設された、バングラデシュで最も人気のあるテック系YouTubeチャンネルで、ベンガル語によるスマートフォンレビューやガジェット紹介、技術チュートリアルを提供している。"
+      },
+      "handles": {
+        "youtube": "UCc6TgL_PICrupEX2tAk_yNA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": "SamZoneOfficial",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4690000
+        }
+      }
+    },
+    {
+      "id": "pinaki-bhattacharya",
+      "name": "Pinaki Bhattacharya",
+      "country": "BD",
+      "topic": {
+        "es": "Comentario político y análisis social",
+        "en": "Political commentary and social analysis",
+        "pt": "Comentário político e análise social",
+        "fr": "Commentaire politique et analyse sociale",
+        "de": "Politischer Kommentar und Gesellschaftsanalyse",
+        "ru": "Политические комментарии и социальный анализ",
+        "ar": "تعليقات سياسية وتحليل اجتماعي",
+        "hi": "राजनीतिक टिप्पणी और सामाजिक विश्लेषण",
+        "zh": "政治评论与社会分析",
+        "ja": "政治解説・社会分析"
+      },
+      "about": {
+        "es": "Pinaki Bhattacharya es un médico, escritor y comentarista político bangladesí que reside en el exilio en París desde 2018; su canal de YouTube, activo desde 2013, se ha convertido en una de las voces disidentes bangladesíes más seguidas.",
+        "en": "Pinaki Bhattacharya is a Bangladeshi physician, writer and political commentator living in exile in Paris since 2018; his YouTube channel, active since 2013, has become one of the most followed Bangladeshi dissident voices.",
+        "pt": "Pinaki Bhattacharya é um médico, escritor e comentarista político bangladês que vive exilado em Paris desde 2018; seu canal do YouTube, ativo desde 2013, tornou-se uma das vozes dissidentes bangladesas mais seguidas.",
+        "fr": "Pinaki Bhattacharya est un médecin, écrivain et commentateur politique bangladais vivant en exil à Paris depuis 2018 ; sa chaîne YouTube, active depuis 2013, est devenue l'une des voix dissidentes bangladaises les plus suivies.",
+        "de": "Pinaki Bhattacharya ist ein bangladeschischer Arzt, Schriftsteller und politischer Kommentator, der seit 2018 im Exil in Paris lebt; sein seit 2013 aktiver YouTube-Kanal zählt zu den meistgefolgten bangladeschischen Dissidentenstimmen.",
+        "ru": "Пинаки Бхаттачарья — бангладешский врач, писатель и политический комментатор, живущий в изгнании в Париже с 2018 года; его YouTube-канал, активный с 2013 года, стал одним из самых популярных голосов бангладешской оппозиции.",
+        "ar": "بيناكي بهاتاشاريا طبيب وكاتب ومعلّق سياسي بنغلاديشي يعيش في المنفى بباريس منذ عام 2018؛ أصبحت قناته على يوتيوب، النشطة منذ 2013، من أكثر أصوات المعارضة البنغلاديشية متابعةً.",
+        "hi": "पिनाकी भट्टाचार्य एक बांग्लादेशी चिकित्सक, लेखक और राजनीतिक टिप्पणीकार हैं जो 2018 से पेरिस में निर्वासन में रह रहे हैं; उनका यूट्यूब चैनल, जो 2013 से सक्रिय है, बांग्लादेशी असंतुष्ट आवाज़ों में सबसे अधिक फॉलो किया जाने वाला बन गया है।",
+        "zh": "皮纳基·巴塔查里亚是孟加拉国医生、作家兼政治评论员，自2018年起流亡巴黎；其YouTube频道自2013年活跃至今，已成为孟加拉国异见人士中关注度最高的声音之一。",
+        "ja": "ピナキ・バッタチャリヤは2018年からパリに亡命中のバングラデシュ人医師・作家・政治評論家で、2013年から活動する彼のYouTubeチャンネルはバングラデシュの反体制派の声として最も広く視聴されるものの一つとなっている。"
+      },
+      "handles": {
+        "youtube": "UCUbtdbJRpaXiUI_IlBOvPpA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4350000
+        }
+      }
+    },
+    {
+      "id": "mr-triple-r",
+      "name": "Mr. Triple R",
+      "country": "BD",
+      "topic": {
+        "es": "Videojuegos (Free Fire) y streaming",
+        "en": "Gaming (Free Fire) and streaming",
+        "pt": "Games (Free Fire) e streaming",
+        "fr": "Jeu vidéo (Free Fire) et streaming",
+        "de": "Gaming (Free Fire) und Streaming",
+        "ru": "Гейминг (Free Fire) и стриминг",
+        "ar": "ألعاب الفيديو (Free Fire) والبث المباشر",
+        "hi": "गेमिंग (फ्री फायर) और स्ट्रीमिंग",
+        "zh": "游戏（Free Fire）与直播",
+        "ja": "ゲーム実況（Free Fire）・配信"
+      },
+      "about": {
+        "es": "Rejaur Rahman Resvy, conocido como Mr. Triple R, es un creador de contenido bangladesí especializado en el videojuego Free Fire; inició su canal en diciembre de 2018 y se convirtió en el canal de cultura de videojuegos más grande de Bangladesh.",
+        "en": "Rejaur Rahman Resvy, known as Mr. Triple R, is a Bangladeshi content creator specialized in the video game Free Fire; he started his channel in December 2018 and it became Bangladesh's largest video game culture channel.",
+        "pt": "Rejaur Rahman Resvy, conhecido como Mr. Triple R, é um criador de conteúdo bangladês especializado no jogo Free Fire; iniciou seu canal em dezembro de 2018 e se tornou o maior canal de cultura de videogames de Bangladesh.",
+        "fr": "Rejaur Rahman Resvy, connu sous le nom de Mr. Triple R, est un créateur de contenu bangladais spécialisé dans le jeu vidéo Free Fire ; il a lancé sa chaîne en décembre 2018, devenue la plus grande chaîne de culture vidéoludique du Bangladesh.",
+        "de": "Rejaur Rahman Resvy, bekannt als Mr. Triple R, ist ein bangladeschischer Content Creator, spezialisiert auf das Videospiel Free Fire; er startete seinen Kanal im Dezember 2018, der zum größten Gaming-Kanal Bangladeschs wurde.",
+        "ru": "Реджаур Рахман Ресви, известный как Mr. Triple R, — бангладешский создатель контента, специализирующийся на видеоигре Free Fire; запустил канал в декабре 2018 года, ставший крупнейшим игровым каналом Бангладеш.",
+        "ar": "رجاء الرحمن ريسفي، المعروف باسم Mr. Triple R، صانع محتوى بنغلاديشي متخصص في لعبة Free Fire؛ أطلق قناته في ديسمبر 2018 وأصبحت أكبر قناة لثقافة ألعاب الفيديو في بنغلاديش.",
+        "hi": "रेजाउर रहमान रेस्वी, जिन्हें Mr. Triple R के नाम से जाना जाता है, एक बांग्लादेशी कंटेंट क्रिएटर हैं जो फ्री फायर गेम में विशेषज्ञ हैं; उन्होंने दिसंबर 2018 में अपना चैनल शुरू किया, जो बांग्लादेश का सबसे बड़ा गेमिंग चैनल बन गया।",
+        "zh": "雷贾乌尔·拉赫曼·雷斯维（艺名Mr. Triple R）是孟加拉国内容创作者，专注于电子游戏《Free Fire》；2018年12月创立频道，成为孟加拉国最大的游戏文化频道。",
+        "ja": "レジャウル・ラフマン・レスヴィ（Mr. Triple Rとして知られる）は、ゲーム『Free Fire』を専門とするバングラデシュのコンテンツクリエイター。2018年12月にチャンネルを開設し、バングラデシュ最大のゲーム系チャンネルとなった。"
+      },
+      "handles": {
+        "youtube": "UCx8uvG6fu2ocH6zOX9dkkSg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 6980000
+        }
+      }
+    },
+    {
+      "id": "nusrat-jahan-ontora",
+      "name": "Nusrat Jahan Ontora",
+      "country": "BD",
+      "topic": {
+        "es": "Estilo de vida, moda y vlogs personales",
+        "en": "Lifestyle, fashion and personal vlogs",
+        "pt": "Estilo de vida, moda e vlogs pessoais",
+        "fr": "Style de vie, mode et vlogs personnels",
+        "de": "Lifestyle, Mode und persönliche Vlogs",
+        "ru": "Лайфстайл, мода и личные влоги",
+        "ar": "أسلوب حياة وأزياء ومدونات فيديو شخصية",
+        "hi": "लाइफस्टाइल, फैशन और व्यक्तिगत व्लॉग",
+        "zh": "生活方式、时尚与个人视频博客",
+        "ja": "ライフスタイル・ファッション・個人Vlog"
+      },
+      "about": {
+        "es": "Nusrat Jahan Ontora, nacida el 22 de julio de 1999 en Faridpur y radicada en Dhaka, es una actriz, modelo y creadora de contenido bangladesí que saltó a la fama en TikTok en 2017 y también dirige su propia marca de moda, SunFlower.",
+        "en": "Nusrat Jahan Ontora, born 22 July 1999 in Faridpur and based in Dhaka, is a Bangladeshi actress, model and content creator who rose to fame on TikTok in 2017 and also runs her own fashion brand, SunFlower.",
+        "pt": "Nusrat Jahan Ontora, nascida em 22 de julho de 1999 em Faridpur e baseada em Dhaka, é atriz, modelo e criadora de conteúdo bangladesa que se tornou famosa no TikTok em 2017 e também dirige sua própria marca de moda, SunFlower.",
+        "fr": "Nusrat Jahan Ontora, née le 22 juillet 1999 à Faridpur et basée à Dacca, est une actrice, mannequin et créatrice de contenu bangladaise devenue célèbre sur TikTok en 2017 ; elle dirige aussi sa propre marque de mode, SunFlower.",
+        "de": "Nusrat Jahan Ontora, geboren am 22. Juli 1999 in Faridpur und wohnhaft in Dhaka, ist eine bangladeschische Schauspielerin, Model und Content Creatorin, die 2017 auf TikTok bekannt wurde und ihre eigene Modemarke SunFlower betreibt.",
+        "ru": "Нусрат Джахан Онтора, родившаяся 22 июля 1999 года в Файдпуре и проживающая в Дакке, — бангладешская актриса, модель и создатель контента, ставшая известной в TikTok в 2017 году; также руководит собственным модным брендом SunFlower.",
+        "ar": "نصرت جاهان أونتورا، المولودة في 22 يوليو 1999 في فريدبور والمقيمة في دكا، ممثلة وعارضة أزياء وصانعة محتوى بنغلاديشية اشتهرت على تيك توك عام 2017، وتدير أيضاً علامتها التجارية الخاصة للأزياء SunFlower.",
+        "hi": "नुसरत जहान ओंतोरा, जिनका जन्म 22 जुलाई 1999 को फरीदपुर में हुआ और जो ढाका में रहती हैं, एक बांग्लादेशी अभिनेत्री, मॉडल और कंटेंट क्रिएटर हैं जो 2017 में टिकटॉक पर प्रसिद्ध हुईं और अपना खुद का फैशन ब्रांड SunFlower भी चलाती हैं।",
+        "zh": "努斯拉特·贾汉·翁托拉（1999年7月22日生于法里德布尔，现居达卡）是孟加拉国女演员、模特兼内容创作者，2017年凭借TikTok走红，并经营自己的时尚品牌SunFlower。",
+        "ja": "ヌスラト・ジャハン・オントラ（1999年7月22日、ファリドプル生まれ、ダッカ在住）は、2017年にTikTokで人気を博したバングラデシュの女優・モデル・コンテンツクリエイターで、自身のファッションブランドSunFlowerも運営している。"
+      },
+      "handles": {
+        "youtube": "UCK48d8RjF4Zn0LeypLzG3Wg",
+        "tiktok": "jahan.ontora",
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 6580000
+        }
+      }
+    },
+    {
+      "id": "shahriar-nazim-joy",
+      "name": "Shahriar Nazim Joy",
+      "country": "BD",
+      "topic": {
+        "es": "Programa de entrevistas y actuación",
+        "en": "Talk show and acting",
+        "pt": "Talk show e atuação",
+        "fr": "Talk-show et jeu d'acteur",
+        "de": "Talkshow und Schauspiel",
+        "ru": "Ток-шоу и актёрская игра",
+        "ar": "برنامج حواري وتمثيل",
+        "hi": "टॉक शो और अभिनय",
+        "zh": "脱口秀与表演",
+        "ja": "トークショー・俳優業"
+      },
+      "about": {
+        "es": "Shahriar Nazim Joy es un actor, director y presentador de televisión bangladesí activo desde 1997, conocido por programas de entrevistas como 'Sense of Humor'; su canal de YouTube 'Shahriar Nazim Joy Show' reúne sus entrevistas con figuras públicas.",
+        "en": "Shahriar Nazim Joy is a Bangladeshi actor, director and television presenter active since 1997, known for talk shows such as 'Sense of Humor'; his YouTube channel 'Shahriar Nazim Joy Show' features his interviews with public figures.",
+        "pt": "Shahriar Nazim Joy é um ator, diretor e apresentador de televisão bangladês ativo desde 1997, conhecido por talk shows como 'Sense of Humor'; seu canal do YouTube 'Shahriar Nazim Joy Show' reúne suas entrevistas com figuras públicas.",
+        "fr": "Shahriar Nazim Joy est un acteur, réalisateur et animateur de télévision bangladais actif depuis 1997, connu pour des talk-shows comme « Sense of Humor » ; sa chaîne YouTube « Shahriar Nazim Joy Show » rassemble ses entretiens avec des personnalités publiques.",
+        "de": "Shahriar Nazim Joy ist ein bangladeschischer Schauspieler, Regisseur und Fernsehmoderator, aktiv seit 1997, bekannt für Talkshows wie 'Sense of Humor'; sein YouTube-Kanal 'Shahriar Nazim Joy Show' zeigt seine Interviews mit öffentlichen Persönlichkeiten.",
+        "ru": "Шахриар Назим Джой — бангладешский актёр, режиссёр и телеведущий, работающий с 1997 года, известен ток-шоу 'Sense of Humor'; его YouTube-канал 'Shahriar Nazim Joy Show' содержит интервью с публичными деятелями.",
+        "ar": "شهريار نظيم جوي ممثل ومخرج ومقدم تلفزيوني بنغلاديشي نشط منذ عام 1997، ويُعرف ببرامجه الحوارية مثل 'Sense of Humor'؛ تضم قناته على يوتيوب 'Shahriar Nazim Joy Show' مقابلاته مع شخصيات عامة.",
+        "hi": "शाहरियार नाज़िम जॉय एक बांग्लादेशी अभिनेता, निर्देशक और टेलीविजन प्रस्तोता हैं जो 1997 से सक्रिय हैं, 'सेंस ऑफ ह्यूमर' जैसे टॉक शो के लिए प्रसिद्ध हैं; उनका यूट्यूब चैनल 'Shahriar Nazim Joy Show' सार्वजनिक हस्तियों के साथ उनके साक्षात्कार प्रस्तुत करता है।",
+        "zh": "沙赫里亚尔·纳齐姆·乔伊是自1997年起活跃的孟加拉国演员、导演兼电视主持人，以《Sense of Humor》等脱口秀节目闻名；其YouTube频道'Shahriar Nazim Joy Show'收录了他与公众人物的访谈。",
+        "ja": "シャハリヤール・ナジム・ジョイは1997年から活動するバングラデシュの俳優・監督・テレビ司会者で、『Sense of Humor』などのトークショーで知られる。YouTubeチャンネル「Shahriar Nazim Joy Show」では著名人へのインタビューを配信している。"
+      },
+      "handles": {
+        "youtube": "UC-WaHVaBycwXqb9-yOS1Vjg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 850000
+        }
+      }
+    },
+    {
+      "id": "wylsacom",
+      "name": "Wylsacom",
+      "country": "RU",
+      "topic": {
+        "es": "Tecnología y reseñas de gadgets",
+        "en": "Technology and gadget reviews",
+        "pt": "Tecnologia e análises de gadgets",
+        "fr": "Technologie et tests de gadgets",
+        "de": "Technik und Gadget-Reviews",
+        "ru": "Технологии и обзоры гаджетов",
+        "ar": "التكنولوجيا ومراجعات الأجهزة",
+        "hi": "प्रौद्योगिकी और गैजेट समीक्षाएं",
+        "zh": "科技与数码产品评测",
+        "ja": "テクノロジーとガジェットレビュー"
+      },
+      "about": {
+        "es": "Valentín Petujov, bloguero tecnológico ruso nacido en 1985, creador del canal Wylsacom dedicado a reseñas de smartphones y gadgets; uno de los canales de tecnología más populares en ruso.",
+        "en": "Valentin Petukhov, Russian tech blogger born in 1985, creator of the Wylsacom channel focused on smartphone and gadget reviews; one of the most popular Russian-language tech channels.",
+        "pt": "Valentin Petukhov, blogueiro russo de tecnologia nascido em 1985, criador do canal Wylsacom dedicado a análises de smartphones e gadgets; um dos canais de tecnologia mais populares em russo.",
+        "fr": "Valentin Petoukhov, blogueur technologique russe né en 1985, créateur de la chaîne Wylsacom consacrée aux tests de smartphones et gadgets ; l'une des chaînes tech russophones les plus populaires.",
+        "de": "Valentin Petuchow, russischer Tech-Blogger, geboren 1985, Gründer des Kanals Wylsacom mit Schwerpunkt auf Smartphone- und Gadget-Reviews; einer der beliebtesten russischsprachigen Tech-Kanäle.",
+        "ru": "Валентин Петухов, российский технологический блогер, родившийся в 1985 году, создатель канала Wylsacom, посвящённого обзорам смартфонов и гаджетов; один из самых популярных технологических каналов на русском языке.",
+        "ar": "فالنتين بيتوخوف، مدون تقني روسي وُلد عام 1985، مؤسس قناة Wylsacom المتخصصة في مراجعات الهواتف الذكية والأجهزة، وتُعد من أشهر القنوات التقنية الناطقة بالروسية.",
+        "hi": "वैलेंटिन पेतुखोव, 1985 में जन्मे रूसी टेक ब्लॉगर, स्मार्टफोन और गैजेट समीक्षाओं पर केंद्रित Wylsacom चैनल के निर्माता; रूसी भाषा के सबसे लोकप्रिय टेक चैनलों में से एक।",
+        "zh": "瓦伦丁·彼图霍夫,1985年出生的俄罗斯科技博主,Wylsacom频道创办人,专注智能手机与数码产品评测,是俄语圈最受欢迎的科技频道之一。",
+        "ja": "1985年生まれのロシア人テックブロガー、ヴァレンティン・ペトゥホフ。スマートフォンとガジェットのレビューを扱うWylsacomチャンネルの創設者で、ロシア語圏で最も人気のあるテックチャンネルの一つ。"
+      },
+      "handles": {
+        "youtube": "UCt7sv-NKh44rHAEb-qCCxvA",
+        "tiktok": "wylsacom",
+        "instagram": "wylsacom",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 11500000
+        }
+      }
+    },
+    {
+      "id": "kuplinov-play",
+      "name": "Kuplinov Play",
+      "country": "RU",
+      "topic": {
+        "es": "Videojuegos y let's play de terror/comedia",
+        "en": "Gaming and horror/comedy let's plays",
+        "pt": "Games e let's plays de terror/comédia",
+        "fr": "Jeux vidéo et let's plays horreur/comédie",
+        "de": "Gaming und Horror-/Comedy-Let's-Plays",
+        "ru": "Игры и летсплеи в жанре хоррор/комедия",
+        "ar": "ألعاب الفيديو وبث لعب الرعب/الكوميديا",
+        "hi": "गेमिंग और हॉरर/कॉमेडी लेट्स-प्ले",
+        "zh": "游戏实况与恐怖/喜剧解说",
+        "ja": "ゲーム実況(ホラー・コメディ系レッツプレイ)"
+      },
+      "about": {
+        "es": "Dmitri Kuplinov, ruso nacido en Oremburgo en 1988, creador del canal Kuplinov Play, uno de los canales de videojuegos más grandes de Rusia, conocido por sus let's plays de terror con humor.",
+        "en": "Dmitry Kuplinov, Russian, born in Orenburg in 1988, creator of the Kuplinov Play channel, one of Russia's largest gaming channels, known for comedic horror-game let's plays.",
+        "pt": "Dmitry Kuplinov, russo nascido em Orenburgo em 1988, criador do canal Kuplinov Play, um dos maiores canais de games da Rússia, conhecido por let's plays de terror com humor.",
+        "fr": "Dmitri Kuplinov, russe né à Orenbourg en 1988, créateur de la chaîne Kuplinov Play, l'une des plus grandes chaînes de jeux vidéo de Russie, connue pour ses let's plays d'horreur comiques.",
+        "de": "Dmitri Kuplinow, Russe, geboren 1988 in Orenburg, Gründer des Kanals Kuplinov Play, einer der größten Gaming-Kanäle Russlands, bekannt für komödiantische Horror-Let's-Plays.",
+        "ru": "Дмитрий Куплинов, россиянин, родился в Оренбурге в 1988 году, создатель канала Kuplinov Play, одного из крупнейших игровых каналов России, известен комедийными летсплеями по хоррор-играм.",
+        "ar": "دميتري كوبلينوف، روسي وُلد في أورنبورغ عام 1988، مؤسس قناة Kuplinov Play، إحدى أكبر قنوات الألعاب في روسيا، معروف ببث ألعاب الرعب بأسلوب كوميدي.",
+        "hi": "दिमित्री कुप्लिनोव, 1988 में ओरेनबर्ग, रूस में जन्मे, Kuplinov Play चैनल के निर्माता, रूस के सबसे बड़े गेमिंग चैनलों में से एक, हॉरर गेम्स के हास्यपूर्ण लेट्स-प्ले के लिए प्रसिद्ध।",
+        "zh": "德米特里·库普利诺夫,1988年生于俄罗斯奥伦堡,Kuplinov Play频道创办人,俄罗斯最大的游戏频道之一,以搞笑风格的恐怖游戏实况闻名。",
+        "ja": "1988年ロシア・オレンブルグ生まれのドミトリー・クプリノフ。ロシア最大級のゲーム実況チャンネルKuplinov Playの創設者で、コメディ調のホラーゲーム実況で知られる。"
+      },
+      "handles": {
+        "youtube": "UCdKuE7a2QZeHPhDntXVZ91w",
+        "tiktok": "dm.kuplinov_play",
+        "instagram": "dm.kuplinov",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 17300000
+        }
+      }
+    },
+    {
+      "id": "nastya-ivleeva",
+      "name": "Nastya Ivleeva",
+      "country": "RU",
+      "topic": {
+        "es": "Entretenimiento, televisión y vlogs",
+        "en": "Entertainment, TV hosting and vlogs",
+        "pt": "Entretenimento, TV e vlogs",
+        "fr": "Divertissement, télévision et vlogs",
+        "de": "Unterhaltung, TV-Moderation und Vlogs",
+        "ru": "Развлечения, телеведение и влоги",
+        "ar": "الترفيه وتقديم البرامج التلفزيونية والمدونات",
+        "hi": "मनोरंजन, टीवी होस्टिंग और व्लॉग",
+        "zh": "娱乐、电视主持与视频博客",
+        "ja": "エンタメ・テレビ司会・Vlog"
+      },
+      "about": {
+        "es": "Anastasia Ivleeva, presentadora de televisión, actriz y videobloguera rusa nacida en 1991 en la región de Leningrado; saltó a la fama como conductora del programa de viajes «Орёл и решка».",
+        "en": "Anastasia Ivleeva, Russian TV host, actress and video blogger born in 1991 in Leningrad Oblast; rose to fame hosting the travel show 'Orel i Reshka'.",
+        "pt": "Anastasia Ivleeva, apresentadora de TV, atriz e videobloguera russa nascida em 1991 na região de Leningrado; ficou famosa apresentando o programa de viagens 'Orel i Reshka'.",
+        "fr": "Anastasia Ivleeva, animatrice télé, actrice et vidéoblogueuse russe née en 1991 dans l'oblast de Léningrad ; devenue célèbre en animant l'émission de voyage « Orel i Reshka ».",
+        "de": "Anastasia Iwlejewa, russische TV-Moderatorin, Schauspielerin und Videobloggerin, geboren 1991 im Leningrader Gebiet; wurde bekannt als Moderatorin der Reisesendung „Orel i Reschka“.",
+        "ru": "Анастасия Ивлеева, российская телеведущая, актриса и видеоблогер, родилась в 1991 году в Ленинградской области; получила известность как ведущая travel-шоу «Орёл и решка».",
+        "ar": "أناستاسيا إيفليفا، مذيعة تلفزيونية وممثلة ومدونة فيديو روسية وُلدت عام 1991 في مقاطعة لينينغراد؛ اشتهرت كمقدمة لبرنامج السفر «أورول إي ريشكا».",
+        "hi": "अनास्तासिया इवलीवा, 1991 में लेनिनग्राद क्षेत्र, रूस में जन्मी टीवी होस्ट, अभिनेत्री और वीडियो ब्लॉगर; यात्रा शो 'ओरेल इ रेश्का' की मेज़बानी से प्रसिद्ध हुईं।",
+        "zh": "阿纳斯塔西娅·伊夫列耶娃,1991年生于俄罗斯列宁格勒州,电视主持人、演员兼视频博主,因主持旅行节目《Orel i Reshka》而成名。",
+        "ja": "1991年ロシア・レニングラード州生まれのアナスタシア・イヴレーエワ。テレビ司会者、女優、動画配信者で、旅行番組「オリョール・イ・レシカ」の司会で人気を得た。"
+      },
+      "handles": {
+        "youtube": "UCtGJ_XI0ZGwEmKZaj3VQITw",
+        "tiktok": null,
+        "instagram": "nastyaivleeva",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 4530000
+        }
+      }
+    },
+    {
+      "id": "egor-kreed",
+      "name": "Egor Kreed",
+      "country": "RU",
+      "topic": {
+        "es": "Música pop/rap y vlogs",
+        "en": "Pop/rap music and vlogs",
+        "pt": "Música pop/rap e vlogs",
+        "fr": "Musique pop/rap et vlogs",
+        "de": "Pop-/Rap-Musik und Vlogs",
+        "ru": "Поп/рэп музыка и влоги",
+        "ar": "موسيقى البوب/الراب والمدونات",
+        "hi": "पॉप/रैप संगीत और व्लॉग",
+        "zh": "流行/说唱音乐与视频博客",
+        "ja": "ポップ/ラップ音楽とVlog"
+      },
+      "about": {
+        "es": "Yegor Nikoláievich Bulatkin, conocido como Egor Kreed, rapero y cantante ruso; su canal de YouTube combina videoclips musicales con vlogs personales.",
+        "en": "Egor Nikolayevich Bulatkin, known as Egor Kreed, is a Russian rapper and singer; his YouTube channel mixes music videos with personal vlogs.",
+        "pt": "Egor Nikolaevich Bulatkin, conhecido como Egor Kreed, é um rapper e cantor russo; seu canal do YouTube combina videoclipes musicais com vlogs pessoais.",
+        "fr": "Egor Nikolaïevitch Boulatkine, connu sous le nom d'Egor Kreed, est un rappeur et chanteur russe ; sa chaîne YouTube mêle clips musicaux et vlogs personnels.",
+        "de": "Jegor Nikolajewitsch Bulatkin, bekannt als Egor Kreed, ist ein russischer Rapper und Sänger; sein YouTube-Kanal kombiniert Musikvideos mit persönlichen Vlogs.",
+        "ru": "Егор Николаевич Булаткин, известный как Егор Крид, российский рэпер и певец; его YouTube-канал сочетает музыкальные клипы с личными влогами.",
+        "ar": "إيغور نيكولايفيتش بولاتكين، المعروف باسم إيغور كريد، مغني وراب روسي؛ تجمع قناته على يوتيوب بين مقاطع الفيديو الموسيقية والمدونات الشخصية.",
+        "hi": "एगोर निकोलायेविच बुलात्किन, जिन्हें एगोर क्रीड के नाम से जाना जाता है, एक रूसी रैपर और गायक हैं; उनका यूट्यूब चैनल संगीत वीडियो और व्यक्तिगत व्लॉग को जोड़ता है।",
+        "zh": "叶戈尔·尼古拉耶维奇·布拉特金,艺名Egor Kreed,俄罗斯说唱歌手兼歌手;其YouTube频道将音乐视频与个人生活视频博客相结合。",
+        "ja": "エゴール・ニコラエヴィチ・ブラトキン、通称エゴール・クリード。ロシアのラッパー兼歌手で、YouTubeチャンネルでは音楽ビデオと個人的なVlogを配信している。"
+      },
+      "handles": {
+        "youtube": "UCZeinbsBPa37qf4HPj_w-lw",
+        "tiktok": "egorkreed",
+        "instagram": "egorkreed._",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 6290000
+        }
+      }
+    },
+    {
+      "id": "ida-galich",
+      "name": "Ida Galich",
+      "country": "RU",
+      "topic": {
+        "es": "Entretenimiento, entrevistas y televisión",
+        "en": "Entertainment, talk shows and TV",
+        "pt": "Entretenimento, talk shows e TV",
+        "fr": "Divertissement, talk-shows et télévision",
+        "de": "Unterhaltung, Talkshows und TV",
+        "ru": "Развлечения, ток-шоу и телевидение",
+        "ar": "الترفيه والبرامج الحوارية والتلفزيون",
+        "hi": "मनोरंजन, टॉक शो और टीवी",
+        "zh": "娱乐、脱口秀与电视",
+        "ja": "エンタメ・トークショー・テレビ"
+      },
+      "about": {
+        "es": "Ida Vasílievna Galich, presentadora de televisión, cantante y bloguera rusa nacida en 1990; conocida por su programa de entrevistas de YouTube «Есть вопросики».",
+        "en": "Ida Vasilyevna Galich, Russian TV presenter, singer and blogger born in 1990; known for her YouTube talk show 'Est Voprosiki'.",
+        "pt": "Ida Vasilyevna Galich, apresentadora de TV, cantora e blogueira russa nascida em 1990; conhecida por seu talk show no YouTube 'Est Voprosiki'.",
+        "fr": "Ida Vassilievna Galitch, présentatrice télé, chanteuse et blogueuse russe née en 1990 ; connue pour son talk-show YouTube « Est Voprossiki ».",
+        "de": "Ida Wassiljewna Galitsch, russische TV-Moderatorin, Sängerin und Bloggerin, geboren 1990; bekannt für ihre YouTube-Talkshow „Jest Voprossiki“.",
+        "ru": "Ида Васильевна Галич, российская телеведущая, певица и блогер, родилась в 1990 году; известна своим YouTube-шоу «Есть вопросики».",
+        "ar": "إيدا فاسيليفنا غاليتش، مذيعة تلفزيونية ومغنية ومدونة روسية وُلدت عام 1990؛ اشتهرت ببرنامجها الحواري على يوتيوب «إست فوبروسيكي».",
+        "hi": "इदा वासिलिवेना गालिच, 1990 में जन्मी रूसी टीवी प्रस्तोता, गायिका और ब्लॉगर; अपने यूट्यूब टॉक शो 'येस्त वोप्रोसिकी' के लिए प्रसिद्ध।",
+        "zh": "伊达·瓦西里耶夫娜·加利奇,1990年出生的俄罗斯电视主持人、歌手兼博主,以其YouTube访谈节目《Est Voprosiki》闻名。",
+        "ja": "1990年生まれのロシア人テレビ司会者、歌手、ブロガーのイダ・ヴァシリエヴナ・ガリッチ。YouTubeのトーク番組「エスチ・ヴォプロシキ」で知られる。"
+      },
+      "handles": {
+        "youtube": "UCBELlne6XFSBbYaSTDbCvvA",
+        "tiktok": null,
+        "instagram": "galichida",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 2040000
+        }
+      }
+    },
+    {
+      "id": "valya-karnaval",
+      "name": "Valya Karnaval",
+      "country": "RU",
+      "topic": {
+        "es": "Vlogs, música y contenido de TikTok",
+        "en": "Vlogs, music and TikTok content",
+        "pt": "Vlogs, música e conteúdo do TikTok",
+        "fr": "Vlogs, musique et contenu TikTok",
+        "de": "Vlogs, Musik und TikTok-Inhalte",
+        "ru": "Влоги, музыка и контент для TikTok",
+        "ar": "مدونات فيديو وموسيقى ومحتوى تيك توك",
+        "hi": "व्लॉग, संगीत और टिकटॉक सामग्री",
+        "zh": "视频博客、音乐与TikTok内容",
+        "ja": "Vlog・音楽・TikTokコンテンツ"
+      },
+      "about": {
+        "es": "Valentina Vasílievna Karnaújova, conocida como Valya Karnaval, bloguera, cantante y actriz rusa nacida en 2001 en Rostov del Don; se hizo popular primero en TikTok antes de expandirse a YouTube.",
+        "en": "Valentina Vasilievna Karnaukhova, known as Valya Karnaval, is a Russian video blogger, singer and actress born in 2001 in Rostov-on-Don; she first gained popularity on TikTok before expanding to YouTube.",
+        "pt": "Valentina Vasilievna Karnaukhova, conhecida como Valya Karnaval, é uma videobloguera, cantora e atriz russa nascida em 2001 em Rostov-on-Don; ficou popular primeiro no TikTok antes de expandir para o YouTube.",
+        "fr": "Valentina Vassilievna Karnaoukhova, connue sous le nom de Valya Karnaval, est une vidéoblogueuse, chanteuse et actrice russe née en 2001 à Rostov-sur-le-Don ; devenue populaire d'abord sur TikTok avant de s'étendre à YouTube.",
+        "de": "Valentina Wassiljewna Karnauchowa, bekannt als Valya Karnaval, ist eine russische Videobloggerin, Sängerin und Schauspielerin, geboren 2001 in Rostow am Don; wurde zunächst auf TikTok populär, bevor sie auf YouTube expandierte.",
+        "ru": "Валентина Васильевна Карнаухова, известная как Валя Карнавал, российская видеоблогер, певица и актриса, родилась в 2001 году в Ростове-на-Дону; сначала стала популярной в TikTok, затем расширилась на YouTube.",
+        "ar": "فالنتينا فاسيليفنا كارناوخوفا، المعروفة باسم فاليا كارنافال، مدونة فيديو ومغنية وممثلة روسية وُلدت عام 2001 في روستوف على نهر الدون؛ اشتهرت أولاً على تيك توك قبل التوسع إلى يوتيوب.",
+        "hi": "वैलेंटिना वासिलिवेना कर्नौखोवा, जिन्हें वाल्या कर्नावाल के नाम से जाना जाता है, 2001 में रोस्तोव-ऑन-डॉन, रूस में जन्मी वीडियो ब्लॉगर, गायिका और अभिनेत्री हैं; पहले टिकटॉक पर लोकप्रिय हुईं, फिर यूट्यूब पर विस्तार किया।",
+        "zh": "瓦伦蒂娜·瓦西里耶夫娜·卡尔瑙霍娃,艺名Valya Karnaval,2001年生于俄罗斯顿河畔罗斯托夫,视频博主、歌手兼演员;最初在TikTok走红,后扩展到YouTube。",
+        "ja": "2001年ロシア・ロストフ・ナ・ドヌ生まれのヴァレンティナ・ヴァシリエヴナ・カルナウホワ、通称ヴァリャ・カルナヴァル。動画配信者、歌手、女優で、TikTokで人気を得た後YouTubeにも進出した。"
+      },
+      "handles": {
+        "youtube": "UC5z3EDPo-3cfz9QgH-MygQQ",
+        "tiktok": null,
+        "instagram": "karna.val",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 1440000
+        }
+      }
+    },
+    {
+      "id": "kate-clapp",
+      "name": "Kate Clapp",
+      "country": "RU",
+      "topic": {
+        "es": "Comedia, sketches y parodias musicales",
+        "en": "Comedy sketches and music parodies",
+        "pt": "Comédia, esquetes e paródias musicais",
+        "fr": "Comédie, sketches et parodies musicales",
+        "de": "Comedy-Sketche und Musikparodien",
+        "ru": "Комедийные скетчи и музыкальные пародии",
+        "ar": "سكتشات كوميدية وباروديات موسيقية",
+        "hi": "कॉमेडी स्केच और संगीत पैरोडी",
+        "zh": "喜剧短剧与音乐恶搞",
+        "ja": "コメディスケッチと音楽パロディ"
+      },
+      "about": {
+        "es": "Ekaterina Románovna Trofímova, conocida como Kate Clapp (Катя Клэп), bloguera rusa nacida en 1993 en Moscú; popular desde los años 2010 por sus sketches, videos conversacionales y parodias musicales.",
+        "en": "Ekaterina Romanovna Trofimova, known as Kate Clapp, is a Russian video blogger born in 1993 in Moscow; popular since the 2010s for comedy sketches, talk-style videos and music parodies.",
+        "pt": "Ekaterina Romanovna Trofimova, conhecida como Kate Clapp, é uma videobloguera russa nascida em 1993 em Moscou; popular desde os anos 2010 por esquetes, vídeos de conversa e paródias musicais.",
+        "fr": "Ekaterina Romanovna Trofimova, connue sous le nom de Kate Clapp, est une vidéoblogueuse russe née en 1993 à Moscou ; populaire depuis les années 2010 pour ses sketches, vidéos de discussion et parodies musicales.",
+        "de": "Jekaterina Romanowna Trofimowa, bekannt als Kate Clapp, ist eine russische Videobloggerin, geboren 1993 in Moskau; seit den 2010er-Jahren populär für Comedy-Sketche, Talk-Videos und Musikparodien.",
+        "ru": "Екатерина Романовна Трофимова, известная как Катя Клэп, российская видеоблогер, родилась в 1993 году в Москве; популярна с 2010-х годов благодаря скетчам, разговорным видео и музыкальным пародиям.",
+        "ar": "إيكاترينا رومانوفنا تروفيموفا، المعروفة باسم كيت كلاب، مدونة فيديو روسية وُلدت عام 1993 في موسكو؛ اشتهرت منذ عقد 2010 بسكتشاتها الكوميدية وفيديوهاتها الحوارية وباروديات الأغاني.",
+        "hi": "एकातेरिना रोमानोव्ना त्रोफिमोवा, जिन्हें केट क्लैप के नाम से जाना जाता है, 1993 में मास्को में जन्मी रूसी वीडियो ब्लॉगर हैं; 2010 के दशक से कॉमेडी स्केच, बातचीत-शैली वीडियो और संगीत पैरोडी के लिए लोकप्रिय।",
+        "zh": "叶卡捷琳娜·罗曼诺夫娜·特罗菲莫娃,艺名Kate Clapp,1993年生于莫斯科的俄罗斯视频博主;自2010年代起因喜剧短剧、访谈式视频和音乐恶搞而走红。",
+        "ja": "1993年モスクワ生まれのロシア人動画配信者、エカテリーナ・ロマノヴナ・トロフィモワ、通称ケイト・クラップ。コメディスケッチ、トーク動画、音楽パロディで2010年代から人気を博す。"
+      },
+      "handles": {
+        "youtube": "UCC83eap-hc6uFQHRJ2F2LNg",
+        "tiktok": "kateclappofficial",
+        "instagram": "kateclapp",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 7210000
+        }
+      }
+    },
+    {
+      "id": "dross-rotzank",
+      "name": "Dross Rotzank",
+      "country": "VE",
+      "topic": {
+        "es": "Terror, misterio y crítica cultural",
+        "en": "Horror, mystery and pop culture commentary",
+        "pt": "Terror, mistério e crítica cultural",
+        "fr": "Horreur, mystère et critique culturelle",
+        "de": "Horror, Mysterien und Kulturkritik",
+        "ru": "Ужасы, тайны и культурная критика",
+        "ar": "الرعب والغموض والنقد الثقافي",
+        "hi": "हॉरर, रहस्य और सांस्कृतिक टिप्पणी",
+        "zh": "恐怖、悬疑与文化评论",
+        "ja": "ホラー、ミステリー、カルチャー評論"
+      },
+      "about": {
+        "es": "Ángel David Revilla Lenoci, conocido como Dross Rotzank, es un youtuber venezolano nacido en Caracas en 1982, pionero de YouTube en español con contenido de terror, misterio y crítica de series y películas; reside en Buenos Aires desde 2007.",
+        "en": "Ángel David Revilla Lenoci, known as Dross Rotzank, is a Venezuelan YouTuber born in Caracas in 1982, a pioneer of Spanish-language YouTube known for horror, mystery and film/series commentary; he has lived in Buenos Aires since 2007.",
+        "pt": "Ángel David Revilla Lenoci, conhecido como Dross Rotzank, é um youtuber venezuelano nascido em Caracas em 1982, pioneiro do YouTube em espanhol com conteúdo de terror, mistério e crítica de séries e filmes; mora em Buenos Aires desde 2007.",
+        "fr": "Ángel David Revilla Lenoci, connu sous le nom de Dross Rotzank, est un youtubeur vénézuélien né à Caracas en 1982, pionnier de YouTube en espagnol, connu pour ses contenus d'horreur, de mystère et de critique de films et séries ; il vit à Buenos Aires depuis 2007.",
+        "de": "Ángel David Revilla Lenoci, bekannt als Dross Rotzank, ist ein venezolanischer YouTuber, geboren 1982 in Caracas, ein Pionier des spanischsprachigen YouTube mit Horror-, Mystery- und Film-/Serienkritik-Inhalten; er lebt seit 2007 in Buenos Aires.",
+        "ru": "Анхель Давид Ревилья Леночи, известный как Dross Rotzank, — венесуэльский ютубер, родившийся в Каракасе в 1982 году, пионер испаноязычного YouTube, известный контентом об ужасах, тайнах и обзорами фильмов и сериалов; с 2007 года живёт в Буэнос-Айресе.",
+        "ar": "أنخيل ديفيد ريفيا لينوتشي، المعروف باسم دروس روتزانك، يوتيوبر فنزويلي وُلد في كاراكاس عام 1982، ويُعد من رواد يوتيوب الناطق بالإسبانية بمحتوى عن الرعب والغموض ونقد الأفلام والمسلسلات، ويقيم في بوينس آيرس منذ عام 2007.",
+        "hi": "एंजेल डेविड रेविला लेनोसी, जिन्हें ड्रॉस रोटज़ांक के नाम से जाना जाता है, कराकस में 1982 में जन्मे एक वेनेज़ुएला के यूट्यूबर हैं, जो स्पेनिश भाषा के यूट्यूब के अग्रणी हैं और हॉरर, रहस्य तथा फिल्म-सीरीज़ समीक्षा सामग्री के लिए जाने जाते हैं; वे 2007 से ब्यूनस आयर्स में रहते हैं।",
+        "zh": "安赫尔·大卫·雷维利亚·莱诺西,艺名Dross Rotzank,是1982年出生于加拉加斯的委内瑞拉视频博主,西语YouTube的先驱人物,以恐怖、悬疑及影视剧评论内容著称;自2007年起定居布宜诺斯艾利斯。",
+        "ja": "アンヘル・ダビド・レビージャ・レノシ、通称ドロス・ロッツァンクは、1982年カラカス生まれのベネズエラ人YouTuberで、スペイン語圏YouTubeの草分け的存在。ホラー、ミステリー、映画・ドラマ評論を中心に活動し、2007年からブエノスアイレスに在住。"
+      },
+      "handles": {
+        "youtube": "UCNYW2vfGrUE6R5mIJYzkRyQ",
+        "tiktok": "thedrossrotzank",
+        "instagram": "soydrossrotzank",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 24200000
+        }
+      }
+    },
+    {
+      "id": "thedonato",
+      "name": "TheDonato",
+      "country": "VE",
+      "topic": {
+        "es": "Gaming (Free Fire) y streaming",
+        "en": "Gaming (Free Fire) and streaming",
+        "pt": "Gaming (Free Fire) e streaming",
+        "fr": "Jeu vidéo (Free Fire) et streaming",
+        "de": "Gaming (Free Fire) und Streaming",
+        "ru": "Гейминг (Free Fire) и стриминг",
+        "ar": "ألعاب الفيديو (فري فاير) والبث المباشر",
+        "hi": "गेमिंग (फ्री फायर) और स्ट्रीमिंग",
+        "zh": "游戏(Free Fire)与直播",
+        "ja": "ゲーム実況(Free Fire)・配信"
+      },
+      "about": {
+        "es": "Donato Muñoz, conocido como TheDonato, es un youtuber y streamer venezolano nacido en 2000 en San Fernando de Apure, famoso por su contenido de Free Fire; a fines de 2017 dejó Venezuela con su familia y se radicó en Buenos Aires, Argentina.",
+        "en": "Donato Muñoz, known as TheDonato, is a Venezuelan YouTuber and streamer born in 2000 in San Fernando de Apure, known for his Free Fire content; his family left Venezuela in late 2017 and settled in Buenos Aires, Argentina.",
+        "pt": "Donato Muñoz, conhecido como TheDonato, é um youtuber e streamer venezuelano nascido em 2000 em San Fernando de Apure, conhecido por seu conteúdo de Free Fire; no final de 2017 deixou a Venezuela com a família e se estabeleceu em Buenos Aires, Argentina.",
+        "fr": "Donato Muñoz, connu sous le nom de TheDonato, est un youtubeur et streamer vénézuélien né en 2000 à San Fernando de Apure, connu pour son contenu Free Fire ; fin 2017, il a quitté le Venezuela avec sa famille pour s'installer à Buenos Aires, en Argentine.",
+        "de": "Donato Muñoz, bekannt als TheDonato, ist ein venezolanischer YouTuber und Streamer, geboren 2000 in San Fernando de Apure, bekannt für seine Free-Fire-Inhalte; Ende 2017 verließ er mit seiner Familie Venezuela und ließ sich in Buenos Aires, Argentinien, nieder.",
+        "ru": "Донато Муньос, известный как TheDonato, — венесуэльский ютубер и стример, родившийся в 2000 году в Сан-Фернандо-де-Апуре, известный контентом по Free Fire; в конце 2017 года вместе с семьёй покинул Венесуэлу и поселился в Буэнос-Айресе, Аргентина.",
+        "ar": "دوناتو مونيوز، المعروف باسم ذا دوناتو، يوتيوبر وستريمر فنزويلي وُلد عام 2000 في سان فرناندو دي أبوري، اشتهر بمحتواه في لعبة فري فاير؛ غادر فنزويلا مع عائلته في نهاية 2017 واستقر في بوينس آيرس بالأرجنتين.",
+        "hi": "डोनाटो मुनोज़, जिन्हें द डोनाटो के नाम से जाना जाता है, सैन फर्नांडो दे अपुरे, वेनेज़ुएला में 2000 में जन्मे यूट्यूबर और स्ट्रीमर हैं, जो फ्री फायर सामग्री के लिए प्रसिद्ध हैं; 2017 के अंत में वे परिवार सहित वेनेज़ुएला छोड़कर ब्यूनस आयर्स, अर्जेंटीना में बस गए।",
+        "zh": "多纳托·穆尼奥斯,艺名TheDonato,2000年出生于委内瑞拉圣费尔南多-德阿普雷,是以《Free Fire》游戏内容闻名的委内瑞拉视频博主兼主播;2017年底随家人离开委内瑞拉,定居阿根廷布宜诺斯艾利斯。",
+        "ja": "ドナート・ムニョスは通称TheDonatoとして知られる、2000年サン・フェルナンド・デ・アプレ生まれのベネズエラ人YouTuber・配信者で、『Free Fire』のゲーム実況で人気。2017年末に家族とベネズエラを離れ、アルゼンチンのブエノスアイレスに移住した。"
+      },
+      "handles": {
+        "youtube": "UCaHEdZtk6k7SVP-umnzifmQ",
+        "tiktok": "thedonato",
+        "instagram": "thedonato",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 43700000
+        }
+      }
+    },
+    {
+      "id": "yolo-aventuras",
+      "name": "YOLO Aventuras",
+      "country": "VE",
+      "topic": {
+        "es": "Bromas, retos y vlogs",
+        "en": "Pranks, challenges and vlogs",
+        "pt": "Pegadinhas, desafios e vlogs",
+        "fr": "Farces, défis et vlogs",
+        "de": "Streiche, Challenges und Vlogs",
+        "ru": "Розыгрыши, челленджи и влоги",
+        "ar": "مقالب وتحديات ومدونات فيديو",
+        "hi": "प्रैंक, चैलेंज और व्लॉग",
+        "zh": "整蛊、挑战与视频博客",
+        "ja": "ドッキリ・チャレンジ・Vlog"
+      },
+      "about": {
+        "es": "Flavio Andrés Broianigo Muñoz, conocido como YOLO, es un youtuber venezolano nacido en Ciudad Bolívar, creador del canal YOLO Aventuras (bromas, retos y sketches) junto a su hermano Nando y otros miembros del grupo.",
+        "en": "Flavio Andrés Broianigo Muñoz, known as YOLO, is a Venezuelan YouTuber born in Ciudad Bolívar, creator of the channel YOLO Aventuras (pranks, challenges and sketches) alongside his brother Nando and other group members.",
+        "pt": "Flavio Andrés Broianigo Muñoz, conhecido como YOLO, é um youtuber venezuelano nascido em Ciudad Bolívar, criador do canal YOLO Aventuras (pegadinhas, desafios e esquetes) junto com seu irmão Nando e outros integrantes do grupo.",
+        "fr": "Flavio Andrés Broianigo Muñoz, connu sous le nom de YOLO, est un youtubeur vénézuélien né à Ciudad Bolívar, créateur de la chaîne YOLO Aventuras (farces, défis et sketches) avec son frère Nando et d'autres membres du groupe.",
+        "de": "Flavio Andrés Broianigo Muñoz, bekannt als YOLO, ist ein venezolanischer YouTuber, geboren in Ciudad Bolívar, Gründer des Kanals YOLO Aventuras (Streiche, Challenges und Sketche) zusammen mit seinem Bruder Nando und weiteren Gruppenmitgliedern.",
+        "ru": "Флавио Андрес Броянито Муньос, известный как YOLO, — венесуэльский ютубер, родившийся в Сьюдад-Боливаре, создатель канала YOLO Aventuras (розыгрыши, челленджи и скетчи) вместе со своим братом Нандо и другими участниками группы.",
+        "ar": "فلافيو أندريس بروانيغو مونيوز، المعروف باسم يولو، يوتيوبر فنزويلي وُلد في سيوداد بوليفار، وهو مؤسس قناة YOLO Aventuras (مقالب وتحديات واسكتشات) مع شقيقه ناندو وأعضاء آخرين في المجموعة.",
+        "hi": "फ्लाविओ आंद्रेस ब्रोयानिगो मुनोज़, जिन्हें योलो के नाम से जाना जाता है, सिउदाद बोलिवार में जन्मे वेनेज़ुएला के यूट्यूबर हैं, जिन्होंने अपने भाई नांदो और समूह के अन्य सदस्यों के साथ YOLO Aventuras चैनल (प्रैंक, चैलेंज और स्केच) बनाया।",
+        "zh": "弗拉维奥·安德烈斯·布罗亚尼戈·穆尼奥斯,艺名YOLO,是出生于委内瑞拉玻利瓦尔城的视频博主,与兄弟南多及团队其他成员共同创建了以整蛊、挑战和短剧为主的YOLO Aventuras频道。",
+        "ja": "フラビオ・アンドレス・ブロヤニゴ・ムニョスは通称YOLOとして知られる、シウダー・ボリバル生まれのベネズエラ人YouTuberで、兄弟ナンドらとともにドッキリ・チャレンジ・寸劇を中心としたチャンネル「YOLO Aventuras」を運営している。"
+      },
+      "handles": {
+        "youtube": "UCOnIJiQuk1fDSp6p1GCZy3A",
+        "tiktok": "yoloaventurerostiktok",
+        "instagram": "flacoandresbroianigo",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 70900000
+        }
+      }
+    },
+    {
+      "id": "la-divaza",
+      "name": "La Divaza",
+      "country": "VE",
+      "topic": {
+        "es": "Comedia, comentario y crítica sarcástica",
+        "en": "Comedy, commentary and sarcastic critique",
+        "pt": "Comédia, comentário e crítica sarcástica",
+        "fr": "Comédie, commentaire et critique sarcastique",
+        "de": "Comedy, Kommentar und sarkastische Kritik",
+        "ru": "Комедия, комментарии и саркастическая критика",
+        "ar": "الكوميديا والتعليق والنقد الساخر",
+        "hi": "कॉमेडी, कमेंट्री और व्यंग्यात्मक आलोचना",
+        "zh": "喜剧、点评与讽刺评论",
+        "ja": "コメディ・時事コメント・風刺批評"
+      },
+      "about": {
+        "es": "Pedro Luis Joao Figueira Álvarez, conocido como La Divaza, es un youtuber y cantante venezolano nacido en Maracay en 1998, activo desde 2012, conocido por videos de humor sarcástico, comentarios sobre premiaciones (VMAs, Grammys) y crítica social.",
+        "en": "Pedro Luis Joao Figueira Álvarez, known as La Divaza, is a Venezuelan YouTuber and singer born in Maracay in 1998, active since 2012, known for sarcastic comedy videos, award-show commentary (VMAs, Grammys) and social criticism.",
+        "pt": "Pedro Luis Joao Figueira Álvarez, conhecido como La Divaza, é um youtuber e cantor venezuelano nascido em Maracay em 1998, ativo desde 2012, conhecido por vídeos de humor sarcástico, comentários sobre premiações (VMAs, Grammys) e crítica social.",
+        "fr": "Pedro Luis Joao Figueira Álvarez, connu sous le nom de La Divaza, est un youtubeur et chanteur vénézuélien né à Maracay en 1998, actif depuis 2012, connu pour ses vidéos d'humour sarcastique, ses commentaires sur les cérémonies de récompenses (VMAs, Grammys) et sa critique sociale.",
+        "de": "Pedro Luis Joao Figueira Álvarez, bekannt als La Divaza, ist ein venezolanischer YouTuber und Sänger, geboren 1998 in Maracay, aktiv seit 2012, bekannt für sarkastische Comedy-Videos, Kommentare zu Preisverleihungen (VMAs, Grammys) und Gesellschaftskritik.",
+        "ru": "Педро Луис Хоао Фигейра Альварес, известный как La Divaza, — венесуэльский ютубер и певец, родившийся в Маракае в 1998 году, активен с 2012 года, известен саркастичными комедийными видео, комментариями к церемониям награждения (VMA, Грэмми) и социальной критикой.",
+        "ar": "بيدرو لويس خواو فيغيرا ألفاريز، المعروف باسم لا ديفازا، يوتيوبر ومغنٍ فنزويلي وُلد في ماراكاي عام 1998، نشط منذ عام 2012، اشتهر بفيديوهات الكوميديا الساخرة والتعليق على حفلات الجوائز (VMAs وغرامي) والنقد الاجتماعي.",
+        "hi": "पेड्रो लुइस जोआओ फिगेइरा अल्वारेज़, जिन्हें ला दिवासा के नाम से जाना जाता है, माराकाय में 1998 में जन्मे वेनेज़ुएला के यूट्यूबर और गायक हैं, जो 2012 से सक्रिय हैं और व्यंग्यात्मक हास्य वीडियो, पुरस्कार समारोहों (VMAs, ग्रैमी) पर टिप्पणी तथा सामाजिक आलोचना के लिए जाने जाते हैं।",
+        "zh": "佩德罗·路易斯·若昂·菲格拉·阿尔瓦雷斯,艺名La Divaza,1998年出生于委内瑞拉马拉凯,自2012年起活跃的视频博主兼歌手,以讽刺幽默视频、对颁奖典礼(VMA、格莱美)的点评及社会批评著称。",
+        "ja": "ペドロ・ルイス・ジョアオ・フィゲイラ・アルバレスは通称La Divazaとして知られる、1998年マラカイ生まれのベネズエラ人YouTuber・歌手。2012年から活動し、皮肉の効いたコメディ動画、VMAやグラミー賞などの授賞式評論、社会批評で知られる。"
+      },
+      "handles": {
+        "youtube": "UCY_37NEvihrX3Te637OTxOg",
+        "tiktok": "ladivaza",
+        "instagram": "ladivaza",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 10400000
+        }
+      }
+    },
+    {
+      "id": "katie-angel",
+      "name": "Katie Angel",
+      "country": "VE",
+      "topic": {
+        "es": "Música y vlogs",
+        "en": "Music and vlogs",
+        "pt": "Música e vlogs",
+        "fr": "Musique et vlogs",
+        "de": "Musik und Vlogs",
+        "ru": "Музыка и влоги",
+        "ar": "الموسيقى ومدونات الفيديو",
+        "hi": "संगीत और व्लॉग",
+        "zh": "音乐与视频博客",
+        "ja": "音楽・Vlog"
+      },
+      "about": {
+        "es": "Katherine Angel Correia, conocida como Katie Angel, es una youtuber venezolano-estadounidense nacida en San Diego en 1989 pero criada en Venezuela, donde estudió Medicina en la UCV; creó su canal KatieAngelTV en 2015 con contenido musical y de vlogs.",
+        "en": "Katherine Angel Correia, known as Katie Angel, is a Venezuelan-American YouTuber born in San Diego in 1989 but raised in Venezuela, where she studied Medicine at UCV; she launched her channel KatieAngelTV in 2015 with music and vlog content.",
+        "pt": "Katherine Angel Correia, conhecida como Katie Angel, é uma youtuber venezuelano-americana nascida em San Diego em 1989, mas criada na Venezuela, onde estudou Medicina na UCV; criou o canal KatieAngelTV em 2015 com conteúdo musical e de vlogs.",
+        "fr": "Katherine Angel Correia, connue sous le nom de Katie Angel, est une youtubeuse vénézuélo-américaine née à San Diego en 1989 mais élevée au Venezuela, où elle a étudié la médecine à l'UCV ; elle a lancé sa chaîne KatieAngelTV en 2015, axée sur la musique et les vlogs.",
+        "de": "Katherine Angel Correia, bekannt als Katie Angel, ist eine venezolanisch-US-amerikanische YouTuberin, geboren 1989 in San Diego, aufgewachsen in Venezuela, wo sie an der UCV Medizin studierte; 2015 startete sie ihren Kanal KatieAngelTV mit Musik- und Vlog-Inhalten.",
+        "ru": "Кэтрин Анхель Коррейя, известная как Katie Angel, — венесуэльско-американская ютубер, родившаяся в Сан-Диего в 1989 году, но выросшая в Венесуэле, где изучала медицину в UCV; в 2015 году запустила канал KatieAngelTV с музыкальным и влог-контентом.",
+        "ar": "كاثرين أنجل كوريا، المعروفة باسم كايتي أنجل، يوتيوبر فنزويلية-أمريكية وُلدت في سان دييغو عام 1989 ونشأت في فنزويلا حيث درست الطب في جامعة UCV؛ أطلقت قناتها KatieAngelTV عام 2015 بمحتوى موسيقي ومدونات فيديو.",
+        "hi": "कैथरीन एंजल कोरेया, जिन्हें केटी एंजल के नाम से जाना जाता है, सैन डिएगो में 1989 में जन्मी वेनेज़ुएला-अमेरिकी यूट्यूबर हैं जो वेनेज़ुएला में पली-बढ़ीं और यूसीवी में चिकित्सा की पढ़ाई की; उन्होंने 2015 में संगीत और व्लॉग सामग्री के साथ अपना चैनल KatieAngelTV शुरू किया।",
+        "zh": "凯瑟琳·安赫尔·科雷亚,艺名Katie Angel,1989年出生于圣迭戈的委内瑞拉裔美国视频博主,在委内瑞拉长大并在UCV大学学习医学;2015年创建了以音乐和视频博客为主的频道KatieAngelTV。",
+        "ja": "キャサリン・エンジェル・コレイアは通称Katie Angelとして知られる、1989年サンディエゴ生まれのベネズエラ系アメリカ人YouTuber。ベネズエラで育ちUCV大学で医学を学んだ後、2015年に音楽とVlogを中心としたチャンネルKatieAngelTVを開設した。"
+      },
+      "handles": {
+        "youtube": "UCgSMDG8aGE3YHfBCXHuPpYA",
+        "tiktok": "katieangeltv",
+        "instagram": "katieangeltv",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 18500000
+        }
+      }
+    },
+    {
+      "id": "lele-pons",
+      "name": "Lele Pons",
+      "country": "VE",
+      "topic": {
+        "es": "Comedia y sketches",
+        "en": "Comedy and sketches",
+        "pt": "Comédia e esquetes",
+        "fr": "Comédie et sketches",
+        "de": "Comedy und Sketche",
+        "ru": "Комедия и скетчи",
+        "ar": "الكوميديا والاسكتشات",
+        "hi": "कॉमेडी और स्केच",
+        "zh": "喜剧与短剧",
+        "ja": "コメディ・コント"
+      },
+      "about": {
+        "es": "Eleonora 'Lele' Pons Maronese es una youtuber, actriz y cantante venezolano-estadounidense nacida en Caracas en 1996, conocida inicialmente por sus videos de Vine y luego por sketches de comedia en YouTube, plataforma en la que creó su canal en 2015.",
+        "en": "Eleonora 'Lele' Pons Maronese is a Venezuelan-American YouTuber, actress and singer born in Caracas in 1996, initially known for her Vine videos and later for comedy sketches on YouTube, where she launched her channel in 2015.",
+        "pt": "Eleonora 'Lele' Pons Maronese é uma youtuber, atriz e cantora venezuelano-americana nascida em Caracas em 1996, inicialmente conhecida por seus vídeos no Vine e depois por esquetes de comédia no YouTube, canal que criou em 2015.",
+        "fr": "Eleonora « Lele » Pons Maronese est une youtubeuse, actrice et chanteuse vénézuélo-américaine née à Caracas en 1996, initialement connue pour ses vidéos Vine puis pour ses sketches comiques sur YouTube, chaîne qu'elle a lancée en 2015.",
+        "de": "Eleonora „Lele“ Pons Maronese ist eine venezolanisch-US-amerikanische YouTuberin, Schauspielerin und Sängerin, geboren 1996 in Caracas, zunächst bekannt für ihre Vine-Videos und später für Comedy-Sketche auf YouTube, wo sie 2015 ihren Kanal startete.",
+        "ru": "Элеонора «Леле» Понс Маронезе — венесуэльско-американская ютубер, актриса и певица, родившаяся в Каракасе в 1996 году, изначально известная по видео на Vine, а затем по комедийным скетчам на YouTube, канал на котором она запустила в 2015 году.",
+        "ar": "إليونورا «ليلي» بونس مارونيزي يوتيوبر وممثلة ومغنية فنزويلية-أمريكية وُلدت في كاراكاس عام 1996، اشتهرت بدايةً بفيديوهات Vine ثم باسكتشات كوميدية على يوتيوب، حيث أطلقت قناتها عام 2015.",
+        "hi": "एलेओनोरा 'लेले' पोंस मारोनेज़े कराकस में 1996 में जन्मी वेनेज़ुएला-अमेरिकी यूट्यूबर, अभिनेत्री और गायिका हैं, जो शुरुआत में Vine वीडियो के लिए और बाद में यूट्यूब पर कॉमेडी स्केच के लिए प्रसिद्ध हुईं; उन्होंने 2015 में अपना चैनल शुरू किया।",
+        "zh": "埃莉诺拉·“莱莱”·庞斯·马罗内塞,1996年出生于加拉加斯的委内瑞拉裔美国视频博主、演员兼歌手,最初因Vine短视频走红,后于2015年开设YouTube频道并以喜剧短剧闻名。",
+        "ja": "エレオノーラ・「レレ」・ポンス・マロネーゼは、1996年カラカス生まれのベネズエラ系アメリカ人YouTuber・女優・歌手。当初はVineの動画で人気を集め、2015年に開設したYouTubeチャンネルではコメディコントで知られる。"
+      },
+      "handles": {
+        "youtube": "UCi9cDo6239RAzPpBZO9y5SA",
+        "tiktok": "lelepons",
+        "instagram": "lelepons",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 17900000
+        }
+      }
+    },
+    {
+      "id": "mariale",
+      "name": "Mariale",
+      "country": "VE",
+      "topic": {
+        "es": "Belleza, comedia y estilo de vida",
+        "en": "Beauty, comedy and lifestyle",
+        "pt": "Beleza, comédia e estilo de vida",
+        "fr": "Beauté, comédie et style de vie",
+        "de": "Beauty, Comedy und Lifestyle",
+        "ru": "Красота, комедия и лайфстайл",
+        "ar": "الجمال والكوميديا وأسلوب الحياة",
+        "hi": "ब्यूटी, कॉमेडी और लाइफस्टाइल",
+        "zh": "美妆、喜剧与生活方式",
+        "ja": "ビューティー・コメディ・ライフスタイル"
+      },
+      "about": {
+        "es": "Marialejandra Marrero, conocida como Mariale, es una youtuber venezolana nacida en Caracas en 1991, radicada en Los Ángeles, que desde 2010 produce contenido de belleza, comedia y vlogs en varios canales, entre ellos Mariale y SinPatuque.",
+        "en": "Marialejandra Marrero, known as Mariale, is a Venezuelan YouTuber born in Caracas in 1991 and based in Los Angeles, who has produced beauty, comedy and vlog content across several channels since 2010, including Mariale and SinPatuque.",
+        "pt": "Marialejandra Marrero, conhecida como Mariale, é uma youtuber venezuelana nascida em Caracas em 1991, radicada em Los Angeles, que desde 2010 produz conteúdo de beleza, comédia e vlogs em vários canais, entre eles Mariale e SinPatuque.",
+        "fr": "Marialejandra Marrero, connue sous le nom de Mariale, est une youtubeuse vénézuélienne née à Caracas en 1991, installée à Los Angeles, qui produit depuis 2010 du contenu beauté, comédie et vlogs sur plusieurs chaînes, dont Mariale et SinPatuque.",
+        "de": "Marialejandra Marrero, bekannt als Mariale, ist eine venezolanische YouTuberin, geboren 1991 in Caracas, wohnhaft in Los Angeles, die seit 2010 Beauty-, Comedy- und Vlog-Inhalte auf mehreren Kanälen produziert, darunter Mariale und SinPatuque.",
+        "ru": "Мариалехандра Марреро, известная как Mariale, — венесуэльская ютубер, родившаяся в Каракасе в 1991 году, живёт в Лос-Анджелесе и с 2010 года производит контент о красоте, комедии и влоги на нескольких каналах, включая Mariale и SinPatuque.",
+        "ar": "ماريا أليخاندرا ماريرو، المعروفة باسم ماريالي، يوتيوبر فنزويلية وُلدت في كاراكاس عام 1991 وتقيم في لوس أنجلوس، وتنتج منذ عام 2010 محتوى عن الجمال والكوميديا ومدونات الفيديو عبر عدة قنوات منها Mariale وSinPatuque.",
+        "hi": "मारियालेहांद्रा मारेरो, जिन्हें मारियाले के नाम से जाना जाता है, कराकस में 1991 में जन्मी वेनेज़ुएला की यूट्यूबर हैं जो लॉस एंजिल्स में रहती हैं और 2010 से Mariale तथा SinPatuque सहित कई चैनलों पर ब्यूटी, कॉमेडी और व्लॉग सामग्री बनाती हैं।",
+        "zh": "玛丽亚莱杭德拉·马雷罗,艺名Mariale,1991年出生于加拉加斯,现居洛杉矶的委内瑞拉视频博主,自2010年起在Mariale、SinPatuque等多个频道制作美妆、喜剧和生活视频博客内容。",
+        "ja": "マリアレハンドラ・マレーロは通称Marialeとして知られる、1991年カラカス生まれ、ロサンゼルス在住のベネズエラ人YouTuber。2010年からMarialeやSinPatuqueなど複数のチャンネルで美容・コメディ・Vlogコンテンツを制作している。"
+      },
+      "handles": {
+        "youtube": "UCSyoRFkB5xkaa3ScUcBaETw",
+        "tiktok": "mar.hacks",
+        "instagram": "mariale",
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 15200000
+        }
+      }
+    },
+    {
+      "id": "el-politigato-kevin-monsalve",
+      "name": "El Politigato (Kevin Monsalve)",
+      "country": "VE",
+      "topic": {
+        "es": "Animación de sátira política",
+        "en": "Political satire animation",
+        "pt": "Animação de sátira política",
+        "fr": "Animation de satire politique",
+        "de": "Politische Satire-Animation",
+        "ru": "Анимационная политическая сатира",
+        "ar": "رسوم متحركة ساخرة سياسياً",
+        "hi": "राजनीतिक व्यंग्य एनिमेशन",
+        "zh": "政治讽刺动画",
+        "ja": "政治風刺アニメーション"
+      },
+      "about": {
+        "es": "Kevin Monsalve es un caricaturista y youtuber venezolano, ex profesor de la Escuela Nacional de Cine de Caracas, creador desde 2018 de la serie animada 'El Politigato' en su canal MasKevMo, que satiriza la situación política venezolana a través de un gato que discute con su dueño chavista.",
+        "en": "Kevin Monsalve is a Venezuelan cartoonist and YouTuber, a former professor at the National Film School of Caracas, who has created the animated series 'El Politigato' on his channel MasKevMo since 2018, satirizing Venezuela's political situation through a cat arguing with its Chavista owner.",
+        "pt": "Kevin Monsalve é um cartunista e youtuber venezuelano, ex-professor da Escola Nacional de Cinema de Caracas, criador desde 2018 da série animada 'El Politigato' em seu canal MasKevMo, que satiriza a situação política venezuelana através de um gato que discute com seu dono chavista.",
+        "fr": "Kevin Monsalve est un caricaturiste et youtubeur vénézuélien, ancien professeur à l'École nationale de cinéma de Caracas, créateur depuis 2018 de la série animée « El Politigato » sur sa chaîne MasKevMo, qui tourne en dérision la situation politique vénézuélienne à travers un chat qui se dispute avec son propriétaire chaviste.",
+        "de": "Kevin Monsalve ist ein venezolanischer Karikaturist und YouTuber, ehemaliger Dozent an der Nationalen Filmschule von Caracas, der seit 2018 auf seinem Kanal MasKevMo die animierte Serie „El Politigato“ produziert, die die politische Lage Venezuelas durch eine Katze satirisiert, die mit ihrem chavistischen Besitzer streitet.",
+        "ru": "Кевин Монсальве — венесуэльский карикатурист и ютубер, бывший преподаватель Национальной киношколы Каракаса, с 2018 года создающий на своём канале MasKevMo анимационный сериал «El Politigato», сатирически изображающий политическую ситуацию в Венесуэле через кота, спорящего со своим хозяином-чавистом.",
+        "ar": "كيفن مونسالفي رسام كاريكاتير ويوتيوبر فنزويلي، وأستاذ سابق في المدرسة الوطنية للسينما في كاراكاس، أنشأ منذ عام 2018 المسلسل المتحرك 'El Politigato' على قناته MasKevMo، الذي يسخر من الوضع السياسي في فنزويلا عبر قطة تجادل صاحبها المؤيد للشافيزية.",
+        "hi": "केविन मोनसाल्वे एक वेनेज़ुएला के कार्टूनिस्ट और यूट्यूबर हैं, जो कराकस की नेशनल फिल्म स्कूल में पूर्व प्रोफेसर रह चुके हैं; उन्होंने 2018 से अपने चैनल MasKevMo पर एनिमेटेड सीरीज़ 'El Politigato' बनाई है, जो एक बिल्ली और उसके चाविस्ता मालिक के बीच बहस के ज़रिए वेनेज़ुएला की राजनीतिक स्थिति पर व्यंग्य करती है।",
+        "zh": "凯文·蒙萨尔韦是委内瑞拉漫画家兼视频博主,曾任加拉加斯国立电影学院教师;自2018年起在其频道MasKevMo制作动画系列《El Politigato》,通过一只与查韦斯主义主人争论的猫来讽刺委内瑞拉的政治局势。",
+        "ja": "ケビン・モンサルベはベネズエラの漫画家・YouTuberで、カラカス国立映画学校の元講師。2018年からチャンネルMasKevMoでアニメシリーズ「El Politigato」を制作し、チャビスタの飼い主と口論する猫を通じてベネズエラの政治情勢を風刺している。"
+      },
+      "handles": {
+        "youtube": "UCy2noJb1nwMCt901mX01Ndg",
+        "tiktok": null,
+        "instagram": "gamerkevmo",
+        "facebook": "GamerKevMo",
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
+        "followers": {
+          "youtube": 606000
+        }
+      }
     }
   ]
 }
