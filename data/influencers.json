@@ -1781,50 +1781,6 @@
       }
     },
     {
-      "id": "andrei-sokolov",
-      "name": "Andrei Sokolov",
-      "country": "CL",
-      "topic": {
-        "es": "Crónica urbana",
-        "en": "Urban chronicle",
-        "pt": "Crônica urbana",
-        "fr": "Chronique urbaine",
-        "de": "Stadtchronik",
-        "ru": "Городская хроника",
-        "ar": "سرد حضري",
-        "hi": "शहरी वृत्तांत",
-        "zh": "城市纪事",
-        "ja": "都市クロニクル"
-      },
-      "about": {
-        "es": "Periodista de origen ruso radicado en Santiago desde 2016, creador del canal Enciclopedia de Santiago sobre la historia, arquitectura y cultura urbana de la capital chilena, y autor del libro homónimo publicado por Planeta en 2026.",
-        "en": "A journalist of Russian origin based in Santiago since 2016, creator of the channel Enciclopedia de Santiago about the history, architecture and urban culture of the Chilean capital, and author of the same-titled book published by Planeta in 2026.",
-        "pt": "Jornalista de origem russa radicado em Santiago desde 2016, criador do canal Enciclopedia de Santiago sobre a história, arquitetura e cultura urbana da capital chilena, e autor do livro homônimo publicado pela Planeta em 2026.",
-        "fr": "Journaliste d'origine russe installé à Santiago depuis 2016, créateur de la chaîne Enciclopedia de Santiago consacrée à l'histoire, à l'architecture et à la culture urbaine de la capitale chilienne, et auteur du livre du même nom publié par Planeta en 2026.",
-        "de": "Ein Journalist russischer Herkunft, der seit 2016 in Santiago lebt und den Kanal Enciclopedia de Santiago über Geschichte, Architektur und Stadtkultur der chilenischen Hauptstadt betreibt sowie Autor des gleichnamigen, 2026 bei Planeta erschienenen Buches ist.",
-        "ru": "Журналист российского происхождения, живущий в Сантьяго с 2016 года, создатель канала Enciclopedia de Santiago об истории, архитектуре и городской культуре столицы Чили, автор одноимённой книги, изданной Planeta в 2026 году.",
-        "ar": "صحفي من أصل روسي مقيم في سانتياغو منذ عام 2016، صاحب قناة Enciclopedia de Santiago المخصصة لتاريخ العاصمة التشيلية وعمارتها وثقافتها الحضرية، ومؤلف الكتاب الذي يحمل الاسم نفسه والصادر عن دار Planeta عام 2026.",
-        "hi": "रूसी मूल के पत्रकार, जो 2016 से सैंटियागो में रह रहे हैं, चिली की राजधानी के इतिहास, वास्तुकला और शहरी संस्कृति पर आधारित चैनल Enciclopedia de Santiago के निर्माता हैं, और 2026 में Planeta द्वारा प्रकाशित इसी नाम की पुस्तक के लेखक भी हैं।",
-        "zh": "这位俄罗斯裔记者自2016年起定居圣地亚哥,创办了介绍智利首都历史、建筑与城市文化的频道Enciclopedia de Santiago,并著有Planeta出版社于2026年出版的同名书籍。",
-        "ja": "2016年からサンティアゴに住むロシア出身のジャーナリストで、チリの首都の歴史・建築・都市文化を扱うチャンネル「エンシクロペディア・デ・サンティアゴ」を運営し、2026年にPlaneta社から同名の書籍を出版した。"
-      },
-      "handles": {
-        "youtube": "UC_IcoElUAunUvBiQpIwpQvg",
-        "tiktok": null,
-        "instagram": "sokolovcl",
-        "facebook": null,
-        "linkedin": "andreosokolov",
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 216000
-        }
-      }
-    },
-    {
       "id": "claux-7",
       "name": "Claux.7",
       "country": "CL",
@@ -4069,50 +4025,6 @@
       }
     },
     {
-      "id": "politievlogger-jan-willem",
-      "name": "Politievlogger Jan-Willem",
-      "country": "NL",
-      "topic": {
-        "es": "Vlogs policiales",
-        "en": "Police vlogs",
-        "pt": "Vlogs policiais",
-        "fr": "Vlogs policiers",
-        "de": "Polizei-Vlogs",
-        "ru": "Влоги о полиции",
-        "ar": "فلوجات الشرطة",
-        "hi": "पुलिस व्लॉग",
-        "zh": "警务Vlog",
-        "ja": "警察Vlog"
-      },
-      "about": {
-        "es": "Agente de policía neerlandés que desde 2016 documenta su trabajo diario como policía en vlogs de YouTube, acumulando millones de visualizaciones mensuales.",
-        "en": "A Dutch police officer who has documented his daily police work in YouTube vlogs since 2016, drawing millions of monthly views.",
-        "pt": "Policial neerlandês que desde 2016 documenta seu trabalho diário como policial em vlogs no YouTube, acumulando milhões de visualizações mensais.",
-        "fr": "Policier néerlandais qui documente depuis 2016 son travail quotidien de policier dans des vlogs YouTube, cumulant des millions de vues par mois.",
-        "de": "Niederländischer Polizist, der seit 2016 seinen Arbeitsalltag als Polizist in YouTube-Vlogs dokumentiert und dabei Millionen von Aufrufen im Monat erzielt.",
-        "ru": "Нидерландский полицейский, который с 2016 года документирует свою повседневную работу в видеоблогах на YouTube, набирая миллионы просмотров ежемесячно.",
-        "ar": "ضابط شرطة هولندي يوثق منذ عام 2016 عمله اليومي كشرطي في فلوجات على يوتيوب، ويحصد ملايين المشاهدات شهرياً.",
-        "hi": "एक डच पुलिस अधिकारी जो 2016 से यूट्यूब व्लॉग में अपने दैनिक पुलिस कार्य को दिखा रहे हैं, जिन्हें हर महीने लाखों व्यूज़ मिलते हैं।",
-        "zh": "一名荷兰警官,自2016年起在YouTube上以vlog记录自己的日常警务工作,每月观看量达数百万。",
-        "ja": "2016年からYouTubeのVlogで日々の警察業務を記録しているオランダ人警察官で、毎月数百万回の再生数を集めている。"
-      },
-      "handles": {
-        "youtube": "UCmxePybUpZj8RRuWz6r8uTQ",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 445000
-        }
-      }
-    },
-    {
       "id": "rijk-hofman",
       "name": "Rijk Hofman",
       "country": "NL",
@@ -4153,138 +4065,6 @@
         "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
         "followers": {
           "youtube": 517000
-        }
-      }
-    },
-    {
-      "id": "creators-fc",
-      "name": "Creators FC",
-      "country": "NL",
-      "topic": {
-        "es": "Fútbol de youtubers",
-        "en": "YouTuber football",
-        "pt": "Futebol de youtubers",
-        "fr": "Football de youtubeurs",
-        "de": "YouTuber-Fußball",
-        "ru": "Футбол ютуберов",
-        "ar": "كرة قدم اليوتيوبرز",
-        "hi": "यूट्यूबर फुटबॉल",
-        "zh": "YouTuber足球队",
-        "ja": "YouTuberサッカー"
-      },
-      "about": {
-        "es": "Equipo de fútbol formado por youtubers neerlandeses y belgas, fundado en 2016 por Roy van Rossum, que ha recaudado más de 1,5 millones de euros para causas benéficas.",
-        "en": "A football team made up of Dutch and Belgian YouTubers, founded in 2016 by Roy van Rossum, which has raised more than 1.5 million euros for charity.",
-        "pt": "Time de futebol formado por youtubers neerlandeses e belgas, fundado em 2016 por Roy van Rossum, que já arrecadou mais de 1,5 milhão de euros para causas beneficentes.",
-        "fr": "Équipe de football composée de youtubeurs néerlandais et belges, fondée en 2016 par Roy van Rossum, qui a récolté plus de 1,5 million d'euros pour des œuvres caritatives.",
-        "de": "Fußballteam aus niederländischen und belgischen YouTubern, 2016 von Roy van Rossum gegründet, das bereits mehr als 1,5 Millionen Euro für wohltätige Zwecke gesammelt hat.",
-        "ru": "Футбольная команда, состоящая из нидерландских и бельгийских ютуберов, основанная в 2016 году Роем ван Россумом, которая собрала более 1,5 миллиона евро на благотворительность.",
-        "ar": "فريق كرة قدم يضم يوتيوبرز هولنديين وبلجيكيين، أسسه روي فان روسوم عام 2016، وجمع أكثر من 1.5 مليون يورو للأعمال الخيرية.",
-        "hi": "डच और बेल्जियम के यूट्यूबर्स से बनी एक फुटबॉल टीम, जिसे 2016 में रॉय वैन रोसम ने स्थापित किया, जिसने चैरिटी के लिए 15 लाख यूरो से अधिक जुटाए हैं।",
-        "zh": "由荷兰和比利时YouTuber组成的足球队,由罗伊·范·罗苏姆于2016年创立,已为慈善事业筹集超过150万欧元。",
-        "ja": "オランダとベルギーのYouTuberで構成されたサッカーチームで、2016年にロイ・ファン・ロッサムが設立し、慈善活動のために150万ユーロ以上を集めてきた。"
-      },
-      "handles": {
-        "youtube": "UC3ti7uwGRjnWNcUCeIphdHA",
-        "tiktok": null,
-        "instagram": "creatorsfcnl",
-        "facebook": "creatorsfc",
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 246000
-        }
-      }
-    },
-    {
-      "id": "dutchpilotgirl",
-      "name": "DutchPilotGirl",
-      "country": "NL",
-      "topic": {
-        "es": "Aviación y vuelos",
-        "en": "Aviation and flying",
-        "pt": "Aviação e voos",
-        "fr": "Aviation et vols",
-        "de": "Luftfahrt und Fliegen",
-        "ru": "Авиация и полёты",
-        "ar": "طيران ورحلات",
-        "hi": "विमानन और उड़ान",
-        "zh": "航空与飞行",
-        "ja": "航空とフライト"
-      },
-      "about": {
-        "es": "Piloto de aerolínea neerlandesa nacida en 1991 que comparte en YouTube su vida como piloto desde 2014, buscando inspirar a futuras aviadoras.",
-        "en": "A Dutch airline pilot born in 1991 who has shared her life as a pilot on YouTube since 2014, aiming to inspire future aviators.",
-        "pt": "Piloto de companhia aérea neerlandesa, nascida em 1991, que compartilha no YouTube sua vida como piloto desde 2014, buscando inspirar futuras aviadoras.",
-        "fr": "Pilote de ligne néerlandaise née en 1991 qui partage sur YouTube sa vie de pilote depuis 2014, dans le but d'inspirer de futures aviatrices.",
-        "de": "Niederländische Linienpilotin, geboren 1991, die seit 2014 auf YouTube ihr Leben als Pilotin zeigt, um künftige Pilotinnen zu inspirieren.",
-        "ru": "Нидерландская пилот авиакомпании, родившаяся в 1991 году, которая с 2014 года рассказывает на YouTube о своей жизни пилота, вдохновляя будущих летчиц.",
-        "ar": "طيارة خطوط جوية هولندية وُلدت عام 1991، تشارك على يوتيوب حياتها كطيارة منذ عام 2014 بهدف إلهام طيارات المستقبل.",
-        "hi": "1991 में जन्मी डच एयरलाइन पायलट, जो 2014 से यूट्यूब पर एक पायलट के रूप में अपना जीवन साझा कर रही हैं, ताकि भविष्य की महिला पायलटों को प्रेरित कर सकें।",
-        "zh": "1991年出生的荷兰航空公司飞行员,自2014年起在YouTube上分享她作为飞行员的生活,希望激励未来的女性飞行员。",
-        "ja": "1991年生まれのオランダ人旅客機パイロットで、2014年からYouTubeでパイロットとしての生活を発信し、未来の女性パイロットたちを鼓舞している。"
-      },
-      "handles": {
-        "youtube": "UCKUNiU0D2u3yxNZZxBqa6bQ",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 415000
-        }
-      }
-    },
-    {
-      "id": "adhamyy",
-      "name": "Adhamyy",
-      "country": "NL",
-      "topic": {
-        "es": "Comedia familiar",
-        "en": "Family comedy",
-        "pt": "Comédia em família",
-        "fr": "Comédie familiale",
-        "de": "Familien-Comedy",
-        "ru": "Семейная комедия",
-        "ar": "كوميديا عائلية",
-        "hi": "पारिवारिक कॉमेडी",
-        "zh": "家庭喜剧",
-        "ja": "家族コメディ"
-      },
-      "about": {
-        "es": "Creador egipcio-neerlandés que vive en los Países Bajos y comparte contenido de comedia junto a sus hermanas Anna y Ayten.",
-        "en": "An Egyptian-Dutch creator living in the Netherlands who shares comedy content together with his sisters Anna and Ayten.",
-        "pt": "Criador egípcio-neerlandês que vive nos Países Baixos e compartilha conteúdo de comédia ao lado de suas irmãs Anna e Ayten.",
-        "fr": "Créateur égypto-néerlandais vivant aux Pays-Bas qui partage du contenu comique avec ses sœurs Anna et Ayten.",
-        "de": "Ägyptisch-niederländischer Creator, der in den Niederlanden lebt und zusammen mit seinen Schwestern Anna und Ayten Comedy-Inhalte teilt.",
-        "ru": "Египетско-нидерландский автор, живущий в Нидерландах, который вместе со своими сёстрами Анной и Айтен создаёт комедийный контент.",
-        "ar": "صانع محتوى مصري-هولندي يعيش في هولندا ويشارك محتوى كوميدياً برفقة شقيقتيه آنا وآيتن.",
-        "hi": "एक मिस्री-डच क्रिएटर जो नीदरलैंड में रहते हैं और अपनी बहनों अन्ना और आयटेन के साथ कॉमेडी कंटेंट साझा करते हैं।",
-        "zh": "一位居住在荷兰的埃及裔荷兰创作者,与姐妹安娜和艾登一起制作喜剧内容。",
-        "ja": "オランダに住むエジプト系オランダ人クリエイターで、姉妹のアンナとアイテンと一緒にコメディコンテンツを発信している。"
-      },
-      "handles": {
-        "youtube": "UC_-vk2ULme8CO2CImRaQN9g",
-        "tiktok": "therealadhamyy",
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 113000
         }
       }
     },
@@ -23143,6 +22923,226 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:36:00.950Z)",
         "followers": {
           "youtube": 30800000
+        }
+      }
+    },
+    {
+      "id": "martin-garrix",
+      "name": "Martin Garrix",
+      "country": "NL",
+      "topic": {
+        "es": "Música electrónica (DJ)",
+        "en": "Electronic music (DJ)",
+        "pt": "Música eletrônica (DJ)",
+        "fr": "Musique électronique (DJ)",
+        "de": "Elektronische Musik (DJ)",
+        "ru": "Электронная музыка (диджей)",
+        "ar": "الموسيقى الإلكترونية (دي جي)",
+        "hi": "इलेक्ट्रॉनिक संगीत (डीजे)",
+        "zh": "电子音乐（DJ）",
+        "ja": "エレクトロニックミュージック（DJ）"
+      },
+      "about": {
+        "es": "Martin Garrix es un DJ y productor neerlandés de música electrónica, uno de los más exitosos del mundo. Saltó a la fama con \"Animals\" en 2013 y ha sido elegido varias veces mejor DJ del mundo por DJ Mag.",
+        "en": "Martin Garrix is a Dutch DJ and electronic music producer, one of the most successful in the world. He rose to fame with \"Animals\" in 2013 and has been named the world's best DJ multiple times by DJ Mag.",
+        "pt": "Martin Garrix é um DJ e produtor holandês de música eletrônica, um dos mais bem-sucedidos do mundo. Ficou famoso com \"Animals\" em 2013 e já foi eleito o melhor DJ do mundo várias vezes pela DJ Mag.",
+        "fr": "Martin Garrix est un DJ et producteur néerlandais de musique électronique, l'un des plus grands succès mondiaux du genre. Il s'est fait connaître avec « Animals » en 2013 et a été élu plusieurs fois meilleur DJ du monde par DJ Mag.",
+        "de": "Martin Garrix ist ein niederländischer DJ und Produzent elektronischer Musik, einer der erfolgreichsten weltweit. Bekannt wurde er 2013 mit „Animals“ und wurde von DJ Mag mehrfach zum besten DJ der Welt gekürt.",
+        "ru": "Мартин Гаррикс — нидерландский диджей и продюсер электронной музыки, один из самых успешных в мире. Он прославился с треком «Animals» в 2013 году и неоднократно признавался лучшим диджеем мира по версии DJ Mag.",
+        "ar": "مارتن غاريكس دي جي ومنتج هولندي للموسيقى الإلكترونية، من أنجح الفنانين في هذا المجال عالميًا. اشتهر بأغنية \"Animals\" عام 2013، واختارته مجلة DJ Mag أفضل دي جي في العالم عدة مرات.",
+        "hi": "मार्टिन गैरिक्स एक डच डीजे और इलेक्ट्रॉनिक संगीत निर्माता हैं, जो दुनिया के सबसे सफल कलाकारों में से एक हैं। उन्हें 2013 में \"Animals\" गाने से प्रसिद्धि मिली और DJ Mag ने उन्हें कई बार दुनिया का सर्वश्रेष्ठ डीजे चुना है।",
+        "zh": "马丁·加里克斯是荷兰DJ兼电子音乐制作人，是全球最成功的电子音乐人之一。他凭借2013年的单曲《Animals》一举成名，并多次被《DJ Mag》评选为世界最佳DJ。",
+        "ja": "マーティン・ギャリックスはオランダ出身のDJ・エレクトロニックミュージックプロデューサーで、世界で最も成功した一人。2013年の「Animals」で一躍有名になり、DJ Mag誌の「世界最優秀DJ」に複数回選ばれている。"
+      },
+      "handles": {
+        "youtube": "UC5H_KXkPbEsGs0tFt8R35mA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:43:18.505Z)",
+        "followers": {
+          "youtube": 15200000
+        }
+      }
+    },
+    {
+      "id": "tiesto",
+      "name": "Tiësto",
+      "country": "NL",
+      "topic": {
+        "es": "Música electrónica (DJ)",
+        "en": "Electronic music (DJ)",
+        "pt": "Música eletrônica (DJ)",
+        "fr": "Musique électronique (DJ)",
+        "de": "Elektronische Musik (DJ)",
+        "ru": "Электронная музыка (диджей)",
+        "ar": "الموسيقى الإلكترونية (دي جي)",
+        "hi": "इलेक्ट्रॉनिक संगीत (डीजे)",
+        "zh": "电子音乐（DJ）",
+        "ja": "エレクトロニックミュージック（DJ）"
+      },
+      "about": {
+        "es": "Tiësto (Tijs Verwest) es un DJ y productor neerlandés pionero de la música electrónica, con más de tres décadas de carrera. Fue el primer DJ en actuar en una ceremonia olímpica (Atenas 2004) y ha ganado un premio Grammy.",
+        "en": "Tiësto (Tijs Verwest) is a Dutch DJ and producer, a pioneer of electronic dance music with more than three decades in the industry. He was the first DJ to perform at an Olympic ceremony (Athens 2004) and has won a Grammy Award.",
+        "pt": "Tiësto (Tijs Verwest) é um DJ e produtor holandês, pioneiro da música eletrônica, com mais de três décadas de carreira. Foi o primeiro DJ a se apresentar em uma cerimônia olímpica (Atenas 2004) e já ganhou um prêmio Grammy.",
+        "fr": "Tiësto (Tijs Verwest) est un DJ et producteur néerlandais, pionnier de la musique électronique avec plus de trois décennies de carrière. Il a été le premier DJ à se produire lors d'une cérémonie olympique (Athènes 2004) et a remporté un Grammy Award.",
+        "de": "Tiësto (Tijs Verwest) ist ein niederländischer DJ und Produzent, ein Pionier der elektronischen Tanzmusik mit über drei Jahrzehnten Karriere. Er war der erste DJ, der bei einer Olympia-Zeremonie auftrat (Athen 2004), und hat einen Grammy Award gewonnen.",
+        "ru": "Тиесто (Тейс Вервест) — нидерландский диджей и продюсер, пионер электронной танцевальной музыки с более чем тридцатилетней карьерой. Он стал первым диджеем, выступившим на олимпийской церемонии (Афины, 2004), и обладателем премии Grammy.",
+        "ar": "تيستو (تايس فيرفيست) دي جي ومنتج هولندي، رائد موسيقى الرقص الإلكترونية بمسيرة تمتد لأكثر من ثلاثة عقود. كان أول دي جي يؤدي في حفل أولمبي (أثينا 2004)، وفاز بجائزة غرامي.",
+        "hi": "टीस्टो (टिज्स वेरवेस्ट) एक डच डीजे और निर्माता हैं, जो तीन दशकों से अधिक के करियर के साथ इलेक्ट्रॉनिक डांस म्यूज़िक के अग्रणी हैं। वे ओलंपिक समारोह (एथेंस 2004) में प्रदर्शन करने वाले पहले डीजे थे और उन्होंने एक ग्रैमी पुरस्कार जीता है।",
+        "zh": "蒂斯托（本名Tijs Verwest）是荷兰DJ兼制作人，电子舞曲的先驱人物，从业超过三十年。他是首位在奥运会开幕式演出的DJ（2004年雅典奥运会），并荣获格莱美奖。",
+        "ja": "ティエスト（本名テイス・フェルヴェスト）はオランダ出身のDJ・プロデューサーで、30年以上のキャリアを持つエレクトロニック・ダンス・ミュージックの先駆者。オリンピックの式典で演奏した初のDJ（2004年アテネ五輪）であり、グラミー賞を受賞している。"
+      },
+      "handles": {
+        "youtube": "UCPk3RMMXAfLhMJPFpQhye9g",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:43:18.505Z)",
+        "followers": {
+          "youtube": 7220000
+        }
+      }
+    },
+    {
+      "id": "armin-van-buuren",
+      "name": "Armin van Buuren",
+      "country": "NL",
+      "topic": {
+        "es": "Música electrónica (DJ)",
+        "en": "Electronic music (DJ)",
+        "pt": "Música eletrônica (DJ)",
+        "fr": "Musique électronique (DJ)",
+        "de": "Elektronische Musik (DJ)",
+        "ru": "Электронная музыка (диджей)",
+        "ar": "الموسيقى الإلكترونية (دي جي)",
+        "hi": "इलेक्ट्रॉनिक संगीत (डीजे)",
+        "zh": "电子音乐（DJ）",
+        "ja": "エレクトロニックミュージック（DJ）"
+      },
+      "about": {
+        "es": "Armin van Buuren es un DJ, productor y creador del programa radial \"A State of Trance\" neerlandés, referente mundial de la música trance. Ha sido elegido mejor DJ del mundo cinco veces por DJ Mag.",
+        "en": "Armin van Buuren is a Dutch DJ, producer, and creator of the radio show \"A State of Trance,\" a global reference in trance music. He has been named the world's best DJ five times by DJ Mag.",
+        "pt": "Armin van Buuren é um DJ, produtor e criador do programa de rádio \"A State of Trance\", holandês, referência mundial da música trance. Já foi eleito melhor DJ do mundo cinco vezes pela DJ Mag.",
+        "fr": "Armin van Buuren est un DJ, producteur et créateur néerlandais de l'émission radiophonique « A State of Trance », référence mondiale de la musique trance. Il a été élu meilleur DJ du monde à cinq reprises par DJ Mag.",
+        "de": "Armin van Buuren ist ein niederländischer DJ, Produzent und Schöpfer der Radiosendung „A State of Trance“, eine weltweite Referenz der Trance-Musik. Er wurde von DJ Mag fünfmal zum besten DJ der Welt gewählt.",
+        "ru": "Армин ван Бюрен — нидерландский диджей, продюсер и создатель радиошоу «A State of Trance», мировой эталон транс-музыки. Пять раз признавался лучшим диджеем мира по версии DJ Mag.",
+        "ar": "أرمين فان بورين دي جي ومنتج هولندي ومبتكر البرنامج الإذاعي \"A State of Trance\"، ومرجع عالمي في موسيقى الترانس. اختارته مجلة DJ Mag أفضل دي جي في العالم خمس مرات.",
+        "hi": "आर्मिन वान ब्यूरेन एक डच डीजे, निर्माता और रेडियो शो \"A State of Trance\" के निर्माता हैं, जो ट्रांस संगीत के वैश्विक प्रतिनिधि हैं। DJ Mag ने उन्हें पांच बार दुनिया का सर्वश्रेष्ठ डीजे चुना है।",
+        "zh": "阿明·范布伦是荷兰DJ、制作人，也是电台节目《A State of Trance》的创办者，是全球Trance（迷幻舞曲）音乐的代表人物。他五次被《DJ Mag》评选为世界最佳DJ。",
+        "ja": "アーミン・ヴァン・ビューレンはオランダ出身のDJ・プロデューサーで、ラジオ番組「A State of Trance」の制作者、トランス・ミュージックの世界的な第一人者。DJ Mag誌の「世界最優秀DJ」に5回選ばれている。"
+      },
+      "handles": {
+        "youtube": "UCu5jfQcpRLm9xhmlSd5S8xw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:43:18.505Z)",
+        "followers": {
+          "youtube": 6190000
+        }
+      }
+    },
+    {
+      "id": "hardwell",
+      "name": "Hardwell",
+      "country": "NL",
+      "topic": {
+        "es": "Música electrónica (DJ)",
+        "en": "Electronic music (DJ)",
+        "pt": "Música eletrônica (DJ)",
+        "fr": "Musique électronique (DJ)",
+        "de": "Elektronische Musik (DJ)",
+        "ru": "Электронная музыка (диджей)",
+        "ar": "الموسيقى الإلكترونية (دي جي)",
+        "hi": "इलेक्ट्रॉनिक संगीत (डीजे)",
+        "zh": "电子音乐（DJ）",
+        "ja": "エレクトロニックミュージック（DJ）"
+      },
+      "about": {
+        "es": "Hardwell (Robbert van de Corput) es un DJ y productor neerlandés de música electrónica, coronado mejor DJ del mundo por DJ Mag en 2013 y 2014. Es conocido por éxitos como \"Spaceman\" y \"Apollo\".",
+        "en": "Hardwell (Robbert van de Corput) is a Dutch DJ and electronic music producer, crowned the world's best DJ by DJ Mag in 2013 and 2014. He is known for hits like \"Spaceman\" and \"Apollo.\"",
+        "pt": "Hardwell (Robbert van de Corput) é um DJ e produtor holandês de música eletrônica, coroado melhor DJ do mundo pela DJ Mag em 2013 e 2014. É conhecido por sucessos como \"Spaceman\" e \"Apollo\".",
+        "fr": "Hardwell (Robbert van de Corput) est un DJ et producteur néerlandais de musique électronique, sacré meilleur DJ du monde par DJ Mag en 2013 et 2014. Il est connu pour des titres comme « Spaceman » et « Apollo ».",
+        "de": "Hardwell (Robbert van de Corput) ist ein niederländischer DJ und Produzent elektronischer Musik, der 2013 und 2014 von DJ Mag zum besten DJ der Welt gekürt wurde. Bekannt ist er für Hits wie „Spaceman“ und „Apollo“.",
+        "ru": "Хардвелл (Роберт ван де Корпут) — нидерландский диджей и продюсер электронной музыки, признанный лучшим диджеем мира по версии DJ Mag в 2013 и 2014 годах. Известен хитами «Spaceman» и «Apollo».",
+        "ar": "هاردويل (روبرت فان دي كوربوت) دي جي ومنتج هولندي للموسيقى الإلكترونية، تُوِّج أفضل دي جي في العالم من مجلة DJ Mag عامي 2013 و2014. اشتهر بأغانٍ مثل \"Spaceman\" و\"Apollo\".",
+        "hi": "हार्डवेल (रॉबर्ट वान डे कॉर्पुट) एक डच डीजे और इलेक्ट्रॉनिक संगीत निर्माता हैं, जिन्हें DJ Mag ने 2013 और 2014 में दुनिया का सर्वश्रेष्ठ डीजे घोषित किया। वे \"Spaceman\" और \"Apollo\" जैसे हिट गानों के लिए जाने जाते हैं।",
+        "zh": "哈德威尔（本名Robbert van de Corput）是荷兰DJ兼电子音乐制作人，于2013年和2014年被《DJ Mag》评为世界最佳DJ。代表作包括《Spaceman》和《Apollo》。",
+        "ja": "ハードウェル（本名ロバート・ヴァン・デ・コルプット）はオランダ出身のDJ・エレクトロニックミュージックプロデューサーで、2013年と2014年にDJ Mag誌の「世界最優秀DJ」に選ばれた。代表曲に「Spaceman」「Apollo」がある。"
+      },
+      "handles": {
+        "youtube": "UCPT5Q93YbgJ_7du1gV7UHQQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:43:18.505Z)",
+        "followers": {
+          "youtube": 5260000
+        }
+      }
+    },
+    {
+      "id": "german-garmendia",
+      "name": "Germán Garmendia",
+      "country": "CL",
+      "topic": {
+        "es": "Comedia y entretenimiento",
+        "en": "Comedy and entertainment",
+        "pt": "Comédia e entretenimento",
+        "fr": "Comédie et divertissement",
+        "de": "Comedy und Unterhaltung",
+        "ru": "Комедия и развлечения",
+        "ar": "الكوميديا والترفيه",
+        "hi": "कॉमेडी और मनोरंजन",
+        "zh": "喜剧与娱乐",
+        "ja": "コメディとエンターテインメント"
+      },
+      "about": {
+        "es": "Germán Garmendia es un youtuber, músico y escritor chileno, uno de los creadores de contenido en español más grandes e influyentes de la historia de YouTube. Con sus canales HolaSoyGerman y JuegaGerman superó los 100 millones de suscriptores combinados.",
+        "en": "Germán Garmendia is a Chilean YouTuber, musician, and writer, one of the biggest and most influential Spanish-language content creators in YouTube history. Across his HolaSoyGerman and JuegaGerman channels, he has surpassed 100 million combined subscribers.",
+        "pt": "Germán Garmendia é um youtuber, músico e escritor chileno, um dos criadores de conteúdo em espanhol mais influentes da história do YouTube. Entre seus canais HolaSoyGerman e JuegaGerman, já ultrapassou 100 milhões de inscritos combinados.",
+        "fr": "Germán Garmendia est un youtubeur, musicien et écrivain chilien, l'un des créateurs de contenu hispanophones les plus influents de l'histoire de YouTube. Avec ses chaînes HolaSoyGerman et JuegaGerman, il dépasse les 100 millions d'abonnés cumulés.",
+        "de": "Germán Garmendia ist ein chilenischer YouTuber, Musiker und Autor und einer der größten und einflussreichsten spanischsprachigen Content-Creator in der Geschichte von YouTube. Mit seinen Kanälen HolaSoyGerman und JuegaGerman hat er zusammen über 100 Millionen Abonnenten.",
+        "ru": "Херман Гармендия — чилийский ютубер, музыкант и писатель, один из крупнейших и самых влиятельных испаноязычных авторов контента в истории YouTube. На его каналах HolaSoyGerman и JuegaGerman в сумме подписано более 100 миллионов человек.",
+        "ar": "خيرمان غارمينديا يوتيوبر وموسيقي وكاتب تشيلي، واحد من أكبر وأكثر صناع المحتوى الناطقين بالإسبانية تأثيرًا في تاريخ يوتيوب. بلغ عدد مشتركي قناتيه HolaSoyGerman وJuegaGerman أكثر من 100 مليون مشترك مجتمعين.",
+        "hi": "जर्मन गार्मेंडिया एक चिली यूट्यूबर, संगीतकार और लेखक हैं, जो यूट्यूब के इतिहास में सबसे बड़े और सबसे प्रभावशाली स्पेनिश-भाषी कंटेंट क्रिएटर्स में से एक हैं। उनके HolaSoyGerman और JuegaGerman चैनलों के संयुक्त सब्सक्राइबर 10 करोड़ से अधिक हैं।",
+        "zh": "赫尔曼·加门迪亚是智利YouTuber、音乐人兼作家，是YouTube历史上最具影响力的西班牙语内容创作者之一。他的HolaSoyGerman和JuegaGerman两个频道订阅者合计超过1亿。",
+        "ja": "ヘルマン・ガルメンディアはチリ出身のユーチューバー・ミュージシャン・作家で、YouTube史上最も影響力のあるスペイン語コンテンツクリエイターの一人。HolaSoyGermanとJuegaGermanの2チャンネル合計で登録者数1億人を超えている。"
+      },
+      "handles": {
+        "youtube": "UCYiGq8XF7YQD00x7wAd62Zg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:43:18.505Z)",
+        "followers": {
+          "youtube": 56700000
         }
       }
     }
