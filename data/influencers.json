@@ -3673,50 +3673,6 @@
       }
     },
     {
-      "id": "lana",
-      "name": "lana ♡",
-      "country": "CA",
-      "topic": {
-        "es": "Vida en soledad",
-        "en": "Solo living",
-        "pt": "Vida solitária",
-        "fr": "Vie en solo",
-        "de": "Alleinleben",
-        "ru": "Жизнь в одиночестве",
-        "ar": "الحياة الفردية",
-        "hi": "अकेले जीवन",
-        "zh": "独居生活",
-        "ja": "一人暮らし"
-      },
-      "about": {
-        "es": "Creadora canadiense de 24 años que documenta su vida en soledad, con contenido dirigido principalmente a una audiencia femenina.",
-        "en": "A 24-year-old Canadian creator who documents her solo life, with content aimed mainly at a female audience.",
-        "pt": "Criadora canadense de 24 anos que documenta sua vida solitária, com conteúdo voltado principalmente para o público feminino.",
-        "fr": "Créatrice canadienne de 24 ans qui documente sa vie en solo, avec un contenu destiné principalement à un public féminin.",
-        "de": "Eine 24-jährige kanadische Creatorin, die ihr Alleinleben dokumentiert, mit Inhalten, die sich vor allem an ein weibliches Publikum richten.",
-        "ru": "24-летняя канадская создательница контента, документирующая свою жизнь в одиночестве; контент рассчитан в основном на женскую аудиторию.",
-        "ar": "صانعة محتوى كندية تبلغ من العمر 24 عامًا توثّق حياتها في العيش بمفردها، بمحتوى موجّه أساسًا للجمهور النسائي.",
-        "hi": "24 वर्षीय कनाडाई क्रिएटर जो अपने अकेले जीवन का दस्तावेजीकरण करती हैं, जिनकी सामग्री मुख्य रूप से महिला दर्शकों के लिए है।",
-        "zh": "一位24岁的加拿大创作者,记录自己的独居生活,内容主要面向女性观众。",
-        "ja": "一人暮らしの日常を記録する24歳のカナダ人クリエイターで、主に女性視聴者向けにコンテンツを発信している。"
-      },
-      "handles": {
-        "youtube": "UCyZ4IStyXcaQwx7Xgl3TmWA",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 152000
-        }
-      }
-    },
-    {
       "id": "brianna-renee",
       "name": "Brianna Renee",
       "country": "CA",
@@ -3757,50 +3713,6 @@
         "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
         "followers": {
           "youtube": 2000000
-        }
-      }
-    },
-    {
-      "id": "pooja-gulati",
-      "name": "Pooja Gulati",
-      "country": "CA",
-      "topic": {
-        "es": "Vida de inmigrante",
-        "en": "Immigrant life",
-        "pt": "Vida de imigrante",
-        "fr": "Vie d'immigrée",
-        "de": "Immigrantenleben",
-        "ru": "Жизнь иммигрантки",
-        "ar": "حياة المهاجرين",
-        "hi": "प्रवासी जीवन",
-        "zh": "移民生活",
-        "ja": "移民としての生活"
-      },
-      "about": {
-        "es": "Creadora de origen indio radicada en Toronto, Canadá, que comparte su vida cotidiana como inmigrante y sus viajes.",
-        "en": "A creator of Indian origin based in Toronto, Canada, who shares her everyday life as an immigrant and her travels.",
-        "pt": "Criadora de origem indiana radicada em Toronto, Canadá, que compartilha sua vida cotidiana como imigrante e suas viagens.",
-        "fr": "Créatrice d'origine indienne installée à Toronto, au Canada, qui partage son quotidien d'immigrée et ses voyages.",
-        "de": "Eine Creatorin indischer Herkunft mit Sitz in Toronto, Kanada, die ihren Alltag als Immigrantin und ihre Reisen teilt.",
-        "ru": "Создательница контента индийского происхождения, живущая в Торонто, Канада; делится повседневной жизнью иммигрантки и своими путешествиями.",
-        "ar": "صانعة محتوى من أصل هندي مقيمة في تورونتو بكندا، تشارك حياتها اليومية كمهاجرة ورحلاتها.",
-        "hi": "टोरंटो, कनाडा में रहने वाली भारतीय मूल की क्रिएटर, जो एक प्रवासी के रूप में अपना रोज़मर्रा का जीवन और यात्राएं साझा करती हैं।",
-        "zh": "这位印度裔创作者定居于加拿大多伦多,分享她作为移民的日常生活和旅行经历。",
-        "ja": "カナダ・トロント在住のインド系クリエイターで、移民としての日常生活と旅行の様子を発信している。"
-      },
-      "handles": {
-        "youtube": "UCJG0J-JW7N8O9pIixuzKzcg",
-        "tiktok": null,
-        "instagram": "poojaagulati",
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 132000
         }
       }
     },
@@ -3889,94 +3801,6 @@
         "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
         "followers": {
           "youtube": 989000
-        }
-      }
-    },
-    {
-      "id": "wendy-outdoors",
-      "name": "Wendy Outdoors",
-      "country": "CA",
-      "topic": {
-        "es": "Camping en solitario",
-        "en": "Solo camping",
-        "pt": "Camping solo",
-        "fr": "Camping en solo",
-        "de": "Solo-Camping",
-        "ru": "Соло-кемпинг",
-        "ar": "التخييم الفردي",
-        "hi": "अकेले कैंपिंग",
-        "zh": "独自露营",
-        "ja": "ソロキャンプ"
-      },
-      "about": {
-        "es": "Wendy Eden, de 77 años, documenta sus viajes de camping en solitario por la isla de Vancouver, en Columbia Británica, Canadá.",
-        "en": "Wendy Eden, 77, documents her solo camping trips around Vancouver Island, British Columbia, Canada.",
-        "pt": "Wendy Eden, de 77 anos, documenta suas viagens de acampamento solo pela Ilha de Vancouver, na Colúmbia Britânica, Canadá.",
-        "fr": "Wendy Eden, 77 ans, documente ses voyages de camping en solo sur l'île de Vancouver, en Colombie-Britannique, au Canada.",
-        "de": "Wendy Eden, 77, dokumentiert ihre Solo-Camping-Reisen auf Vancouver Island, British Columbia, Kanada.",
-        "ru": "77-летняя Венди Иден документирует свои соло-походы с палаткой по острову Ванкувер, Британская Колумбия, Канада.",
-        "ar": "وندي إيدن، 77 عامًا، توثّق رحلات التخييم الفردي التي تقوم بها في جزيرة فانكوفر بمقاطعة كولومبيا البريطانية الكندية.",
-        "hi": "77 वर्षीय वेंडी ईडन कनाडा के ब्रिटिश कोलंबिया स्थित वैंकूवर द्वीप पर अपनी अकेले कैंपिंग यात्राओं का दस्तावेजीकरण करती हैं।",
-        "zh": "77岁的温迪·伊登(Wendy Eden)记录她在加拿大不列颠哥伦比亚省温哥华岛独自露营的旅程。",
-        "ja": "77歳のウェンディ・イーデンは、カナダ・ブリティッシュコロンビア州のバンクーバー島でのソロキャンプの旅を記録している。"
-      },
-      "handles": {
-        "youtube": "UCpnzfVWZrXeU5S0jrWSiIcw",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 540000
-        }
-      }
-    },
-    {
-      "id": "according-to-nicole",
-      "name": "According To Nicole",
-      "country": "CA",
-      "topic": {
-        "es": "Minimalismo y finanzas",
-        "en": "Minimalism and finance",
-        "pt": "Minimalismo e finanças",
-        "fr": "Minimalisme et finances",
-        "de": "Minimalismus und Finanzen",
-        "ru": "Минимализм и финансы",
-        "ar": "النمط البسيط والمالية",
-        "hi": "मिनिमलिज़्म और वित्त",
-        "zh": "极简主义与理财",
-        "ja": "ミニマリズムと金融"
-      },
-      "about": {
-        "es": "Creadora canadiense que desde 2020 produce contenido sobre minimalismo, finanzas personales y vida sencilla.",
-        "en": "A Canadian creator who has produced content on minimalism, personal finance and simple living since 2020.",
-        "pt": "Criadora canadense que desde 2020 produz conteúdo sobre minimalismo, finanças pessoais e vida simples.",
-        "fr": "Créatrice canadienne qui produit depuis 2020 du contenu sur le minimalisme, les finances personnelles et la vie simple.",
-        "de": "Eine kanadische Creatorin, die seit 2020 Inhalte zu Minimalismus, persönlichen Finanzen und einfachem Leben produziert.",
-        "ru": "Канадская создательница контента, с 2020 года публикующая материалы о минимализме, личных финансах и простой жизни.",
-        "ar": "صانعة محتوى كندية تنتج منذ عام 2020 محتوى عن النمط البسيط والمالية الشخصية والحياة البسيطة.",
-        "hi": "एक कनाडाई क्रिएटर जो 2020 से मिनिमलिज़्म, व्यक्तिगत वित्त और सादा जीवन पर कंटेंट बना रही हैं।",
-        "zh": "这位加拿大创作者自2020年起制作有关极简主义、个人理财和简朴生活的内容。",
-        "ja": "2020年からミニマリズム、個人の資産管理、シンプルな暮らしに関するコンテンツを制作しているカナダ人クリエイター。"
-      },
-      "handles": {
-        "youtube": "UC5G8poc4XLNeS-8PJ19j9jg",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 241000
         }
       }
     },
@@ -23143,6 +22967,182 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:27:37.331Z)",
         "followers": {
           "youtube": 35300000
+        }
+      }
+    },
+    {
+      "id": "justin-bieber",
+      "name": "Justin Bieber",
+      "country": "CA",
+      "topic": {
+        "es": "Música pop",
+        "en": "Pop music",
+        "pt": "Música pop",
+        "fr": "Musique pop",
+        "de": "Popmusik",
+        "ru": "Поп-музыка",
+        "ar": "موسيقى البوب",
+        "hi": "पॉप संगीत",
+        "zh": "流行音乐",
+        "ja": "ポップミュージック"
+      },
+      "about": {
+        "es": "Justin Bieber es un cantante canadiense, uno de los mayores íconos del pop global. Descubierto en YouTube cuando era adolescente en 2007-2008, ha vendido más de 150 millones de discos con éxitos como \"Baby\", \"Sorry\" y \"Peaches\", y ha ganado dos premios Grammy.",
+        "en": "Justin Bieber is a Canadian singer and one of the biggest icons in global pop music. Discovered on YouTube as a teenager in 2007-2008, he has sold over 150 million records with hits like \"Baby,\" \"Sorry,\" and \"Peaches,\" and has won two Grammy Awards.",
+        "pt": "Justin Bieber é um cantor canadense, um dos maiores ícones do pop global. Descoberto no YouTube quando era adolescente em 2007-2008, já vendeu mais de 150 milhões de discos com sucessos como \"Baby\", \"Sorry\" e \"Peaches\", e ganhou dois prêmios Grammy.",
+        "fr": "Justin Bieber est un chanteur canadien, l'une des plus grandes icônes de la pop mondiale. Découvert sur YouTube alors qu'il était adolescent en 2007-2008, il a vendu plus de 150 millions de disques avec des titres comme « Baby », « Sorry » et « Peaches », et a remporté deux Grammy Awards.",
+        "de": "Justin Bieber ist ein kanadischer Sänger und eine der größten Ikonen des globalen Pop. Als Teenager 2007-2008 auf YouTube entdeckt, hat er mit Hits wie „Baby“, „Sorry“ und „Peaches“ über 150 Millionen Tonträger verkauft und zwei Grammy Awards gewonnen.",
+        "ru": "Джастин Бибер — канадский певец, одна из крупнейших икон мировой поп-музыки. Открытый на YouTube в подростковом возрасте в 2007-2008 годах, он продал более 150 миллионов пластинок с хитами «Baby», «Sorry» и «Peaches» и получил две премии Grammy.",
+        "ar": "جاستن بيبر مغنٍّ كندي، واحد من أكبر رموز موسيقى البوب العالمية. اكتُشف على يوتيوب وهو مراهق في 2007-2008، وباع أكثر من 150 مليون نسخة من ألبوماته بأغانٍ ناجحة مثل \"Baby\" و\"Sorry\" و\"Peaches\"، وفاز بجائزتي غرامي.",
+        "hi": "जस्टिन बीबर एक कनाडाई गायक हैं, जो वैश्विक पॉप संगीत की सबसे बड़ी हस्तियों में से एक हैं। 2007-2008 में किशोरावस्था में YouTube पर खोजे गए, उन्होंने \"Baby\", \"Sorry\" और \"Peaches\" जैसे हिट गानों के साथ 15 करोड़ से अधिक रिकॉर्ड बेचे हैं और दो ग्रैमी पुरस्कार जीते हैं।",
+        "zh": "贾斯汀·比伯是一位加拿大歌手，全球流行音乐的重要偶像之一。他在2007至2008年少年时期因YouTube视频而被发掘，凭借《Baby》《Sorry》《Peaches》等热门歌曲售出超过1.5亿张唱片，并两次荣获格莱美奖。",
+        "ja": "ジャスティン・ビーバーはカナダ出身の歌手で、世界的なポップアイコンの一人。2007～2008年に10代でYouTubeを通じて発掘され、「Baby」「Sorry」「Peaches」などのヒット曲で1億5000万枚以上のレコードを売り上げ、グラミー賞を2回受賞している。"
+      },
+      "handles": {
+        "youtube": "UCIwFjwMjI0y7PDBVEO9-bkQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:36:00.950Z)",
+        "followers": {
+          "youtube": 79400000
+        }
+      }
+    },
+    {
+      "id": "the-weeknd",
+      "name": "The Weeknd",
+      "country": "CA",
+      "topic": {
+        "es": "R&B y pop",
+        "en": "R&B and pop",
+        "pt": "R&B e pop",
+        "fr": "R&B et pop",
+        "de": "R&B und Pop",
+        "ru": "R&B и поп",
+        "ar": "الآر آند بي والبوب",
+        "hi": "R&B और पॉप",
+        "zh": "R&B与流行音乐",
+        "ja": "R&Bとポップ"
+      },
+      "about": {
+        "es": "The Weeknd (Abel Tesfaye) es un cantante canadiense de R&B y pop, uno de los artistas más vendidos del mundo. Conocido por éxitos como \"Blinding Lights\" y \"Starboy\", protagonizó el show de medio tiempo del Super Bowl en 2021.",
+        "en": "The Weeknd (Abel Tesfaye) is a Canadian R&B and pop singer, one of the best-selling artists in the world. Known for hits like \"Blinding Lights\" and \"Starboy,\" he headlined the Super Bowl halftime show in 2021.",
+        "pt": "The Weeknd (Abel Tesfaye) é um cantor canadense de R&B e pop, um dos artistas mais vendidos do mundo. Conhecido por sucessos como \"Blinding Lights\" e \"Starboy\", foi a atração principal do show do intervalo do Super Bowl em 2021.",
+        "fr": "The Weeknd (Abel Tesfaye) est un chanteur canadien de R&B et de pop, l'un des artistes les plus vendus au monde. Connu pour des titres comme « Blinding Lights » et « Starboy », il a été la tête d'affiche du spectacle de la mi-temps du Super Bowl en 2021.",
+        "de": "The Weeknd (Abel Tesfaye) ist ein kanadischer R&B- und Pop-Sänger und einer der meistverkauften Künstler der Welt. Bekannt für Hits wie „Blinding Lights“ und „Starboy“, war er 2021 der Headliner der Super-Bowl-Halbzeitshow.",
+        "ru": "The Weeknd (Абель Тесфайе) — канадский исполнитель R&B и поп-музыки, один из самых продаваемых артистов в мире. Известен хитами «Blinding Lights» и «Starboy», в 2021 году выступил хедлайнером шоу в перерыве Супербоула.",
+        "ar": "ذا ويكند (أبيل تسفاي) مغنٍّ كندي لموسيقى الآر آند بي والبوب، واحد من أكثر الفنانين مبيعًا في العالم. اشتهر بأغانٍ مثل \"Blinding Lights\" و\"Starboy\"، وتصدّر عرض استراحة السوبر بول عام 2021.",
+        "hi": "द वीकेंड (एबेल टेस्फाये) एक कनाडाई R&B और पॉप गायक हैं, जो दुनिया के सबसे अधिक बिकने वाले कलाकारों में से एक हैं। \"Blinding Lights\" और \"Starboy\" जैसे हिट गानों के लिए मशहूर, उन्होंने 2021 में सुपर बाउल हाफटाइम शो में प्रमुख प्रस्तुति दी।",
+        "zh": "威肯（The Weeknd，本名Abel Tesfaye）是一位加拿大R&B和流行歌手，全球最畅销的艺人之一。凭借《Blinding Lights》和《Starboy》等热门歌曲闻名，并于2021年担任超级碗中场秀的主唱。",
+        "ja": "ザ・ウィークエンド（本名エイベル・テスファイ）はカナダ出身のR&B・ポップ歌手で、世界で最も売れているアーティストの一人。「Blinding Lights」「Starboy」などのヒット曲で知られ、2021年のスーパーボウル・ハーフタイムショーに出演した。"
+      },
+      "handles": {
+        "youtube": "UC0WP5P-ufpRfjbNrmOWwLBQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:36:00.950Z)",
+        "followers": {
+          "youtube": 40100000
+        }
+      }
+    },
+    {
+      "id": "drake",
+      "name": "Drake",
+      "country": "CA",
+      "topic": {
+        "es": "Hip hop y rap",
+        "en": "Hip hop and rap",
+        "pt": "Hip hop e rap",
+        "fr": "Hip-hop et rap",
+        "de": "Hip-Hop und Rap",
+        "ru": "Хип-хоп и рэп",
+        "ar": "الهيب هوب والراب",
+        "hi": "हिप हॉप और रैप",
+        "zh": "嘻哈与说唱",
+        "ja": "ヒップホップとラップ"
+      },
+      "about": {
+        "es": "Drake (Aubrey Graham) es un rapero y cantante canadiense de Toronto, uno de los artistas musicales más vendidos de la historia. Con éxitos como \"God's Plan\" y \"Hotline Bling\", ha ganado múltiples premios Grammy.",
+        "en": "Drake (Aubrey Graham) is a Canadian rapper and singer from Toronto, one of the best-selling music artists in history. With hits like \"God's Plan\" and \"Hotline Bling,\" he has won multiple Grammy Awards.",
+        "pt": "Drake (Aubrey Graham) é um rapper e cantor canadense de Toronto, um dos artistas musicais mais vendidos da história. Com sucessos como \"God's Plan\" e \"Hotline Bling\", já ganhou vários prêmios Grammy.",
+        "fr": "Drake (Aubrey Graham) est un rappeur et chanteur canadien originaire de Toronto, l'un des artistes musicaux les plus vendus de l'histoire. Avec des titres comme « God's Plan » et « Hotline Bling », il a remporté plusieurs Grammy Awards.",
+        "de": "Drake (Aubrey Graham) ist ein kanadischer Rapper und Sänger aus Toronto und einer der meistverkauften Musikkünstler der Geschichte. Mit Hits wie „God's Plan“ und „Hotline Bling“ hat er mehrere Grammy Awards gewonnen.",
+        "ru": "Дрейк (Обри Грэм) — канадский рэпер и певец из Торонто, один из самых продаваемых музыкальных артистов в истории. Обладатель нескольких премий Grammy благодаря хитам «God's Plan» и «Hotline Bling».",
+        "ar": "دريك (أوبري غراهام) مغنٍّ وراب كندي من تورونتو، واحد من أكثر الفنانين الموسيقيين مبيعًا في التاريخ. فاز بعدة جوائز غرامي بفضل أغانٍ مثل \"God's Plan\" و\"Hotline Bling\".",
+        "hi": "ड्रेक (ऑब्रे ग्राहम) टोरंटो के एक कनाडाई रैपर और गायक हैं, जो इतिहास के सबसे अधिक बिकने वाले संगीत कलाकारों में से एक हैं। \"God's Plan\" और \"Hotline Bling\" जैसे हिट गानों के साथ, उन्होंने कई ग्रैमी पुरस्कार जीते हैं।",
+        "zh": "德雷克（Drake，本名Aubrey Graham）是来自多伦多的加拿大说唱歌手，史上最畅销的音乐艺人之一。凭借《God's Plan》和《Hotline Bling》等热门歌曲，多次荣获格莱美奖。",
+        "ja": "ドレイク（本名オーブリー・グラハム）はトロント出身のカナダ人ラッパー・歌手で、史上最も売れた音楽アーティストの一人。「God's Plan」「Hotline Bling」などのヒット曲で知られ、グラミー賞を複数回受賞している。"
+      },
+      "handles": {
+        "youtube": "UCByOQJjav0CUDwxCk-jVNRQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:36:00.950Z)",
+        "followers": {
+          "youtube": 33100000
+        }
+      }
+    },
+    {
+      "id": "shawn-mendes",
+      "name": "Shawn Mendes",
+      "country": "CA",
+      "topic": {
+        "es": "Música pop",
+        "en": "Pop music",
+        "pt": "Música pop",
+        "fr": "Musique pop",
+        "de": "Popmusik",
+        "ru": "Поп-музыка",
+        "ar": "موسيقى البوب",
+        "hi": "पॉप संगीत",
+        "zh": "流行音乐",
+        "ja": "ポップミュージック"
+      },
+      "about": {
+        "es": "Shawn Mendes es un cantautor canadiense que se dio a conocer con covers musicales en internet antes de convertirse en una estrella pop global. Sus éxitos incluyen \"Stitches\", \"Treat You Better\" y \"Señorita\" junto a Camila Cabello.",
+        "en": "Shawn Mendes is a Canadian singer-songwriter who first gained attention posting cover songs online before becoming a global pop star. His hits include \"Stitches,\" \"Treat You Better,\" and \"Señorita\" with Camila Cabello.",
+        "pt": "Shawn Mendes é um cantor e compositor canadense que se destacou postando covers na internet antes de se tornar uma estrela pop global. Seus sucessos incluem \"Stitches\", \"Treat You Better\" e \"Señorita\", com Camila Cabello.",
+        "fr": "Shawn Mendes est un auteur-compositeur-interprète canadien qui s'est fait connaître en publiant des reprises en ligne avant de devenir une star pop mondiale. Parmi ses succès figurent « Stitches », « Treat You Better » et « Señorita » avec Camila Cabello.",
+        "de": "Shawn Mendes ist ein kanadischer Singer-Songwriter, der zunächst durch online veröffentlichte Coversongs bekannt wurde, bevor er zu einem globalen Popstar wurde. Zu seinen Hits zählen „Stitches“, „Treat You Better“ und „Señorita“ mit Camila Cabello.",
+        "ru": "Шон Мендес — канадский автор-исполнитель, который сначала прославился, выкладывая каверы в интернет, а затем стал мировой поп-звездой. Среди его хитов — «Stitches», «Treat You Better» и «Señorita» совместно с Камилой Кабельо.",
+        "ar": "شون مينديز مغنٍّ وكاتب أغانٍ كندي، اشتهر في البداية بنشر أغانٍ مُغطّاة (كفرات) على الإنترنت قبل أن يصبح نجمًا عالميًا للبوب. من أغانيه الناجحة \"Stitches\" و\"Treat You Better\" و\"Señorita\" مع كاميلا كابيو.",
+        "hi": "शॉन मेंडेस एक कनाडाई सिंगर-सॉन्गराइटर हैं, जिन्होंने पहले इंटरनेट पर कवर गाने पोस्ट करके पहचान बनाई और बाद में एक वैश्विक पॉप स्टार बन गए। उनके हिट गानों में \"Stitches\", \"Treat You Better\" और कैमिला काबेलो के साथ \"Señorita\" शामिल हैं।",
+        "zh": "肖恩·蒙德斯是一位加拿大创作歌手，最初因在网上翻唱歌曲而受到关注，后成长为全球流行音乐巨星。代表作包括《Stitches》《Treat You Better》以及与卡米拉·卡贝洛合唱的《Señorita》。",
+        "ja": "ショーン・メンデスはカナダ出身のシンガーソングライターで、当初はネット上でのカバー曲投稿で注目を集め、後に世界的なポップスターとなった。代表曲に「Stitches」「Treat You Better」、カミラ・カベロとの「Señorita」がある。"
+      },
+      "handles": {
+        "youtube": "UCAvCL8hyXjSUHKEGuUPr1BA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T18:36:00.950Z)",
+        "followers": {
+          "youtube": 30800000
         }
       }
     }
