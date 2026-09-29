@@ -13554,50 +13554,6 @@
       }
     },
     {
-      "id": "nationale-bedarija",
-      "name": "Nationale Bedarija",
-      "country": "MA",
-      "topic": {
-        "es": "Sketches satíricos en darija marroquí",
-        "en": "Satirical comedy sketches in Moroccan Darija",
-        "pt": "Esquetes satíricos em darija marroquino",
-        "fr": "Sketches satiriques en darija marocaine",
-        "de": "Satirische Comedy-Sketche auf marokkanischem Darija",
-        "ru": "Сатирические комедийные скетчи на марокканском дарижа",
-        "ar": "مقاطع كوميدية ساخرة بالدارجة المغربية",
-        "hi": "मोरक्को की दारिजा भाषा में व्यंग्यात्मक कॉमेडी स्केच",
-        "zh": "摩洛哥达里贾语讽刺喜剧短剧",
-        "ja": "モロッコ・ダリジャ語による風刺コメディスケッチ"
-      },
-      "about": {
-        "es": "Nationale Bedarija es un canal de YouTube marroquí creado por los hermanos gemelos Mouad y Marwane Chakrida, que producen contenido de comedia satírica en darija marroquí desde 2021.",
-        "en": "Nationale Bedarija is a Moroccan YouTube channel created by twin brothers Mouad and Marwane Chakrida, who have produced satirical comedy content in Moroccan Darija since 2021.",
-        "pt": "Nationale Bedarija é um canal de YouTube marroquino criado pelos irmãos gémeos Mouad e Marwane Chakrida, que produzem conteúdo de comédia satírica em darija marroquino desde 2021.",
-        "fr": "Nationale Bedarija est une chaîne YouTube marocaine créée par les frères jumeaux Mouad et Marwane Chakrida, qui produisent du contenu comique satirique en darija marocaine depuis 2021.",
-        "de": "Nationale Bedarija ist ein marokkanischer YouTube-Kanal, der von den Zwillingsbrüdern Mouad und Marwane Chakrida gegründet wurde, die seit 2021 satirische Comedy-Inhalte auf marokkanischem Darija produzieren.",
-        "ru": "Nationale Bedarija — марокканский YouTube-канал, созданный братьями-близнецами Муадом и Марваном Чакрида, которые с 2021 года выпускают сатирический комедийный контент на марокканском диалекте дарижа.",
-        "ar": "ناشيونال بالدارجة قناة يوتيوب مغربية أسسها التوأمان مواد ومروان الشكريدة، اللذان ينتجان محتوى كوميدياً ساخراً بالدارجة المغربية منذ سنة 2021.",
-        "hi": "नेशनल बेदारीजा एक मोरक्कन यूट्यूब चैनल है, जिसे जुड़वां भाइयों मौद और मरवान शकरिदा ने बनाया है, जो 2021 से मोरक्को की दारिजा भाषा में व्यंग्यात्मक हास्य सामग्री बना रहे हैं।",
-        "zh": "Nationale Bedarija是一个摩洛哥YouTube频道,由双胞胎兄弟穆阿德和马尔万·沙克里达创建,自2021年起制作以摩洛哥达里贾语讲述的讽刺喜剧内容。",
-        "ja": "ナシオナル・ベダリジャは、双子の兄弟ムアドとマルワン・シャクリダによって設立されたモロッコのYouTubeチャンネルで、2021年からモロッコ・ダリジャ語による風刺コメディコンテンツを制作している。"
-      },
-      "handles": {
-        "youtube": "UCVDExRloqHhhgcBH88dU_Vw",
-        "tiktok": null,
-        "instagram": "nationale_bedarija",
-        "facebook": "nationalebedarija",
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
-        "followers": {
-          "youtube": 198000
-        }
-      }
-    },
-    {
       "id": "amine-nkaity",
       "name": "Amine Nkaity",
       "country": "MA",
@@ -23582,6 +23538,50 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-28T19:12:38.261Z)",
         "followers": {
           "youtube": 53000
+        }
+      }
+    },
+    {
+      "id": "saad-lamjarred",
+      "name": "Saad Lamjarred",
+      "country": "MA",
+      "topic": {
+        "es": "Música pop árabe",
+        "en": "Arabic pop music",
+        "pt": "Música pop árabe",
+        "fr": "Pop arabe",
+        "de": "Arabische Popmusik",
+        "ru": "Арабская поп-музыка",
+        "ar": "موسيقى البوب العربية",
+        "hi": "अरबी पॉप संगीत",
+        "zh": "阿拉伯流行音乐",
+        "ja": "アラブ・ポップミュージック"
+      },
+      "about": {
+        "es": "Saad Lamjarred es un cantante marroquí de pop árabe/raï, una de las mayores estrellas musicales del mundo árabe. Su video \"LM3ALLEM\" fue durante un tiempo el más visto de un artista árabe en YouTube, superando los mil millones de reproducciones.",
+        "en": "Saad Lamjarred is a Moroccan Arabic pop/raï singer, one of the biggest music stars in the Arab world. His video \"LM3ALLEM\" was for a time the most-viewed video by an Arab artist on YouTube, surpassing one billion views.",
+        "pt": "Saad Lamjarred é um cantor marroquino de pop árabe/raï, uma das maiores estrelas musicais do mundo árabe. Seu vídeo \"LM3ALLEM\" foi por um tempo o mais visto de um artista árabe no YouTube, ultrapassando um bilhão de visualizações.",
+        "fr": "Saad Lamjarred est un chanteur marocain de pop arabe/raï, l'une des plus grandes stars musicales du monde arabe. Son clip « LM3ALLEM » a été pendant un temps le plus vu d'un artiste arabe sur YouTube, dépassant le milliard de vues.",
+        "de": "Saad Lamjarred ist ein marokkanischer Sänger arabischer Pop-/Raï-Musik und einer der größten Musikstars der arabischen Welt. Sein Video „LM3ALLEM“ war zeitweise das meistgesehene Video eines arabischen Künstlers auf YouTube mit über einer Milliarde Aufrufen.",
+        "ru": "Саад Ламджаррад — марокканский певец арабской поп-музыки/раï, одна из крупнейших музыкальных звёзд арабского мира. Его клип «LM3ALLEM» одно время был самым просматриваемым видео арабского артиста на YouTube, превысив миллиард просмотров.",
+        "ar": "سعد لمجرد مغنٍّ مغربي للبوب العربي/الراي، من أكبر نجوم الموسيقى في العالم العربي. كان فيديو أغنيته \"LM3ALLEM\" لفترة الأكثر مشاهدة لفنان عربي على يوتيوب، متجاوزًا المليار مشاهدة.",
+        "hi": "साद लमजर्रद एक मोरक्कन अरबी पॉप/राई गायक हैं, जो अरब जगत के सबसे बड़े संगीत सितारों में से एक हैं। उनका वीडियो \"LM3ALLEM\" कुछ समय के लिए यूट्यूब पर किसी अरब कलाकार का सबसे अधिक देखा जाने वाला वीडियो था, जिसने एक अरब व्यूज़ को पार किया।",
+        "zh": "萨阿德·拉姆贾雷德是摩洛哥阿拉伯流行/莱伊音乐歌手，是阿拉伯世界最大的音乐明星之一。他的歌曲《LM3ALLEM》的MV一度是阿拉伯艺人在YouTube上观看次数最多的视频，播放量超过十亿次。",
+        "ja": "サード・ラムジャレッドはモロッコ出身のアラブ・ポップ／ライ音楽歌手で、アラブ世界最大級の音楽スター。彼の楽曲「LM3ALLEM」のMVは一時期、アラブ人アーティストによるYouTube動画として最多再生数を記録し、10億回再生を突破した。"
+      },
+      "handles": {
+        "youtube": "UC9hJ5XcjHXYjwDOqrlQUuow",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-29T15:09:51.810Z)",
+        "followers": {
+          "youtube": 15900000
         }
       }
     }
