@@ -1959,6 +1959,34 @@
       "needsContent": true,
       "youtubeDescriptionSnippet": "Rasid ksa monitors the viewer all that revolves around the homeland in various political, economic and social fields, and gives the follower a full picture of what is happening inside and outside the Kingdom of Saudi Arabia.\n\n",
       "countryDeclaredByChannel": true
+    },
+    {
+      "discoveredAt": "2026-09-29T12:23:19.113Z",
+      "youtubeChannelId": "UCfDg5DuOfeVSjKyyGKCiADw",
+      "name": "rubigol",
+      "country": "CO",
+      "followers": {
+        "youtube": 104000
+      },
+      "handles": {},
+      "handlesVerified": false,
+      "needsContent": true,
+      "youtubeDescriptionSnippet": "gadejo company\n",
+      "countryDeclaredByChannel": false
+    },
+    {
+      "discoveredAt": "2026-09-29T12:23:47.345Z",
+      "youtubeChannelId": "UC0VaUybucHEVfF29tqvDh-g",
+      "name": "Señorita Influencer",
+      "country": "NL",
+      "followers": {
+        "youtube": 19300000
+      },
+      "handles": {},
+      "handlesVerified": false,
+      "needsContent": true,
+      "youtubeDescriptionSnippet": "Bienvenidos a este mundo de diversión \n",
+      "countryDeclaredByChannel": false
     }
   ]
 }
