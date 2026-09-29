@@ -4465,50 +4465,6 @@
       }
     },
     {
-      "id": "muskan-karia",
-      "name": "Muskan karia",
-      "country": "IN",
-      "topic": {
-        "es": "Reseñas de snacks",
-        "en": "Snack reviews",
-        "pt": "Resenhas de snacks",
-        "fr": "Critiques de snacks",
-        "de": "Snack-Reviews",
-        "ru": "Обзоры снеков",
-        "ar": "مراجعات وجبات خفيفة",
-        "hi": "स्नैक रिव्यू",
-        "zh": "零食测评",
-        "ja": "スナックレビュー"
-      },
-      "about": {
-        "es": "Creadora de Thane, Maharashtra, conocida como la exploradora de snacks de la India, que reseña bocadillos peculiares y comparte vlogs; posee un título en estudios de gestión del R.D. & S.H. National College de Mumbai.",
-        "en": "A creator from Thane, Maharashtra, known as India's snack explorer, reviewing unique snacks and sharing vlogs; she holds a management studies degree from R.D. & S.H. National College in Mumbai.",
-        "pt": "Criadora de Thane, Maharashtra, conhecida como a exploradora de lanches da Índia, que resenha snacks incomuns e compartilha vlogs; possui graduação em administração pelo R.D. & S.H. National College, em Mumbai.",
-        "fr": "Créatrice originaire de Thane, dans le Maharashtra, connue comme l'exploratrice de snacks de l'Inde, qui teste des en-cas insolites et partage des vlogs; elle est diplômée en gestion du R.D. & S.H. National College de Mumbai.",
-        "de": "Creatorin aus Thane, Maharashtra, bekannt als Indiens Snack-Entdeckerin, die ungewöhnliche Snacks testet und Vlogs teilt; sie hat einen Abschluss in Management Studies vom R.D. & S.H. National College in Mumbai.",
-        "ru": "Создательница контента из Тхане, штат Махараштра, известная как «исследовательница снеков Индии»: она пробует необычные снеки и публикует влоги; имеет диплом по менеджменту колледжа R.D. & S.H. National College в Мумбаи.",
-        "ar": "صانعة محتوى من ثاني بولاية ماهاراشترا، معروفة بلقب مستكشفة الوجبات الخفيفة في الهند، تراجع وجبات خفيفة غير معتادة وتشارك يومياتها؛ حاصلة على شهادة في إدارة الأعمال من كلية R.D. & S.H. الوطنية في مومباي.",
-        "hi": "महाराष्ट्र के ठाणे की एक क्रिएटर, जिन्हें भारत की 'स्नैक एक्सप्लोरर' के रूप में जाना जाता है; वे अनोखे स्नैक्स की समीक्षा करती हैं और व्लॉग साझा करती हैं; उन्होंने मुंबई के आर.डी. एंड एस.एच. नेशनल कॉलेज से मैनेजमेंट स्टडीज़ में डिग्री ली है।",
-        "zh": "来自马哈拉施特拉邦塔那市的创作者,人称“印度零食探索者”,评测各种特色零食并分享Vlog;毕业于孟买R.D. & S.H.国立学院管理学专业。",
-        "ja": "マハーラーシュトラ州ターネー出身のクリエイターで、「インドのスナック探検家」として知られ、珍しいスナックのレビューやVlogを発信している。ムンバイのR.D. & S.H.ナショナルカレッジで経営学の学位を取得。"
-      },
-      "handles": {
-        "youtube": "UCufwebJMr-l6MqwkXaXDpsg",
-        "tiktok": null,
-        "instagram": "muskankaria",
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 477000
-        }
-      }
-    },
-    {
       "id": "nitish-rajput",
       "name": "Nitish Rajput",
       "country": "IN",
@@ -23582,6 +23538,50 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-29T15:39:50.740Z)",
         "followers": {
           "youtube": 3800000
+        }
+      }
+    },
+    {
+      "id": "arijit-singh",
+      "name": "Arijit Singh",
+      "country": "IN",
+      "topic": {
+        "es": "Música playback de Bollywood",
+        "en": "Bollywood playback singing",
+        "pt": "Canto playback de Bollywood",
+        "fr": "Chant playback de Bollywood",
+        "de": "Bollywood-Playbacksingen",
+        "ru": "Плейбэк-пение Болливуда",
+        "ar": "الغناء الخلفي لبوليوود",
+        "hi": "बॉलीवुड पार्श्व गायन",
+        "zh": "宝莱坞幕后配唱",
+        "ja": "ボリウッド・プレイバック・シンギング"
+      },
+      "about": {
+        "es": "Arijit Singh es un cantante indio de playback, considerado una de las voces más escuchadas del mundo en plataformas de streaming durante varios años consecutivos. Ha grabado cientos de canciones para el cine de Bollywood y ha ganado múltiples premios Filmfare.",
+        "en": "Arijit Singh is an Indian playback singer, considered one of the most-streamed voices in the world on music platforms for several consecutive years. He has recorded hundreds of songs for Bollywood films and has won multiple Filmfare Awards.",
+        "pt": "Arijit Singh é um cantor indiano de playback, considerado uma das vozes mais ouvidas do mundo em plataformas de streaming por vários anos consecutivos. Já gravou centenas de canções para o cinema de Bollywood e ganhou vários prêmios Filmfare.",
+        "fr": "Arijit Singh est un chanteur playback indien, considéré comme l'une des voix les plus écoutées au monde sur les plateformes de streaming pendant plusieurs années consécutives. Il a enregistré des centaines de chansons pour le cinéma de Bollywood et a remporté plusieurs Filmfare Awards.",
+        "de": "Arijit Singh ist ein indischer Playback-Sänger, der mehrere Jahre in Folge als eine der meistgestreamten Stimmen der Welt auf Musikplattformen galt. Er hat Hunderte Lieder für Bollywood-Filme aufgenommen und mehrere Filmfare Awards gewonnen.",
+        "ru": "Ариджит Сингх — индийский плейбэк-певец, которого несколько лет подряд признавали одним из самых прослушиваемых голосов мира на музыкальных платформах. Он записал сотни песен для болливудского кино и получил несколько премий Filmfare.",
+        "ar": "أريجيت سينغ مغنٍّ هندي للغناء الخلفي، يُعتبر أحد أكثر الأصوات استماعًا في العالم على منصات البث لعدة سنوات متتالية. سجّل مئات الأغاني لأفلام بوليوود وفاز بعدة جوائز فيلم فير.",
+        "hi": "अरिजीत सिंह एक भारतीय पार्श्व गायक हैं, जिन्हें लगातार कई वर्षों तक दुनिया की सबसे अधिक स्ट्रीम की जाने वाली आवाज़ों में से एक माना गया है। उन्होंने बॉलीवुड फिल्मों के लिए सैकड़ों गाने गाए हैं और कई फिल्मफेयर पुरस्कार जीते हैं।",
+        "zh": "阿里吉特·辛格是印度幕后配唱歌手，连续多年被认为是全球流媒体平台上播放量最高的歌手之一。他为宝莱坞电影录制了数百首歌曲，并多次获得Filmfare奖。",
+        "ja": "アリジット・シンはインドのプレイバックシンガーで、数年連続で世界で最もストリーミングされている歌声の一人とされる。ボリウッド映画のために数百曲を録音し、フィルムフェア賞を複数回受賞している。"
+      },
+      "handles": {
+        "youtube": "UCtFOW7jJXChfFNoucRFqRmw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-29T16:04:01.242Z)",
+        "followers": {
+          "youtube": 6480000
         }
       }
     }
