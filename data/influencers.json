@@ -5213,50 +5213,6 @@
       }
     },
     {
-      "id": "hey-aaron",
-      "name": "Hey Aaron!!!",
-      "country": "DE",
-      "topic": {
-        "es": "Comedia y vlogs",
-        "en": "Comedy vlogs",
-        "pt": "Comédia e vlogs",
-        "fr": "Comédie et vlogs",
-        "de": "Comedy-Vlogs",
-        "ru": "Комедийные влоги",
-        "ar": "فلوجات كوميدية",
-        "hi": "कॉमेडी व्लॉग",
-        "zh": "喜剧视频博客",
-        "ja": "コメディVlog"
-      },
-      "about": {
-        "es": "El youtuber berlinés Aaron Troschke, nacido en 1989 en Berlín Oriental, ganó mayor reconocimiento por sus apariciones en los programas de televisión alemanes Wer wird Millionär? y Promi Big Brother antes de construir su canal Hey Aaron!!!.",
-        "en": "Berlin-based YouTuber Aaron Troschke, born in 1989 in East Berlin, gained wider recognition through appearances on the German TV shows Wer wird Millionär? and Promi Big Brother before building his channel Hey Aaron!!!.",
-        "pt": "O youtuber berlinense Aaron Troschke, nascido em 1989 em Berlim Oriental, ganhou maior reconhecimento por participar dos programas de TV alemães Wer wird Millionär? e Promi Big Brother antes de construir seu canal Hey Aaron!!!.",
-        "fr": "Le YouTubeur berlinois Aaron Troschke, né en 1989 à Berlin-Est, s'est fait connaître grâce à ses apparitions dans les émissions télévisées allemandes Wer wird Millionär? et Promi Big Brother avant de développer sa chaîne Hey Aaron!!!.",
-        "de": "Der Berliner YouTuber Aaron Troschke, geboren 1989 in Ost-Berlin, wurde durch Auftritte in den deutschen TV-Sendungen Wer wird Millionär? und Promi Big Brother bekannt, bevor er seinen Kanal Hey Aaron!!! aufbaute.",
-        "ru": "Берлинский ютубер Аарон Трошке, родившийся в 1989 году в Восточном Берлине, получил широкую известность благодаря участию в немецких телешоу Wer wird Millionär? и Promi Big Brother, прежде чем создать свой канал Hey Aaron!!!.",
-        "ar": "اكتسب اليوتيوبر البرليني آرون تروشكه، المولود عام 1989 في برلين الشرقية، شهرة واسعة بعد ظهوره في برنامجي التلفزيون الألمانيين Wer wird Millionär? وPromi Big Brother قبل أن يبني قناته Hey Aaron!!!.",
-        "hi": "बर्लिन के यूट्यूबर आरोन ट्रोश्के, जिनका जन्म 1989 में पूर्वी बर्लिन में हुआ, उन्होंने जर्मन टीवी शो Wer wird Millionär? और Promi Big Brother में उपस्थिति के बाद व्यापक पहचान हासिल की, इससे पहले कि उन्होंने अपना चैनल Hey Aaron!!! बनाया।",
-        "zh": "现居柏林的YouTuber亚伦·特罗施克(Aaron Troschke)1989年出生于东柏林,曾参加德国电视节目《谁想成为百万富翁》和《明星老大哥》而广受关注,之后创办了自己的频道Hey Aaron!!!。",
-        "ja": "ベルリン出身のYouTuber、アーロン・トロシュケは1989年に東ベルリンで生まれ、ドイツのテレビ番組「Wer wird Millionär?」と「Promi Big Brother」への出演で知名度を上げた後、チャンネル「Hey Aaron!!!」を築いた。"
-      },
-      "handles": {
-        "youtube": "UCCprsL2xVSoReeKCCnWkd7Q",
-        "tiktok": null,
-        "instagram": "aarontroschke",
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 1570000
-        }
-      }
-    },
-    {
       "id": "bibisbeautypalace",
       "name": "BibisBeautyPalace",
       "country": "DE",
@@ -5341,50 +5297,6 @@
         "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
         "followers": {
           "youtube": 1960000
-        }
-      }
-    },
-    {
-      "id": "lizlaz",
-      "name": "LizLaz",
-      "country": "DE",
-      "topic": {
-        "es": "Viajes y música",
-        "en": "Travel and music",
-        "pt": "Viagens e música",
-        "fr": "Voyage et musique",
-        "de": "Reisen und Musik",
-        "ru": "Путешествия и музыка",
-        "ar": "السفر والموسيقى",
-        "hi": "यात्रा और संगीत",
-        "zh": "旅行与音乐",
-        "ja": "旅行と音楽"
-      },
-      "about": {
-        "es": "La creadora germano-sudafricana conocida como LizLaz, que vive en Alemania, comparte contenido de viajes y canto, y ganó mayor atención después de que el criquetista Virat Kohli diera 'me gusta' a una de sus publicaciones en Instagram.",
-        "en": "German-South African creator known as LizLaz, who lives in Germany, shares travel and singing content and gained wider attention after cricketer Virat Kohli liked one of her Instagram posts.",
-        "pt": "A criadora alemã-sul-africana conhecida como LizLaz, que vive na Alemanha, compartilha conteúdo de viagens e canto, e ganhou mais atenção depois que o jogador de críquete Virat Kohli curtiu uma de suas publicações no Instagram.",
-        "fr": "La créatrice germano-sud-africaine connue sous le nom de LizLaz, qui vit en Allemagne, partage des contenus de voyage et de chant, et a gagné en visibilité après que le joueur de cricket Virat Kohli a aimé l'une de ses publications Instagram.",
-        "de": "Die deutsch-südafrikanische Creatorin, die als LizLaz bekannt ist und in Deutschland lebt, teilt Reise- und Gesangsinhalte und erhielt größere Aufmerksamkeit, nachdem der Cricketspieler Virat Kohli einen ihrer Instagram-Beiträge geliked hatte.",
-        "ru": "Немецко-южноафриканская авторша, известная как LizLaz и живущая в Германии, публикует контент о путешествиях и пении и получила широкую известность после того, как игрок в крикет Вират Кохли поставил лайк одному из её постов в Instagram.",
-        "ar": "صانعة المحتوى الألمانية الجنوب أفريقية المعروفة باسم LizLaz، والتي تعيش في ألمانيا، تشارك محتوى عن السفر والغناء، واكتسبت اهتمامًا أوسع بعد أن أعجب لاعب الكريكيت فيرات كوهلي بأحد منشوراتها على إنستغرام.",
-        "hi": "जर्मन-दक्षिण अफ्रीकी क्रिएटर, जिन्हें LizLaz के नाम से जाना जाता है और जो जर्मनी में रहती हैं, यात्रा और गायन से जुड़ी सामग्री साझा करती हैं, और क्रिकेटर विराट कोहली द्वारा उनकी एक इंस्टाग्राम पोस्ट को लाइक किए जाने के बाद उन्हें व्यापक ध्यान मिला।",
-        "zh": "这位居住在德国、被称为LizLaz的德国-南非籍创作者分享旅行和歌唱内容,在板球运动员维拉特·科利(Virat Kohli)点赞她的一条Instagram帖子后受到更广泛关注。",
-        "ja": "ドイツ在住のドイツ系南アフリカ人クリエイター、LizLazは旅行や歌の動画を発信しており、クリケット選手ヴィラット・コーリーが彼女のInstagram投稿に「いいね」したことで大きな注目を集めた。"
-      },
-      "handles": {
-        "youtube": "UClWFM4T0EVQ5GYA46o3_qNw",
-        "tiktok": null,
-        "instagram": "lizlaz_tv",
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, descubrimiento automático (pipeline/discover.ts)",
-        "followers": {
-          "youtube": 308000
         }
       }
     },
@@ -9054,50 +8966,6 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
         "followers": {
           "youtube": 2980000
-        }
-      }
-    },
-    {
-      "id": "rezo",
-      "name": "Rezo",
-      "country": "DE",
-      "topic": {
-        "es": "Musica y comentario",
-        "en": "Music and commentary",
-        "pt": "Musica e comentario",
-        "fr": "Musique et commentaire",
-        "de": "Musik und Kommentar",
-        "ru": "Музыка и комментарии",
-        "ar": "موسيقى وتعليق",
-        "hi": "संगीत और टिप्पणी",
-        "zh": "音乐与时评",
-        "ja": "音楽と時事コメント"
-      },
-      "about": {
-        "es": "Creador aleman nacido en Wuppertal en 1992 y radicado en Aquisgran; conocido por videos musicales y por un video politico de 2019 que critico a los partidos alemanes antes de las elecciones europeas.",
-        "en": "German creator born in Wuppertal in 1992 and based in Aachen; known for music-related videos and for a 2019 political video that criticized German parties ahead of the European elections.",
-        "pt": "Criador alemao nascido em Wuppertal em 1992 e radicado em Aachen; conhecido por videos musicais e por um video politico de 2019 que criticou os partidos alemaes antes das eleicoes europeias.",
-        "fr": "Createur allemand ne a Wuppertal en 1992 et base a Aix-la-Chapelle ; connu pour ses videos musicales et pour une video politique de 2019 critiquant les partis allemands avant les elections europeennes.",
-        "de": "Deutscher Creator, geboren 1992 in Wuppertal und ansaessig in Aachen; bekannt fuer musikbezogene Videos und ein politisches Video von 2019, das vor der Europawahl deutsche Parteien kritisierte.",
-        "ru": "Немецкий блогер родился в Вуппертале в 1992 году, живёт в Ахене; известен музыкальными видео и политическим роликом 2019 года, в котором критиковал немецкие партии перед выборами в Европарламент.",
-        "ar": "صانع محتوى ألماني وُلد في فوبرتال عام 1992 ويقيم في آخن؛ يُعرف بمقاطع موسيقية وبفيديو سياسي عام 2019 انتقد فيه الأحزاب الألمانية قبيل انتخابات البرلمان الأوروبي.",
-        "hi": "जर्मन क्रिएटर, जिनका जन्म 1992 में वुपरटाल में हुआ और जो आखेन में रहते हैं; संगीत वीडियो और 2019 के एक राजनीतिक वीडियो के लिए जाने जाते हैं जिसमें यूरोपीय चुनावों से पहले जर्मन पार्टियों की आलोचना की गई थी।",
-        "zh": "这位德国创作者1992年出生于伍珀塔尔,现居亚琛;以音乐类视频著称,并因2019年欧洲议会选举前批评德国各政党的一段政治视频而广为人知。",
-        "ja": "1992年ヴッパータール生まれ、アーヘン在住のドイツ人クリエイター。音楽関連の動画で知られ、2019年の欧州議会選挙前にドイツの政党を批判した政治的動画で大きな話題となった。"
-      },
-      "handles": {
-        "youtube": "UCLCb_YDL9XfSYsWpS5xrO5Q",
-        "tiktok": null,
-        "instagram": null,
-        "facebook": null,
-        "linkedin": null,
-        "snapchat": null
-      },
-      "handlesVerified": false,
-      "baseline": {
-        "source": "YouTube Data API v3, channels.list (curado a mano, no vino del descubrimiento automático)",
-        "followers": {
-          "youtube": 1700000
         }
       }
     },
@@ -23582,6 +23450,138 @@
         "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-29T15:09:51.810Z)",
         "followers": {
           "youtube": 15900000
+        }
+      }
+    },
+    {
+      "id": "rammstein",
+      "name": "Rammstein",
+      "country": "DE",
+      "topic": {
+        "es": "Metal industrial",
+        "en": "Industrial metal",
+        "pt": "Metal industrial",
+        "fr": "Metal industriel",
+        "de": "Industrial Metal",
+        "ru": "Индастриал-метал",
+        "ar": "الميتال الصناعي",
+        "hi": "इंडस्ट्रियल मेटल",
+        "zh": "工业金属",
+        "ja": "インダストリアル・メタル"
+      },
+      "about": {
+        "es": "Rammstein es una banda alemana de metal industrial, una de las agrupaciones de rock más influyentes y comercialmente exitosas de Europa. Conocidos por sus espectaculares shows en vivo con pirotecnia, tienen éxitos como \"Du Hast\" y \"Deutschland\".",
+        "en": "Rammstein is a German industrial metal band, one of the most influential and commercially successful rock acts in Europe. Known for their spectacular pyrotechnic-heavy live shows, they have hits like \"Du Hast\" and \"Deutschland.\"",
+        "pt": "Rammstein é uma banda alemã de metal industrial, uma das mais influentes e comercialmente bem-sucedidas do rock europeu. Conhecidos por seus espetaculares shows ao vivo com pirotecnia, têm sucessos como \"Du Hast\" e \"Deutschland\".",
+        "fr": "Rammstein est un groupe allemand de metal industriel, l'un des groupes de rock les plus influents et les plus populaires d'Europe. Connu pour ses spectacles pyrotechniques impressionnants, il compte des titres comme « Du Hast » et « Deutschland ».",
+        "de": "Rammstein ist eine deutsche Neue-Deutsche-Härte-/Industrial-Metal-Band, eine der einflussreichsten und kommerziell erfolgreichsten Rockgruppen Europas. Bekannt für ihre spektakulären, pyrotechnikreichen Live-Shows, mit Hits wie „Du Hast“ und „Deutschland“.",
+        "ru": "Rammstein — немецкая индастриал-метал группа, одна из самых влиятельных и коммерчески успешных рок-групп Европы. Известна впечатляющими пиротехническими live-шоу, хитами «Du Hast» и «Deutschland».",
+        "ar": "رامشتاين فرقة ألمانية لموسيقى الميتال الصناعي، واحدة من أكثر فرق الروك تأثيرًا ونجاحًا تجاريًا في أوروبا. تشتهر بعروضها الحية المبهرة بالألعاب النارية، ولها أغانٍ ناجحة مثل \"Du Hast\" و\"Deutschland\".",
+        "hi": "रामस्टाइन एक जर्मन इंडस्ट्रियल मेटल बैंड है, जो यूरोप के सबसे प्रभावशाली और व्यावसायिक रूप से सफल रॉक बैंडों में से एक है। आतिशबाज़ी से भरपूर अपने शानदार लाइव शो के लिए मशहूर, उनके हिट गानों में \"Du Hast\" और \"Deutschland\" शामिल हैं।",
+        "zh": "德国战车（Rammstein）是一支德国工业金属乐队，是欧洲最具影响力、商业上最成功的摇滚乐队之一。以充满烟火效果的震撼现场演出闻名，代表作包括《Du Hast》和《Deutschland》。",
+        "ja": "ラムシュタインはドイツのインダストリアル・メタルバンドで、ヨーロッパで最も影響力があり商業的に成功したロックグループの一つ。花火を多用した壮大なライブショーで知られ、「Du Hast」「Deutschland」などのヒット曲がある。"
+      },
+      "handles": {
+        "youtube": "UCYp3rk70ACGXQ4gFAiMr1SQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-29T15:39:50.740Z)",
+        "followers": {
+          "youtube": 9370000
+        }
+      }
+    },
+    {
+      "id": "dagi-bee",
+      "name": "Dagi Bee",
+      "country": "DE",
+      "topic": {
+        "es": "Moda y estilo de vida",
+        "en": "Fashion and lifestyle",
+        "pt": "Moda e estilo de vida",
+        "fr": "Mode et style de vie",
+        "de": "Mode und Lifestyle",
+        "ru": "Мода и лайфстайл",
+        "ar": "الموضة ونمط الحياة",
+        "hi": "फैशन और लाइफस्टाइल",
+        "zh": "时尚与生活方式",
+        "ja": "ファッションとライフスタイル"
+      },
+      "about": {
+        "es": "Dagi Bee (Dagmara Nicole Ochmanczyk) es una youtuber alemana de moda, belleza y estilo de vida, una de las pioneras del género en YouTube en Alemania desde 2010.",
+        "en": "Dagi Bee (Dagmara Nicole Ochmanczyk) is a German fashion, beauty, and lifestyle YouTuber, one of the pioneers of the genre on German YouTube since 2010.",
+        "pt": "Dagi Bee (Dagmara Nicole Ochmanczyk) é uma youtuber alemã de moda, beleza e estilo de vida, uma das pioneiras do gênero no YouTube alemão desde 2010.",
+        "fr": "Dagi Bee (Dagmara Nicole Ochmanczyk) est une youtubeuse allemande spécialisée en mode, beauté et lifestyle, l'une des pionnières du genre sur YouTube en Allemagne depuis 2010.",
+        "de": "Dagi Bee (Dagmara Nicole Ochmanczyk) ist eine deutsche YouTuberin für Mode, Beauty und Lifestyle und seit 2010 eine der Pionierinnen dieses Genres auf dem deutschen YouTube.",
+        "ru": "Даги Би (Дагмара Николь Охманчик) — немецкая ютубер, специализирующаяся на моде, красоте и лайфстайле, одна из пионеров этого жанра на немецком YouTube с 2010 года.",
+        "ar": "داغي بي (داغمارا نيكول أوخمانتشيك) يوتيوبر ألمانية متخصصة في الموضة والجمال ونمط الحياة، من روّاد هذا النوع على يوتيوب الألماني منذ 2010.",
+        "hi": "डागी बी (डागमारा निकोल ओखमैनचिक) एक जर्मन फैशन, ब्यूटी और लाइफस्टाइल यूट्यूबर हैं, जो 2010 से जर्मन यूट्यूब पर इस शैली की अग्रदूतों में से एक हैं।",
+        "zh": "达吉·比（Dagmara Nicole Ochmanczyk）是一位德国时尚、美妆与生活方式YouTuber，自2010年起便是德国YouTube该领域的先驱之一。",
+        "ja": "ダギ・ビー（本名ダグマラ・ニコル・オフマンチク）はドイツのファッション・ビューティー・ライフスタイル系ユーチューバーで、2010年からドイツのYouTubeでこのジャンルの先駆者の一人。"
+      },
+      "handles": {
+        "youtube": "UCpZ_DI-ZugwMzXcqccaTVsg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-29T15:39:50.740Z)",
+        "followers": {
+          "youtube": 3870000
+        }
+      }
+    },
+    {
+      "id": "robin-schulz",
+      "name": "Robin Schulz",
+      "country": "DE",
+      "topic": {
+        "es": "Música electrónica (DJ)",
+        "en": "Electronic music (DJ)",
+        "pt": "Música eletrônica (DJ)",
+        "fr": "Musique électronique (DJ)",
+        "de": "Elektronische Musik (DJ)",
+        "ru": "Электронная музыка (диджей)",
+        "ar": "الموسيقى الإلكترونية (دي جي)",
+        "hi": "इलेक्ट्रॉनिक संगीत (डीजे)",
+        "zh": "电子音乐（DJ）",
+        "ja": "エレクトロニックミュージック（DJ）"
+      },
+      "about": {
+        "es": "Robin Schulz es un DJ y productor alemán de música electrónica, conocido por remezclas y éxitos globales como \"Prayer in C\" y \"Sugar\", que lo llevaron a lo más alto de las listas en múltiples países.",
+        "en": "Robin Schulz is a German electronic music DJ and producer, known for remixes and global hits like \"Prayer in C\" and \"Sugar,\" which topped charts in multiple countries.",
+        "pt": "Robin Schulz é um DJ e produtor alemão de música eletrônica, conhecido por remixes e sucessos globais como \"Prayer in C\" e \"Sugar\", que o levaram ao topo das paradas em vários países.",
+        "fr": "Robin Schulz est un DJ et producteur allemand de musique électronique, connu pour ses remixes et ses succès mondiaux comme « Prayer in C » et « Sugar », qui l'ont propulsé en tête des classements dans plusieurs pays.",
+        "de": "Robin Schulz ist ein deutscher DJ und Produzent elektronischer Musik, bekannt für Remixe und weltweite Hits wie „Prayer in C“ und „Sugar“, die ihn in mehreren Ländern an die Chartspitze brachten.",
+        "ru": "Робин Шульц — немецкий диджей и продюсер электронной музыки, известный ремиксами и мировыми хитами «Prayer in C» и «Sugar», возглавившими чарты во многих странах.",
+        "ar": "روبن شولتس دي جي ومنتج ألماني للموسيقى الإلكترونية، اشتهر بالريمكسات وأغانٍ عالمية ناجحة مثل \"Prayer in C\" و\"Sugar\"، التي تصدّرت القوائم في عدة دول.",
+        "hi": "रॉबिन शुल्त्स एक जर्मन इलेक्ट्रॉनिक संगीत डीजे और निर्माता हैं, जो रीमिक्स और \"Prayer in C\" तथा \"Sugar\" जैसे वैश्विक हिट गानों के लिए जाने जाते हैं, जिन्होंने कई देशों के चार्ट में शीर्ष स्थान हासिल किया।",
+        "zh": "罗宾·舒尔茨是德国电子音乐DJ兼制作人，以混音作品和《Prayer in C》《Sugar》等全球热门歌曲闻名，这些歌曲曾在多个国家登顶排行榜。",
+        "ja": "ロビン・シュルツはドイツ出身のエレクトロニックミュージックDJ・プロデューサーで、リミックス作品と「Prayer in C」「Sugar」などの世界的ヒット曲で知られ、複数の国でチャート首位を獲得した。"
+      },
+      "handles": {
+        "youtube": "UCLVVBWrp9jw4-SYUoU42hcg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (curado a mano, verificado en vivo el 2026-09-29T15:39:50.740Z)",
+        "followers": {
+          "youtube": 3800000
         }
       }
     }
