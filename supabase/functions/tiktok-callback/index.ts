@@ -76,11 +76,16 @@ Deno.serve(async (req) => {
       return redirectTo(`/es/creador/?tiktok=error`);
     }
 
-    const userRes = await fetch("https://open.tiktokapis.com/v2/user/info/?fields=username", {
+    // "username" requiere el scope user.info.profile (no solicitado); con
+    // user.info.basic solo viene display_name, así que usamos ese.
+    const userRes = await fetch("https://open.tiktokapis.com/v2/user/info/?fields=display_name", {
       headers: { Authorization: `Bearer ${accessToken}` },
     });
+    if (!userRes.ok) {
+      console.error("tiktok user/info failed", userRes.status, await userRes.text());
+    }
     const userData = userRes.ok ? await userRes.json() : null;
-    const username: string = userData?.data?.user?.username ?? "";
+    const username: string = userData?.data?.user?.display_name ?? "";
 
     const encryptedRefreshToken = await encrypt(refreshToken, tokenKey);
 
