@@ -728,6 +728,62 @@
       "followers": 655000,
       "source": "https://www.youtube.com/channel/UCeTP2LZq7pO0p5OAXPLj28Q (YouTube Data API v3)",
       "date": "2026-10-01"
+    },
+    {
+      "id": "noor-stars",
+      "platform": "youtube",
+      "followers": 22500000,
+      "source": "https://www.youtube.com/channel/UChOPyo-uWLVi5uO53mSBX-w (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "khalid-al-ameri",
+      "platform": "youtube",
+      "followers": 6410000,
+      "source": "https://www.youtube.com/channel/UCZE_XnY_UazcRILVru7znDw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "abtalks",
+      "platform": "youtube",
+      "followers": 3670000,
+      "source": "https://www.youtube.com/channel/UCUgpEOv92-iovYJWZi7tT6A (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "ali-al-hamoudi",
+      "platform": "youtube",
+      "followers": 2630000,
+      "source": "https://www.youtube.com/channel/UCA6VNcthvobYO48O1AIMQQg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "uae-skills",
+      "platform": "youtube",
+      "followers": 2240000,
+      "source": "https://www.youtube.com/channel/UCAzn57kYHp_8fjwaRzgsp6Q (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "king-madness",
+      "platform": "youtube",
+      "followers": 2030000,
+      "source": "https://www.youtube.com/channel/UCo8sWcs031pCoOFJunsjo2g (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "khaled-alkhaaldi",
+      "platform": "youtube",
+      "followers": 1050000,
+      "source": "https://www.youtube.com/channel/UCf91z8gY0ffMHqXcB_jMiKg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "shihabkoo",
+      "platform": "youtube",
+      "followers": 1220000,
+      "source": "https://www.youtube.com/channel/UC8_BeyhEAWO7S11bGvqntdg (YouTube Data API v3)",
+      "date": "2026-10-01"
     }
   ]
 }
