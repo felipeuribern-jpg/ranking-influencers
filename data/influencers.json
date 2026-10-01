@@ -23584,6 +23584,1626 @@
           "youtube": 6480000
         }
       }
+    },
+    {
+      "id": "calixto-serna",
+      "name": "Calixto Serna – México Cooking Club",
+      "country": "MX",
+      "topic": {
+        "es": "Cocina y gastronomía",
+        "en": "Cooking and food",
+        "pt": "Culinária e gastronomia",
+        "fr": "Cuisine et gastronomie",
+        "de": "Kochen und Esskultur",
+        "ru": "Кулинария и гастрономия",
+        "ar": "الطبخ والمأكولات",
+        "hi": "खाना पकाना और खान-पान",
+        "zh": "烹饪与美食",
+        "ja": "料理とグルメ"
+      },
+      "about": {
+        "es": "Publica recetas y recorridos gastronómicos centrados en la cocina mexicana, como moles, chocolate y aguachile, y también prueba comida en otras ciudades.",
+        "en": "Posts recipes and food tours centered on Mexican cuisine, such as moles, chocolate and aguachile, and also tries food in other cities.",
+        "pt": "Publica receitas e roteiros gastronômicos centrados na culinária mexicana, como moles, chocolate e aguachile, e também experimenta comida em outras cidades.",
+        "fr": "Publie des recettes et des parcours gastronomiques centrés sur la cuisine mexicaine, comme les moles, le chocolat et l’aguachile, et goûte aussi la cuisine d’autres villes.",
+        "de": "Veröffentlicht Rezepte und kulinarische Touren rund um die mexikanische Küche, etwa Moles, Schokolade und Aguachile, und probiert auch Essen in anderen Städten.",
+        "ru": "Публикует рецепты и гастрономические обзоры мексиканской кухни — моле, шоколад, агуачиле — а также пробует еду в других городах.",
+        "ar": "ينشر وصفات وجولات طعام تركّز على المطبخ المكسيكي، مثل المولي والشوكولاتة والأغواتشيلي، ويجرّب الطعام في مدن أخرى.",
+        "hi": "मैक्सिकन व्यंजनों पर केंद्रित रेसिपी और फ़ूड टूर साझा करते हैं, जैसे मोले, चॉकलेट और अगुआचिले, और दूसरे शहरों का खाना भी चखते हैं।",
+        "zh": "发布以墨西哥菜为主的食谱和美食探访，如莫莱酱、巧克力和青柠鲜虾，也会品尝其他城市的美食。",
+        "ja": "モレ、チョコレート、アグアチレなどメキシコ料理を中心にレシピやグルメ探訪を投稿し、他の都市の食べ歩きも紹介している。"
+      },
+      "handles": {
+        "youtube": "UCigvm_q9Giy06xwUeIVdOoA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1410000
+        }
+      }
+    },
+    {
+      "id": "vagaboom",
+      "name": "VAGABOOM",
+      "country": "MX",
+      "topic": {
+        "es": "Viajes y comedia de pareja",
+        "en": "Travel and couple comedy",
+        "pt": "Viagens e comédia de casal",
+        "fr": "Voyages et comédie de couple",
+        "de": "Reisen und Paar-Comedy",
+        "ru": "Путешествия и юмор о семейной жизни",
+        "ar": "سفر وكوميديا الأزواج",
+        "hi": "यात्रा और कपल कॉमेडी",
+        "zh": "旅行与情侣喜剧",
+        "ja": "旅行とカップルコメディ"
+      },
+      "about": {
+        "es": "Combina videos de viajes con sketches de humor sobre la vida en pareja entre México y Suiza.",
+        "en": "Mixes travel videos with comedy sketches about life as a couple between Mexico and Switzerland.",
+        "pt": "Mistura vídeos de viagem com esquetes de humor sobre a vida a dois entre o México e a Suíça.",
+        "fr": "Mêle vidéos de voyage et sketchs humoristiques sur la vie de couple entre le Mexique et la Suisse.",
+        "de": "Verbindet Reisevideos mit Comedy-Sketchen über das Leben als Paar zwischen Mexiko und der Schweiz.",
+        "ru": "Сочетает видео о путешествиях с юмористическими скетчами о семейной жизни между Мексикой и Швейцарией.",
+        "ar": "يجمع بين فيديوهات السفر ومقاطع كوميدية عن حياة الزوجين بين المكسيك وسويسرا.",
+        "hi": "यात्रा के वीडियो को मैक्सिको और स्विट्ज़रलैंड के बीच कपल की ज़िंदगी पर हास्य स्केच के साथ जोड़ते हैं।",
+        "zh": "把旅行视频与墨西哥和瑞士之间的情侣生活喜剧小品结合在一起。",
+        "ja": "旅行動画と、メキシコとスイスを行き来する夫婦生活のコントを組み合わせて発信している。"
+      },
+      "handles": {
+        "youtube": "UCPgrd83e1TOKFs46JdFu4Gg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1370000
+        }
+      }
+    },
+    {
+      "id": "dana-lucia",
+      "name": "Dana Lucia",
+      "country": "MX",
+      "topic": {
+        "es": "Viajes y cultura",
+        "en": "Travel and culture",
+        "pt": "Viagens e cultura",
+        "fr": "Voyages et culture",
+        "de": "Reisen und Kultur",
+        "ru": "Путешествия и культура",
+        "ar": "سفر وثقافة",
+        "hi": "यात्रा और संस्कृति",
+        "zh": "旅行与文化",
+        "ja": "旅行と文化"
+      },
+      "about": {
+        "es": "Documenta viajes por países como Rusia y Albania, mostrando la vida cotidiana, la comida y las costumbres locales.",
+        "en": "Documents trips through countries such as Russia and Albania, showing everyday life, food and local customs.",
+        "pt": "Documenta viagens por países como Rússia e Albânia, mostrando o cotidiano, a comida e os costumes locais.",
+        "fr": "Documente ses voyages dans des pays comme la Russie et l’Albanie, en montrant le quotidien, la cuisine et les coutumes locales.",
+        "de": "Dokumentiert Reisen durch Länder wie Russland und Albanien und zeigt Alltag, Essen und lokale Bräuche.",
+        "ru": "Снимает поездки по таким странам, как Россия и Албания, показывая повседневную жизнь, еду и местные обычаи.",
+        "ar": "توثّق رحلات في دول مثل روسيا وألبانيا، وتعرض الحياة اليومية والطعام والعادات المحلية.",
+        "hi": "रूस और अल्बानिया जैसे देशों की यात्राओं को दर्ज करती हैं और रोज़मर्रा की ज़िंदगी, खाना और स्थानीय रीति-रिवाज दिखाती हैं।",
+        "zh": "记录在俄罗斯、阿尔巴尼亚等国家的旅行，展现当地的日常生活、美食和风俗。",
+        "ja": "ロシアやアルバニアなどを旅し、現地の日常生活や食べ物、習慣を紹介している。"
+      },
+      "handles": {
+        "youtube": "UC9F7S5cKYH5e1Oj2FZz9bVw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1930000
+        }
+      }
+    },
+    {
+      "id": "max-y-noelia",
+      "name": "Max y Noelia",
+      "country": "MX",
+      "topic": {
+        "es": "Viajes por China",
+        "en": "Travel in China",
+        "pt": "Viagens pela China",
+        "fr": "Voyages en Chine",
+        "de": "Reisen durch China",
+        "ru": "Путешествия по Китаю",
+        "ar": "السفر في الصين",
+        "hi": "चीन की यात्रा",
+        "zh": "中国旅行",
+        "ja": "中国の旅"
+      },
+      "about": {
+        "es": "Recorre distintas regiones de China, desde la Gran Muralla hasta Urumqi y Hotan, y muestra cómo se vive en cada lugar.",
+        "en": "Travels through different regions of China, from the Great Wall to Urumqi and Hotan, showing how people live in each place.",
+        "pt": "Percorre diferentes regiões da China, da Grande Muralha a Urumqi e Hotan, mostrando como se vive em cada lugar.",
+        "fr": "Parcourt différentes régions de Chine, de la Grande Muraille à Urumqi et Hotan, et montre la vie quotidienne de chaque endroit.",
+        "de": "Bereist verschiedene Regionen Chinas, von der Großen Mauer bis Ürümqi und Hotan, und zeigt, wie die Menschen dort leben.",
+        "ru": "Путешествует по разным регионам Китая — от Великой стены до Урумчи и Хотана — и показывает, как живут люди в каждом месте.",
+        "ar": "يتجوّل في مناطق مختلفة من الصين، من سور الصين العظيم إلى أورومتشي وخوتان، ويعرض طريقة العيش في كل مكان.",
+        "hi": "चीन के अलग-अलग इलाकों की यात्रा करते हैं, ग्रेट वॉल से उरुमकी और होतान तक, और दिखाते हैं कि हर जगह लोग कैसे रहते हैं।",
+        "zh": "走访中国各地，从长城到乌鲁木齐和和田，展示各地的生活方式。",
+        "ja": "万里の長城からウルムチ、ホータンまで中国各地を巡り、それぞれの土地での暮らしを紹介している。"
+      },
+      "handles": {
+        "youtube": "UCgQYtqm1xB2uuNZaOniCH0Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 7800000
+        }
+      }
+    },
+    {
+      "id": "jdaniel",
+      "name": "JDaniel",
+      "country": "MX",
+      "topic": {
+        "es": "Retos y experimentos",
+        "en": "Challenges and experiments",
+        "pt": "Desafios e experimentos",
+        "fr": "Défis et expériences",
+        "de": "Challenges und Experimente",
+        "ru": "Челленджи и эксперименты",
+        "ar": "تحديات وتجارب",
+        "hi": "चैलेंज और प्रयोग",
+        "zh": "挑战与实验",
+        "ja": "チャレンジと実験"
+      },
+      "about": {
+        "es": "Publica retos y comparaciones cotidianas, como pasar la noche en un lugar inusual o probar qué servicio es más rápido.",
+        "en": "Posts everyday challenges and comparisons, such as spending the night somewhere unusual or testing which service is faster.",
+        "pt": "Publica desafios e comparações do dia a dia, como passar a noite em um lugar incomum ou testar qual serviço é mais rápido.",
+        "fr": "Publie des défis et des comparaisons du quotidien, comme passer la nuit dans un endroit insolite ou tester quel service est le plus rapide.",
+        "de": "Veröffentlicht Alltagschallenges und Vergleiche, etwa eine Nacht an einem ungewöhnlichen Ort zu verbringen oder zu testen, welcher Service schneller ist.",
+        "ru": "Публикует бытовые челленджи и сравнения, например ночёвку в необычном месте или проверку, какой сервис быстрее.",
+        "ar": "ينشر تحديات ومقارنات من الحياة اليومية، مثل قضاء الليل في مكان غير مألوف أو اختبار أي خدمة أسرع.",
+        "hi": "रोज़मर्रा के चैलेंज और तुलनाएँ पोस्ट करते हैं, जैसे किसी अनोखी जगह रात बिताना या यह जाँचना कि कौन-सी सेवा तेज़ है।",
+        "zh": "发布日常挑战和对比，例如在不寻常的地方过夜，或测试哪项服务更快。",
+        "ja": "変わった場所で一晩過ごす、どのサービスが速いか比べるなど、身近なチャレンジや比較動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCcrwHnSlK1pwESr6hknupIA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 6430000
+        }
+      }
+    },
+    {
+      "id": "jonbtc",
+      "name": "Jonbtc",
+      "country": "ES",
+      "topic": {
+        "es": "Videojuegos",
+        "en": "Video games",
+        "pt": "Videogames",
+        "fr": "Jeux vidéo",
+        "de": "Videospiele",
+        "ru": "Видеоигры",
+        "ar": "ألعاب الفيديو",
+        "hi": "वीडियो गेम",
+        "zh": "电子游戏",
+        "ja": "ビデオゲーム"
+      },
+      "about": {
+        "es": "Sube vídeos diarios de videojuegos en línea, con trucos, retos y recorridos por nuevos mundos y zonas.",
+        "en": "Uploads daily videos of online video games, with tricks, challenges and walkthroughs of new worlds and zones.",
+        "pt": "Publica vídeos diários de jogos on-line, com truques, desafios e passeios por novos mundos e zonas.",
+        "fr": "Publie chaque jour des vidéos de jeux en ligne, avec astuces, défis et visites de nouveaux mondes et zones.",
+        "de": "Lädt täglich Videos zu Online-Spielen hoch, mit Tricks, Challenges und Rundgängen durch neue Welten und Zonen.",
+        "ru": "Ежедневно выкладывает видео по онлайн-играм: хитрости, челленджи и прохождение новых миров и зон.",
+        "ar": "ينشر يوميًا فيديوهات لألعاب إلكترونية عبر الإنترنت، مع حيل وتحديات وجولات في عوالم ومناطق جديدة.",
+        "hi": "ऑनलाइन वीडियो गेम के रोज़ाना वीडियो डालते हैं, जिनमें ट्रिक्स, चैलेंज और नई दुनियाओं व ज़ोन की सैर होती है।",
+        "zh": "每天发布网络游戏视频，包含技巧、挑战以及新世界和新区域的通关。",
+        "ja": "毎日オンラインゲームの動画を投稿し、コツやチャレンジ、新しいワールドやエリアの攻略を紹介している。"
+      },
+      "handles": {
+        "youtube": "UCIkoPdb6_lhL-Tgh6Ly2lVg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 10000000
+        }
+      }
+    },
+    {
+      "id": "alex-fidalgo",
+      "name": "Alex Fidalgo",
+      "country": "ES",
+      "topic": {
+        "es": "Podcast y conversación",
+        "en": "Podcast and conversation",
+        "pt": "Podcast e conversa",
+        "fr": "Podcast et conversation",
+        "de": "Podcast und Gespräche",
+        "ru": "Подкаст и беседы",
+        "ar": "بودكاست وحوارات",
+        "hi": "पॉडकास्ट और बातचीत",
+        "zh": "播客与访谈",
+        "ja": "ポッドキャストと対談"
+      },
+      "about": {
+        "es": "Presenta un podcast de conversaciones largas sobre temas como la paternidad, la salud mental y la tecnología.",
+        "en": "Hosts a podcast of long conversations on topics such as parenting, mental health and technology.",
+        "pt": "Apresenta um podcast de conversas longas sobre temas como paternidade, saúde mental e tecnologia.",
+        "fr": "Présente un podcast de longues conversations sur des thèmes comme la parentalité, la santé mentale et la technologie.",
+        "de": "Moderiert einen Podcast mit langen Gesprächen über Themen wie Elternschaft, psychische Gesundheit und Technologie.",
+        "ru": "Ведёт подкаст с длинными беседами на темы воспитания детей, психического здоровья и технологий.",
+        "ar": "يقدّم بودكاست بحوارات طويلة حول موضوعات مثل الأبوة والصحة النفسية والتكنولوجيا.",
+        "hi": "लंबी बातचीत वाला पॉडकास्ट चलाते हैं, जिसमें पालन-पोषण, मानसिक स्वास्थ्य और तकनीक जैसे विषय होते हैं।",
+        "zh": "主持长篇对话播客，话题包括育儿、心理健康和科技。",
+        "ja": "子育て、メンタルヘルス、テクノロジーなどをテーマにした長尺の対談ポッドキャストを配信している。"
+      },
+      "handles": {
+        "youtube": "UCcpOe_g8sfr2GSoLZISy6yA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1070000
+        }
+      }
+    },
+    {
+      "id": "martina-tu-bella-amiga",
+      "name": "Martina tu bella amiga",
+      "country": "AR",
+      "topic": {
+        "es": "Chismes y espectáculos",
+        "en": "Celebrity gossip and entertainment",
+        "pt": "Fofocas e entretenimento",
+        "fr": "Potins et people",
+        "de": "Promi-Klatsch und Unterhaltung",
+        "ru": "Светские сплетни и шоу-бизнес",
+        "ar": "أخبار المشاهير والترفيه",
+        "hi": "सेलेब्रिटी गपशप और मनोरंजन",
+        "zh": "明星八卦与娱乐",
+        "ja": "芸能ゴシップとエンタメ"
+      },
+      "about": {
+        "es": "Comenta con humor las novedades de la farándula argentina e internacional y cuenta anécdotas cotidianas.",
+        "en": "Comments with humor on Argentine and international celebrity news and tells everyday anecdotes.",
+        "pt": "Comenta com humor as novidades do mundo das celebridades argentinas e internacionais e conta histórias do dia a dia.",
+        "fr": "Commente avec humour l’actualité des célébrités argentines et internationales et raconte des anecdotes du quotidien.",
+        "de": "Kommentiert mit Humor die Neuigkeiten aus der argentinischen und internationalen Promiwelt und erzählt Alltagsanekdoten.",
+        "ru": "С юмором комментирует новости аргентинских и мировых знаменитостей и рассказывает бытовые истории.",
+        "ar": "تعلّق بفكاهة على أخبار المشاهير في الأرجنتين والعالم وتروي حكايات من الحياة اليومية.",
+        "hi": "अर्जेंटीना और दुनिया की सेलेब्रिटी ख़बरों पर हास्य के साथ टिप्पणी करती हैं और रोज़मर्रा के किस्से सुनाती हैं।",
+        "zh": "以幽默的方式点评阿根廷和国际娱乐圈新闻，也讲述日常趣事。",
+        "ja": "アルゼンチンや海外の芸能ニュースをユーモアを交えて解説し、日常のエピソードも語っている。"
+      },
+      "handles": {
+        "youtube": "UCgC9zpiCwwSUPMNF3wMxX8g",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1030000
+        }
+      }
+    },
+    {
+      "id": "aqueles-caras",
+      "name": "Aqueles Caras",
+      "country": "BR",
+      "topic": {
+        "es": "Humor y desafíos",
+        "en": "Comedy and challenges",
+        "pt": "Humor e desafios",
+        "fr": "Humour et défis",
+        "de": "Comedy und Challenges",
+        "ru": "Юмор и челленджи",
+        "ar": "كوميديا وتحديات",
+        "hi": "हास्य और चैलेंज",
+        "zh": "搞笑与挑战",
+        "ja": "お笑いとチャレンジ"
+      },
+      "about": {
+        "es": "Graba segmentos de humor y juegos con invitados, como desafíos de preguntas, juegos en grupo y dinámicas de adivinanzas.",
+        "en": "Records comedy segments and games with guests, such as quiz challenges, group games and guessing formats.",
+        "pt": "Grava quadros de humor e jogos com convidados, como desafios de perguntas, brincadeiras em grupo e dinâmicas de adivinhação.",
+        "fr": "Enregistre des sketchs et des jeux avec des invités, comme des défis de questions, des jeux de groupe et des formats de devinettes.",
+        "de": "Dreht Comedy-Formate und Spiele mit Gästen, etwa Quizduelle, Gruppenspiele und Ratespiele.",
+        "ru": "Снимает юмористические форматы и игры с гостями: викторины, групповые игры и угадайки.",
+        "ar": "يصوّر فقرات كوميدية وألعابًا مع ضيوف، مثل تحديات الأسئلة والألعاب الجماعية وألعاب التخمين.",
+        "hi": "मेहमानों के साथ हास्य सेगमेंट और खेल रिकॉर्ड करते हैं, जैसे क्विज़ चैलेंज, ग्रुप गेम और अंदाज़ा लगाने वाले फ़ॉर्मैट।",
+        "zh": "与嘉宾一起录制搞笑环节和游戏，如问答挑战、团体游戏和猜谜形式。",
+        "ja": "ゲストとともに、クイズ対決やグループゲーム、当てものなどのお笑い企画やゲーム動画を撮影している。"
+      },
+      "handles": {
+        "youtube": "UCNvpIHxl9rKaSF9O1Ao5nsQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 4780000
+        }
+      }
+    },
+    {
+      "id": "nany-flow",
+      "name": "Nany Flow",
+      "country": "DO",
+      "topic": {
+        "es": "Cortometrajes de humor y drama",
+        "en": "Comedy and drama shorts",
+        "pt": "Curtas de humor e drama",
+        "fr": "Courts métrages comiques et dramatiques",
+        "de": "Comedy- und Drama-Kurzfilme",
+        "ru": "Юмористические и драматические короткометражки",
+        "ar": "أفلام قصيرة كوميدية ودرامية",
+        "hi": "हास्य और ड्रामा लघु फ़िल्में",
+        "zh": "喜剧与剧情短片",
+        "ja": "コメディとドラマの短編"
+      },
+      "about": {
+        "es": "Publica cortometrajes actuados y por entregas sobre conflictos cotidianos, con personajes como la profesora despiadada o la jamona.",
+        "en": "Posts acted shorts, released in parts, about everyday conflicts, with characters such as the ruthless teacher or the spinster.",
+        "pt": "Publica curtas encenados e em partes sobre conflitos do cotidiano, com personagens como a professora implacável ou a solteirona.",
+        "fr": "Publie des courts métrages joués, en plusieurs parties, sur des conflits du quotidien, avec des personnages comme la professeure impitoyable ou la célibataire.",
+        "de": "Veröffentlicht gespielte Kurzfilme in mehreren Teilen über Alltagskonflikte, mit Figuren wie der gnadenlosen Lehrerin.",
+        "ru": "Публикует сыгранные короткометражки в нескольких частях о бытовых конфликтах с такими персонажами, как беспощадная учительница.",
+        "ar": "ينشر أفلامًا قصيرة تمثيلية على أجزاء عن صراعات الحياة اليومية، بشخصيات مثل المعلمة القاسية.",
+        "hi": "रोज़मर्रा के टकरावों पर आधारित अभिनय वाली लघु फ़िल्में कई भागों में डालते हैं, जिनमें बेरहम शिक्षिका जैसे किरदार होते हैं।",
+        "zh": "发布分集表演的短片，讲述日常冲突，角色包括严厉无情的女老师等。",
+        "ja": "日常の揉め事を題材にした演技ものの短編を連載形式で公開しており、冷酷な先生などのキャラクターが登場する。"
+      },
+      "handles": {
+        "youtube": "UCKK30qHz_QedLF2D3o6TZPw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 2310000
+        }
+      }
+    },
+    {
+      "id": "progetto-happiness",
+      "name": "Progetto Happiness",
+      "country": "IT",
+      "topic": {
+        "es": "Viajes y culturas del mundo",
+        "en": "Travel and world cultures",
+        "pt": "Viagens e culturas do mundo",
+        "fr": "Voyages et cultures du monde",
+        "de": "Reisen und Kulturen der Welt",
+        "ru": "Путешествия и культуры мира",
+        "ar": "سفر وثقافات العالم",
+        "hi": "यात्रा और दुनिया की संस्कृतियाँ",
+        "zh": "旅行与世界文化",
+        "ja": "旅と世界の文化"
+      },
+      "about": {
+        "es": "Documenta viajes y convivencias con comunidades de distintas culturas, desde pueblos de Namibia hasta luchadores en la India.",
+        "en": "Documents trips and stays with communities from different cultures, from villages in Namibia to wrestlers in India.",
+        "pt": "Documenta viagens e convivências com comunidades de diferentes culturas, de aldeias na Namíbia a lutadores na Índia.",
+        "fr": "Documente des voyages et des séjours auprès de communautés de cultures différentes, des villages de Namibie aux lutteurs indiens.",
+        "de": "Dokumentiert Reisen und Aufenthalte bei Gemeinschaften verschiedener Kulturen, von Dörfern in Namibia bis zu Ringern in Indien.",
+        "ru": "Снимает поездки и жизнь рядом с общинами разных культур — от деревень Намибии до борцов в Индии.",
+        "ar": "يوثّق رحلات وإقامات مع مجتمعات من ثقافات مختلفة، من قرى ناميبيا إلى المصارعين في الهند.",
+        "hi": "अलग-अलग संस्कृतियों के समुदायों के साथ यात्राएँ और प्रवास दर्ज करते हैं, नामीबिया के गाँवों से लेकर भारत के पहलवानों तक।",
+        "zh": "记录与不同文化社区共同生活的旅程，从纳米比亚的村落到印度的摔跤手。",
+        "ja": "ナミビアの村からインドのレスラーまで、さまざまな文化の人々のもとを訪ね、共に過ごす旅を記録している。"
+      },
+      "handles": {
+        "youtube": "UCCDtBHQGboy9eTvNd_KqfTA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 3230000
+        }
+      }
+    },
+    {
+      "id": "bella-fiori",
+      "name": "Bella Fiori",
+      "country": "AU",
+      "topic": {
+        "es": "Crímenes reales",
+        "en": "True crime",
+        "pt": "Crimes reais",
+        "fr": "Faits divers criminels",
+        "de": "True Crime",
+        "ru": "Реальные преступления",
+        "ar": "قضايا جنائية حقيقية",
+        "hi": "सच्चे अपराध की कहानियाँ",
+        "zh": "真实犯罪",
+        "ja": "実録犯罪"
+      },
+      "about": {
+        "es": "Narra casos criminales reales en videos de formato largo, con un episodio por caso.",
+        "en": "Narrates real criminal cases in long-form videos, one episode per case.",
+        "pt": "Narra casos criminais reais em vídeos longos, com um episódio por caso.",
+        "fr": "Raconte de vraies affaires criminelles dans des vidéos longues, un épisode par affaire.",
+        "de": "Erzählt reale Kriminalfälle in langen Videos, eine Folge pro Fall.",
+        "ru": "Рассказывает о реальных уголовных делах в длинных видео — по одному выпуску на дело.",
+        "ar": "تروي قضايا جنائية حقيقية في فيديوهات طويلة، بحلقة لكل قضية.",
+        "hi": "असली आपराधिक मामलों को लंबे वीडियो में सुनाती हैं, हर मामले पर एक एपिसोड।",
+        "zh": "以长视频讲述真实刑事案件，每个案件一集。",
+        "ja": "実際の犯罪事件を長尺動画で語り、1事件につき1本を公開している。"
+      },
+      "handles": {
+        "youtube": "UCaezsZGhwWgB4ZRmHNCfIyw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 2610000
+        }
+      }
+    },
+    {
+      "id": "matt-does-fitness",
+      "name": "MattDoesFitness",
+      "country": "GB",
+      "topic": {
+        "es": "Fitness y comida",
+        "en": "Fitness and food",
+        "pt": "Fitness e comida",
+        "fr": "Fitness et alimentation",
+        "de": "Fitness und Essen",
+        "ru": "Фитнес и еда",
+        "ar": "لياقة وطعام",
+        "hi": "फ़िटनेस और खाना",
+        "zh": "健身与美食",
+        "ja": "フィットネスとフード"
+      },
+      "about": {
+        "es": "Combina entrenamiento, dietas y retos de comida, como recorrer una ciudad o probar postres de cadenas de comida rápida.",
+        "en": "Combines workouts, diets and food challenges, such as exploring a town or trying desserts from fast-food chains.",
+        "pt": "Combina treino, dietas e desafios de comida, como explorar uma cidade ou provar sobremesas de redes de fast food.",
+        "fr": "Associe entraînement, régimes et défis culinaires, comme explorer une ville ou goûter les desserts de chaînes de restauration rapide.",
+        "de": "Verbindet Training, Ernährung und Food-Challenges, etwa eine Stadt zu erkunden oder Desserts von Fast-Food-Ketten zu probieren.",
+        "ru": "Сочетает тренировки, диеты и food-челленджи: например, исследование города или дегустацию десертов фастфуд-сетей.",
+        "ar": "يجمع بين التمارين والأنظمة الغذائية وتحديات الطعام، مثل استكشاف مدينة أو تجربة حلويات سلاسل الوجبات السريعة.",
+        "hi": "वर्कआउट, डाइट और फ़ूड चैलेंज को मिलाते हैं, जैसे किसी शहर को घूमना या फ़ास्ट-फ़ूड चेन की मिठाइयाँ चखना।",
+        "zh": "结合健身训练、饮食和美食挑战，例如探访一座城镇或试吃快餐连锁店的甜点。",
+        "ja": "トレーニングや食事法に、街を探索したりファストフードのデザートを食べ比べたりするフードチャレンジを組み合わせている。"
+      },
+      "handles": {
+        "youtube": "UCeqR0F3O1V11CiiOaJbd1pw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 2430000
+        }
+      }
+    },
+    {
+      "id": "italianbach",
+      "name": "ItalianBach",
+      "country": "GB",
+      "topic": {
+        "es": "Humor y comentario de internet",
+        "en": "Comedy and internet commentary",
+        "pt": "Humor e comentários da internet",
+        "fr": "Humour et commentaire web",
+        "de": "Comedy und Internet-Kommentare",
+        "ru": "Юмор и комментарии об интернете",
+        "ar": "كوميديا وتعليق على الإنترنت",
+        "hi": "हास्य और इंटरनेट टिप्पणी",
+        "zh": "搞笑与网络评论",
+        "ja": "お笑いとネットコメント"
+      },
+      "about": {
+        "es": "Reacciona con humor a contenido de internet y a tendencias, con formatos como «si te ríes, pierdes».",
+        "en": "Reacts with humor to internet content and trends, in formats such as “you laugh, you lose.”",
+        "pt": "Reage com humor a conteúdos e tendências da internet, em formatos como «quem rir perde».",
+        "fr": "Réagit avec humour aux contenus et aux tendances du web, dans des formats comme « tu ris, tu perds ».",
+        "de": "Reagiert humorvoll auf Internetinhalte und Trends, in Formaten wie „Wer lacht, verliert“.",
+        "ru": "С юмором реагирует на интернет-контент и тренды в форматах вроде «кто засмеётся — проиграл».",
+        "ar": "يتفاعل بفكاهة مع محتوى الإنترنت والاتجاهات، بصيغ مثل «من يضحك يخسر».",
+        "hi": "इंटरनेट कंटेंट और ट्रेंड्स पर हास्य के साथ प्रतिक्रिया देते हैं, जैसे «हँसे तो हारे» वाले फ़ॉर्मैट में।",
+        "zh": "以幽默方式回应网络内容和潮流，形式包括“笑了就输”。",
+        "ja": "ネット上のコンテンツやトレンドに「笑ったら負け」などの形式でユーモラスに反応している。"
+      },
+      "handles": {
+        "youtube": "UCoNCiBqr3p5ZRCGybtFRcPg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1510000
+        }
+      }
+    },
+    {
+      "id": "lydia-elise-millen",
+      "name": "Lydia Elise Millen",
+      "country": "GB",
+      "topic": {
+        "es": "Estilo de vida y belleza",
+        "en": "Lifestyle and beauty",
+        "pt": "Estilo de vida e beleza",
+        "fr": "Style de vie et beauté",
+        "de": "Lifestyle und Beauty",
+        "ru": "Образ жизни и красота",
+        "ar": "أسلوب حياة وجمال",
+        "hi": "लाइफ़स्टाइल और ब्यूटी",
+        "zh": "生活方式与美妆",
+        "ja": "ライフスタイルと美容"
+      },
+      "about": {
+        "es": "Comparte vlogs, consejos de belleza y estilo, y compras de bolsos y moda, con un enfoque en una vida elegante.",
+        "en": "Shares vlogs, beauty and style tips, and bag and fashion hauls, with a focus on an elegant lifestyle.",
+        "pt": "Compartilha vlogs, dicas de beleza e estilo e compras de bolsas e moda, com foco em uma vida elegante.",
+        "fr": "Partage des vlogs, des conseils beauté et style, et des hauls de sacs et de mode, autour d’un mode de vie élégant.",
+        "de": "Teilt Vlogs, Beauty- und Stiltipps sowie Taschen- und Mode-Hauls mit Fokus auf einen eleganten Lebensstil.",
+        "ru": "Делится видеоблогами, советами по красоте и стилю и обзорами покупок сумок и одежды, делая акцент на элегантный образ жизни.",
+        "ar": "تشارك فيديوهات يومية ونصائح للجمال والأناقة ومشتريات الحقائب والأزياء، مع تركيز على أسلوب حياة أنيق.",
+        "hi": "वीलॉग, ब्यूटी व स्टाइल टिप्स और बैग व फ़ैशन हॉल साझा करती हैं, जिनमें सुरुचिपूर्ण जीवनशैली पर ज़ोर रहता है।",
+        "zh": "分享Vlog、美妆与穿搭建议以及包包和时尚开箱，主打优雅的生活方式。",
+        "ja": "Vlogや美容・スタイルのアドバイス、バッグやファッションの購入紹介を通じて、上品なライフスタイルを発信している。"
+      },
+      "handles": {
+        "youtube": "UCoSjnRDZSFVp88NXE7MenLQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1040000
+        }
+      }
+    },
+    {
+      "id": "janelle-dltr",
+      "name": "janelle dltr",
+      "country": "FR",
+      "topic": {
+        "es": "Vlogs de estilo de vida",
+        "en": "Lifestyle vlogs",
+        "pt": "Vlogs de estilo de vida",
+        "fr": "Vlogs lifestyle",
+        "de": "Lifestyle-Vlogs",
+        "ru": "Лайфстайл-влоги",
+        "ar": "فيديوهات أسلوب الحياة",
+        "hi": "लाइफ़स्टाइल वीलॉग",
+        "zh": "生活方式Vlog",
+        "ja": "ライフスタイルVlog"
+      },
+      "about": {
+        "es": "Publica vlogs semanales sobre estudios, deporte, lecturas, ropa y rutinas de cuidado personal.",
+        "en": "Posts weekly vlogs about studies, sport, reading, clothes and self-care routines.",
+        "pt": "Publica vlogs semanais sobre estudos, esporte, leituras, roupas e rotinas de autocuidado.",
+        "fr": "Publie des vlogs hebdomadaires sur les études, le sport, les lectures, les vêtements et les routines de soin.",
+        "de": "Veröffentlicht wöchentliche Vlogs über Studium, Sport, Lektüre, Kleidung und Pflegeroutinen.",
+        "ru": "Выпускает еженедельные влоги об учёбе, спорте, чтении, одежде и уходе за собой.",
+        "ar": "تنشر فيديوهات أسبوعية عن الدراسة والرياضة والقراءة والملابس وروتين العناية الشخصية.",
+        "hi": "पढ़ाई, खेल, किताबों, कपड़ों और सेल्फ़-केयर रूटीन पर साप्ताहिक वीलॉग डालती हैं।",
+        "zh": "每周发布Vlog，内容涉及学习、运动、阅读、穿搭和护理日常。",
+        "ja": "勉強、スポーツ、読書、ファッション、セルフケアの習慣などを週ごとのVlogで紹介している。"
+      },
+      "handles": {
+        "youtube": "UCObjT6_9D0vIOAfVEhEbLlw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1190000
+        }
+      }
+    },
+    {
+      "id": "czajnik",
+      "name": "Czajnik",
+      "country": "PL",
+      "topic": {
+        "es": "Entretenimiento y retos",
+        "en": "Entertainment and challenges",
+        "pt": "Entretenimento e desafios",
+        "fr": "Divertissement et défis",
+        "de": "Unterhaltung und Challenges",
+        "ru": "Развлечения и челленджи",
+        "ar": "ترفيه وتحديات",
+        "hi": "मनोरंजन और चैलेंज",
+        "zh": "娱乐与挑战",
+        "ja": "エンタメとチャレンジ"
+      },
+      "about": {
+        "es": "Publica videos diarios de entretenimiento con retos y exploración urbana, como pasar la noche en un lugar abandonado.",
+        "en": "Posts daily entertainment videos with challenges and urban exploration, such as spending a night in an abandoned place.",
+        "pt": "Publica vídeos diários de entretenimento com desafios e exploração urbana, como passar a noite em um lugar abandonado.",
+        "fr": "Publie chaque jour des vidéos de divertissement avec des défis et de l’exploration urbaine, comme passer la nuit dans un lieu abandonné.",
+        "de": "Veröffentlicht täglich Unterhaltungsvideos mit Challenges und Urbex, etwa eine Nacht an einem verlassenen Ort.",
+        "ru": "Ежедневно публикует развлекательные видео с челленджами и городскими исследованиями, например ночёвкой в заброшенном месте.",
+        "ar": "ينشر يوميًا فيديوهات ترفيهية مع تحديات واستكشاف حضري، مثل قضاء ليلة في مكان مهجور.",
+        "hi": "चैलेंज और शहरी अन्वेषण वाले मनोरंजक वीडियो रोज़ाना डालते हैं, जैसे किसी परित्यक्त जगह में रात बिताना।",
+        "zh": "每天发布带有挑战和城市探险的娱乐视频，例如在废弃场所过夜。",
+        "ja": "廃墟で一晩過ごすなど、チャレンジや都市探索を盛り込んだエンタメ動画を毎日投稿している。"
+      },
+      "handles": {
+        "youtube": "UCqi4vmSjAIFdDnwjSFE6CGA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 3610000
+        }
+      }
+    },
+    {
+      "id": "becomingfilipino",
+      "name": "BecomingFilipino",
+      "country": "PH",
+      "topic": {
+        "es": "Vida y viajes en Filipinas",
+        "en": "Life and travel in the Philippines",
+        "pt": "Vida e viagens nas Filipinas",
+        "fr": "Vie et voyages aux Philippines",
+        "de": "Leben und Reisen auf den Philippinen",
+        "ru": "Жизнь и путешествия по Филиппинам",
+        "ar": "الحياة والسفر في الفلبين",
+        "hi": "फ़िलीपींस में जीवन और यात्रा",
+        "zh": "菲律宾的生活与旅行",
+        "ja": "フィリピンの暮らしと旅"
+      },
+      "about": {
+        "es": "Muestra islas, pueblos, comida y la vida de una familia en Filipinas, con visitas a lugares poco conocidos.",
+        "en": "Shows islands, towns, food and family life in the Philippines, with visits to lesser-known places.",
+        "pt": "Mostra ilhas, vilas, comida e a vida de uma família nas Filipinas, com visitas a lugares pouco conhecidos.",
+        "fr": "Montre des îles, des villages, la cuisine et la vie d’une famille aux Philippines, avec des visites de lieux peu connus.",
+        "de": "Zeigt Inseln, Orte, Essen und das Familienleben auf den Philippinen, mit Besuchen an weniger bekannten Orten.",
+        "ru": "Показывает острова, города, еду и семейную жизнь на Филиппинах, а также малоизвестные места.",
+        "ar": "يعرض جزرًا وبلدات وطعامًا وحياة أسرة في الفلبين، مع زيارات لأماكن قليلة الشهرة.",
+        "hi": "फ़िलीपींस के द्वीप, कस्बे, खाना और एक परिवार की ज़िंदगी दिखाते हैं, कम जाने-पहचाने स्थानों की सैर के साथ।",
+        "zh": "展示菲律宾的岛屿、小镇、美食和一个家庭的生活，并走访不太知名的地方。",
+        "ja": "フィリピンの島や町、食べ物、家族の暮らしを紹介し、あまり知られていない場所も訪ねている。"
+      },
+      "handles": {
+        "youtube": "UCqdBWKP4_8bU-Rsk2LvVz6Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1160000
+        }
+      }
+    },
+    {
+      "id": "jatie-vlogs",
+      "name": "Jatie Vlogs",
+      "country": "US",
+      "topic": {
+        "es": "Vlogs familiares",
+        "en": "Family vlogs",
+        "pt": "Vlogs de família",
+        "fr": "Vlogs de famille",
+        "de": "Familien-Vlogs",
+        "ru": "Семейные влоги",
+        "ar": "فيديوهات عائلية",
+        "hi": "पारिवारिक वीलॉग",
+        "zh": "家庭Vlog",
+        "ja": "ファミリーVlog"
+      },
+      "about": {
+        "es": "Publica vlogs de una pareja con hijos pequeños, con viajes, compras y momentos cotidianos en tono de humor.",
+        "en": "Posts vlogs from a couple with young children, with trips, shopping and everyday moments in a humorous tone.",
+        "pt": "Publica vlogs de um casal com filhos pequenos, com viagens, compras e momentos do dia a dia em tom de humor.",
+        "fr": "Publie les vlogs d’un couple avec de jeunes enfants : voyages, courses et moments du quotidien sur un ton humoristique.",
+        "de": "Veröffentlicht Vlogs eines Paares mit kleinen Kindern, mit Reisen, Einkäufen und Alltagsmomenten im humorvollen Ton.",
+        "ru": "Публикует влоги пары с маленькими детьми: поездки, покупки и повседневные моменты с юмором.",
+        "ar": "تنشر فيديوهات يومية لزوجين لديهما أطفال صغار، تتضمن رحلات ومشتريات ولحظات يومية بروح مرحة.",
+        "hi": "छोटे बच्चों वाले एक दंपति के वीलॉग डालते हैं, जिनमें यात्राएँ, ख़रीदारी और रोज़मर्रा के पल हास्य के अंदाज़ में होते हैं।",
+        "zh": "发布一对带着年幼孩子的夫妻的Vlog，包含旅行、购物和轻松幽默的日常瞬间。",
+        "ja": "幼い子どもを持つ夫婦のVlogを投稿し、旅行や買い物、日常の出来事をユーモアを交えて紹介している。"
+      },
+      "handles": {
+        "youtube": "UCnM1ay_QoQOpa1N2iejLA7A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 3730000
+        }
+      }
+    },
+    {
+      "id": "tilly-oddy-black",
+      "name": "Tilly Oddy-Black",
+      "country": "AU",
+      "topic": {
+        "es": "Humor cotidiano y vida familiar",
+        "en": "Everyday comedy and family life",
+        "pt": "Humor do dia a dia e vida em família",
+        "fr": "Humour du quotidien et vie de famille",
+        "de": "Alltagscomedy und Familienleben",
+        "ru": "Бытовой юмор и семейная жизнь",
+        "ar": "كوميديا يومية وحياة عائلية",
+        "hi": "रोज़मर्रा का हास्य और पारिवारिक जीवन",
+        "zh": "日常搞笑与家庭生活",
+        "ja": "日常コメディと家族の暮らし"
+      },
+      "about": {
+        "es": "Publica videos cortos de humor «con los que todos se identifican» sobre la crianza, las citas y la vida en pareja, a menudo junto a otro creador.",
+        "en": "Posts short, relatable comedy videos about parenting, dating and relationships, often alongside another creator.",
+        "pt": "Publica vídeos curtos de humor com os quais muita gente se identifica, sobre criação de filhos, encontros e relacionamentos, muitas vezes ao lado de outro criador.",
+        "fr": "Publie de courtes vidéos d’humour auxquelles on s’identifie, sur l’éducation des enfants, les rencontres et le couple, souvent avec un autre créateur.",
+        "de": "Veröffentlicht kurze, nahbare Comedy-Videos über Kindererziehung, Dating und Beziehungen, oft gemeinsam mit einem anderen Creator.",
+        "ru": "Публикует короткие юмористические ролики, в которых многие узнают себя, о воспитании детей, свиданиях и отношениях, часто вместе с другим автором.",
+        "ar": "تنشر مقاطع كوميدية قصيرة يتعرّف فيها كثيرون على أنفسهم، عن تربية الأطفال والمواعدة والعلاقات، وغالبًا مع صانع محتوى آخر.",
+        "hi": "पालन-पोषण, डेटिंग और रिश्तों पर छोटे, अपने-से लगने वाले हास्य वीडियो डालती हैं, अक्सर किसी दूसरे क्रिएटर के साथ।",
+        "zh": "发布关于育儿、约会和感情关系的短篇搞笑视频，让人感同身受，常与另一位创作者合作。",
+        "ja": "子育てやデート、恋愛関係をテーマにした「あるある」系の短いコメディ動画を、他のクリエイターと一緒に投稿することも多い。"
+      },
+      "handles": {
+        "youtube": "UC5VAemP3DbsLRhV77pZQ4GA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 481000
+        }
+      }
+    },
+    {
+      "id": "camilo-cifuentes",
+      "name": "Camilo Cifuentes",
+      "country": "CO",
+      "topic": {
+        "es": "Ayuda comunitaria y eventos",
+        "en": "Community giving and events",
+        "pt": "Ajuda comunitária e eventos",
+        "fr": "Aide communautaire et événements",
+        "de": "Gemeinschaftshilfe und Events",
+        "ru": "Помощь людям и мероприятия",
+        "ar": "مساعدة المجتمع وفعاليات",
+        "hi": "सामुदायिक मदद और कार्यक्रम",
+        "zh": "社区援助与活动",
+        "ja": "地域支援とイベント"
+      },
+      "about": {
+        "es": "Reparte comida en la calle y organiza eventos con otros creadores de contenido en ciudades de Colombia.",
+        "en": "Hands out food on the street and organizes events with other content creators in Colombian cities.",
+        "pt": "Distribui comida na rua e organiza eventos com outros criadores de conteúdo em cidades da Colômbia.",
+        "fr": "Distribue de la nourriture dans la rue et organise des événements avec d’autres créateurs dans des villes colombiennes.",
+        "de": "Verteilt Essen auf der Straße und organisiert Veranstaltungen mit anderen Creatorn in kolumbianischen Städten.",
+        "ru": "Раздаёт еду на улицах и организует мероприятия с другими авторами в городах Колумбии.",
+        "ar": "يوزّع الطعام في الشوارع وينظّم فعاليات مع صنّاع محتوى آخرين في مدن كولومبية.",
+        "hi": "सड़क पर खाना बाँटते हैं और कोलंबिया के शहरों में दूसरे कंटेंट क्रिएटर्स के साथ कार्यक्रम आयोजित करते हैं।",
+        "zh": "在街头分发食物，并与其他创作者在哥伦比亚各城市举办活动。",
+        "ja": "路上で食べ物を配り、コロンビアの各都市で他のクリエイターとイベントを開いている。"
+      },
+      "handles": {
+        "youtube": "UCL2SMaFfiLJIGikm9u5LN8Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 1080000
+        }
+      }
+    },
+    {
+      "id": "watafak",
+      "name": "Watafak",
+      "country": "DO",
+      "topic": {
+        "es": "Humor y sketches",
+        "en": "Comedy sketches",
+        "pt": "Humor e esquetes",
+        "fr": "Humour et sketchs",
+        "de": "Comedy-Sketche",
+        "ru": "Юмор и скетчи",
+        "ar": "كوميديا ومقاطع تمثيلية",
+        "hi": "हास्य और स्केच",
+        "zh": "搞笑小品",
+        "ja": "コメディとコント"
+      },
+      "about": {
+        "es": "Publica sketches cortos de humor con situaciones cotidianas de la vida en pareja y en familia.",
+        "en": "Posts short comedy sketches built around everyday couple and family situations.",
+        "pt": "Publica esquetes curtos de humor com situações cotidianas da vida de casal e de família.",
+        "fr": "Publie de courts sketchs humoristiques autour de situations quotidiennes de couple et de famille.",
+        "de": "Veröffentlicht kurze Comedy-Sketche zu alltäglichen Situationen in Beziehung und Familie.",
+        "ru": "Публикует короткие юмористические скетчи о повседневных ситуациях в паре и в семье.",
+        "ar": "ينشر مقاطع كوميدية قصيرة عن مواقف يومية في حياة الزوجين والأسرة.",
+        "hi": "पति-पत्नी और परिवार की रोज़मर्रा की स्थितियों पर छोटे हास्य स्केच डालते हैं।",
+        "zh": "发布围绕夫妻和家庭日常情景的搞笑短剧。",
+        "ja": "夫婦や家族の日常のシチュエーションを題材にした短いコントを投稿している。"
+      },
+      "handles": {
+        "youtube": "UCo2tJ_0XvfZ3CDnTmTNVjDA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 538000
+        }
+      }
+    },
+    {
+      "id": "tibi-jones",
+      "name": "Tibi Jones",
+      "country": "FR",
+      "topic": {
+        "es": "Viajes y aventuras",
+        "en": "Travel and adventure",
+        "pt": "Viagens e aventuras",
+        "fr": "Voyages et aventures",
+        "de": "Reisen und Abenteuer",
+        "ru": "Путешествия и приключения",
+        "ar": "سفر ومغامرات",
+        "hi": "यात्रा और रोमांच",
+        "zh": "旅行与探险",
+        "ja": "旅と冒険"
+      },
+      "about": {
+        "es": "Viaja a lugares poco habituales, como islas muy pobres, barrios considerados peligrosos y rituales locales, y cuenta lo que ve.",
+        "en": "Travels to unusual places, such as very poor islands, neighborhoods considered dangerous and local rituals, and shows what he sees.",
+        "pt": "Viaja a lugares pouco comuns, como ilhas muito pobres, bairros considerados perigosos e rituais locais, e mostra o que encontra.",
+        "fr": "Voyage dans des lieux peu communs, comme des îles très pauvres, des quartiers réputés dangereux et des rituels locaux, et montre ce qu’il y découvre.",
+        "de": "Reist an ungewöhnliche Orte, etwa sehr arme Inseln, als gefährlich geltende Viertel und lokale Rituale, und zeigt, was er dort erlebt.",
+        "ru": "Путешествует в необычные места — на очень бедные острова, в районы с репутацией опасных, на местные ритуалы — и показывает увиденное.",
+        "ar": "يسافر إلى أماكن غير مألوفة، مثل جزر شديدة الفقر وأحياء تُعتبر خطرة وطقوس محلية، ويعرض ما يراه.",
+        "hi": "असामान्य जगहों की यात्रा करते हैं, जैसे बहुत गरीब द्वीप, ख़तरनाक माने जाने वाले मोहल्ले और स्थानीय रीति-रिवाज, और जो देखते हैं वह दिखाते हैं।",
+        "zh": "前往不寻常的地方，如极度贫困的岛屿、被认为危险的街区和当地仪式，并展示所见所闻。",
+        "ja": "非常に貧しい島、危険とされる地区、現地の儀式など、珍しい場所を訪ねて様子を伝えている。"
+      },
+      "handles": {
+        "youtube": "UCSDx1E2Z9eDv0pEgW4_yubA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 622000
+        }
+      }
+    },
+    {
+      "id": "indonesia-baru",
+      "name": "Indonesia Baru",
+      "country": "ID",
+      "topic": {
+        "es": "Sociedad y sostenibilidad",
+        "en": "Society and sustainability",
+        "pt": "Sociedade e sustentabilidade",
+        "fr": "Société et durabilité",
+        "de": "Gesellschaft und Nachhaltigkeit",
+        "ru": "Общество и устойчивое развитие",
+        "ar": "المجتمع والاستدامة",
+        "hi": "समाज और स्थिरता",
+        "zh": "社会与可持续发展",
+        "ja": "社会とサステナビリティ"
+      },
+      "about": {
+        "es": "Explica en videos temas de sociedad y medio ambiente en Indonesia, como el impacto de la industria textil en el agua y la sequía.",
+        "en": "Explains in videos social and environmental topics in Indonesia, such as the textile industry’s impact on water and drought.",
+        "pt": "Explica em vídeos temas sociais e ambientais da Indonésia, como o impacto da indústria têxtil na água e na seca.",
+        "fr": "Explique en vidéo des sujets de société et d’environnement en Indonésie, comme l’impact de l’industrie textile sur l’eau et la sécheresse.",
+        "de": "Erklärt in Videos gesellschaftliche und ökologische Themen in Indonesien, etwa die Folgen der Textilindustrie für Wasser und Dürre.",
+        "ru": "Объясняет в видео социальные и экологические темы Индонезии, например влияние текстильной промышленности на воду и засуху.",
+        "ar": "يشرح في فيديوهات قضايا اجتماعية وبيئية في إندونيسيا، مثل أثر صناعة النسيج على المياه والجفاف.",
+        "hi": "इंडोनेशिया के सामाजिक और पर्यावरणीय विषयों को वीडियो में समझाते हैं, जैसे कपड़ा उद्योग का पानी और सूखे पर असर।",
+        "zh": "通过视频讲解印度尼西亚的社会与环境话题，例如纺织业对水资源和干旱的影响。",
+        "ja": "インドネシアの社会・環境問題を動画で解説し、繊維産業が水不足や干ばつに与える影響なども取り上げている。"
+      },
+      "handles": {
+        "youtube": "UCWwLmIUsAlSxynlJDvY9THg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 329000
+        }
+      }
+    },
+    {
+      "id": "dia-gautam",
+      "name": "Dia Gautam",
+      "country": "IN",
+      "topic": {
+        "es": "Vlogs de estilo de vida y belleza",
+        "en": "Lifestyle and beauty vlogs",
+        "pt": "Vlogs de estilo de vida e beleza",
+        "fr": "Vlogs lifestyle et beauté",
+        "de": "Lifestyle- und Beauty-Vlogs",
+        "ru": "Лайфстайл- и бьюти-влоги",
+        "ar": "فيديوهات أسلوب الحياة والجمال",
+        "hi": "लाइफ़स्टाइल और ब्यूटी वीलॉग",
+        "zh": "生活方式与美妆Vlog",
+        "ja": "ライフスタイルと美容Vlog"
+      },
+      "about": {
+        "es": "Sube vlogs de viajes y de su día a día, además de rutinas de cuidado de la piel.",
+        "en": "Uploads travel and day-in-the-life vlogs along with skincare routines.",
+        "pt": "Publica vlogs de viagens e do dia a dia, além de rotinas de cuidados com a pele.",
+        "fr": "Publie des vlogs de voyage et de quotidien, ainsi que des routines de soins de la peau.",
+        "de": "Lädt Reise- und Alltagsvlogs sowie Hautpflegeroutinen hoch.",
+        "ru": "Выкладывает влоги о путешествиях и повседневной жизни, а также уходовые рутины для кожи.",
+        "ar": "تنشر فيديوهات يومية وسفر إلى جانب روتين العناية بالبشرة.",
+        "hi": "यात्रा और दिनचर्या के वीलॉग के साथ त्वचा की देखभाल की रूटीन भी डालती हैं।",
+        "zh": "发布旅行和日常Vlog，以及护肤流程分享。",
+        "ja": "旅行や日常のVlogに加えて、スキンケアのルーティンも投稿している。"
+      },
+      "handles": {
+        "youtube": "UC4F8VWMz2nF8RCHne6ADjEA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 774000
+        }
+      }
+    },
+    {
+      "id": "learn-italian-lucrezia",
+      "name": "Learn Italian with Lucrezia",
+      "country": "IT",
+      "topic": {
+        "es": "Clases de italiano",
+        "en": "Italian lessons",
+        "pt": "Aulas de italiano",
+        "fr": "Cours d’italien",
+        "de": "Italienischunterricht",
+        "ru": "Уроки итальянского",
+        "ar": "دروس اللغة الإيطالية",
+        "hi": "इतालवी भाषा की कक्षाएँ",
+        "zh": "意大利语课程",
+        "ja": "イタリア語レッスン"
+      },
+      "about": {
+        "es": "Enseña italiano con lecciones de gramática y vocabulario, algunas íntegramente en italiano, y consejos para hablar con fluidez.",
+        "en": "Teaches Italian with grammar and vocabulary lessons, some entirely in Italian, plus tips for speaking fluently.",
+        "pt": "Ensina italiano com aulas de gramática e vocabulário, algumas inteiramente em italiano, e dicas para falar com fluência.",
+        "fr": "Enseigne l’italien avec des leçons de grammaire et de vocabulaire, certaines entièrement en italien, et des conseils pour parler couramment.",
+        "de": "Unterrichtet Italienisch mit Grammatik- und Vokabellektionen, teils komplett auf Italienisch, sowie Tipps für flüssiges Sprechen.",
+        "ru": "Преподаёт итальянский: уроки грамматики и лексики, часть полностью на итальянском, и советы, как говорить свободно.",
+        "ar": "تعلّم الإيطالية بدروس في القواعد والمفردات، بعضها بالإيطالية بالكامل، مع نصائح للتحدث بطلاقة.",
+        "hi": "व्याकरण और शब्दावली के पाठों से इतालवी सिखाती हैं, कुछ पूरी तरह इतालवी में, और धाराप्रवाह बोलने के सुझाव देती हैं।",
+        "zh": "通过语法和词汇课程教授意大利语，部分课程全程使用意大利语，并提供流利表达的建议。",
+        "ja": "文法や語彙のレッスンでイタリア語を教え、イタリア語のみの回や流暢に話すためのヒントも提供している。"
+      },
+      "handles": {
+        "youtube": "UCnVc-IW8Q98qFmQcXla5FdQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 816000
+        }
+      }
+    },
+    {
+      "id": "kirari-sawamura",
+      "name": "澤村光彩【きらり】",
+      "country": "JP",
+      "topic": {
+        "es": "Cosplay y vida en directo",
+        "en": "Cosplay and live streams",
+        "pt": "Cosplay e transmissões ao vivo",
+        "fr": "Cosplay et directs",
+        "de": "Cosplay und Live-Auftritte",
+        "ru": "Косплей и прямые трансляции",
+        "ar": "كوسبلاي وبث مباشر",
+        "hi": "कॉस्प्ले और लाइव",
+        "zh": "角色扮演与直播",
+        "ja": "コスプレとライブ"
+      },
+      "about": {
+        "es": "Publica cosplays de personajes de anime y videos de sus actuaciones en directo.",
+        "en": "Posts cosplays of anime characters and videos from her live performances.",
+        "pt": "Publica cosplays de personagens de anime e vídeos de suas apresentações ao vivo.",
+        "fr": "Publie des cosplays de personnages d’anime et des vidéos de ses prestations en direct.",
+        "de": "Veröffentlicht Cosplays von Anime-Figuren und Videos von ihren Live-Auftritten.",
+        "ru": "Публикует косплей персонажей аниме и видео со своих живых выступлений.",
+        "ar": "تنشر تجسيدًا لشخصيات الأنمي بالكوسبلاي ومقاطع من عروضها المباشرة.",
+        "hi": "एनीमे किरदारों के कॉस्प्ले और अपने लाइव प्रदर्शनों के वीडियो डालती हैं।",
+        "zh": "发布动漫角色的Cosplay以及现场演出的视频。",
+        "ja": "アニメキャラクターのコスプレや、ライブ出演の様子を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCbU86dKACh3g1qiV3kMaRFQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 573000
+        }
+      }
+    },
+    {
+      "id": "todo-good",
+      "name": "Todo Good",
+      "country": "PE",
+      "topic": {
+        "es": "Podcast y entretenimiento",
+        "en": "Podcast and entertainment",
+        "pt": "Podcast e entretenimento",
+        "fr": "Podcast et divertissement",
+        "de": "Podcast und Unterhaltung",
+        "ru": "Подкаст и развлечения",
+        "ar": "بودكاست وترفيه",
+        "hi": "पॉडकास्ट और मनोरंजन",
+        "zh": "播客与娱乐",
+        "ja": "ポッドキャストとエンタメ"
+      },
+      "about": {
+        "es": "Es un podcast peruano de conversación y entretenimiento con invitados, retos mensuales y eventos.",
+        "en": "A Peruvian conversation and entertainment podcast with guests, monthly challenges and events.",
+        "pt": "É um podcast peruano de conversa e entretenimento com convidados, desafios mensais e eventos.",
+        "fr": "Un podcast péruvien de conversation et de divertissement avec des invités, des défis mensuels et des événements.",
+        "de": "Ein peruanischer Gesprächs- und Unterhaltungspodcast mit Gästen, monatlichen Challenges und Events.",
+        "ru": "Перуанский подкаст-шоу с беседами и развлечениями: гости, ежемесячные челленджи и мероприятия.",
+        "ar": "بودكاست بيروفي للحوار والترفيه مع ضيوف وتحديات شهرية وفعاليات.",
+        "hi": "यह एक पेरू का बातचीत और मनोरंजन पॉडकास्ट है, जिसमें मेहमान, मासिक चैलेंज और कार्यक्रम होते हैं।",
+        "zh": "这是一档秘鲁的对话娱乐播客，有嘉宾、每月挑战和线下活动。",
+        "ja": "ゲスト、毎月のチャレンジ、イベントを交えたペルーのトーク＆エンタメ系ポッドキャスト。"
+      },
+      "handles": {
+        "youtube": "UC-f4h9oSW5JreShkauu0m1A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 670000
+        }
+      }
+    },
+    {
+      "id": "vogule-poland",
+      "name": "Vogule Poland",
+      "country": "PL",
+      "topic": {
+        "es": "Cultura pop y comentario",
+        "en": "Pop culture commentary",
+        "pt": "Cultura pop e comentários",
+        "fr": "Culture pop et commentaires",
+        "de": "Popkultur-Kommentare",
+        "ru": "Поп-культура и комментарии",
+        "ar": "ثقافة البوب والتعليقات",
+        "hi": "पॉप कल्चर पर चर्चा",
+        "zh": "流行文化评论",
+        "ja": "ポップカルチャー解説"
+      },
+      "about": {
+        "es": "Comenta con humor la cultura pop y los famosos polacos, en formato de conversación.",
+        "en": "Comments with humor on pop culture and Polish celebrities in a conversational format.",
+        "pt": "Comenta com humor a cultura pop e os famosos poloneses em formato de conversa.",
+        "fr": "Commente avec humour la culture pop et les célébrités polonaises sous forme de conversation.",
+        "de": "Kommentiert mit Humor Popkultur und polnische Prominente im Gesprächsformat.",
+        "ru": "С юмором комментирует поп-культуру и польских знаменитостей в формате беседы.",
+        "ar": "يعلّق بفكاهة على ثقافة البوب ومشاهير بولندا بأسلوب حواري.",
+        "hi": "पॉप कल्चर और पोलैंड के सितारों पर हास्य के साथ बातचीत के अंदाज़ में टिप्पणी करते हैं।",
+        "zh": "以对话形式幽默点评流行文化和波兰名人。",
+        "ja": "ポップカルチャーやポーランドの著名人について、会話形式でユーモラスに語っている。"
+      },
+      "handles": {
+        "youtube": "UClCufEJK0FvBiMzOyZWV1ng",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 280000
+        }
+      }
+    },
+    {
+      "id": "elif-erturk",
+      "name": "Elif Ertürk",
+      "country": "TR",
+      "topic": {
+        "es": "Maquillaje y belleza",
+        "en": "Makeup and beauty",
+        "pt": "Maquiagem e beleza",
+        "fr": "Maquillage et beauté",
+        "de": "Make-up und Beauty",
+        "ru": "Макияж и красота",
+        "ar": "مكياج وجمال",
+        "hi": "मेकअप और ब्यूटी",
+        "zh": "美妆与护肤",
+        "ja": "メイクと美容"
+      },
+      "about": {
+        "es": "Publica tutoriales y consejos de maquillaje en videos cortos.",
+        "en": "Posts makeup tutorials and tips in short videos.",
+        "pt": "Publica tutoriais e dicas de maquiagem em vídeos curtos.",
+        "fr": "Publie des tutoriels et des astuces de maquillage en vidéos courtes.",
+        "de": "Veröffentlicht Make-up-Tutorials und Tipps in Kurzvideos.",
+        "ru": "Публикует уроки и советы по макияжу в коротких видео.",
+        "ar": "تنشر دروسًا ونصائح للمكياج في فيديوهات قصيرة.",
+        "hi": "छोटे वीडियो में मेकअप ट्यूटोरियल और सुझाव डालती हैं।",
+        "zh": "以短视频发布化妆教程和技巧。",
+        "ja": "メイクのやり方やコツを短い動画で紹介している。"
+      },
+      "handles": {
+        "youtube": "UCKE9XSoFKmkZTcdhSMHKLMg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 304000
+        }
+      }
+    },
+    {
+      "id": "damla-turkdagli",
+      "name": "Damla Türkdağlı",
+      "country": "TR",
+      "topic": {
+        "es": "Vlogs y decoración del hogar",
+        "en": "Vlogs and home decor",
+        "pt": "Vlogs e decoração da casa",
+        "fr": "Vlogs et décoration d’intérieur",
+        "de": "Vlogs und Wohndeko",
+        "ru": "Влоги и декор дома",
+        "ar": "فيديوهات وديكور المنزل",
+        "hi": "वीलॉग और घर की सजावट",
+        "zh": "Vlog与家居装饰",
+        "ja": "Vlogと家の装飾"
+      },
+      "about": {
+        "es": "Comparte vlogs personales, visitas a su casa nueva y episodios sobre cómo decorar una habitación.",
+        "en": "Shares personal vlogs, tours of her new home and episodes about decorating a room.",
+        "pt": "Compartilha vlogs pessoais, tours pela casa nova e episódios sobre como decorar um quarto.",
+        "fr": "Partage des vlogs personnels, des visites de sa nouvelle maison et des épisodes sur la décoration d’une pièce.",
+        "de": "Teilt persönliche Vlogs, Rundgänge durch ihr neues Zuhause und Folgen zur Zimmerdekoration.",
+        "ru": "Делится личными влогами, обзорами нового дома и выпусками о декорировании комнаты.",
+        "ar": "تشارك فيديوهات شخصية وجولات في منزلها الجديد وحلقات عن تزيين غرفة.",
+        "hi": "निजी वीलॉग, अपने नए घर का टूर और कमरे की सजावट वाले एपिसोड साझा करती हैं।",
+        "zh": "分享个人Vlog、新家参观以及布置房间的系列内容。",
+        "ja": "日常のVlogや新居のルームツアー、部屋の飾りつけの回などを公開している。"
+      },
+      "handles": {
+        "youtube": "UCDRVwlryAMajBAirBstqT2A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 264000
+        }
+      }
+    },
+    {
+      "id": "nika-karuso",
+      "name": "Nika Karuso",
+      "country": "UA",
+      "topic": {
+        "es": "Entretenimiento y retos",
+        "en": "Entertainment and challenges",
+        "pt": "Entretenimento e desafios",
+        "fr": "Divertissement et défis",
+        "de": "Unterhaltung und Challenges",
+        "ru": "Развлечения и челленджи",
+        "ar": "ترفيه وتحديات",
+        "hi": "मनोरंजन और चैलेंज",
+        "zh": "娱乐与挑战",
+        "ja": "エンタメとチャレンジ"
+      },
+      "about": {
+        "es": "Publica videos en ucraniano con retos, bromas y escenarios inusuales como piscinas con «anomalías».",
+        "en": "Posts videos in Ukrainian with challenges, jokes and unusual settings such as “anomalous” pools.",
+        "pt": "Publica vídeos em ucraniano com desafios, brincadeiras e cenários incomuns, como piscinas «anômalas».",
+        "fr": "Publie des vidéos en ukrainien avec des défis, des blagues et des décors insolites comme des piscines « anormales ».",
+        "de": "Veröffentlicht ukrainischsprachige Videos mit Challenges, Scherzen und ungewöhnlichen Schauplätzen wie „anomalen“ Pools.",
+        "ru": "Публикует видео на украинском с челленджами, шутками и необычными локациями вроде «аномальных» бассейнов.",
+        "ar": "تنشر فيديوهات بالأوكرانية مع تحديات ومقالب وأماكن غير مألوفة مثل مسابح «غير عادية».",
+        "hi": "यूक्रेनी भाषा में चैलेंज, मज़ाक और «असामान्य» स्विमिंग पूल जैसी अनोखी जगहों वाले वीडियो डालती हैं।",
+        "zh": "发布乌克兰语视频，包含挑战、恶搞以及“异常”泳池等不寻常场景。",
+        "ja": "ウクライナ語で、チャレンジやいたずら、「異常な」プールなど変わった場所を使った動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UC2za5Rfuwa4J90AALNgatUg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 312000
+        }
+      }
+    },
+    {
+      "id": "weezzy",
+      "name": "Weezzy",
+      "country": "UA",
+      "topic": {
+        "es": "Videojuegos (Minecraft)",
+        "en": "Video games (Minecraft)",
+        "pt": "Videogames (Minecraft)",
+        "fr": "Jeux vidéo (Minecraft)",
+        "de": "Videospiele (Minecraft)",
+        "ru": "Видеоигры (Minecraft)",
+        "ar": "ألعاب الفيديو (ماينكرافت)",
+        "hi": "वीडियो गेम (माइनक्राफ़्ट)",
+        "zh": "电子游戏（我的世界）",
+        "ja": "ゲーム実況（マインクラフト）"
+      },
+      "about": {
+        "es": "Sube series de Minecraft en modo Hardcore, como sobrevivir 100 días en un escenario como Chernóbil.",
+        "en": "Uploads Minecraft Hardcore series, such as surviving 100 days in a setting like Chernobyl.",
+        "pt": "Publica séries de Minecraft no modo Hardcore, como sobreviver 100 dias em um cenário como Chernobyl.",
+        "fr": "Publie des séries Minecraft en mode Hardcore, comme survivre 100 jours dans un décor type Tchernobyl.",
+        "de": "Lädt Minecraft-Hardcore-Serien hoch, etwa 100 Tage in einem Szenario wie Tschernobyl zu überleben.",
+        "ru": "Выкладывает серии по Minecraft в режиме Hardcore, например 100 дней выживания в сценарии вроде Чернобыля.",
+        "ar": "ينشر سلاسل ماينكرافت بوضع «هاردكور»، مثل البقاء 100 يوم في سيناريو يشبه تشيرنوبل.",
+        "hi": "माइनक्राफ़्ट हार्डकोर मोड की सीरीज़ डालते हैं, जैसे चेरनोबिल जैसे माहौल में 100 दिन ज़िंदा रहना।",
+        "zh": "发布我的世界极限模式系列，例如在类似切尔诺贝利的场景中生存100天。",
+        "ja": "マインクラフトのハードコードモード企画を投稿しており、チェルノブイリのような舞台で100日間生き残る内容などがある。"
+      },
+      "handles": {
+        "youtube": "UC2SAJd-6s1KtTPRDQFcd2mw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 284000
+        }
+      }
+    },
+    {
+      "id": "black-rider",
+      "name": "Black Rider",
+      "country": "UA",
+      "topic": {
+        "es": "Motocicletas",
+        "en": "Motorcycles",
+        "pt": "Motocicletas",
+        "fr": "Motos",
+        "de": "Motorräder",
+        "ru": "Мотоциклы",
+        "ar": "الدراجات النارية",
+        "hi": "मोटरसाइकिलें",
+        "zh": "摩托车",
+        "ja": "バイク"
+      },
+      "about": {
+        "es": "Hace videos en ucraniano sobre motocicletas, con pruebas, carreras y proyectos de mejora de un modelo concreto.",
+        "en": "Makes videos in Ukrainian about motorcycles, with tests, races and upgrade projects on a specific model.",
+        "pt": "Faz vídeos em ucraniano sobre motocicletas, com testes, corridas e projetos de melhoria de um modelo específico.",
+        "fr": "Réalise des vidéos en ukrainien sur les motos, avec des essais, des courses et des projets de modification d’un modèle précis.",
+        "de": "Dreht ukrainischsprachige Videos über Motorräder, mit Tests, Rennen und Umbauprojekten an einem bestimmten Modell.",
+        "ru": "Снимает видео на украинском о мотоциклах: тесты, гонки и проекты доработки конкретной модели.",
+        "ar": "يصنع فيديوهات بالأوكرانية عن الدراجات النارية، تتضمن اختبارات وسباقات ومشاريع تطوير لطراز محدد.",
+        "hi": "यूक्रेनी भाषा में मोटरसाइकिलों पर वीडियो बनाते हैं, जिनमें टेस्ट, रेस और किसी ख़ास मॉडल को सुधारने के प्रोजेक्ट होते हैं।",
+        "zh": "制作乌克兰语的摩托车视频，包含测试、比赛以及针对某款车型的改装项目。",
+        "ja": "ウクライナ語でバイクの動画を制作し、テスト走行やレース、特定モデルのカスタム企画を紹介している。"
+      },
+      "handles": {
+        "youtube": "UCxlPoTtm3z4wYZ51wPhLoIg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 180000
+        }
+      }
+    },
+    {
+      "id": "afilm-arwa",
+      "name": "أفلام اروى",
+      "country": "EG",
+      "topic": {
+        "es": "Historias animadas",
+        "en": "Animated stories",
+        "pt": "Histórias animadas",
+        "fr": "Histoires animées",
+        "de": "Animierte Geschichten",
+        "ru": "Анимационные истории",
+        "ar": "قصص مصوّرة",
+        "hi": "एनिमेटेड कहानियाँ",
+        "zh": "动画故事",
+        "ja": "アニメ風ストーリー"
+      },
+      "about": {
+        "es": "Publica historias familiares en formato de animación y narración, con relatos de romance y drama.",
+        "en": "Posts family stories in animation and narration format, with romance and drama tales.",
+        "pt": "Publica histórias familiares em formato de animação e narração, com relatos de romance e drama.",
+        "fr": "Publie des histoires familiales en animation et narration, avec des récits de romance et de drame.",
+        "de": "Veröffentlicht Familiengeschichten als Animation mit Erzählung, mit Romantik- und Dramageschichten.",
+        "ru": "Публикует семейные истории в формате анимации с озвучкой — романтические и драматические сюжеты.",
+        "ar": "تنشر قصصًا عائلية بالرسوم المتحركة والسرد، تتضمن حكايات رومانسية ودرامية.",
+        "hi": "एनिमेशन और नैरेशन के रूप में पारिवारिक कहानियाँ डालती हैं, जिनमें रोमांस और ड्रामा की कथाएँ होती हैं।",
+        "zh": "以动画加旁白的形式发布家庭故事，包含爱情与剧情类内容。",
+        "ja": "アニメーションとナレーションで、家族を題材にしたロマンスやドラマの物語を公開している。"
+      },
+      "handles": {
+        "youtube": "UCSLc8b11XzmyaKM2sgYN3Tw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 698000
+        }
+      }
+    },
+    {
+      "id": "hekayat-tota-maggie",
+      "name": "حكايات توتا و ماجي",
+      "country": "EG",
+      "topic": {
+        "es": "Historias románticas por entregas",
+        "en": "Serialized romance stories",
+        "pt": "Histórias românticas em série",
+        "fr": "Histoires romantiques en feuilleton",
+        "de": "Romantische Fortsetzungsgeschichten",
+        "ru": "Романтические истории с продолжением",
+        "ar": "قصص رومانسية مسلسلة",
+        "hi": "धारावाहिक रोमांटिक कहानियाँ",
+        "zh": "连载爱情故事",
+        "ja": "連載ロマンス物語"
+      },
+      "about": {
+        "es": "Publica un capítulo diario de historias románticas y de drama narradas por entregas.",
+        "en": "Posts a daily chapter of romantic and drama stories told in installments.",
+        "pt": "Publica um capítulo diário de histórias românticas e de drama contadas em série.",
+        "fr": "Publie chaque jour un chapitre d’histoires romantiques et dramatiques racontées en feuilleton.",
+        "de": "Veröffentlicht täglich ein Kapitel romantischer und dramatischer Geschichten in Fortsetzungen.",
+        "ru": "Ежедневно публикует главу романтических и драматических историй в формате сериала.",
+        "ar": "تنشر كل يوم حلقة من قصص رومانسية ودرامية تُروى على أجزاء.",
+        "hi": "रोज़ाना रोमांटिक और ड्रामा कहानियों का एक अध्याय किस्तों में डालती हैं।",
+        "zh": "每天发布一章分集讲述的爱情与剧情故事。",
+        "ja": "ロマンスやドラマの物語を、毎日1話ずつ連載形式で配信している。"
+      },
+      "handles": {
+        "youtube": "UCqsFPAZpC6CnRQCXJ7Ss_2w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país del canal y títulos recientes revisados",
+        "followers": {
+          "youtube": 563000
+        }
+      }
     }
   ]
 }

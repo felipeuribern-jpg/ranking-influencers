@@ -13,7 +13,8 @@
     "astro": "astro",
     "pipeline": "tsx pipeline/run.ts",
     "test": "vitest run",
-    "validate": "tsx pipeline/validate.ts"
+    "validate": "tsx pipeline/validate.ts",
+    "import-manual": "tsx pipeline/import-manual.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
