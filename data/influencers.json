@@ -25204,6 +25204,1131 @@
           "youtube": 563000
         }
       }
+    },
+    {
+      "id": "whistlindiesel",
+      "name": "WhistlinDiesel",
+      "country": "US",
+      "topic": {
+        "es": "Vehículos, retos y humor",
+        "en": "Vehicles, challenges and humor",
+        "pt": "Veículos, desafios e humor",
+        "fr": "Véhicules, défis et humour",
+        "de": "Fahrzeuge, Challenges und Humor",
+        "ru": "Автомобили, челленджи и юмор",
+        "ar": "مركبات وتحديات وكوميديا",
+        "hi": "वाहन, चैलेंज और हास्य",
+        "zh": "车辆、挑战与幽默",
+        "ja": "乗り物、チャレンジ、ユーモア"
+      },
+      "about": {
+        "es": "Publica videos de retos con vehículos y maquinaria, como competir con un presupuesto limitado o probar hasta dónde aguanta un coche, con humor y a menudo con sus empleados.",
+        "en": "Posts videos of vehicle and heavy-machinery challenges, such as working with a tight budget or testing how much a car can take, with humor and often with his employees.",
+        "pt": "Publica vídeos de desafios com veículos e máquinas, como trabalhar com orçamento limitado ou testar até onde um carro aguenta, com humor e muitas vezes com seus funcionários.",
+        "fr": "Publie des vidéos de défis avec des véhicules et des engins, comme travailler avec un budget serré ou tester la résistance d’une voiture, avec humour et souvent avec ses employés.",
+        "de": "Veröffentlicht Videos mit Fahrzeug- und Maschinen-Challenges, etwa mit knappem Budget oder Belastungstests an Autos, humorvoll und oft mit seinen Mitarbeitern.",
+        "ru": "Публикует видео с челленджами на технике и автомобилях, например с ограниченным бюджетом или проверкой прочности машины, с юмором и нередко вместе с сотрудниками.",
+        "ar": "ينشر فيديوهات تحديات بالمركبات والآلات الثقيلة، مثل العمل بميزانية محدودة أو اختبار تحمّل سيارة، بروح فكاهية وغالبًا مع موظفيه.",
+        "hi": "वाहनों और भारी मशीनों के चैलेंज वाले वीडियो डालते हैं, जैसे सीमित बजट में काम करना या कार की सहनशक्ति परखना, हास्य के साथ और अक्सर अपने कर्मचारियों के साथ।",
+        "zh": "发布车辆和重型机械挑战视频，例如在有限预算下完成任务或测试汽车的承受极限，风格幽默，常有员工出镜。",
+        "ja": "限られた予算での挑戦や車の耐久テストなど、車両や重機を使ったチャレンジ動画を、ユーモアを交えて、従業員と一緒に投稿している。"
+      },
+      "handles": {
+        "youtube": "UCdqp0KK_Io7TwK5cJMBvB0Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 10800000
+        }
+      }
+    },
+    {
+      "id": "felca",
+      "name": "Felca",
+      "country": "BR",
+      "topic": {
+        "es": "Opinião e reflexões",
+        "en": "Commentary and reflections",
+        "pt": "Opinião e reflexões",
+        "fr": "Opinion et réflexions",
+        "de": "Meinung und Reflexionen",
+        "ru": "Мнения и размышления",
+        "ar": "آراء وتأملات",
+        "hi": "राय और विचार",
+        "zh": "评论与思考",
+        "ja": "意見と考察"
+      },
+      "about": {
+        "es": "Publica videos de opinión y reflexión sobre temas de actualidad en Brasil, como la regulación digital de menores.",
+        "en": "Posts opinion and reflection videos on current topics in Brazil, such as digital regulation for minors.",
+        "pt": "Publica vídeos de opinião e reflexão sobre temas atuais no Brasil, como a regulação digital de menores.",
+        "fr": "Publie des vidéos d’opinion et de réflexion sur l’actualité au Brésil, comme la régulation numérique pour les mineurs.",
+        "de": "Veröffentlicht Meinungs- und Reflexionsvideos zu aktuellen Themen in Brasilien, etwa zur digitalen Regulierung für Minderjährige.",
+        "ru": "Публикует видео с мнениями и размышлениями на актуальные темы Бразилии, например о цифровом регулировании для несовершеннолетних.",
+        "ar": "ينشر فيديوهات رأي وتأمل حول قضايا راهنة في البرازيل، مثل تنظيم المحتوى الرقمي للقاصرين.",
+        "hi": "ब्राज़ील के समसामयिक विषयों पर राय और विचार वाले वीडियो डालते हैं, जैसे नाबालिगों के लिए डिजिटल नियमन।",
+        "zh": "发布关于巴西时事话题的观点与思考视频，例如未成年人的数字监管。",
+        "ja": "未成年者向けのデジタル規制など、ブラジルの時事問題について意見や考えを語る動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCUwGT1LKPKuMp3-pfn6p0PQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 6320000
+        }
+      }
+    },
+    {
+      "id": "lebriah",
+      "name": "leBriah",
+      "country": "CO",
+      "topic": {
+        "es": "Humor y comedia",
+        "en": "Humor and comedy",
+        "pt": "Humor e comédia",
+        "fr": "Humour et comédie",
+        "de": "Humor und Comedy",
+        "ru": "Юмор и комедия",
+        "ar": "فكاهة وكوميديا",
+        "hi": "हास्य और कॉमेडी",
+        "zh": "幽默与喜剧",
+        "ja": "ユーモアとコメディ"
+      },
+      "about": {
+        "es": "Se presenta como el youtuber número uno de Colombia y publica videos de humor con personajes y situaciones cotidianas.",
+        "en": "Describes himself as Colombia’s number-one YouTuber and posts comedy videos with characters and everyday situations.",
+        "pt": "Apresenta-se como o youtuber número um da Colômbia e publica vídeos de humor com personagens e situações do dia a dia.",
+        "fr": "Se présente comme le youtubeur numéro un de Colombie et publie des vidéos d’humour avec des personnages et des situations du quotidien.",
+        "de": "Bezeichnet sich als Kolumbiens YouTuber Nummer eins und veröffentlicht Comedy-Videos mit Figuren und Alltagssituationen.",
+        "ru": "Называет себя ютубером номер один в Колумбии и публикует юмористические видео с персонажами и бытовыми ситуациями.",
+        "ar": "يقدّم نفسه على أنه اليوتيوبر الأول في كولومبيا وينشر فيديوهات كوميدية بشخصيات ومواقف يومية.",
+        "hi": "खुद को कोलंबिया का नंबर एक यूट्यूबर बताते हैं और किरदारों व रोज़मर्रा की स्थितियों वाले हास्य वीडियो डालते हैं।",
+        "zh": "自称哥伦比亚第一YouTuber，发布带有角色和日常情景的搞笑视频。",
+        "ja": "コロンビア一のYouTuberを自称し、キャラクターや日常の場面を使ったコメディ動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCJGf4nZii5gIslhQTpisiPg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 4460000
+        }
+      }
+    },
+    {
+      "id": "planetajuan",
+      "name": "PlanetaJuan",
+      "country": "CO",
+      "topic": {
+        "es": "Viajes y exploración",
+        "en": "Travel and exploration",
+        "pt": "Viagens e exploração",
+        "fr": "Voyages et exploration",
+        "de": "Reisen und Entdeckungen",
+        "ru": "Путешествия и исследования",
+        "ar": "سفر واستكشاف",
+        "hi": "यात्रा और खोज",
+        "zh": "旅行与探索",
+        "ja": "旅と探検"
+      },
+      "about": {
+        "es": "Documenta viajes por destinos poco comunes, como Uzbekistán y la Ruta de la Seda, con recorridos por ciudades históricas.",
+        "en": "Documents trips to uncommon destinations, such as Uzbekistan and the Silk Road, with tours of historic cities.",
+        "pt": "Documenta viagens a destinos pouco comuns, como o Uzbequistão e a Rota da Seda, com passeios por cidades históricas.",
+        "fr": "Documente des voyages vers des destinations peu communes, comme l’Ouzbékistan et la Route de la soie, avec des visites de villes historiques.",
+        "de": "Dokumentiert Reisen zu ungewöhnlichen Zielen wie Usbekistan und der Seidenstraße, mit Rundgängen durch historische Städte.",
+        "ru": "Снимает поездки в необычные места, такие как Узбекистан и Шёлковый путь, с прогулками по историческим городам.",
+        "ar": "يوثّق رحلات إلى وجهات غير مألوفة، مثل أوزبكستان وطريق الحرير، مع جولات في مدن تاريخية.",
+        "hi": "उज़्बेकिस्तान और सिल्क रोड जैसे असामान्य गंतव्यों की यात्राएँ दर्ज करते हैं और ऐतिहासिक शहरों की सैर कराते हैं।",
+        "zh": "记录前往乌兹别克斯坦和丝绸之路等小众目的地的旅行，并走访历史名城。",
+        "ja": "ウズベキスタンやシルクロードなど珍しい旅先を訪れ、歴史的な都市を巡る旅を記録している。"
+      },
+      "handles": {
+        "youtube": "UCDfbsXLRCyk_LIkrtaTmliQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 3480000
+        }
+      }
+    },
+    {
+      "id": "la-liendra",
+      "name": "La Liendra",
+      "country": "CO",
+      "topic": {
+        "es": "Documentales y casos sociales",
+        "en": "Documentaries and social cases",
+        "pt": "Documentários e casos sociais",
+        "fr": "Documentaires et cas de société",
+        "de": "Dokumentationen und gesellschaftliche Fälle",
+        "ru": "Документальные фильмы и социальные случаи",
+        "ar": "وثائقيات وقضايا اجتماعية",
+        "hi": "डॉक्यूमेंट्री और सामाजिक मामले",
+        "zh": "纪录片与社会事件",
+        "ja": "ドキュメンタリーと社会問題"
+      },
+      "about": {
+        "es": "Publica documentales y reportes sobre casos sociales y de salud mental en Colombia, con recorridos por lugares y historias reales.",
+        "en": "Posts documentaries and reports on social and mental-health cases in Colombia, visiting real places and telling real stories.",
+        "pt": "Publica documentários e reportagens sobre casos sociais e de saúde mental na Colômbia, visitando lugares e contando histórias reais.",
+        "fr": "Publie des documentaires et des reportages sur des cas sociaux et de santé mentale en Colombie, avec des visites de lieux et des histoires réelles.",
+        "de": "Veröffentlicht Dokumentationen und Berichte über soziale Fälle und psychische Gesundheit in Kolumbien, mit Besuchen vor Ort und wahren Geschichten.",
+        "ru": "Публикует документальные фильмы и репортажи о социальных случаях и психическом здоровье в Колумбии, с посещением реальных мест и историями.",
+        "ar": "ينشر وثائقيات وتقارير عن قضايا اجتماعية وصحة نفسية في كولومبيا، مع زيارات لأماكن وحكايات حقيقية.",
+        "hi": "कोलंबिया में सामाजिक और मानसिक स्वास्थ्य के मामलों पर डॉक्यूमेंट्री और रिपोर्ट डालते हैं, असली जगहों और कहानियों के साथ।",
+        "zh": "发布关于哥伦比亚社会事件和心理健康的纪录片与报道，走访真实地点并讲述真实故事。",
+        "ja": "コロンビアの社会問題やメンタルヘルスに関するドキュメンタリーやレポートを、実際の場所や実話とともに投稿している。"
+      },
+      "handles": {
+        "youtube": "UCmg81A6mKSnU519Y_mEjgiQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1560000
+        }
+      }
+    },
+    {
+      "id": "visckel",
+      "name": "Visckel",
+      "country": "VE",
+      "topic": {
+        "es": "Humor y vida cotidiana",
+        "en": "Comedy and everyday life",
+        "pt": "Humor e vida cotidiana",
+        "fr": "Humour et vie quotidienne",
+        "de": "Comedy und Alltag",
+        "ru": "Юмор и повседневная жизнь",
+        "ar": "كوميديا وحياة يومية",
+        "hi": "हास्य और रोज़मर्रा की ज़िंदगी",
+        "zh": "搞笑与日常生活",
+        "ja": "コメディと日常"
+      },
+      "about": {
+        "es": "Se presenta como un venezolano que vive fuera de su país y publica videos de humor sobre la familia, las amistades y las diferencias culturales.",
+        "en": "Presents himself as a Venezuelan living abroad and posts comedy videos about family, friends and cultural differences.",
+        "pt": "Apresenta-se como um venezuelano que vive fora do país e publica vídeos de humor sobre família, amizades e diferenças culturais.",
+        "fr": "Se présente comme un Vénézuélien vivant à l’étranger et publie des vidéos d’humour sur la famille, les amis et les différences culturelles.",
+        "de": "Stellt sich als Venezolaner im Ausland vor und veröffentlicht Comedy-Videos über Familie, Freunde und kulturelle Unterschiede.",
+        "ru": "Представляется венесуэльцем, живущим за границей, и публикует юмористические видео о семье, друзьях и культурных различиях.",
+        "ar": "يعرّف نفسه كفنزويلي يعيش خارج بلاده وينشر فيديوهات كوميدية عن العائلة والأصدقاء والاختلافات الثقافية.",
+        "hi": "खुद को विदेश में रहने वाला वेनेज़ुएला का व्यक्ति बताते हैं और परिवार, दोस्तों और सांस्कृतिक अंतर पर हास्य वीडियो डालते हैं।",
+        "zh": "自称是旅居海外的委内瑞拉人，发布关于家人、朋友和文化差异的搞笑视频。",
+        "ja": "海外在住のベネズエラ人を自称し、家族や友人、文化の違いをテーマにしたコメディ動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCA6kuJqy0myJHK2DXPUaWnw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 2500000
+        }
+      }
+    },
+    {
+      "id": "tengo-un-plan",
+      "name": "Tengo un Plan",
+      "country": "ES",
+      "topic": {
+        "es": "Podcast de crecimiento personal",
+        "en": "Personal-growth podcast",
+        "pt": "Podcast de desenvolvimento pessoal",
+        "fr": "Podcast de développement personnel",
+        "de": "Podcast für persönliche Entwicklung",
+        "ru": "Подкаст о саморазвитии",
+        "ar": "بودكاست التطوير الشخصي",
+        "hi": "व्यक्तिगत विकास पॉडकास्ट",
+        "zh": "个人成长播客",
+        "ja": "自己成長ポッドキャスト"
+      },
+      "about": {
+        "es": "Es un podcast español de crecimiento personal con entrevistas a expertos sobre hábitos, bienestar y temas de actualidad.",
+        "en": "A Spanish personal-growth podcast with interviews with experts on habits, well-being and current topics.",
+        "pt": "É um podcast espanhol de desenvolvimento pessoal com entrevistas com especialistas sobre hábitos, bem-estar e temas atuais.",
+        "fr": "Un podcast espagnol de développement personnel avec des entretiens d’experts sur les habitudes, le bien-être et l’actualité.",
+        "de": "Ein spanischer Podcast für persönliche Entwicklung mit Experteninterviews zu Gewohnheiten, Wohlbefinden und aktuellen Themen.",
+        "ru": "Испанский подкаст о саморазвитии с интервью экспертов о привычках, благополучии и актуальных темах.",
+        "ar": "بودكاست إسباني للتطوير الشخصي يستضيف خبراء للحديث عن العادات والرفاهية وقضايا الساعة.",
+        "hi": "यह स्पेन का व्यक्तिगत विकास पॉडकास्ट है, जिसमें आदतों, कल्याण और समसामयिक विषयों पर विशेषज्ञों से बातचीत होती है।",
+        "zh": "这是一档西班牙的个人成长播客，邀请专家访谈习惯、身心健康和时事话题。",
+        "ja": "習慣やウェルビーイング、時事問題について専門家にインタビューするスペインの自己成長ポッドキャスト。"
+      },
+      "handles": {
+        "youtube": "UCJFP-5V2-0BFeVmKifG0H_Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 2390000
+        }
+      }
+    },
+    {
+      "id": "danann",
+      "name": "Danann",
+      "country": "AR",
+      "topic": {
+        "es": "Debate y opinión",
+        "en": "Debate and opinion",
+        "pt": "Debate e opinião",
+        "fr": "Débat et opinion",
+        "de": "Debatte und Meinung",
+        "ru": "Дебаты и мнения",
+        "ar": "نقاش ورأي",
+        "hi": "बहस और राय",
+        "zh": "辩论与评论",
+        "ja": "討論と意見"
+      },
+      "about": {
+        "es": "Publica videos de opinión y debates sobre actualidad y temas sociales de Argentina, con intervenciones en vivo y entrevistas en la calle.",
+        "en": "Posts opinion and debate videos on current affairs and social topics in Argentina, with live appearances and street interviews.",
+        "pt": "Publica vídeos de opinião e debates sobre atualidade e temas sociais da Argentina, com participações ao vivo e entrevistas na rua.",
+        "fr": "Publie des vidéos d’opinion et de débat sur l’actualité et les sujets de société en Argentine, avec des interventions en direct et des interviews de rue.",
+        "de": "Veröffentlicht Meinungs- und Debattenvideos zu Tagesaktuellem und gesellschaftlichen Themen in Argentinien, mit Live-Auftritten und Straßeninterviews.",
+        "ru": "Публикует видео с мнениями и дебатами об актуальных и общественных темах Аргентины, с живыми выступлениями и уличными опросами.",
+        "ar": "ينشر فيديوهات رأي ونقاش حول الشأن العام والقضايا الاجتماعية في الأرجنتين، مع ظهور مباشر ومقابلات في الشارع.",
+        "hi": "अर्जेंटीना के समसामयिक और सामाजिक विषयों पर राय और बहस वाले वीडियो डालते हैं, जिनमें लाइव प्रस्तुतियाँ और सड़क पर इंटरव्यू होते हैं।",
+        "zh": "发布关于阿根廷时事和社会话题的观点与辩论视频，包含现场参与和街头采访。",
+        "ja": "アルゼンチンの時事問題や社会問題について、生出演や街頭インタビューを交えた意見・討論動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCf7cmc_Xxke9eIg76b6qdSg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 2250000
+        }
+      }
+    },
+    {
+      "id": "agustina-liporace",
+      "name": "Agustina Liporace",
+      "country": "AR",
+      "topic": {
+        "es": "Cocina casera",
+        "en": "Home cooking",
+        "pt": "Culinária caseira",
+        "fr": "Cuisine maison",
+        "de": "Hausmannskost",
+        "ru": "Домашняя кухня",
+        "ar": "طبخ منزلي",
+        "hi": "घर का खाना",
+        "zh": "家常菜",
+        "ja": "家庭料理"
+      },
+      "about": {
+        "es": "Publica recetas caseras y conservas, como crackers de pizza, pollo al spiedo y morrones en escabeche.",
+        "en": "Posts home recipes and preserves, such as pizza crackers, spit-roasted chicken and pickled peppers.",
+        "pt": "Publica receitas caseiras e conservas, como crackers de pizza, frango no espeto e pimentões em conserva.",
+        "fr": "Publie des recettes maison et des conserves, comme des crackers à la pizza, du poulet à la broche et des poivrons marinés.",
+        "de": "Veröffentlicht Hausrezepte und Eingemachtes, etwa Pizza-Cracker, Spießhähnchen und eingelegte Paprika.",
+        "ru": "Публикует домашние рецепты и заготовки: пиццу-крекеры, курицу на вертеле и маринованный перец.",
+        "ar": "تنشر وصفات منزلية ومخللات، مثل مقرمشات البيتزا والدجاج المشوي على السيخ والفلفل المخلل.",
+        "hi": "घर की रेसिपी और अचार डालती हैं, जैसे पिज़्ज़ा क्रैकर, सीख पर भुना चिकन और अचारी शिमला मिर्च।",
+        "zh": "发布家常食谱和腌制食品，如披萨脆饼、烤鸡和腌辣椒。",
+        "ja": "ピザクラッカー、串焼きチキン、ピーマンのピクルスなど、家庭料理や保存食のレシピを投稿している。"
+      },
+      "handles": {
+        "youtube": "UCGB4DmXYX8gjg-R2BKb7JmQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1480000
+        }
+      }
+    },
+    {
+      "id": "gaspi",
+      "name": "Gaspi",
+      "country": "AR",
+      "topic": {
+        "es": "Streaming y entretenimiento",
+        "en": "Streaming and entertainment",
+        "pt": "Streaming e entretenimento",
+        "fr": "Streaming et divertissement",
+        "de": "Streaming und Unterhaltung",
+        "ru": "Стриминг и развлечения",
+        "ar": "بث مباشر وترفيه",
+        "hi": "स्ट्रीमिंग और मनोरंजन",
+        "zh": "直播与娱乐",
+        "ja": "配信とエンタメ"
+      },
+      "about": {
+        "es": "Hace contenido de entretenimiento y streaming con colaboraciones, eventos y documentales sobre sus viajes.",
+        "en": "Makes entertainment and streaming content with collaborations, events and documentaries about his trips.",
+        "pt": "Faz conteúdo de entretenimento e streaming com colaborações, eventos e documentários sobre suas viagens.",
+        "fr": "Crée du contenu de divertissement et de streaming avec des collaborations, des événements et des documentaires sur ses voyages.",
+        "de": "Macht Unterhaltungs- und Streaming-Inhalte mit Kooperationen, Events und Dokus über seine Reisen.",
+        "ru": "Делает развлекательный и стриминговый контент: коллаборации, мероприятия и документальные фильмы о своих поездках.",
+        "ar": "يقدّم محتوى ترفيهيًا وبثًا مباشرًا مع تعاونات وفعاليات ووثائقيات عن رحلاته.",
+        "hi": "सहयोग, कार्यक्रम और अपनी यात्राओं पर डॉक्यूमेंट्री के साथ मनोरंजन और स्ट्रीमिंग कंटेंट बनाते हैं।",
+        "zh": "制作娱乐和直播内容，包含联动、活动以及关于旅行的纪录片。",
+        "ja": "コラボやイベント、旅のドキュメンタリーなど、エンタメと配信コンテンツを制作している。"
+      },
+      "handles": {
+        "youtube": "UCfLTaP7dww1M8Vr5DKzzRZA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 3270000
+        }
+      }
+    },
+    {
+      "id": "samuel-adrian",
+      "name": "Samuel Adrián",
+      "country": "MX",
+      "topic": {
+        "es": "Noticias y comentario",
+        "en": "News and commentary",
+        "pt": "Notícias e comentários",
+        "fr": "Actualité et commentaires",
+        "de": "Nachrichten und Kommentare",
+        "ru": "Новости и комментарии",
+        "ar": "أخبار وتعليقات",
+        "hi": "समाचार और टिप्पणी",
+        "zh": "新闻与评论",
+        "ja": "ニュースと解説"
+      },
+      "about": {
+        "es": "Publica resúmenes y comentarios diarios sobre noticias de México y el mundo.",
+        "en": "Posts daily summaries and commentary on news from Mexico and the world.",
+        "pt": "Publica resumos e comentários diários sobre notícias do México e do mundo.",
+        "fr": "Publie des résumés et des commentaires quotidiens sur l’actualité du Mexique et du monde.",
+        "de": "Veröffentlicht tägliche Zusammenfassungen und Kommentare zu Nachrichten aus Mexiko und der Welt.",
+        "ru": "Публикует ежедневные обзоры и комментарии к новостям Мексики и мира.",
+        "ar": "ينشر ملخصات وتعليقات يومية على أخبار المكسيك والعالم.",
+        "hi": "मैक्सिको और दुनिया की ख़बरों पर रोज़ाना सारांश और टिप्पणियाँ डालते हैं।",
+        "zh": "每天发布关于墨西哥和世界新闻的摘要与评论。",
+        "ja": "メキシコと世界のニュースを毎日まとめて解説する動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCQ2sDH7oxoeXj6W9lslg21Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1200000
+        }
+      }
+    },
+    {
+      "id": "jair-sanchez",
+      "name": "Jair Sánchez",
+      "country": "MX",
+      "topic": {
+        "es": "Comedia",
+        "en": "Comedy",
+        "pt": "Comédia",
+        "fr": "Comédie",
+        "de": "Comedy",
+        "ru": "Комедия",
+        "ar": "كوميديا",
+        "hi": "कॉमेडी",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "Publica videos cortos de comedia con situaciones y personajes cotidianos.",
+        "en": "Posts short comedy videos with everyday situations and characters.",
+        "pt": "Publica vídeos curtos de comédia com situações e personagens do dia a dia.",
+        "fr": "Publie de courtes vidéos de comédie avec des situations et des personnages du quotidien.",
+        "de": "Veröffentlicht kurze Comedy-Videos mit Alltagssituationen und -figuren.",
+        "ru": "Публикует короткие комедийные видео с бытовыми ситуациями и персонажами.",
+        "ar": "ينشر فيديوهات كوميدية قصيرة بمواقف وشخصيات من الحياة اليومية.",
+        "hi": "रोज़मर्रा की स्थितियों और किरदारों वाले छोटे कॉमेडी वीडियो डालते हैं।",
+        "zh": "发布带有日常情景和角色的搞笑短视频。",
+        "ja": "日常の場面やキャラクターを使った短いコメディ動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCP_Mc642HKGfYmtJLdf3kDQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1200000
+        }
+      }
+    },
+    {
+      "id": "alex-serrano",
+      "name": "Alex Serrano",
+      "country": "MX",
+      "topic": {
+        "es": "Comida y retos de compras",
+        "en": "Food and spending challenges",
+        "pt": "Comida e desafios de compras",
+        "fr": "Street food et défis d’achat",
+        "de": "Essen und Spendier-Challenges",
+        "ru": "Еда и челленджи с тратами",
+        "ar": "طعام وتحديات الشراء",
+        "hi": "खाना और ख़रीदारी चैलेंज",
+        "zh": "美食与消费挑战",
+        "ja": "グルメと買い切りチャレンジ"
+      },
+      "about": {
+        "es": "Hace videos de comida callejera y retos en los que compra todo lo que un puesto ofrece con un monto fijo, como mil dólares en arepas.",
+        "en": "Makes street-food videos and challenges where he buys everything a stall offers for a fixed amount, such as a thousand dollars of arepas.",
+        "pt": "Faz vídeos de comida de rua e desafios em que compra tudo o que uma barraca oferece por um valor fixo, como mil dólares em arepas.",
+        "fr": "Réalise des vidéos de street food et des défis où il achète tout ce qu’un stand propose pour une somme fixe, comme mille dollars d’arepas.",
+        "de": "Dreht Street-Food-Videos und Challenges, in denen er für einen festen Betrag alles an einem Stand kauft, etwa Arepas für tausend Dollar.",
+        "ru": "Снимает видео об уличной еде и челленджи, где на фиксированную сумму скупает всё у лотка, например арепас на тысячу долларов.",
+        "ar": "يصنع فيديوهات عن طعام الشارع وتحديات يشتري فيها كل ما تعرضه بسطة بمبلغ ثابت، مثل ألف دولار من الأريبا.",
+        "hi": "स्ट्रीट फ़ूड वीडियो और ऐसे चैलेंज बनाते हैं जिनमें तय रकम में स्टॉल का सारा सामान ख़रीदते हैं, जैसे हज़ार डॉलर के अरेपा।",
+        "zh": "制作街头美食视频和消费挑战，用固定金额买下摊位的全部商品，比如一千美元的玉米饼。",
+        "ja": "屋台の商品を決まった金額で買い占める企画など、ストリートフード動画を制作しており、千ドル分のアレパを買う回などがある。"
+      },
+      "handles": {
+        "youtube": "UCYdIzI9RBkMDYtE4OBcdycQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 2070000
+        }
+      }
+    },
+    {
+      "id": "kim-migneault",
+      "name": "Kim Migneault",
+      "country": "CA",
+      "topic": {
+        "es": "Humor e idiomas",
+        "en": "Comedy and languages",
+        "pt": "Humor e idiomas",
+        "fr": "Humour et langues",
+        "de": "Comedy und Sprachen",
+        "ru": "Юмор и языки",
+        "ar": "كوميديا ولغات",
+        "hi": "हास्य और भाषाएँ",
+        "zh": "搞笑与语言",
+        "ja": "コメディと言語"
+      },
+      "about": {
+        "es": "Se presenta como canadiense en México y publica videos de humor sobre el idioma, las costumbres y la convivencia entre culturas.",
+        "en": "Presents herself as a Canadian in Mexico and posts comedy videos about language, customs and living between cultures.",
+        "pt": "Apresenta-se como canadense no México e publica vídeos de humor sobre idioma, costumes e a convivência entre culturas.",
+        "fr": "Se présente comme une Canadienne au Mexique et publie des vidéos d’humour sur la langue, les coutumes et la vie entre deux cultures.",
+        "de": "Stellt sich als Kanadierin in Mexiko vor und veröffentlicht Comedy-Videos über Sprache, Bräuche und das Leben zwischen Kulturen.",
+        "ru": "Представляется канадкой в Мексике и публикует юмористические видео о языке, обычаях и жизни между культурами.",
+        "ar": "تقدّم نفسها كندية في المكسيك وتنشر فيديوهات كوميدية عن اللغة والعادات والعيش بين ثقافتين.",
+        "hi": "खुद को मैक्सिको में रहने वाली कनाडाई बताती हैं और भाषा, रीति-रिवाज और दो संस्कृतियों के बीच जीवन पर हास्य वीडियो डालती हैं।",
+        "zh": "自称是生活在墨西哥的加拿大人，发布关于语言、习俗和跨文化生活的搞笑视频。",
+        "ja": "メキシコ在住のカナダ人を自称し、言葉や習慣、文化のはざまでの暮らしをテーマにしたコメディ動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCf8_4FgmDaflnnccU0ODHDg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 6630000
+        }
+      }
+    },
+    {
+      "id": "mollymae",
+      "name": "MollyMae",
+      "country": "GB",
+      "topic": {
+        "es": "Vlogs de familia y estilo de vida",
+        "en": "Family and lifestyle vlogs",
+        "pt": "Vlogs de família e estilo de vida",
+        "fr": "Vlogs de famille et lifestyle",
+        "de": "Familien- und Lifestyle-Vlogs",
+        "ru": "Семейные и лайфстайл-влоги",
+        "ar": "فيديوهات عائلية وأسلوب حياة",
+        "hi": "पारिवारिक और लाइफ़स्टाइल वीलॉग",
+        "zh": "家庭与生活方式Vlog",
+        "ja": "家族とライフスタイルのVlog"
+      },
+      "about": {
+        "es": "Comparte vlogs sobre su trabajo, su vida diaria y la maternidad, incluida la vuelta al trabajo tras el nacimiento de su segundo hijo.",
+        "en": "Shares vlogs about her work, daily life and motherhood, including going back to work after her second baby.",
+        "pt": "Compartilha vlogs sobre trabalho, vida diária e maternidade, incluindo a volta ao trabalho após o segundo bebê.",
+        "fr": "Partage des vlogs sur son travail, son quotidien et la maternité, dont la reprise du travail après son deuxième bébé.",
+        "de": "Teilt Vlogs über Arbeit, Alltag und Mutterschaft, auch über die Rückkehr zur Arbeit nach dem zweiten Baby.",
+        "ru": "Делится влогами о работе, повседневной жизни и материнстве, в том числе о возвращении к работе после рождения второго ребёнка.",
+        "ar": "تشارك فيديوهات عن عملها وحياتها اليومية والأمومة، بما في ذلك العودة إلى العمل بعد ولادة طفلها الثاني.",
+        "hi": "काम, रोज़मर्रा की ज़िंदगी और मातृत्व पर वीलॉग साझा करती हैं, जिनमें दूसरे बच्चे के बाद काम पर लौटना भी शामिल है।",
+        "zh": "分享关于工作、日常生活和育儿的Vlog，包括生下第二个孩子后重返工作。",
+        "ja": "仕事や日常、子育てについてのVlogを公開しており、第二子の出産後に仕事へ復帰する様子も紹介している。"
+      },
+      "handles": {
+        "youtube": "UC-F3kTU4V680v550AavEOsQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 2100000
+        }
+      }
+    },
+    {
+      "id": "khalid-farhan",
+      "name": "Khalid Farhan",
+      "country": "BD",
+      "topic": {
+        "es": "Marketing digital e ingresos en línea",
+        "en": "Digital marketing and online income",
+        "pt": "Marketing digital e renda online",
+        "fr": "Marketing digital et revenus en ligne",
+        "de": "Digitalmarketing und Online-Einkommen",
+        "ru": "Цифровой маркетинг и онлайн-заработок",
+        "ar": "التسويق الرقمي والدخل عبر الإنترنت",
+        "hi": "डिजिटल मार्केटिंग और ऑनलाइन आय",
+        "zh": "数字营销与在线收入",
+        "ja": "デジタルマーケティングとオンライン収入"
+      },
+      "about": {
+        "es": "Enseña en bengalí marketing digital y cómo empezar a generar ingresos en línea, y comenta también temas de actualidad económica.",
+        "en": "Teaches digital marketing and how to start earning online in Bengali, and also comments on economic news.",
+        "pt": "Ensina em bengali marketing digital e como começar a gerar renda online, e também comenta temas da atualidade econômica.",
+        "fr": "Enseigne en bengali le marketing digital et comment commencer à gagner de l’argent en ligne, et commente aussi l’actualité économique.",
+        "de": "Vermittelt auf Bengalisch Digitalmarketing und den Einstieg ins Online-Einkommen und kommentiert auch Wirtschaftsthemen.",
+        "ru": "Обучает на бенгальском цифровому маркетингу и первым шагам в онлайн-заработке, а также комментирует экономические новости.",
+        "ar": "يعلّم بالبنغالية التسويق الرقمي وكيفية بدء الدخل عبر الإنترنت، ويعلّق أيضًا على مستجدات الاقتصاد.",
+        "hi": "बांग्ला में डिजिटल मार्केटिंग और ऑनलाइन कमाई शुरू करने के तरीके सिखाते हैं और आर्थिक ख़बरों पर भी टिप्पणी करते हैं।",
+        "zh": "用孟加拉语讲授数字营销和如何开始在线赚钱，也点评经济时事。",
+        "ja": "ベンガル語でデジタルマーケティングやオンラインで収入を得る始め方を教え、経済ニュースの解説もしている。"
+      },
+      "handles": {
+        "youtube": "UCb-d2dCbEt_T-d3qf3oMICw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1940000
+        }
+      }
+    },
+    {
+      "id": "nicolo-balini",
+      "name": "Nicolò Balini",
+      "country": "IT",
+      "topic": {
+        "es": "Viajes, curiosidades y humor",
+        "en": "Travel, curiosities and humor",
+        "pt": "Viagens, curiosidades e humor",
+        "fr": "Voyages, curiosités et humour",
+        "de": "Reisen, Kurioses und Humor",
+        "ru": "Путешествия, любопытные факты и юмор",
+        "ar": "سفر وطرائف وفكاهة",
+        "hi": "यात्रा, रोचक तथ्य और हास्य",
+        "zh": "旅行、趣闻与幽默",
+        "ja": "旅、雑学、ユーモア"
+      },
+      "about": {
+        "es": "Mezcla viajes, historias curiosas y humor, desde visitas a países poco conocidos hasta análisis de grandes fracasos empresariales.",
+        "en": "Mixes travel, curious stories and humor, from visits to little-known countries to analyses of big business failures.",
+        "pt": "Mistura viagens, histórias curiosas e humor, de visitas a países pouco conhecidos a análises de grandes fracassos empresariais.",
+        "fr": "Mêle voyages, histoires curieuses et humour, des visites de pays méconnus aux analyses de grands échecs d’entreprises.",
+        "de": "Mischt Reisen, kuriose Geschichten und Humor, von Besuchen in wenig bekannten Ländern bis zu Analysen großer Unternehmenspleiten.",
+        "ru": "Сочетает путешествия, любопытные истории и юмор — от поездок в малоизвестные страны до разбора громких провалов компаний.",
+        "ar": "يجمع بين السفر وقصص طريفة وفكاهة، من زيارة دول قليلة الشهرة إلى تحليل إخفاقات شركات كبرى.",
+        "hi": "यात्रा, रोचक कहानियाँ और हास्य को मिलाते हैं, अनजाने देशों की सैर से लेकर बड़ी कंपनियों की असफलताओं के विश्लेषण तक।",
+        "zh": "融合旅行、趣闻和幽默，从探访鲜为人知的国家到分析大型企业的失败案例。",
+        "ja": "あまり知られていない国への訪問から大企業の失敗の分析まで、旅や面白い話、ユーモアを組み合わせて発信している。"
+      },
+      "handles": {
+        "youtube": "UCjMIGhRExEB-Q6ZyEr1gBeA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1440000
+        }
+      }
+    },
+    {
+      "id": "maddie-borge",
+      "name": "Maddie Borge",
+      "country": "NO",
+      "topic": {
+        "es": "Estilo de vida y hogar",
+        "en": "Lifestyle and home",
+        "pt": "Estilo de vida e casa",
+        "fr": "Style de vie et maison",
+        "de": "Lifestyle und Zuhause",
+        "ru": "Образ жизни и дом",
+        "ar": "أسلوب حياة ومنزل",
+        "hi": "लाइफ़स्टाइल और घर",
+        "zh": "生活方式与家居",
+        "ja": "ライフスタイルとインテリア"
+      },
+      "about": {
+        "es": "Noruega que vive en el Reino Unido; publica videos de estilo de vida, decoración del hogar y proyectos personales.",
+        "en": "A Norwegian living in the UK; posts lifestyle, home decoration and personal-project videos.",
+        "pt": "Norueguesa que vive no Reino Unido; publica vídeos de estilo de vida, decoração da casa e projetos pessoais.",
+        "fr": "Norvégienne vivant au Royaume-Uni ; publie des vidéos de style de vie, de décoration d’intérieur et de projets personnels.",
+        "de": "Norwegerin im Vereinigten Königreich; veröffentlicht Videos zu Lifestyle, Wohndeko und persönlichen Projekten.",
+        "ru": "Норвежка, живущая в Великобритании; публикует видео об образе жизни, декоре дома и личных проектах.",
+        "ar": "نرويجية تعيش في المملكة المتحدة؛ تنشر فيديوهات عن أسلوب الحياة وديكور المنزل ومشاريعها الشخصية.",
+        "hi": "यूके में रहने वाली नॉर्वेजियन हैं; लाइफ़स्टाइल, घर की सजावट और निजी प्रोजेक्ट्स के वीडियो डालती हैं।",
+        "zh": "她是生活在英国的挪威人，发布生活方式、家居装饰和个人项目的视频。",
+        "ja": "イギリス在住のノルウェー人で、ライフスタイル、インテリア、個人的なプロジェクトの動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCkfTm3HfC4Fqr5dTPJHc9Fg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1120000
+        }
+      }
+    },
+    {
+      "id": "georgia-productions",
+      "name": "Georgia Productions",
+      "country": "AU",
+      "topic": {
+        "es": "Comedia",
+        "en": "Comedy",
+        "pt": "Comédia",
+        "fr": "Comédie",
+        "de": "Comedy",
+        "ru": "Комедия",
+        "ar": "كوميديا",
+        "hi": "कॉमेडी",
+        "zh": "喜剧",
+        "ja": "コメディ"
+      },
+      "about": {
+        "es": "Hace comedia con sketches y situaciones divertidas con amigos, como una serie sobre salir a pescar.",
+        "en": "Makes comedy with sketches and funny situations with friends, such as a series about going fishing.",
+        "pt": "Faz comédia com esquetes e situações engraçadas com amigos, como uma série sobre ir pescar.",
+        "fr": "Fait de la comédie avec des sketchs et des situations drôles entre amis, comme une série sur la pêche.",
+        "de": "Macht Comedy mit Sketchen und lustigen Situationen mit Freunden, etwa einer Serie über Angelausflüge.",
+        "ru": "Делает комедию со скетчами и забавными ситуациями с друзьями, например серию о рыбалке.",
+        "ar": "تقدّم كوميديا بمقاطع تمثيلية ومواقف طريفة مع الأصدقاء، مثل سلسلة عن الذهاب للصيد.",
+        "hi": "दोस्तों के साथ स्केच और मज़ेदार स्थितियों वाली कॉमेडी करती हैं, जैसे मछली पकड़ने जाने पर एक सीरीज़।",
+        "zh": "与朋友一起拍摄小品和有趣情景的喜剧，例如钓鱼系列。",
+        "ja": "友人とのコントや面白いシチュエーションのコメディを制作しており、釣りに行くシリーズなどがある。"
+      },
+      "handles": {
+        "youtube": "UCYLqIgYnlbmZHH9_oacn5Ng",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1050000
+        }
+      }
+    },
+    {
+      "id": "bridey-drake",
+      "name": "Bridey Drake",
+      "country": "AU",
+      "topic": {
+        "es": "Estilo de vida y viajes",
+        "en": "Lifestyle and travel",
+        "pt": "Estilo de vida e viagens",
+        "fr": "Style de vie et voyages",
+        "de": "Lifestyle und Reisen",
+        "ru": "Образ жизни и путешествия",
+        "ar": "أسلوب حياة وسفر",
+        "hi": "लाइफ़स्टाइल और यात्रा",
+        "zh": "生活方式与旅行",
+        "ja": "ライフスタイルと旅"
+      },
+      "about": {
+        "es": "Se presenta como australiana y publica videos de su vida diaria, citas en pareja y viajes, como uno a Nueva Zelanda.",
+        "en": "Presents herself as Australian and posts videos of her daily life, date nights and trips, including one to New Zealand.",
+        "pt": "Apresenta-se como australiana e publica vídeos de sua vida diária, encontros a dois e viagens, como uma à Nova Zelândia.",
+        "fr": "Se présente comme Australienne et publie des vidéos de son quotidien, de sorties en couple et de voyages, dont un en Nouvelle-Zélande.",
+        "de": "Stellt sich als Australierin vor und veröffentlicht Videos über Alltag, Date-Abende und Reisen, darunter eine nach Neuseeland.",
+        "ru": "Представляется австралийкой и публикует видео о повседневной жизни, свиданиях и поездках, в том числе в Новую Зеландию.",
+        "ar": "تقدّم نفسها كأسترالية وتنشر فيديوهات عن حياتها اليومية وأمسيات الأزواج ورحلاتها، منها رحلة إلى نيوزيلندا.",
+        "hi": "खुद को ऑस्ट्रेलियाई बताती हैं और अपनी रोज़मर्रा की ज़िंदगी, डेट नाइट और यात्राओं के वीडियो डालती हैं, जिनमें न्यूज़ीलैंड की सैर भी है।",
+        "zh": "自称澳大利亚人，发布日常生活、约会之夜和旅行的视频，包括新西兰之行。",
+        "ja": "オーストラリア人を自称し、日常やデートの夜、ニュージーランドへの旅などの動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UChrA9LSeVcLRQiMkcvdFhMQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 5000000
+        }
+      }
+    },
+    {
+      "id": "qalby-etmaan",
+      "name": "Qalby Etmaan – قلبي اطمأن",
+      "country": "AE",
+      "topic": {
+        "es": "Experiencias sociales y viajes",
+        "en": "Social experiences and travel",
+        "pt": "Experiências sociais e viagens",
+        "fr": "Expériences sociales et voyages",
+        "de": "Soziale Erfahrungen und Reisen",
+        "ru": "Социальные эксперименты и путешествия",
+        "ar": "تجارب اجتماعية وسفر",
+        "hi": "सामाजिक अनुभव और यात्रा",
+        "zh": "社会体验与旅行",
+        "ja": "社会体験と旅"
+      },
+      "about": {
+        "es": "Es un programa en árabe en el que su presentador convive con comunidades de distintos países, como las islas Comoras, y cuenta sus historias.",
+        "en": "An Arabic-language show in which the host lives alongside communities in different countries, such as the Comoros, and tells their stories.",
+        "pt": "É um programa em árabe em que o apresentador convive com comunidades de diferentes países, como as Comores, e conta suas histórias.",
+        "fr": "Une émission en arabe dans laquelle l’animateur vit auprès de communautés de différents pays, comme les Comores, et raconte leurs histoires.",
+        "de": "Eine arabischsprachige Sendung, in der der Moderator bei Gemeinschaften in verschiedenen Ländern wie den Komoren lebt und ihre Geschichten erzählt.",
+        "ru": "Программа на арабском, в которой ведущий живёт среди общин разных стран, например на Коморах, и рассказывает их истории.",
+        "ar": "برنامج بالعربية يعيش فيه مقدّمه بين مجتمعات في بلدان مختلفة، مثل جزر القمر، ويروي حكاياتهم.",
+        "hi": "यह अरबी भाषा का कार्यक्रम है, जिसमें प्रस्तुतकर्ता कोमोरोस जैसे अलग-अलग देशों के समुदायों के साथ रहकर उनकी कहानियाँ सुनाता है।",
+        "zh": "这是一档阿拉伯语节目，主持人与科摩罗等不同国家的社区一起生活，并讲述他们的故事。",
+        "ja": "コモロなどさまざまな国の人々のもとで司会者が共に暮らし、その物語を伝えるアラビア語の番組。"
+      },
+      "handles": {
+        "youtube": "UCTYNerRYjdiyRNR6LgRmOOQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 4720000
+        }
+      }
+    },
+    {
+      "id": "mona-el-shazly",
+      "name": "معكم منى الشاذلي",
+      "country": "EG",
+      "topic": {
+        "es": "Programa de entrevistas y documentales",
+        "en": "Talk show and documentaries",
+        "pt": "Programa de entrevistas e documentários",
+        "fr": "Talk-show et documentaires",
+        "de": "Talkshow und Dokumentationen",
+        "ru": "Ток-шоу и документальные фильмы",
+        "ar": "برنامج حواري ووثائقيات",
+        "hi": "टॉक शो और डॉक्यूमेंट्री",
+        "zh": "访谈节目与纪录片",
+        "ja": "トーク番組とドキュメンタリー"
+      },
+      "about": {
+        "es": "Es el canal del programa de entrevistas de la presentadora egipcia Mona El Shazly, con episodios especiales y documentales.",
+        "en": "The channel of Egyptian presenter Mona El Shazly’s talk show, with special episodes and documentaries.",
+        "pt": "É o canal do programa de entrevistas da apresentadora egípcia Mona El Shazly, com episódios especiais e documentários.",
+        "fr": "La chaîne de l’émission de la présentatrice égyptienne Mona El Shazly, avec des épisodes spéciaux et des documentaires.",
+        "de": "Der Kanal der Talkshow der ägyptischen Moderatorin Mona El Shazly, mit Sonderfolgen und Dokumentationen.",
+        "ru": "Канал ток-шоу египетской ведущей Моны аш-Шазли со специальными выпусками и документальными фильмами.",
+        "ar": "قناة البرنامج الحواري للإعلامية المصرية منى الشاذلي، وفيها حلقات خاصة ووثائقيات.",
+        "hi": "मिस्र की प्रस्तुतकर्ता मोना अल-शाज़ली के टॉक शो का चैनल, जिसमें विशेष एपिसोड और डॉक्यूमेंट्री हैं।",
+        "zh": "埃及主持人莫娜·沙兹利访谈节目的频道，包含特别节目和纪录片。",
+        "ja": "エジプトの司会者モナ・エル・シャズリーのトーク番組のチャンネルで、特別回やドキュメンタリーを公開している。"
+      },
+      "handles": {
+        "youtube": "UCcucB5aJ0xmv5OEKQwzAUjw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 6740000
+        }
+      }
+    },
+    {
+      "id": "waleed-ismail",
+      "name": "وليد إسماعيل الدافع",
+      "country": "EG",
+      "topic": {
+        "es": "Debate religioso",
+        "en": "Religious debate",
+        "pt": "Debate religioso",
+        "fr": "Débat religieux",
+        "de": "Religiöse Debatte",
+        "ru": "Религиозные дискуссии",
+        "ar": "نقاش ديني",
+        "hi": "धार्मिक बहस",
+        "zh": "宗教辩论",
+        "ja": "宗教討論"
+      },
+      "about": {
+        "es": "Publica programas y videos en árabe de debate y exposición sobre temas religiosos y de pensamiento.",
+        "en": "Posts Arabic-language shows and videos of debate and exposition on religious and intellectual topics.",
+        "pt": "Publica programas e vídeos em árabe de debate e exposição sobre temas religiosos e de pensamento.",
+        "fr": "Publie des émissions et des vidéos en arabe de débat et d’exposé sur des sujets religieux et de pensée.",
+        "de": "Veröffentlicht arabischsprachige Sendungen und Videos mit Debatten und Erläuterungen zu religiösen und gedanklichen Themen.",
+        "ru": "Публикует передачи и видео на арабском с дискуссиями и разъяснениями по религиозным и мировоззренческим темам.",
+        "ar": "ينشر برامج وفيديوهات بالعربية للنقاش والشرح في موضوعات دينية وفكرية.",
+        "hi": "अरबी भाषा में धार्मिक और वैचारिक विषयों पर बहस और व्याख्या वाले कार्यक्रम और वीडियो डालते हैं।",
+        "zh": "发布阿拉伯语的节目和视频，就宗教与思想话题进行辩论和讲解。",
+        "ja": "宗教や思想をテーマにした討論や解説のアラビア語の番組・動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UC_UgKbgJ0eyMHkewdRvXVXA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 2180000
+        }
+      }
+    },
+    {
+      "id": "obmanutyi-rossiyanin",
+      "name": "Обманутый Россиянин",
+      "country": "RU",
+      "topic": {
+        "es": "Sátira y humor político",
+        "en": "Satire and political humor",
+        "pt": "Sátira e humor político",
+        "fr": "Satire et humour politique",
+        "de": "Satire und politischer Humor",
+        "ru": "Сатира и политический юмор",
+        "ar": "سخرية وفكاهة سياسية",
+        "hi": "व्यंग्य और राजनीतिक हास्य",
+        "zh": "讽刺与政治幽默",
+        "ja": "風刺と政治ユーモア"
+      },
+      "about": {
+        "es": "Publica sketches satíricos en ruso sobre la actualidad política y social, con personajes que representan a distintos ciudadanos.",
+        "en": "Posts satirical sketches in Russian about political and social affairs, with characters representing different citizens.",
+        "pt": "Publica esquetes satíricos em russo sobre a atualidade política e social, com personagens que representam diferentes cidadãos.",
+        "fr": "Publie des sketchs satiriques en russe sur l’actualité politique et sociale, avec des personnages représentant différents citoyens.",
+        "de": "Veröffentlicht satirische Sketche auf Russisch zu politischen und gesellschaftlichen Themen, mit Figuren, die verschiedene Bürger darstellen.",
+        "ru": "Публикует сатирические скетчи на русском о политике и обществе с персонажами, изображающими разных граждан.",
+        "ar": "ينشر مقاطع تمثيلية ساخرة بالروسية عن الشأن السياسي والاجتماعي، بشخصيات تمثّل مواطنين مختلفين.",
+        "hi": "रूसी भाषा में राजनीतिक और सामाजिक विषयों पर व्यंग्यात्मक स्केच डालते हैं, जिनमें अलग-अलग नागरिकों को दर्शाने वाले किरदार होते हैं।",
+        "zh": "发布俄语讽刺小品，围绕政治和社会时事，用角色扮演不同的普通公民。",
+        "ja": "政治や社会の話題を扱う風刺コントをロシア語で投稿しており、さまざまな市民を演じるキャラクターが登場する。"
+      },
+      "handles": {
+        "youtube": "UCb64k6yqn3s4DlayVkbJ2qw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1900000
+        }
+      }
+    },
+    {
+      "id": "mehdi-chettah",
+      "name": "Mehdi Chettah مهدي شطاح",
+      "country": "DZ",
+      "topic": {
+        "es": "Viajes e historias de la diáspora",
+        "en": "Travel and diaspora stories",
+        "pt": "Viagens e histórias da diáspora",
+        "fr": "Voyages et histoires de la diaspora",
+        "de": "Reisen und Diaspora-Geschichten",
+        "ru": "Путешествия и истории диаспоры",
+        "ar": "سفر وقصص الجالية",
+        "hi": "यात्रा और प्रवासी समुदाय की कहानियाँ",
+        "zh": "旅行与海外侨民故事",
+        "ja": "旅とディアスポラの物語"
+      },
+      "about": {
+        "es": "Comparte en árabe viajes a países poco habituales y relatos sobre la comunidad argelina en Europa.",
+        "en": "Shares, in Arabic, trips to unusual countries and stories about the Algerian community in Europe.",
+        "pt": "Compartilha, em árabe, viagens a países pouco comuns e relatos sobre a comunidade argelina na Europa.",
+        "fr": "Partage, en arabe, des voyages dans des pays peu communs et des récits sur la communauté algérienne en Europe.",
+        "de": "Teilt auf Arabisch Reisen in ungewöhnliche Länder und Geschichten über die algerische Gemeinschaft in Europa.",
+        "ru": "Делится на арабском поездками в необычные страны и рассказами об алжирской общине в Европе.",
+        "ar": "يشارك بالعربية رحلات إلى بلدان غير مألوفة وقصصًا عن الجالية الجزائرية في أوروبا.",
+        "hi": "अरबी में असामान्य देशों की यात्राएँ और यूरोप में अल्जीरियाई समुदाय की कहानियाँ साझा करते हैं।",
+        "zh": "用阿拉伯语分享前往小众国家的旅行，以及欧洲阿尔及利亚侨民社群的故事。",
+        "ja": "アラビア語で、珍しい国への旅や、ヨーロッパのアルジェリア系コミュニティの物語を紹介している。"
+      },
+      "handles": {
+        "youtube": "UCq-IrehlENdL0yiMD8Og-LA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 1290000
+        }
+      }
     }
   ]
 }
