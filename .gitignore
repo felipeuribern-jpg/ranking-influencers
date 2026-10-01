@@ -31,3 +31,4 @@ supabase/.temp/
 # scripts de verificación/fusión), pendientes de verificar contra la
 # YouTube Data API antes de fusionar en data/influencers.json
 pipeline/_*
+.claude/settings.local.json
