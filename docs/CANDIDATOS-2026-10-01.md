@@ -99,3 +99,12 @@ describirlos.
    `data/influencers.json` con `discoveredAuto: true`, igual que el lote del 26 de septiembre.
 4. Decidir si el ranking por país sigue siendo «top 10»: con más perfiles por país, hay que
    definir si los nuevos desplazan a los actuales o si solo se amplía el catálogo.
+
+## E. Verificación y primer lote (1 de octubre de 2026, tarde)
+
+Con la API de YouTube (`channels.list` y `playlistItems.list`) se reverificaron los 161 candidatos:
+91 tienen el país configurado igual al de la cola, 26 tienen otro país y 44 no declaran país.
+Se promovieron 19 canales con país coincidente, actividad en las últimas semanas y más de 1 M de
+suscriptores, con `topic`/`about` basados solo en los títulos recientes (sin biografías). Quedaron
+fuera, a propósito, los canales de política o debate, los de contenido sensible y los de país
+dudoso. La cola `data/candidates.json` bajó de 164 a 145.

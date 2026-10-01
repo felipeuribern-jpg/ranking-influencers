@@ -238,6 +238,139 @@
       "followers": 876000,
       "source": "https://www.youtube.com/channel/UCJ67_cvHTYmgyfhjkB2o5Aw (YouTube Data API v3)",
       "date": "2026-09-26"
+    },
+    {
+      "id": "calixto-serna",
+      "platform": "youtube",
+      "followers": 1410000,
+      "source": "https://www.youtube.com/channel/UCigvm_q9Giy06xwUeIVdOoA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "vagaboom",
+      "platform": "youtube",
+      "followers": 1370000,
+      "source": "https://www.youtube.com/channel/UCPgrd83e1TOKFs46JdFu4Gg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "dana-lucia",
+      "platform": "youtube",
+      "followers": 1930000,
+      "source": "https://www.youtube.com/channel/UC9F7S5cKYH5e1Oj2FZz9bVw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "max-y-noelia",
+      "platform": "youtube",
+      "followers": 7800000,
+      "source": "https://www.youtube.com/channel/UCgQYtqm1xB2uuNZaOniCH0Q (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "jdaniel",
+      "platform": "youtube",
+      "followers": 6430000,
+      "source": "https://www.youtube.com/channel/UCcrwHnSlK1pwESr6hknupIA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "jonbtc",
+      "platform": "youtube",
+      "followers": 10000000,
+      "source": "https://www.youtube.com/channel/UCIkoPdb6_lhL-Tgh6Ly2lVg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "alex-fidalgo",
+      "platform": "youtube",
+      "followers": 1070000,
+      "source": "https://www.youtube.com/channel/UCcpOe_g8sfr2GSoLZISy6yA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "martina-tu-bella-amiga",
+      "platform": "youtube",
+      "followers": 1030000,
+      "source": "https://www.youtube.com/channel/UCgC9zpiCwwSUPMNF3wMxX8g (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "aqueles-caras",
+      "platform": "youtube",
+      "followers": 4780000,
+      "source": "https://www.youtube.com/channel/UCNvpIHxl9rKaSF9O1Ao5nsQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "nany-flow",
+      "platform": "youtube",
+      "followers": 2310000,
+      "source": "https://www.youtube.com/channel/UCKK30qHz_QedLF2D3o6TZPw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "progetto-happiness",
+      "platform": "youtube",
+      "followers": 3230000,
+      "source": "https://www.youtube.com/channel/UCCDtBHQGboy9eTvNd_KqfTA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "bella-fiori",
+      "platform": "youtube",
+      "followers": 2610000,
+      "source": "https://www.youtube.com/channel/UCaezsZGhwWgB4ZRmHNCfIyw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "matt-does-fitness",
+      "platform": "youtube",
+      "followers": 2430000,
+      "source": "https://www.youtube.com/channel/UCeqR0F3O1V11CiiOaJbd1pw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "italianbach",
+      "platform": "youtube",
+      "followers": 1510000,
+      "source": "https://www.youtube.com/channel/UCoNCiBqr3p5ZRCGybtFRcPg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "lydia-elise-millen",
+      "platform": "youtube",
+      "followers": 1040000,
+      "source": "https://www.youtube.com/channel/UCoSjnRDZSFVp88NXE7MenLQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "janelle-dltr",
+      "platform": "youtube",
+      "followers": 1190000,
+      "source": "https://www.youtube.com/channel/UCObjT6_9D0vIOAfVEhEbLlw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "czajnik",
+      "platform": "youtube",
+      "followers": 3610000,
+      "source": "https://www.youtube.com/channel/UCqi4vmSjAIFdDnwjSFE6CGA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "becomingfilipino",
+      "platform": "youtube",
+      "followers": 1160000,
+      "source": "https://www.youtube.com/channel/UCqdBWKP4_8bU-Rsk2LvVz6Q (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "jatie-vlogs",
+      "platform": "youtube",
+      "followers": 3730000,
+      "source": "https://www.youtube.com/channel/UCnM1ay_QoQOpa1N2iejLA7A (YouTube Data API v3)",
+      "date": "2026-10-01"
     }
   ]
 }
