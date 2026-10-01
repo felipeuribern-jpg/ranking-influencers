@@ -490,6 +490,181 @@
       "followers": 563000,
       "source": "https://www.youtube.com/channel/UCqsFPAZpC6CnRQCXJ7Ss_2w (YouTube Data API v3)",
       "date": "2026-10-01"
+    },
+    {
+      "id": "whistlindiesel",
+      "platform": "youtube",
+      "followers": 10800000,
+      "source": "https://www.youtube.com/channel/UCdqp0KK_Io7TwK5cJMBvB0Q (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "felca",
+      "platform": "youtube",
+      "followers": 6320000,
+      "source": "https://www.youtube.com/channel/UCUwGT1LKPKuMp3-pfn6p0PQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "lebriah",
+      "platform": "youtube",
+      "followers": 4460000,
+      "source": "https://www.youtube.com/channel/UCJGf4nZii5gIslhQTpisiPg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "planetajuan",
+      "platform": "youtube",
+      "followers": 3480000,
+      "source": "https://www.youtube.com/channel/UCDfbsXLRCyk_LIkrtaTmliQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "la-liendra",
+      "platform": "youtube",
+      "followers": 1560000,
+      "source": "https://www.youtube.com/channel/UCmg81A6mKSnU519Y_mEjgiQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "visckel",
+      "platform": "youtube",
+      "followers": 2500000,
+      "source": "https://www.youtube.com/channel/UCA6kuJqy0myJHK2DXPUaWnw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "tengo-un-plan",
+      "platform": "youtube",
+      "followers": 2390000,
+      "source": "https://www.youtube.com/channel/UCJFP-5V2-0BFeVmKifG0H_Q (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "danann",
+      "platform": "youtube",
+      "followers": 2250000,
+      "source": "https://www.youtube.com/channel/UCf7cmc_Xxke9eIg76b6qdSg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "agustina-liporace",
+      "platform": "youtube",
+      "followers": 1480000,
+      "source": "https://www.youtube.com/channel/UCGB4DmXYX8gjg-R2BKb7JmQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "gaspi",
+      "platform": "youtube",
+      "followers": 3270000,
+      "source": "https://www.youtube.com/channel/UCfLTaP7dww1M8Vr5DKzzRZA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "samuel-adrian",
+      "platform": "youtube",
+      "followers": 1200000,
+      "source": "https://www.youtube.com/channel/UCQ2sDH7oxoeXj6W9lslg21Q (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "jair-sanchez",
+      "platform": "youtube",
+      "followers": 1200000,
+      "source": "https://www.youtube.com/channel/UCP_Mc642HKGfYmtJLdf3kDQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "alex-serrano",
+      "platform": "youtube",
+      "followers": 2070000,
+      "source": "https://www.youtube.com/channel/UCYdIzI9RBkMDYtE4OBcdycQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "kim-migneault",
+      "platform": "youtube",
+      "followers": 6630000,
+      "source": "https://www.youtube.com/channel/UCf8_4FgmDaflnnccU0ODHDg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "mollymae",
+      "platform": "youtube",
+      "followers": 2100000,
+      "source": "https://www.youtube.com/channel/UC-F3kTU4V680v550AavEOsQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "khalid-farhan",
+      "platform": "youtube",
+      "followers": 1940000,
+      "source": "https://www.youtube.com/channel/UCb-d2dCbEt_T-d3qf3oMICw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "nicolo-balini",
+      "platform": "youtube",
+      "followers": 1440000,
+      "source": "https://www.youtube.com/channel/UCjMIGhRExEB-Q6ZyEr1gBeA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "maddie-borge",
+      "platform": "youtube",
+      "followers": 1120000,
+      "source": "https://www.youtube.com/channel/UCkfTm3HfC4Fqr5dTPJHc9Fg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "georgia-productions",
+      "platform": "youtube",
+      "followers": 1050000,
+      "source": "https://www.youtube.com/channel/UCYLqIgYnlbmZHH9_oacn5Ng (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "bridey-drake",
+      "platform": "youtube",
+      "followers": 5000000,
+      "source": "https://www.youtube.com/channel/UChrA9LSeVcLRQiMkcvdFhMQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "qalby-etmaan",
+      "platform": "youtube",
+      "followers": 4720000,
+      "source": "https://www.youtube.com/channel/UCTYNerRYjdiyRNR6LgRmOOQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "mona-el-shazly",
+      "platform": "youtube",
+      "followers": 6740000,
+      "source": "https://www.youtube.com/channel/UCcucB5aJ0xmv5OEKQwzAUjw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "waleed-ismail",
+      "platform": "youtube",
+      "followers": 2180000,
+      "source": "https://www.youtube.com/channel/UC_UgKbgJ0eyMHkewdRvXVXA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "obmanutyi-rossiyanin",
+      "platform": "youtube",
+      "followers": 1900000,
+      "source": "https://www.youtube.com/channel/UCb64k6yqn3s4DlayVkbJ2qw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "mehdi-chettah",
+      "platform": "youtube",
+      "followers": 1290000,
+      "source": "https://www.youtube.com/channel/UCq-IrehlENdL0yiMD8Og-LA (YouTube Data API v3)",
+      "date": "2026-10-01"
     }
   ]
 }
