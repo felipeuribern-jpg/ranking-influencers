@@ -1,0 +1,9 @@
+---
+import { people } from "../lib/data";
+import { PLATFORM_LABELS, type Platform } from "../../pipeline/config";
+import copy from "../lib/ux-copy.json";
+import type { LanguageCode } from "../../site.config";
+const { lang, profiles = people } = Astro.props as {lang: LanguageCode; profiles?: typeof people};
+const sources = [...new Set(profiles.flatMap(p => Object.entries(p.platforms).filter(([,d]) => d && d.points > 0).map(([key]) => key as Platform)))];
+---
+{sources.length > 0 && <p class="score-coverage"><span class="coverage-dot" aria-hidden="true"></span><span>{copy[lang].sources}: <strong>{sources.map(key => PLATFORM_LABELS[key]).join(" · ")}</strong></span></p>}

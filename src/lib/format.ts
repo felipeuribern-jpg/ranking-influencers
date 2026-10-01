@@ -12,7 +12,7 @@ export function formatNumber(n: number, lang: LanguageCode): string {
 }
 
 export function formatDate(iso: string, lang: LanguageCode): string {
-  return new Intl.DateTimeFormat(lang, { day: "numeric", month: "long", year: "numeric" }).format(
+  return new Intl.DateTimeFormat(lang, { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }).format(
     new Date(iso),
   );
 }

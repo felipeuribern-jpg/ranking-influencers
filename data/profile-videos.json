@@ -1,0 +1,52 @@
+{
+  "claux-7": {
+    "videoId": "40GcaqUOjMI",
+    "title": "EL PUEBLO MAS HUMILDE DE CHILE",
+    "thumbnail": "https://i.ytimg.com/vi/40GcaqUOjMI/hqdefault.jpg",
+    "channelId": "UCEgBVAcaLgqyBYPSeiJNcTw",
+    "duration": "PT34M15S",
+    "checkedAt": "2026-09-27T18:11:44.367Z",
+    "source": "YouTube Data API v3",
+    "selectionBasis": "Initial example selected from official title and description; full editorial viewing pending."
+  },
+  "eva-zu-beck": {
+    "videoId": "vofF8V-40dU",
+    "title": "I'm moving into a tent... (and I rescued a dog)",
+    "thumbnail": "https://i.ytimg.com/vi/vofF8V-40dU/hqdefault.jpg",
+    "channelId": "UCDTINI9skkeZNY2ZXnBqIkQ",
+    "duration": "PT24M48S",
+    "checkedAt": "2026-09-27T18:11:44.367Z",
+    "source": "YouTube Data API v3",
+    "selectionBasis": "Initial example selected from official title and description; full editorial viewing pending."
+  },
+  "kk-create": {
+    "videoId": "kCjsBK6XSR0",
+    "title": "Inside India’s longest train [74+ hrs] 😵",
+    "thumbnail": "https://i.ytimg.com/vi/kCjsBK6XSR0/hqdefault.jpg",
+    "channelId": "UCkw1tYo7k8t-Y99bOXuZwhg",
+    "duration": "PT32M37S",
+    "checkedAt": "2026-09-27T18:11:44.367Z",
+    "source": "YouTube Data API v3",
+    "selectionBasis": "Initial example selected from official title and description; full editorial viewing pending."
+  },
+  "korty-eo": {
+    "videoId": "9sCbk_UYUvc",
+    "title": "I met Tony Elumelu, he got rich by Luck.",
+    "thumbnail": "https://i.ytimg.com/vi/9sCbk_UYUvc/hqdefault.jpg",
+    "channelId": "UCTFFhYhkLkxjhcCdwUKmQ5g",
+    "duration": "PT19M39S",
+    "checkedAt": "2026-09-27T18:11:44.367Z",
+    "source": "YouTube Data API v3",
+    "selectionBasis": "Initial example selected from official title and description; full editorial viewing pending."
+  },
+  "brianne-worth": {
+    "videoId": "EEXVkxudE9E",
+    "title": "Airbnb Hosts Have F*cking Lost It",
+    "thumbnail": "https://i.ytimg.com/vi/EEXVkxudE9E/hqdefault.jpg",
+    "channelId": "UCu5kDNnaotVbtpXRch5K83Q",
+    "duration": "PT53M30S",
+    "checkedAt": "2026-09-27T18:11:44.367Z",
+    "source": "YouTube Data API v3",
+    "selectionBasis": "Initial example selected from official title and description; full editorial viewing pending."
+  }
+}

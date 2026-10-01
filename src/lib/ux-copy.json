@@ -1,0 +1,122 @@
+{
+  "es": {
+    "sources": "Redes que aportan puntos hoy",
+    "mainNetwork": "Red principal",
+    "insufficient": "Datos insuficientes",
+    "history": "Evolución del puntaje",
+    "historyEmpty": "Aún no hay suficientes días para mostrar la evolución.",
+    "allCountries": "Todos",
+    "positions": "Las posiciones mostradas son mundiales.",
+    "edition": "Propuesta editorial · octubre de 2026",
+    "preview": "Una muestra de su contenido",
+    "back": "Volver al ranking"
+  },
+  "en": {
+    "sources": "Networks contributing points today",
+    "mainNetwork": "Main network",
+    "insufficient": "Insufficient data",
+    "history": "Score history",
+    "historyEmpty": "Not enough days yet to show a trend.",
+    "allCountries": "All",
+    "positions": "Positions shown are worldwide.",
+    "edition": "Editorial shortlist · October 2026",
+    "preview": "A sample of their content",
+    "back": "Back to ranking"
+  },
+  "pt": {
+    "sources": "Redes que contribuem com pontos hoje",
+    "mainNetwork": "Rede principal",
+    "insufficient": "Dados insuficientes",
+    "history": "Evolução da pontuação",
+    "historyEmpty": "Ainda não há dias suficientes para mostrar a evolução.",
+    "allCountries": "Todos",
+    "positions": "As posições apresentadas são mundiais.",
+    "edition": "Proposta editorial · outubro de 2026",
+    "preview": "Uma amostra do conteúdo",
+    "back": "Voltar ao ranking"
+  },
+  "fr": {
+    "sources": "Réseaux contribuant aux points aujourd’hui",
+    "mainNetwork": "Réseau principal",
+    "insufficient": "Données insuffisantes",
+    "history": "Évolution du score",
+    "historyEmpty": "Pas encore assez de jours pour afficher une tendance.",
+    "allCountries": "Tous",
+    "positions": "Les positions affichées sont mondiales.",
+    "edition": "Présélection éditoriale · octobre 2026",
+    "preview": "Un aperçu de son contenu",
+    "back": "Retour au classement"
+  },
+  "de": {
+    "sources": "Netzwerke, die heute Punkte beitragen",
+    "mainNetwork": "Hauptnetzwerk",
+    "insufficient": "Unzureichende Daten",
+    "history": "Punkteverlauf",
+    "historyEmpty": "Noch nicht genügend Tage für einen Verlauf.",
+    "allCountries": "Alle",
+    "positions": "Angezeigt werden weltweite Platzierungen.",
+    "edition": "Redaktionelle Vorauswahl · Oktober 2026",
+    "preview": "Ein Einblick in die Inhalte",
+    "back": "Zurück zur Rangliste"
+  },
+  "ru": {
+    "sources": "Сети, которые сегодня приносят баллы",
+    "mainNetwork": "Основная сеть",
+    "insufficient": "Недостаточно данных",
+    "history": "История баллов",
+    "historyEmpty": "Пока недостаточно дней для отображения динамики.",
+    "allCountries": "Все",
+    "positions": "Показаны места в мировом рейтинге.",
+    "edition": "Редакционные кандидаты · октябрь 2026",
+    "preview": "Пример контента автора",
+    "back": "Вернуться к рейтингу"
+  },
+  "ar": {
+    "sources": "الشبكات التي تساهم في النقاط اليوم",
+    "mainNetwork": "الشبكة الرئيسية",
+    "insufficient": "بيانات غير كافية",
+    "history": "تطور النقاط",
+    "historyEmpty": "لا توجد أيام كافية لعرض التطور بعد.",
+    "allCountries": "الكل",
+    "positions": "المراكز المعروضة عالمية.",
+    "edition": "قائمة تحريرية أولية · أكتوبر 2026",
+    "preview": "عينة من المحتوى",
+    "back": "العودة إلى التصنيف"
+  },
+  "hi": {
+    "sources": "आज अंक देने वाले नेटवर्क",
+    "mainNetwork": "मुख्य नेटवर्क",
+    "insufficient": "अपर्याप्त डेटा",
+    "history": "स्कोर का इतिहास",
+    "historyEmpty": "रुझान दिखाने के लिए अभी पर्याप्त दिनों का डेटा नहीं है।",
+    "allCountries": "सभी",
+    "positions": "दिखाए गए स्थान विश्व रैंकिंग के हैं।",
+    "edition": "संपादकीय प्रस्ताव · अक्टूबर 2026",
+    "preview": "इनके कंटेंट की एक झलक",
+    "back": "रैंकिंग पर वापस जाएँ"
+  },
+  "zh": {
+    "sources": "目前贡献分数的平台",
+    "mainNetwork": "主要平台",
+    "insufficient": "数据不足",
+    "history": "分数走势",
+    "historyEmpty": "尚无足够天数的数据来显示走势。",
+    "allCountries": "全部",
+    "positions": "显示的是全球排名。",
+    "edition": "编辑候选名单 · 2026年10月",
+    "preview": "内容预览",
+    "back": "返回排名"
+  },
+  "ja": {
+    "sources": "現在スコアに寄与するプラットフォーム",
+    "mainNetwork": "主なプラットフォーム",
+    "insufficient": "データ不足",
+    "history": "スコアの推移",
+    "historyEmpty": "推移を表示するための日数が不足しています。",
+    "allCountries": "すべて",
+    "positions": "表示順位は世界順位です。",
+    "edition": "編集候補リスト · 2026年10月",
+    "preview": "コンテンツの紹介",
+    "back": "ランキングに戻る"
+  }
+}

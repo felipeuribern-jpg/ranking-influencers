@@ -1,5 +1,7 @@
 ---
 import type { LanguageCode } from "../../site.config";
+import copy from "../lib/ux-copy.json";
+import videos from "../../data/profile-videos.json";
 import labels from "../lib/discoveries.json";
 import { getPersonById } from "../lib/data";
 const { lang } = Astro.props as { lang: LanguageCode };
@@ -10,18 +12,20 @@ const candidates: Record<string, string> = { africa: "korty-eo", americas: "clau
 const regions = ["africa", "americas", "asia", "europe", "oceania"];
 ---
 <section class="discoveries" aria-labelledby="discoveries-title">
-  <div class="discovery-heading"><div><h2 id="discoveries-title">{text[0]}</h2><p>{text[1]}</p></div><span class="discovery-mark" aria-hidden="true">↗</span></div>
+  <div class="discovery-heading"><div><h2 id="discoveries-title">{text[0]}</h2><p>{text[1]}</p><p class="edition">{copy[lang].edition}</p></div><span class="discovery-mark" aria-hidden="true">↗</span></div>
   <div class="discovery-picker" hidden><label for="discovery-continent">{text[2]}</label><select id="discovery-continent">{regions.map((region, index) => <option value={region} selected={region === "americas"}>{text[index + 3]}</option>)}</select></div>
   <div class="discovery-grid">
     {regions.map((region, index) => {
       const candidate = getPersonById(candidates[region]);
       const person = candidate && candidate.rank > 20 ? candidate : null;
+      const video = person ? (videos as Record<string,{thumbnail:string;title:string}>)[person.id] : null;
       return <article class:list={["discovery-card", { "has-candidate": !!person }]} data-continent={region}>
+        {video && <a class="discovery-preview" href={`${base}/${lang}/p/${person!.id}/`} aria-label={`${text[11]}: ${person!.name}`}><img src={video.thumbnail} alt={video.title} width="480" height="360" loading="lazy" decoding="async" /><span>{copy[lang].preview} ↗</span></a>}
         <p class="discovery-region">{text[index + 3]}</p>
         <span class="discovery-status">{person ? text[10] : text[8]}</span>
         {person ? <>
           <h3><img src={`${base}/flags/${person.country.toLowerCase()}.svg`} alt="" width="28" height="28" />{person.name}<span class="country-code">{person.country}</span></h3>
-          <p>{person.topic[lang] ?? person.topic.es}</p>
+          <p>{person.topic[lang] ?? person.topic.es}</p><p class="discovery-about">{person.about[lang] ?? person.about.es}</p>
           <a class="btn" href={`${base}/${lang}/p/${person.id}/`}>{text[11]} <span aria-hidden="true">↗</span></a>
         </> : <><h3>{text[8]}</h3><p>{text[9]}</p></>}
       </article>;
@@ -61,4 +65,10 @@ h3 img { border-radius:50%; object-fit:cover; }
 .discovery-picker select { width:100%; min-height:46px; background:#0c121b; color:#f4f8ff; border:1px solid #ffffff30; border-radius:8px; padding:10px; font:inherit; }
 @media(min-width:680px) and (max-width:1000px) { .discovery-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
 @media(max-width:679px) { .discovery-grid { grid-template-columns:1fr; margin-top:14px; } .discovery-mark { display:none; } }
+.discovery-preview {display:block;align-self:stretch;margin:-22px -22px 20px;text-decoration:none;overflow:hidden;border-radius:12px 12px 0 0;background:#080c13;}
+.discovery-preview img {display:block;width:100%;aspect-ratio:16/9;height:auto;object-fit:cover;}
+.discovery-preview span {display:block;padding:10px 16px;font-size:13px;color:var(--muted);}
+.discovery-about {display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin:0 0 24px;}
+.edition {color:var(--accent);font-size:13px;margin-bottom:0;}
+.discovery-status,.discovery-note {font-size:13px;}
 </style>

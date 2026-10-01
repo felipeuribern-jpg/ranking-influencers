@@ -1,5 +1,7 @@
 ---
 import { categoryIds, categoryLabels, interfaceLabels } from "../../lib/exploration";
+import copy from "../../lib/ux-copy.json";
+import ScoreCoverage from "../../components/ScoreCoverage.astro";
 import Layout from "../../components/Layout.astro";
 import Discoveries from "../../components/Discoveries.astro";
 import RankingRow from "../../components/RankingRow.astro";
@@ -76,8 +78,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
           <div class="phone-bottom" aria-hidden="true"><span></span></div>
         </div>
       </div>
-      <button class="btn sound-toggle" type="button" hidden aria-controls="intro-video" data-on={controls[1]} data-off={controls[2]}>{controls[1]}</button>
-      <p>{lang === "es" ? "Descubre una nueva forma de entender la influencia." : "Discover a new way to understand influence."}</p>
+      <div class="film-caption"><button class="btn sound-toggle" type="button" hidden aria-controls="intro-video" data-on={controls[1]} data-off={controls[2]}>{controls[1]}</button>
+      <a class="film-ranking-link" href="#ranking">{t("hero.ctaExplore")} ↗</a></div>
     </div>
   </section>
 
@@ -91,16 +93,17 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     <span><b>{countries.length}</b> {coverageLabels[1]}</span>
     <a href={`${base}/${lang}/metodo/`}>{t("rank.scoreLabel")} · {t("nav.method")} ↗</a>
   </div>
-  <p class="ranking-intro">{uxLabels[4]}</p>
+  <ScoreCoverage lang={lang} />
+  <p class="ranking-intro" id="ranking-context" hidden>{copy[lang].positions}</p>
   <form class="filters" id="filters" role="search" aria-label={uxLabels[0]}>
     <div class="creator-search">
       <label for="f-search">{uxLabels[0]}</label>
-      <input id="f-search" type="search" name="creator" placeholder={uxLabels[1]} autocomplete="off" />
+      <input id="f-search" type="search" name="creator" autocomplete="off" />
     </div>
     <div>
       <label for="f-country">{coverageLabels[2]}</label>
       <select id="f-country" name="country">
-        <option value="">{t("home.filterAllOption")}</option>
+        <option value="">{copy[lang].allCountries}</option>
         {countries.map(code => <option value={code}>{regionNames.of(code)}</option>)}
       </select>
     </div>
@@ -115,7 +118,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
       </select>
     </div>
     <div>
-      <label for="f-platform">{t("home.filterPlatformLabel")}</label>
+      <label for="f-platform">{copy[lang].mainNetwork}</label>
       <select id="f-platform" name="platform">
         <option value="">{t("home.filterAllOption")}</option>
         {platforms.map((platform) => <option value={platform}>{PLATFORM_LABELS[platform]}</option>)}
@@ -205,6 +208,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
   function applyFilters() {
     document.getElementById("active-filter-count")!.textContent =
       [topicSelect.value, platformSelect.value].filter(Boolean).length ? `(${[topicSelect.value, platformSelect.value].filter(Boolean).length})` : "";
+    document.getElementById("ranking-context")!.hidden = !countrySelect.value;
     const query = normalize(searchInput.value);
     const matches = rows.filter((row) =>
       (!countrySelect.value || row.dataset.country === countrySelect.value) &&

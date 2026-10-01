@@ -1,6 +1,9 @@
 ---
 import { interfaceLabels } from "../../../lib/exploration";
+import copy from "../../../lib/ux-copy.json";
+import ScoreCoverage from "../../../components/ScoreCoverage.astro";
 import Layout from "../../../components/Layout.astro";
+import ProfileVideo from "../../../components/ProfileVideo.astro";
 import Sparkline from "../../../components/Sparkline.astro";
 import { siteConfig, type LanguageCode } from "../../../../site.config";
 import { translator } from "../../../lib/i18n";
@@ -39,12 +42,13 @@ const history = getHistorySeries(person.id, 90);
   title={person.name}
   description={about}
 >
+  <a class="profile-back" href={`${base}/${lang}/#ranking`}>← {copy[lang].back}</a>
   <div class="weekline">
-    <h2 class="profile-title">
+    <h1 class="profile-title">
       <span class="avatar country-avatar profile-avatar" aria-hidden="true"><img src={`${base}/flags/${person.country.toLowerCase()}.svg`} alt="" width="42" height="42" loading="lazy" /></span>
       <span class="creator-name-text">{person.name}</span>
       <span class="country-code" aria-label={countryName(person.country, lang)} title={countryName(person.country, lang)}>{person.country.toUpperCase()}</span>
-    </h2>
+    </h1>
     <span>{topic} · {countryName(person.country, lang)}</span>
   </div>
 
@@ -54,55 +58,26 @@ const history = getHistorySeries(person.id, 90);
     <div class="stat"><b>{formatNumber(person.total, lang)}</b><span>{t("rank.points")}</span></div>
   </div>
 
-  <p>{about}</p>
+  <ScoreCoverage lang={lang} profiles={[person]} />
+  <p class="profile-about">{about}</p>
+  <ProfileVideo personId={person.id} lang={lang} />
 
-  <div id="platforms">
-    {
-      platformEntries.map(([platform, data]) => (
-        <div class:list={["plat", { main: platform === person.mainPlatform }]}>
-          <span class="n">{PLATFORM_LABELS[platform]}</span>
-          <span class="num">
-            <small class="metric-label">{interfaceLabels[lang][3]}</small>
-            {data.followers != null ? formatCompactNumber(data.followers, lang) : "–"}
-            <small class="metric-label">{interfaceLabels[lang][4]}</small>
-            {data.er != null ? formatPercent(data.er, lang) : t("profile.engagementNA")}
-          </span>
-          <span class="num">
-            <b>{formatNumber(data.points, lang)}</b> {t("rank.points")}
-          </span>
-        </div>
-      ))
-    }
+  <div id="platforms" class="platform-cards">
+    {platformEntries.map(([platform, data]) => <section class="platform-card" aria-label={PLATFORM_LABELS[platform]}>
+      <div class="platform-heading"><h2>{PLATFORM_LABELS[platform]}</h2><b>{formatNumber(data.points, lang)} {t("rank.points")}</b></div>
+      <dl class="platform-metrics">
+        <div><dt>{interfaceLabels[lang][3]}</dt><dd>{data.followers != null ? formatCompactNumber(data.followers, lang) : copy[lang].insufficient}</dd></div>
+        <div><dt>{interfaceLabels[lang][4]}</dt><dd>{data.er != null ? formatPercent(data.er, lang) : copy[lang].insufficient}</dd></div>
+        <div><dt>{t("profile.growth30")}</dt><dd>{data.followers != null && data.followers30 != null && data.followers30 > 0 ? formatSignedPercent((data.followers-data.followers30)/data.followers30,lang) : copy[lang].insufficient}</dd></div>
+      </dl>
+      <p class="data-date">{t("profile.lastUpdate")}: <time datetime={data.fetchedAt}>{formatDate(data.fetchedAt,lang)}</time>{data.stale && <strong> · {t("profile.stale")}</strong>}</p>
+      <details class="source-details"><summary>{t("profile.source",{source:PLATFORM_LABELS[platform]})}</summary><p>{data.source}</p></details>
+    </section>)}
   </div>
-
-  {
-    platformEntries.length > 0 && (
-      <table class="w" style="margin-top:16px">
-        <tr>
-          <th>{" "}</th>
-          <th>{t("profile.growth30")}</th>
-          <th>{t("profile.lastUpdate")}</th>
-        </tr>
-        {platformEntries.map(([platform, data]) => (
-          <tr>
-            <td>{PLATFORM_LABELS[platform]}</td>
-            <td>
-              {data.followers != null && data.followers30 != null && data.followers30 > 0
-                ? formatSignedPercent((data.followers - data.followers30) / data.followers30, lang)
-                : "–"}
-            </td>
-            <td>
-              {data.stale ? t("profile.stale") : formatDate(data.fetchedAt, lang)}
-              {data.source && <span style="color:var(--muted)"> · {t("profile.source", { source: data.source })}</span>}
-            </td>
-          </tr>
-        ))}
-      </table>
-    )
-  }
-
-  <h3 class="prose">{t("profile.evolution")}</h3>
-  <Sparkline series={history} label={t("profile.evolution")} />
+  <section class="history-card" aria-labelledby="history-title">
+    <h2 id="history-title">{copy[lang].history}</h2>
+    <Sparkline series={history} label={copy[lang].history} lang={lang} />
+  </section>
 
   {
     mainUrl ? (

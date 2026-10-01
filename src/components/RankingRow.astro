@@ -1,4 +1,5 @@
 ---
+import copy from "../lib/ux-copy.json";
 import { categoriesFor } from "../lib/exploration";
 import type { LanguageCode } from "../../site.config";
 import type { Person } from "../lib/data";
@@ -66,7 +67,7 @@ const countryName = new Intl.DisplayNames([lang], { type: "region" }).of(country
     <span class="avatar country-avatar" aria-hidden="true"><img src={`${base}/flags/${person.country.toLowerCase()}.svg`} alt="" width="42" height="42" loading="lazy" /></span>
     <span class="who-text">
       <strong class="creator-name"><span class="creator-name-text">{person.name}</span><span class="country-code" aria-label={countryName} title={countryName}>{countryCode}</span></strong>
-      <small>{topic} · {mainPlatformLabel}</small>
+      <small>{topic}<span class="main-network">{copy[lang].mainNetwork}: {mainPlatformLabel}</span></small>
     </span>
   </div>
   <div class="pts">

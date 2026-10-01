@@ -1,0 +1,49 @@
+---
+import type { LanguageCode } from "../../site.config";
+import videos from "../../data/profile-videos.json";
+const { personId, lang } = Astro.props as { personId: string; lang: LanguageCode };
+const video = (videos as Record<string, {videoId:string; title:string; thumbnail:string}>)[personId];
+const labels = {"es": ["Conoce su contenido", "Cargar video", "Al pulsar, se cargará el reproductor de YouTube.", "Ver en YouTube"], "en": ["Explore their content", "Load video", "Click to load the YouTube player.", "Watch on YouTube"], "pt": ["Conheça o conteúdo", "Carregar vídeo", "Ao clicar, o player do YouTube será carregado.", "Ver no YouTube"], "fr": ["Découvrez son contenu", "Charger la vidéo", "Cliquez pour charger le lecteur YouTube.", "Voir sur YouTube"], "de": ["Inhalte entdecken", "Video laden", "Per Klick wird der YouTube-Player geladen.", "Auf YouTube ansehen"], "ru": ["Познакомьтесь с контентом", "Загрузить видео", "Нажмите, чтобы загрузить проигрыватель YouTube.", "Смотреть на YouTube"], "ar": ["اكتشف المحتوى", "تحميل الفيديو", "اضغط لتحميل مشغّل يوتيوب.", "شاهد على يوتيوب"], "hi": ["इनका कंटेंट देखें", "वीडियो लोड करें", "क्लिक करने पर YouTube प्लेयर लोड होगा।", "YouTube पर देखें"], "zh": ["了解创作者的内容", "加载视频", "点击后加载 YouTube 播放器。", "在 YouTube 观看"], "ja": ["コンテンツを見る", "動画を読み込む", "クリックするとYouTubeプレーヤーを読み込みます。", "YouTubeで見る"]};
+const text = labels[lang];
+---
+{video && <section class="profile-video" aria-labelledby="profile-video-title">
+  <h2 id="profile-video-title">{text[0]}</h2>
+  <p class="video-name">{video.title}</p>
+  <div class="video-stage" data-video-id={video.videoId} data-video-title={video.title}>
+    <img src={video.thumbnail} alt="" width="480" height="360" loading="lazy" decoding="async" />
+    <button class="video-load" type="button" hidden aria-describedby="video-notice"><span aria-hidden="true">▶</span> {text[1]}</button>
+  </div>
+  <div class="video-footer"><p id="video-notice">{text[2]}</p><a href={`https://www.youtube.com/watch?v=${video.videoId}`} target="_blank" rel="noopener">{text[3]} ↗</a></div>
+</section>}
+<script>
+ document.querySelectorAll<HTMLElement>(".video-stage").forEach(stage => {
+   const button = stage.querySelector<HTMLButtonElement>("button")!;
+   button.hidden = false;
+   button.addEventListener("click", () => {
+     const id = stage.dataset.videoId!;
+     if (!/^[a-zA-Z0-9_-]{11}$/.test(id)) return;
+     const frame = document.createElement("iframe");
+     frame.src = `https://www.youtube-nocookie.com/embed/${id}?playsinline=1`;
+     frame.title = stage.dataset.videoTitle!;
+     frame.allow = "encrypted-media; fullscreen; picture-in-picture";
+     frame.allowFullscreen = true;
+     frame.referrerPolicy = "strict-origin-when-cross-origin";
+     stage.replaceChildren(frame);
+     frame.focus();
+   }, { once: true });
+ });
+</script>
+<style>
+.profile-video { margin-block:32px; border:1px solid var(--rule); border-radius:16px; padding:clamp(16px,3vw,28px); background:var(--surface); }
+h2 { margin:0 0 12px; font-size:clamp(22px,3vw,28px); }
+.video-name { line-height:1.6; color:var(--muted); margin:0 0 18px; }
+.video-stage { position:relative; aspect-ratio:16/9; width:100%; min-height:0; background:#000; border-radius:10px; overflow:hidden; }
+.video-stage img { width:100%; height:100%; object-fit:contain; display:block; opacity:.75; }
+.video-stage :global(iframe) { width:100%; height:100%; border:0; position:absolute; inset:0; }
+.video-load { position:absolute; inset:0; margin:auto; width:fit-content; height:fit-content; max-width:90%; min-height:48px; border:1px solid #c9ff3d; border-radius:10px; background:#c9ff3d; color:#101720; padding:14px 20px; font:inherit; font-weight:600; cursor:pointer; }
+.video-load:focus-visible { outline:3px solid white; outline-offset:4px; }
+.video-footer { display:flex; gap:12px; justify-content:space-between; align-items:center; flex-wrap:wrap; font-size:13px; }
+.video-footer p { color:var(--muted); }
+.video-footer a { min-height:44px; display:inline-flex; align-items:center; text-underline-offset:4px; }
+</style>
+
