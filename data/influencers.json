@@ -26734,6 +26734,366 @@
           "youtube": 655000
         }
       }
+    },
+    {
+      "id": "noor-stars",
+      "name": "Noor Stars",
+      "country": "AE",
+      "topic": {
+        "es": "Vlogs de vida y familia",
+        "en": "Life and family vlogs",
+        "pt": "Vlogs de vida e família",
+        "fr": "Vlogs de vie et de famille",
+        "de": "Lebens- und Familien-Vlogs",
+        "ru": "Влоги о жизни и семье",
+        "ar": "فيديوهات الحياة والعائلة",
+        "hi": "जीवन और परिवार वीलॉग",
+        "zh": "生活与家庭Vlog",
+        "ja": "暮らしと家族のVlog"
+      },
+      "about": {
+        "es": "Publica videos en árabe de su vida diaria y familiar, con retos y juegos junto a otras creadoras, y momentos como los preparativos de su boda.",
+        "en": "Posts Arabic-language videos of her daily and family life, with challenges and games alongside other creators, and moments such as her wedding preparations.",
+        "pt": "Publica vídeos em árabe de sua vida diária e familiar, com desafios e jogos ao lado de outras criadoras, e momentos como os preparativos do casamento.",
+        "fr": "Publie en arabe des vidéos de sa vie quotidienne et familiale, avec des défis et des jeux aux côtés d’autres créatrices, et des moments comme les préparatifs de son mariage.",
+        "de": "Veröffentlicht arabischsprachige Videos über ihren Alltag und ihre Familie, mit Challenges und Spielen mit anderen Creatorinnen sowie Momenten wie den Hochzeitsvorbereitungen.",
+        "ru": "Публикует на арабском видео о повседневной и семейной жизни, с челленджами и играми вместе с другими блогерами и моментами вроде подготовки к свадьбе.",
+        "ar": "تنشر بالعربية فيديوهات عن حياتها اليومية والعائلية، مع تحديات وألعاب مع صانعات محتوى أخريات ولحظات مثل تحضيرات زفافها.",
+        "hi": "अरबी में अपनी रोज़मर्रा और पारिवारिक ज़िंदगी के वीडियो डालती हैं, जिनमें दूसरी क्रिएटर्स के साथ चैलेंज और खेल तथा शादी की तैयारियों जैसे पल होते हैं।",
+        "zh": "用阿拉伯语发布日常和家庭生活视频，包含与其他创作者的挑战和游戏，以及筹备婚礼等时刻。",
+        "ja": "アラビア語で日常や家族の様子を投稿しており、他のクリエイターとのチャレンジやゲーム、結婚式の準備といった場面もある。"
+      },
+      "handles": {
+        "youtube": "UChOPyo-uWLVi5uO53mSBX-w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T18:00:00.000Z); nacionalidad/residencia en Emiratos confirmada con fuentes públicas",
+        "followers": {
+          "youtube": 22500000
+        }
+      }
+    },
+    {
+      "id": "khalid-al-ameri",
+      "name": "Khalid Al Ameri",
+      "country": "AE",
+      "topic": {
+        "es": "Humor y cultura",
+        "en": "Comedy and culture",
+        "pt": "Humor e cultura",
+        "fr": "Humour et culture",
+        "de": "Comedy und Kultur",
+        "ru": "Юмор и культура",
+        "ar": "كوميديا وثقافة",
+        "hi": "हास्य और संस्कृति",
+        "zh": "幽默与文化",
+        "ja": "ユーモアと文化"
+      },
+      "about": {
+        "es": "Se presenta como alguien que quiere entretener e inspirar; publica en inglés videos de humor sobre la cultura árabe y viajes por distintos países.",
+        "en": "Describes himself as someone who wants to entertain and inspire; posts English-language comedy videos about Arab culture and trips to different countries.",
+        "pt": "Apresenta-se como alguém que quer entreter e inspirar; publica em inglês vídeos de humor sobre a cultura árabe e viagens por diferentes países.",
+        "fr": "Se présente comme quelqu’un qui veut divertir et inspirer ; publie en anglais des vidéos d’humour sur la culture arabe et des voyages dans différents pays.",
+        "de": "Beschreibt sich als jemand, der unterhalten und inspirieren möchte; veröffentlicht englischsprachige Comedy-Videos über die arabische Kultur und Reisen in verschiedene Länder.",
+        "ru": "Представляется человеком, который хочет развлекать и вдохновлять; публикует на английском юмористические видео об арабской культуре и поездках в разные страны.",
+        "ar": "يقدّم نفسه كشخص يريد الترفيه والإلهام؛ ينشر بالإنجليزية فيديوهات كوميدية عن الثقافة العربية ورحلات إلى بلدان مختلفة.",
+        "hi": "खुद को ऐसा व्यक्ति बताते हैं जो मनोरंजन और प्रेरणा देना चाहता है; अंग्रेज़ी में अरब संस्कृति पर हास्य वीडियो और अलग-अलग देशों की यात्राओं के वीडियो डालते हैं।",
+        "zh": "自称想带来欢乐与启发；用英语发布关于阿拉伯文化的搞笑视频以及前往不同国家的旅行视频。",
+        "ja": "人を楽しませ、励ましたいと語り、アラブ文化をネタにした英語のコメディ動画や各国への旅行動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCZE_XnY_UazcRILVru7znDw",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T18:00:00.000Z); nacionalidad/residencia en Emiratos confirmada con fuentes públicas",
+        "followers": {
+          "youtube": 6410000
+        }
+      }
+    },
+    {
+      "id": "abtalks",
+      "name": "#ABtalks",
+      "country": "AE",
+      "topic": {
+        "es": "Entrevistas y conversaciones",
+        "en": "Interviews and conversations",
+        "pt": "Entrevistas e conversas",
+        "fr": "Entretiens et conversations",
+        "de": "Interviews und Gespräche",
+        "ru": "Интервью и беседы",
+        "ar": "مقابلات وحوارات",
+        "hi": "इंटरव्यू और बातचीत",
+        "zh": "访谈与对话",
+        "ja": "インタビューと対談"
+      },
+      "about": {
+        "es": "Es un programa semanal de entrevistas en árabe e inglés con celebridades, deportistas, empresarios e influencers, numerado por capítulos.",
+        "en": "A weekly interview show in Arabic and English with celebrities, athletes, entrepreneurs and influencers, numbered by chapters.",
+        "pt": "É um programa semanal de entrevistas em árabe e inglês com celebridades, atletas, empresários e influenciadores, numerado por capítulos.",
+        "fr": "Une émission hebdomadaire d’entretiens en arabe et en anglais avec des célébrités, des sportifs, des entrepreneurs et des influenceurs, numérotée par chapitres.",
+        "de": "Eine wöchentliche Interviewsendung auf Arabisch und Englisch mit Prominenten, Sportlern, Unternehmern und Influencern, nach Kapiteln nummeriert.",
+        "ru": "Еженедельное интервью-шоу на арабском и английском со знаменитостями, спортсменами, предпринимателями и блогерами, пронумерованное по главам.",
+        "ar": "برنامج أسبوعي للمقابلات بالعربية والإنجليزية مع مشاهير ورياضيين ورجال أعمال ومؤثرين، مرقّم بالفصول.",
+        "hi": "अरबी और अंग्रेज़ी में साप्ताहिक इंटरव्यू कार्यक्रम, जिसमें मशहूर हस्तियाँ, खिलाड़ी, उद्यमी और इन्फ़्लुएंसर आते हैं; अध्यायों के क्रम में।",
+        "zh": "一档每周的阿拉伯语和英语访谈节目，嘉宾包括名人、运动员、企业家和网红，按章节编号。",
+        "ja": "著名人、アスリート、起業家、インフルエンサーを迎えるアラビア語・英語の週刊インタビュー番組で、章ごとに番号が付けられている。"
+      },
+      "handles": {
+        "youtube": "UCUgpEOv92-iovYJWZi7tT6A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T18:00:00.000Z); nacionalidad/residencia en Emiratos confirmada con fuentes públicas",
+        "followers": {
+          "youtube": 3670000
+        }
+      }
+    },
+    {
+      "id": "ali-al-hamoudi",
+      "name": "Ali Al-Hamoudi On Cars",
+      "country": "AE",
+      "topic": {
+        "es": "Automóviles",
+        "en": "Cars",
+        "pt": "Automóveis",
+        "fr": "Automobiles",
+        "de": "Autos",
+        "ru": "Автомобили",
+        "ar": "سيارات",
+        "hi": "कारें",
+        "zh": "汽车",
+        "ja": "自動車"
+      },
+      "about": {
+        "es": "Prueba y presenta automóviles de todo el mundo, desde modelos eléctricos de lujo hasta camionetas, además de hoteles y viajes.",
+        "en": "Tests and presents cars from around the world, from luxury electric models to pickups, as well as hotels and travel.",
+        "pt": "Testa e apresenta automóveis do mundo todo, de modelos elétricos de luxo a picapes, além de hotéis e viagens.",
+        "fr": "Teste et présente des voitures du monde entier, des modèles électriques de luxe aux pick-up, ainsi que des hôtels et des voyages.",
+        "de": "Testet und präsentiert Autos aus aller Welt, von elektrischen Luxusmodellen bis zu Pick-ups, außerdem Hotels und Reisen.",
+        "ru": "Тестирует и представляет автомобили со всего мира — от люксовых электромобилей до пикапов — а также отели и путешествия.",
+        "ar": "يجرّب ويقدّم سيارات من حول العالم، من الطرازات الكهربائية الفاخرة إلى الشاحنات الصغيرة، إضافة إلى الفنادق والسفر.",
+        "hi": "दुनिया भर की कारों को परखते और पेश करते हैं, लग्ज़री इलेक्ट्रिक मॉडल से पिकअप तक, साथ ही होटल और यात्रा भी।",
+        "zh": "测试并介绍世界各地的汽车，从豪华电动车到皮卡，此外还有酒店和旅行。",
+        "ja": "高級電気自動車からピックアップまで世界中のクルマを試乗・紹介し、ホテルや旅行も取り上げている。"
+      },
+      "handles": {
+        "youtube": "UCA6VNcthvobYO48O1AIMQQg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T18:00:00.000Z); nacionalidad/residencia en Emiratos confirmada con fuentes públicas",
+        "followers": {
+          "youtube": 2630000
+        }
+      }
+    },
+    {
+      "id": "uae-skills",
+      "name": "Uae Skills | سكيلز",
+      "country": "AE",
+      "topic": {
+        "es": "Videojuegos y bromas",
+        "en": "Video games and pranks",
+        "pt": "Videogames e pegadinhas",
+        "fr": "Jeux vidéo et blagues",
+        "de": "Videospiele und Streiche",
+        "ru": "Видеоигры и розыгрыши",
+        "ar": "ألعاب فيديو ومقالب",
+        "hi": "वीडियो गेम और प्रैंक",
+        "zh": "电子游戏与恶作剧",
+        "ja": "ゲームといたずら"
+      },
+      "about": {
+        "es": "Se presenta como un youtuber emiratí especializado en crear contenido; publica bromas y partidas de PUBG Mobile con transmisiones y retos.",
+        "en": "Describes himself as an Emirati YouTuber specialized in content creation; posts pranks and PUBG Mobile gameplay with streams and challenges.",
+        "pt": "Apresenta-se como um youtuber emiradense especializado em criar conteúdo; publica pegadinhas e partidas de PUBG Mobile com transmissões e desafios.",
+        "fr": "Se présente comme un youtubeur émirati spécialisé dans la création de contenu ; publie des blagues et des parties de PUBG Mobile avec des lives et des défis.",
+        "de": "Beschreibt sich als emiratischen YouTuber, der auf Content-Erstellung spezialisiert ist; veröffentlicht Streiche und PUBG-Mobile-Partien mit Streams und Challenges.",
+        "ru": "Представляется эмиратским ютубером, специализирующимся на создании контента; публикует розыгрыши и игровые сессии PUBG Mobile со стримами и челленджами.",
+        "ar": "يقدّم نفسه كيوتيوبر إماراتي متخصص في صناعة المحتوى؛ ينشر مقالب ومقاطع من لعبة ببجي موبايل مع بثوث وتحديات.",
+        "hi": "खुद को कंटेंट निर्माण में माहिर अमीराती यूट्यूबर बताते हैं; प्रैंक और PUBG मोबाइल गेमप्ले, स्ट्रीम और चैलेंज के वीडियो डालते हैं।",
+        "zh": "自称专注内容创作的阿联酋YouTuber；发布恶作剧视频和《PUBG Mobile》游戏内容，包含直播和挑战。",
+        "ja": "コンテンツ制作を専門とするUAEのYouTuberを自称し、いたずら動画や配信・チャレンジを含むPUBG Mobileのプレイ動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCAzn57kYHp_8fjwaRzgsp6Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T18:00:00.000Z); nacionalidad/residencia en Emiratos confirmada con fuentes públicas",
+        "followers": {
+          "youtube": 2240000
+        }
+      }
+    },
+    {
+      "id": "king-madness",
+      "name": "King Madness",
+      "country": "AE",
+      "topic": {
+        "es": "Retos y humor",
+        "en": "Challenges and humor",
+        "pt": "Desafios e humor",
+        "fr": "Défis et humour",
+        "de": "Challenges und Humor",
+        "ru": "Челленджи и юмор",
+        "ar": "تحديات وكوميديا",
+        "hi": "चैलेंज और हास्य",
+        "zh": "挑战与幽默",
+        "ja": "チャレンジとユーモア"
+      },
+      "about": {
+        "es": "Hace videos en árabe de retos y situaciones extravagantes, como desafiar a un chef con una hamburguesa o simular un restaurante en casa; su última publicación es de 2024.",
+        "en": "Makes Arabic-language videos of challenges and outlandish situations, such as challenging a chef over a burger or staging a restaurant at home; his latest upload dates from 2024.",
+        "pt": "Faz vídeos em árabe de desafios e situações extravagantes, como desafiar um chef com um hambúrguer ou montar um restaurante em casa; seu último vídeo é de 2024.",
+        "fr": "Réalise en arabe des vidéos de défis et de situations extravagantes, comme défier un chef avec un burger ou monter un restaurant chez soi ; sa dernière publication date de 2024.",
+        "de": "Dreht arabischsprachige Videos mit Challenges und ausgefallenen Situationen, etwa einen Koch beim Burger herauszufordern oder ein Restaurant zu Hause nachzubauen; der letzte Upload stammt von 2024.",
+        "ru": "Снимает на арабском видео с челленджами и эксцентричными ситуациями, например вызов шеф-повару на лучший бургер или ресторан дома; последнее видео — 2024 года.",
+        "ar": "يصنع بالعربية فيديوهات تحديات ومواقف غريبة، مثل تحدّي شيف في أفضل برجر أو افتتاح مطعم في البيت؛ آخر نشر له يعود إلى 2024.",
+        "hi": "अरबी में चैलेंज और अजीब स्थितियों के वीडियो बनाते हैं, जैसे शेफ़ को बर्गर पर चुनौती देना या घर में रेस्टोरेंट बनाना; उनका आख़िरी अपलोड 2024 का है।",
+        "zh": "制作阿拉伯语挑战和另类情景视频，例如向厨师发起汉堡挑战或在家开餐厅；最近一次更新在2024年。",
+        "ja": "シェフにハンバーガーで挑戦する、家にレストランを作るなど、アラビア語でチャレンジや奇抜な企画の動画を制作しており、最新の投稿は2024年。"
+      },
+      "handles": {
+        "youtube": "UCo8sWcs031pCoOFJunsjo2g",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T18:00:00.000Z); nacionalidad/residencia en Emiratos confirmada con fuentes públicas",
+        "followers": {
+          "youtube": 2030000
+        }
+      }
+    },
+    {
+      "id": "khaled-alkhaaldi",
+      "name": "خالد الخالدي Khaled Alkhaaldi",
+      "country": "AE",
+      "topic": {
+        "es": "Vlogs diarios y eventos",
+        "en": "Daily vlogs and events",
+        "pt": "Vlogs diários e eventos",
+        "fr": "Vlogs quotidiens et événements",
+        "de": "Tägliche Vlogs und Events",
+        "ru": "Ежедневные влоги и мероприятия",
+        "ar": "فيديوهات يومية وفعاليات",
+        "hi": "दैनिक वीलॉग और कार्यक्रम",
+        "zh": "日常Vlog与活动",
+        "ja": "日常Vlogとイベント"
+      },
+      "about": {
+        "es": "Se presenta como alguien de Abu Dabi y usa el canal como archivo de su vida diaria, con visitas a ferias, joyerías y eventos como Expo Sharjah.",
+        "en": "Describes himself as being from Abu Dhabi and uses the channel as an archive of his daily life, with visits to fairs, jewelers and events such as Expo Sharjah.",
+        "pt": "Apresenta-se como alguém de Abu Dhabi e usa o canal como arquivo de sua vida diária, com visitas a feiras, joalherias e eventos como a Expo Sharjah.",
+        "fr": "Se présente comme originaire d’Abou Dabi et utilise la chaîne comme archive de son quotidien, avec des visites de salons, de bijouteries et d’événements comme Expo Sharjah.",
+        "de": "Beschreibt sich als jemand aus Abu Dhabi und nutzt den Kanal als Archiv seines Alltags, mit Besuchen von Messen, Juwelieren und Events wie der Expo Sharjah.",
+        "ru": "Представляется жителем Абу-Даби и использует канал как архив повседневной жизни: посещения выставок, ювелирных магазинов и мероприятий вроде Expo Sharjah.",
+        "ar": "يعرّف نفسه بأنه من أبوظبي ويستخدم القناة كأرشيف ليومياته، مع زيارات لمعارض ومحلات مجوهرات وفعاليات مثل إكسبو الشارقة.",
+        "hi": "खुद को अबू धाबी का बताते हैं और चैनल को अपनी दिनचर्या के संग्रह की तरह इस्तेमाल करते हैं, जिसमें मेलों, जौहरियों और एक्सपो शारजाह जैसे कार्यक्रमों की सैर है।",
+        "zh": "自称来自阿布扎比，把频道当作日常生活的存档，内容包括参观展会、珠宝店以及沙迦世博会等活动。",
+        "ja": "アブダビ出身を自称し、チャンネルを日常の記録として使っており、展示会や宝石店、シャルジャ・エキスポなどのイベント訪問を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCf91z8gY0ffMHqXcB_jMiKg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T18:00:00.000Z); nacionalidad/residencia en Emiratos confirmada con fuentes públicas",
+        "followers": {
+          "youtube": 1050000
+        }
+      }
+    },
+    {
+      "id": "shihabkoo",
+      "name": "Shihabkoo شهاب الهاشمي",
+      "country": "AE",
+      "topic": {
+        "es": "Contenido educativo y de motivación",
+        "en": "Educational and motivational content",
+        "pt": "Conteúdo educativo e motivacional",
+        "fr": "Contenu éducatif et motivationnel",
+        "de": "Bildungs- und Motivationsinhalte",
+        "ru": "Образовательный и мотивационный контент",
+        "ar": "محتوى تعليمي وتحفيزي",
+        "hi": "शैक्षिक और प्रेरक सामग्री",
+        "zh": "教育与励志内容",
+        "ja": "教育・モチベーションコンテンツ"
+      },
+      "about": {
+        "es": "Se presenta como creador de contenido educativo y de entretenimiento; ofrece habilidades, motivación e historias, con videos sobre familia y vida en Emiratos.",
+        "en": "Describes himself as an educational and entertainment content creator; offers skills, motivation and stories, with videos about family and life in the Emirates.",
+        "pt": "Apresenta-se como criador de conteúdo educativo e de entretenimento; oferece habilidades, motivação e histórias, com vídeos sobre família e a vida nos Emirados.",
+        "fr": "Se présente comme un créateur de contenu éducatif et divertissant ; propose des compétences, de la motivation et des histoires, avec des vidéos sur la famille et la vie aux Émirats.",
+        "de": "Beschreibt sich als Creator für Bildung und Unterhaltung; bietet Fähigkeiten, Motivation und Geschichten, mit Videos über Familie und das Leben in den Emiraten.",
+        "ru": "Представляется автором образовательного и развлекательного контента; делится навыками, мотивацией и историями, с видео о семье и жизни в Эмиратах.",
+        "ar": "يقدّم نفسه صانع محتوى تعليميًا ترفيهيًا؛ يعرض مهارات وتحفيزًا وقصصًا، مع فيديوهات عن الأسرة والحياة في الإمارات.",
+        "hi": "खुद को शैक्षिक और मनोरंजक कंटेंट निर्माता बताते हैं; कौशल, प्रेरणा और कहानियाँ साझा करते हैं, परिवार और अमीरात में जीवन पर वीडियो के साथ।",
+        "zh": "自称教育娱乐内容创作者；分享技能、励志与故事，并有关于家庭和阿联酋生活的视频。",
+        "ja": "教育とエンタメのコンテンツクリエイターを自称し、スキルやモチベーション、ストーリーを紹介し、家族やUAEでの暮らしに関する動画もある。"
+      },
+      "handles": {
+        "youtube": "UC8_BeyhEAWO7S11bGvqntdg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T18:00:00.000Z); nacionalidad/residencia en Emiratos confirmada con fuentes públicas",
+        "followers": {
+          "youtube": 1220000
+        }
+      }
     }
   ]
 }
