@@ -665,6 +665,69 @@
       "followers": 1290000,
       "source": "https://www.youtube.com/channel/UCq-IrehlENdL0yiMD8Og-LA (YouTube Data API v3)",
       "date": "2026-10-01"
+    },
+    {
+      "id": "mourad-oudia",
+      "platform": "youtube",
+      "followers": 2310000,
+      "source": "https://www.youtube.com/channel/UCqsmJ7uFvg2c7JxoLERFxpQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "holasoydanny",
+      "platform": "youtube",
+      "followers": 922000,
+      "source": "https://www.youtube.com/channel/UCRTAHXRbRuYlsSCmb_78d_Q (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "adekvatnyi-russkiy",
+      "platform": "youtube",
+      "followers": 912000,
+      "source": "https://www.youtube.com/channel/UC1eUQw-EBh62QSElUEfxjJg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "martijn-doolaard",
+      "platform": "youtube",
+      "followers": 841000,
+      "source": "https://www.youtube.com/channel/UClkUhTjFbQbtGfS14h9Vw5g (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "fusialka",
+      "platform": "youtube",
+      "followers": 814000,
+      "source": "https://www.youtube.com/channel/UCEDh4HzlkIUlln_gp0CdJ3A (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "michelo-picante",
+      "platform": "youtube",
+      "followers": 747000,
+      "source": "https://www.youtube.com/channel/UCeySRXr2UZ9zBssxvtXHsmA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "silvia-munoz-de-morales",
+      "platform": "youtube",
+      "followers": 747000,
+      "source": "https://www.youtube.com/channel/UCEYGT1uwp_bPH3lVn_Rek0w (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "dutch-travel-maniac",
+      "platform": "youtube",
+      "followers": 726000,
+      "source": "https://www.youtube.com/channel/UCHFlmhzqSTZf8kjCpI5Y4NA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "mauro-stendel",
+      "platform": "youtube",
+      "followers": 655000,
+      "source": "https://www.youtube.com/channel/UCeTP2LZq7pO0p5OAXPLj28Q (YouTube Data API v3)",
+      "date": "2026-10-01"
     }
   ]
 }

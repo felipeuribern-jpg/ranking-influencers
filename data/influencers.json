@@ -26329,6 +26329,411 @@
           "youtube": 1290000
         }
       }
+    },
+    {
+      "id": "mourad-oudia",
+      "name": "Mourad oudia",
+      "country": "DZ",
+      "topic": {
+        "es": "Viajes y documentales",
+        "en": "Travel and documentaries",
+        "pt": "Viagens e documentários",
+        "fr": "Voyages et documentaires",
+        "de": "Reisen und Dokumentationen",
+        "ru": "Путешествия и документальные фильмы",
+        "ar": "سفر ووثائقيات",
+        "hi": "यात्रा और डॉक्यूमेंट्री",
+        "zh": "旅行与纪录片",
+        "ja": "旅とドキュメンタリー"
+      },
+      "about": {
+        "es": "Publica en árabe viajes y documentales por países como India, Japón y Estados Unidos, además de videos de humor y debates.",
+        "en": "Posts, in Arabic, travel videos and documentaries from countries such as India, Japan and the United States, plus humor and debate videos.",
+        "pt": "Publica em árabe viagens e documentários por países como Índia, Japão e Estados Unidos, além de vídeos de humor e debates.",
+        "fr": "Publie en arabe des voyages et des documentaires dans des pays comme l’Inde, le Japon et les États-Unis, ainsi que des vidéos d’humour et de débat.",
+        "de": "Veröffentlicht auf Arabisch Reise- und Dokuvideos aus Ländern wie Indien, Japan und den USA sowie Humor- und Debattenvideos.",
+        "ru": "Публикует на арабском видео о путешествиях и документальные фильмы из таких стран, как Индия, Япония и США, а также юмористические и дискуссионные ролики.",
+        "ar": "ينشر بالعربية فيديوهات سفر ووثائقيات من بلدان مثل الهند واليابان والولايات المتحدة، إضافة إلى فيديوهات فكاهية ونقاشية.",
+        "hi": "अरबी में भारत, जापान और अमेरिका जैसे देशों की यात्रा और डॉक्यूमेंट्री के वीडियो डालते हैं, साथ ही हास्य और बहस वाले वीडियो भी।",
+        "zh": "用阿拉伯语发布在印度、日本和美国等国的旅行与纪录片，也有幽默和讨论类视频。",
+        "ja": "インド、日本、アメリカなどの旅行動画やドキュメンタリーをアラビア語で投稿しており、ユーモアや討論の動画もある。"
+      },
+      "handles": {
+        "youtube": "UCqsmJ7uFvg2c7JxoLERFxpQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 2310000
+        }
+      }
+    },
+    {
+      "id": "holasoydanny",
+      "name": "#HolaSoyDanny",
+      "country": "CO",
+      "topic": {
+        "es": "Humor y sátira de actualidad",
+        "en": "Comedy and current-affairs satire",
+        "pt": "Humor e sátira da atualidade",
+        "fr": "Humour et satire de l’actualité",
+        "de": "Comedy und Satire zum Zeitgeschehen",
+        "ru": "Юмор и сатира на злобу дня",
+        "ar": "كوميديا وسخرية من الأحداث الجارية",
+        "hi": "हास्य और समसामयिक व्यंग्य",
+        "zh": "搞笑与时事讽刺",
+        "ja": "ユーモアと時事風刺"
+      },
+      "about": {
+        "es": "Presenta un noticiero de humor sobre la actualidad política de Colombia, con parodias de lo que ocurre en el Congreso y en Bogotá.",
+        "en": "Hosts a comedy news show about Colombian politics, with parodies of what happens in Congress and in Bogotá.",
+        "pt": "Apresenta um noticiário de humor sobre a política colombiana, com paródias do que acontece no Congresso e em Bogotá.",
+        "fr": "Présente un journal humoristique sur la politique colombienne, avec des parodies de ce qui se passe au Congrès et à Bogotá.",
+        "de": "Moderiert eine Comedy-Nachrichtensendung über die kolumbianische Politik, mit Parodien auf das Geschehen im Kongress und in Bogotá.",
+        "ru": "Ведёт юмористические новости о политике Колумбии с пародиями на происходящее в Конгрессе и в Боготе.",
+        "ar": "يقدّم نشرة أخبار كوميدية عن السياسة الكولومبية مع محاكاة ساخرة لما يحدث في الكونغرس وبوغوتا.",
+        "hi": "कोलंबिया की राजनीति पर हास्य समाचार कार्यक्रम पेश करते हैं, जिसमें कांग्रेस और बोगोटा की घटनाओं की पैरोडी होती है।",
+        "zh": "主持一档关于哥伦比亚政治的搞笑新闻节目，戏仿国会和波哥大发生的事情。",
+        "ja": "コロンビアの政治をネタにしたコメディニュース番組を配信し、議会やボゴタの出来事をパロディにしている。"
+      },
+      "handles": {
+        "youtube": "UCRTAHXRbRuYlsSCmb_78d_Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 922000
+        }
+      }
+    },
+    {
+      "id": "adekvatnyi-russkiy",
+      "name": "Адекватный Русский",
+      "country": "RU",
+      "topic": {
+        "es": "Comentario político y social",
+        "en": "Political and social commentary",
+        "pt": "Comentário político e social",
+        "fr": "Commentaire politique et social",
+        "de": "Politische und gesellschaftliche Kommentare",
+        "ru": "Политические и общественные комментарии",
+        "ar": "تعليق سياسي واجتماعي",
+        "hi": "राजनीतिक और सामाजिक टिप्पणी",
+        "zh": "政治与社会评论",
+        "ja": "政治・社会解説"
+      },
+      "about": {
+        "es": "Publica en ruso videos de comentario sobre la actualidad política y social, como elecciones, impuestos y la guerra.",
+        "en": "Posts Russian-language commentary videos on political and social affairs, such as elections, taxes and the war.",
+        "pt": "Publica em russo vídeos de comentário sobre a atualidade política e social, como eleições, impostos e a guerra.",
+        "fr": "Publie en russe des vidéos de commentaire sur l’actualité politique et sociale, comme les élections, les impôts et la guerre.",
+        "de": "Veröffentlicht russischsprachige Kommentarvideos zu politischen und gesellschaftlichen Themen wie Wahlen, Steuern und dem Krieg.",
+        "ru": "Публикует на русском видео-комментарии о политике и обществе: выборы, налоги, война.",
+        "ar": "ينشر بالروسية فيديوهات تعليق على الشأن السياسي والاجتماعي، مثل الانتخابات والضرائب والحرب.",
+        "hi": "रूसी भाषा में राजनीतिक और सामाजिक विषयों पर टिप्पणी वाले वीडियो डालते हैं, जैसे चुनाव, कर और युद्ध।",
+        "zh": "发布俄语的政治与社会评论视频，涉及选举、税收和战争等话题。",
+        "ja": "選挙、税金、戦争などの政治・社会問題について、ロシア語で解説する動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UC1eUQw-EBh62QSElUEfxjJg",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 912000
+        }
+      }
+    },
+    {
+      "id": "martijn-doolaard",
+      "name": "Martijn Doolaard",
+      "country": "NL",
+      "topic": {
+        "es": "Reconstrucción de una casa y vida rural",
+        "en": "House rebuilding and rural life",
+        "pt": "Reforma de uma casa e vida rural",
+        "fr": "Rénovation d’une maison et vie rurale",
+        "de": "Hausumbau und Landleben",
+        "ru": "Восстановление дома и сельская жизнь",
+        "ar": "ترميم منزل وحياة ريفية",
+        "hi": "घर की मरम्मत और ग्रामीण जीवन",
+        "zh": "修缮房屋与乡村生活",
+        "ja": "家の再建と田舎暮らし"
+      },
+      "about": {
+        "es": "Fotógrafo, cineasta y escritor de viajes neerlandés; documenta en episodios numerados la reconstrucción de una casa y su vida en el campo.",
+        "en": "A Dutch photographer, filmmaker and travel writer; documents in numbered episodes the rebuilding of a house and his life in the countryside.",
+        "pt": "Fotógrafo, cineasta e escritor de viagens holandês; documenta em episódios numerados a reforma de uma casa e sua vida no campo.",
+        "fr": "Photographe, cinéaste et auteur de récits de voyage néerlandais ; documente en épisodes numérotés la rénovation d’une maison et sa vie à la campagne.",
+        "de": "Niederländischer Fotograf, Filmemacher und Reiseautor; dokumentiert in nummerierten Folgen den Umbau eines Hauses und sein Leben auf dem Land.",
+        "ru": "Нидерландский фотограф, кинематографист и автор путевых заметок; в нумерованных выпусках показывает восстановление дома и жизнь в деревне.",
+        "ar": "مصوّر ومخرج وكاتب رحلات هولندي؛ يوثّق في حلقات مرقّمة ترميم منزل وحياته في الريف.",
+        "hi": "नीदरलैंड के फ़ोटोग्राफ़र, फ़िल्मकार और यात्रा लेखक; क्रमांकित एपिसोड में एक घर की मरम्मत और ग्रामीण जीवन को दर्ज करते हैं।",
+        "zh": "荷兰摄影师、电影人和旅行作家；以编号剧集记录一栋房子的重建和乡村生活。",
+        "ja": "オランダ人の写真家・映像作家・旅行作家で、番号付きのエピソードで家の再建と田舎での暮らしを記録している。"
+      },
+      "handles": {
+        "youtube": "UClkUhTjFbQbtGfS14h9Vw5g",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 841000
+        }
+      }
+    },
+    {
+      "id": "fusialka",
+      "name": "Fusialka",
+      "country": "PL",
+      "topic": {
+        "es": "Conversación y estilo de vida",
+        "en": "Talk and lifestyle",
+        "pt": "Conversa e estilo de vida",
+        "fr": "Discussion et style de vie",
+        "de": "Talk und Lifestyle",
+        "ru": "Беседы и образ жизни",
+        "ar": "حوارات وأسلوب حياة",
+        "hi": "बातचीत और लाइफ़स्टाइल",
+        "zh": "聊天与生活方式",
+        "ja": "トークとライフスタイル"
+      },
+      "about": {
+        "es": "Publica en polaco videos de conversación y estilo de vida sobre relaciones, dinero, mudanzas y anécdotas personales.",
+        "en": "Posts Polish-language talk and lifestyle videos about relationships, money, moving and personal anecdotes.",
+        "pt": "Publica em polonês vídeos de conversa e estilo de vida sobre relacionamentos, dinheiro, mudanças e histórias pessoais.",
+        "fr": "Publie en polonais des vidéos de discussion et de style de vie sur les relations, l’argent, les déménagements et des anecdotes personnelles.",
+        "de": "Veröffentlicht polnischsprachige Talk- und Lifestyle-Videos über Beziehungen, Geld, Umzüge und persönliche Anekdoten.",
+        "ru": "Публикует на польском разговорные и лайфстайл-видео об отношениях, деньгах, переездах и личных историях.",
+        "ar": "تنشر بالبولندية فيديوهات حوارية وعن أسلوب الحياة تتناول العلاقات والمال والانتقال وحكايات شخصية.",
+        "hi": "पोलिश भाषा में रिश्तों, पैसों, घर बदलने और निजी किस्सों पर बातचीत और लाइफ़स्टाइल वीडियो डालती हैं।",
+        "zh": "发布波兰语聊天与生活方式视频，话题包括感情、金钱、搬家和个人趣事。",
+        "ja": "恋愛、お金、引っ越し、個人的なエピソードなどについて、ポーランド語でトークやライフスタイル動画を投稿している。"
+      },
+      "handles": {
+        "youtube": "UCEDh4HzlkIUlln_gp0CdJ3A",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 814000
+        }
+      }
+    },
+    {
+      "id": "michelo-picante",
+      "name": "Michelo PICANTE",
+      "country": "AR",
+      "topic": {
+        "es": "Noticias y análisis",
+        "en": "News and analysis",
+        "pt": "Notícias e análises",
+        "fr": "Actualité et analyses",
+        "de": "Nachrichten und Analysen",
+        "ru": "Новости и аналитика",
+        "ar": "أخبار وتحليلات",
+        "hi": "समाचार और विश्लेषण",
+        "zh": "新闻与分析",
+        "ja": "ニュースと分析"
+      },
+      "about": {
+        "es": "Publica resúmenes diarios de noticias internacionales y de América Latina, con análisis y comentarios.",
+        "en": "Posts daily summaries of international and Latin American news, with analysis and commentary.",
+        "pt": "Publica resumos diários de notícias internacionais e da América Latina, com análises e comentários.",
+        "fr": "Publie des résumés quotidiens de l’actualité internationale et latino-américaine, avec analyses et commentaires.",
+        "de": "Veröffentlicht tägliche Zusammenfassungen internationaler und lateinamerikanischer Nachrichten mit Analyse und Kommentar.",
+        "ru": "Публикует ежедневные обзоры международных и латиноамериканских новостей с анализом и комментариями.",
+        "ar": "ينشر ملخصات يومية للأخبار الدولية وأخبار أمريكا اللاتينية مع التحليل والتعليق.",
+        "hi": "अंतरराष्ट्रीय और लैटिन अमेरिकी ख़बरों के रोज़ाना सारांश विश्लेषण और टिप्पणी के साथ डालते हैं।",
+        "zh": "每天发布国际和拉丁美洲新闻摘要，并附上分析与评论。",
+        "ja": "国際ニュースやラテンアメリカのニュースを毎日まとめ、分析やコメントを添えて投稿している。"
+      },
+      "handles": {
+        "youtube": "UCeySRXr2UZ9zBssxvtXHsmA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 747000
+        }
+      }
+    },
+    {
+      "id": "silvia-munoz-de-morales",
+      "name": "Silvia Muñoz de Morales",
+      "country": "ES",
+      "topic": {
+        "es": "Estilo de vida, moda y belleza",
+        "en": "Lifestyle, fashion and beauty",
+        "pt": "Estilo de vida, moda e beleza",
+        "fr": "Style de vie, mode et beauté",
+        "de": "Lifestyle, Mode und Beauty",
+        "ru": "Образ жизни, мода и красота",
+        "ar": "أسلوب حياة وموضة وجمال",
+        "hi": "लाइफ़स्टाइल, फ़ैशन और ब्यूटी",
+        "zh": "生活方式、时尚与美妆",
+        "ja": "ライフスタイル・ファッション・美容"
+      },
+      "about": {
+        "es": "Se presenta como manchega e influencer desde 2010; publica vlogs semanales de viajes, trabajo y rutinas, además de reseñas de belleza.",
+        "en": "Describes herself as a Manchega and influencer since 2010; posts weekly vlogs about travel, work and routines, plus beauty reviews.",
+        "pt": "Apresenta-se como manchega e influenciadora desde 2010; publica vlogs semanais de viagens, trabalho e rotinas, além de resenhas de beleza.",
+        "fr": "Se présente comme une Manchega et influenceuse depuis 2010 ; publie des vlogs hebdomadaires de voyage, de travail et de routines, ainsi que des avis beauté.",
+        "de": "Bezeichnet sich als Manchega und Influencerin seit 2010; veröffentlicht wöchentliche Vlogs über Reisen, Arbeit und Routinen sowie Beauty-Reviews.",
+        "ru": "Называет себя жительницей Ла-Манчи и инфлюенсером с 2010 года; публикует еженедельные влоги о поездках, работе и рутине, а также обзоры косметики.",
+        "ar": "تعرّف نفسها بأنها من لا مانتشا ومؤثرة منذ 2010؛ تنشر فيديوهات أسبوعية عن السفر والعمل والروتين، إضافة إلى مراجعات للجمال.",
+        "hi": "खुद को ला मांचा की निवासी और 2010 से इन्फ़्लुएंसर बताती हैं; यात्रा, काम और दिनचर्या के साप्ताहिक वीलॉग और ब्यूटी रिव्यू डालती हैं।",
+        "zh": "自称来自拉曼恰、2010年起从事网红工作；每周发布旅行、工作和日常Vlog，并分享美妆测评。",
+        "ja": "ラ・マンチャ出身で2010年からインフルエンサーと自称し、旅行・仕事・日常の週間Vlogや美容レビューを投稿している。"
+      },
+      "handles": {
+        "youtube": "UCEYGT1uwp_bPH3lVn_Rek0w",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 747000
+        }
+      }
+    },
+    {
+      "id": "dutch-travel-maniac",
+      "name": "Dutch Travel Maniac",
+      "country": "NL",
+      "topic": {
+        "es": "Viajes a destinos considerados peligrosos",
+        "en": "Travel to places considered dangerous",
+        "pt": "Viagens a destinos considerados perigosos",
+        "fr": "Voyages dans des lieux jugés dangereux",
+        "de": "Reisen zu als gefährlich geltenden Orten",
+        "ru": "Путешествия в места с репутацией опасных",
+        "ar": "سفر إلى وجهات تُعتبر خطرة",
+        "hi": "ख़तरनाक माने जाने वाले स्थानों की यात्रा",
+        "zh": "前往被认为危险的地方旅行",
+        "ja": "危険とされる場所への旅"
+      },
+      "about": {
+        "es": "Se presenta como un viajero neerlandés que visita lugares que otros le desaconsejan y cuenta lo que encuentra por sí mismo.",
+        "en": "Presents himself as a Dutch traveler who visits places others advise against and shows what he finds for himself.",
+        "pt": "Apresenta-se como um viajante holandês que visita lugares desaconselhados por outros e mostra o que encontra por conta própria.",
+        "fr": "Se présente comme un voyageur néerlandais qui visite des lieux que d’autres déconseillent et montre ce qu’il y trouve lui-même.",
+        "de": "Stellt sich als niederländischer Reisender vor, der Orte besucht, von denen andere abraten, und zeigt, was er selbst vorfindet.",
+        "ru": "Представляется нидерландским путешественником, который посещает места, куда другие не советуют ехать, и показывает, что видит сам.",
+        "ar": "يقدّم نفسه كمسافر هولندي يزور أماكن ينصحه الآخرون بتجنّبها، ويعرض ما يجده بنفسه.",
+        "hi": "खुद को डच यात्री बताते हैं जो ऐसी जगहों पर जाते हैं जहाँ जाने से लोग मना करते हैं, और जो ख़ुद देखते हैं वह दिखाते हैं।",
+        "zh": "自称荷兰旅行者，前往他人劝阻的地方，并展示自己的亲眼所见。",
+        "ja": "他人に止められるような場所へ足を運ぶオランダ人旅行者を自称し、自分の目で見たものを伝えている。"
+      },
+      "handles": {
+        "youtube": "UCHFlmhzqSTZf8kjCpI5Y4NA",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 726000
+        }
+      }
+    },
+    {
+      "id": "mauro-stendel",
+      "name": "Mauro Stendel",
+      "country": "AR",
+      "topic": {
+        "es": "Negocios y emprendimiento",
+        "en": "Business and entrepreneurship",
+        "pt": "Negócios e empreendedorismo",
+        "fr": "Business et entrepreneuriat",
+        "de": "Business und Unternehmertum",
+        "ru": "Бизнес и предпринимательство",
+        "ar": "أعمال وريادة",
+        "hi": "व्यवसाय और उद्यमिता",
+        "zh": "商业与创业",
+        "ja": "ビジネスと起業"
+      },
+      "about": {
+        "es": "Habla de negocios y emprendimiento con una mirada práctica, desde ideas como el alquiler tipo Airbnb hasta cómo se organizan los equipos y los sueldos.",
+        "en": "Talks about business and entrepreneurship from a practical angle, from ideas like Airbnb-style rentals to how teams and salaries are organized.",
+        "pt": "Fala de negócios e empreendedorismo com um olhar prático, de ideias como aluguel tipo Airbnb até como se organizam equipes e salários.",
+        "fr": "Parle d’affaires et d’entrepreneuriat sous un angle pratique, d’idées comme la location type Airbnb à l’organisation des équipes et des salaires.",
+        "de": "Spricht aus praktischer Sicht über Business und Unternehmertum, von Ideen wie Airbnb-Vermietung bis zur Organisation von Teams und Gehältern.",
+        "ru": "Практично рассказывает о бизнесе и предпринимательстве: от идей вроде аренды в стиле Airbnb до устройства команд и зарплат.",
+        "ar": "يتحدث عن الأعمال وريادة الأعمال بنظرة عملية، من أفكار مثل التأجير على نمط إير بي إن بي إلى تنظيم الفرق والرواتب.",
+        "hi": "व्यावहारिक नज़रिए से व्यवसाय और उद्यमिता पर बात करते हैं, एयरबीएनबी जैसे किराये के विचारों से लेकर टीमों और वेतन के ढाँचे तक।",
+        "zh": "以务实的视角讨论商业和创业，从类似Airbnb的租赁想法到团队与薪资的组织方式。",
+        "ja": "Airbnb型の賃貸のアイデアから、チームや給与の組み立て方まで、ビジネスと起業を実践的な視点で語っている。"
+      },
+      "handles": {
+        "youtube": "UCeTP2LZq7pO0p5OAXPLj28Q",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-01T12:00:00.000Z); país asignado por nacionalidad/residencia indicada en el canal, no por el país declarado en YouTube",
+        "followers": {
+          "youtube": 655000
+        }
+      }
     }
   ]
 }
