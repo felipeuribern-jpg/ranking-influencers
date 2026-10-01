@@ -371,6 +371,125 @@
       "followers": 3730000,
       "source": "https://www.youtube.com/channel/UCnM1ay_QoQOpa1N2iejLA7A (YouTube Data API v3)",
       "date": "2026-10-01"
+    },
+    {
+      "id": "tilly-oddy-black",
+      "platform": "youtube",
+      "followers": 481000,
+      "source": "https://www.youtube.com/channel/UC5VAemP3DbsLRhV77pZQ4GA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "camilo-cifuentes",
+      "platform": "youtube",
+      "followers": 1080000,
+      "source": "https://www.youtube.com/channel/UCL2SMaFfiLJIGikm9u5LN8Q (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "watafak",
+      "platform": "youtube",
+      "followers": 538000,
+      "source": "https://www.youtube.com/channel/UCo2tJ_0XvfZ3CDnTmTNVjDA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "tibi-jones",
+      "platform": "youtube",
+      "followers": 622000,
+      "source": "https://www.youtube.com/channel/UCSDx1E2Z9eDv0pEgW4_yubA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "indonesia-baru",
+      "platform": "youtube",
+      "followers": 329000,
+      "source": "https://www.youtube.com/channel/UCWwLmIUsAlSxynlJDvY9THg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "dia-gautam",
+      "platform": "youtube",
+      "followers": 774000,
+      "source": "https://www.youtube.com/channel/UC4F8VWMz2nF8RCHne6ADjEA (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "learn-italian-lucrezia",
+      "platform": "youtube",
+      "followers": 816000,
+      "source": "https://www.youtube.com/channel/UCnVc-IW8Q98qFmQcXla5FdQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "kirari-sawamura",
+      "platform": "youtube",
+      "followers": 573000,
+      "source": "https://www.youtube.com/channel/UCbU86dKACh3g1qiV3kMaRFQ (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "todo-good",
+      "platform": "youtube",
+      "followers": 670000,
+      "source": "https://www.youtube.com/channel/UC-f4h9oSW5JreShkauu0m1A (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "vogule-poland",
+      "platform": "youtube",
+      "followers": 280000,
+      "source": "https://www.youtube.com/channel/UClCufEJK0FvBiMzOyZWV1ng (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "elif-erturk",
+      "platform": "youtube",
+      "followers": 304000,
+      "source": "https://www.youtube.com/channel/UCKE9XSoFKmkZTcdhSMHKLMg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "damla-turkdagli",
+      "platform": "youtube",
+      "followers": 264000,
+      "source": "https://www.youtube.com/channel/UCDRVwlryAMajBAirBstqT2A (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "nika-karuso",
+      "platform": "youtube",
+      "followers": 312000,
+      "source": "https://www.youtube.com/channel/UC2za5Rfuwa4J90AALNgatUg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "weezzy",
+      "platform": "youtube",
+      "followers": 284000,
+      "source": "https://www.youtube.com/channel/UC2SAJd-6s1KtTPRDQFcd2mw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "black-rider",
+      "platform": "youtube",
+      "followers": 180000,
+      "source": "https://www.youtube.com/channel/UCxlPoTtm3z4wYZ51wPhLoIg (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "afilm-arwa",
+      "platform": "youtube",
+      "followers": 698000,
+      "source": "https://www.youtube.com/channel/UCSLc8b11XzmyaKM2sgYN3Tw (YouTube Data API v3)",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "hekayat-tota-maggie",
+      "platform": "youtube",
+      "followers": 563000,
+      "source": "https://www.youtube.com/channel/UCqsFPAZpC6CnRQCXJ7Ss_2w (YouTube Data API v3)",
+      "date": "2026-10-01"
     }
   ]
 }
