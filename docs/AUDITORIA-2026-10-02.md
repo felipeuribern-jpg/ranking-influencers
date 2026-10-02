@@ -19,6 +19,26 @@ ejecutando el comando o leyendo el archivo; lo que no se pudo ver desde la sesi�
 Compilación, validación y pruebas: `npm run validate` OK, `npm test` 9/9, `npm run build` 6.704 páginas,
 `npm audit` 0 vulnerabilidades.
 
+## Estado de las correcciones (2 de octubre de 2026)
+
+| Hallazgo | Estado |
+|---|---|
+| A1. Solo puntúa YouTube | **Pendiente de datos**: requiere cifras actuales de Instagram y TikTok (planilla y comando listos) o una decisión sobre la regla de 30 días |
+| A2. Callback de TikTok | **Corregido** en código: sesión, reclamo aprobado y `state` firmado; **falta desplegar** las funciones y definir `TIKTOK_STATE_SECRET` en Supabase |
+| M1. Criterio de país | Corregido: documentado en `docs/DESCUBRIMIENTO.md` |
+| M2. Emiratos 9 de 10 | Corregido: 10 de 10 con Salama Mohamed (canal con poca actividad desde 2024) |
+| M3. Textos sin revisión nativa | Pendiente: requiere hablantes nativos |
+| M4. Clave fuera de secretos | Riesgo aceptado por la persona responsable |
+| M5. Accesibilidad | Corregido: un solo `<h1>` por página y objetivos táctiles de 24 px; la regla de movimiento reducido ya cubre todo (`*` en `global.css`) |
+| M6. Medición | Corregido en páginas legales; la raíz `/` solo redirige y no se mide |
+| B1. Documentación | Corregido: README y plan actualizados |
+| B2. Historial de git | Pendiente: sin urgencia |
+| B3. Videos en el repo | Pendiente: sin urgencia |
+| B4. Datos estructurados | Corregido: JSON-LD `Person` en las fichas |
+| B5. Portada pesada | Pendiente |
+| B6. Dependencias | Corregido: Astro, dotenv, tipos y Vitest 5; `npm audit` en 0 |
+| B7. `SECURITY.md` / `LICENSE` | `SECURITY.md` agregado; la licencia la decide el responsable |
+
 ## Hallazgos
 
 ### Alta
