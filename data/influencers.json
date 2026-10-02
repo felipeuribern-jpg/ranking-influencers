@@ -27094,6 +27094,51 @@
           "youtube": 1220000
         }
       }
+    },
+    {
+      "id": "salama-mohamed",
+      "name": "Salama Mohamed",
+      "country": "AE",
+      "topic": {
+        "es": "Estilo de vida, belleza y emprendimiento",
+        "en": "Lifestyle, beauty and entrepreneurship",
+        "pt": "Estilo de vida, beleza e empreendedorismo",
+        "fr": "Style de vie, beauté et entrepreneuriat",
+        "de": "Lifestyle, Beauty und Unternehmertum",
+        "ru": "Образ жизни, красота и предпринимательство",
+        "ar": "أسلوب حياة وجمال وريادة أعمال",
+        "hi": "लाइफ़स्टाइल, ब्यूटी और उद्यमिता",
+        "zh": "生活方式、美妆与创业",
+        "ja": "ライフスタイル・美容・起業"
+      },
+      "about": {
+        "es": "Se presenta como madre de dos hijos, emprendedora y fundadora de una marca de cuidado de la piel; publica rutinas de belleza y viajes, como la Semana de la Moda de París. Su último video es de enero de 2024.",
+        "en": "Describes herself as a mother of two, entrepreneur and founder of a skincare brand; posts beauty routines and trips, such as Paris Fashion Week. Her latest video dates from January 2024.",
+        "pt": "Apresenta-se como mãe de dois filhos, empreendedora e fundadora de uma marca de cuidados com a pele; publica rotinas de beleza e viagens, como a Semana de Moda de Paris. Seu último vídeo é de janeiro de 2024.",
+        "fr": "Se présente comme mère de deux enfants, entrepreneuse et fondatrice d’une marque de soins de la peau ; publie des routines beauté et des voyages, comme la Fashion Week de Paris. Sa dernière vidéo date de janvier 2024.",
+        "de": "Beschreibt sich als Mutter von zwei Kindern, Unternehmerin und Gründerin einer Hautpflegemarke; veröffentlicht Beauty-Routinen und Reisen, etwa zur Pariser Fashion Week. Ihr letztes Video stammt von Januar 2024.",
+        "ru": "Представляет себя как мать двоих детей, предпринимательницу и основательницу бренда по уходу за кожей; публикует бьюти-рутины и поездки, например на Неделю моды в Париже. Последнее видео — январь 2024 года.",
+        "ar": "تقدّم نفسها كأم لطفلين ورائدة أعمال ومؤسِّسة علامة للعناية بالبشرة؛ تنشر روتين الجمال ورحلات مثل أسبوع الموضة في باريس. آخر فيديو لها يعود إلى يناير 2024.",
+        "hi": "खुद को दो बच्चों की माँ, उद्यमी और स्किनकेयर ब्रांड की संस्थापक बताती हैं; ब्यूटी रूटीन और पेरिस फ़ैशन वीक जैसी यात्राओं के वीडियो डालती हैं। उनका आख़िरी वीडियो जनवरी 2024 का है।",
+        "zh": "自称两个孩子的母亲、创业者和护肤品牌创始人；发布美妆流程和巴黎时装周等旅行内容。最近一条视频发布于2024年1月。",
+        "ja": "二児の母、起業家、スキンケアブランドの創業者を自称し、美容ルーティンやパリ・ファッションウィークなどの旅の動画を投稿している。最新の動画は2024年1月。"
+      },
+      "handles": {
+        "youtube": "UC9X14o5R3Y89wP6qjbdDGsQ",
+        "tiktok": null,
+        "instagram": null,
+        "facebook": null,
+        "linkedin": null,
+        "snapchat": null
+      },
+      "handlesVerified": false,
+      "discoveredAuto": true,
+      "baseline": {
+        "source": "YouTube Data API v3, channels.list (verificado en vivo el 2026-10-02T13:30:00.000Z); nacionalidad/residencia en Emiratos confirmada con fuentes públicas (prensa de Emiratos)",
+        "followers": {
+          "youtube": 107000
+        }
+      }
     }
   ]
 }

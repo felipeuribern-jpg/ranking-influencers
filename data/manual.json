@@ -784,6 +784,13 @@
       "followers": 1220000,
       "source": "https://www.youtube.com/channel/UC8_BeyhEAWO7S11bGvqntdg (YouTube Data API v3)",
       "date": "2026-10-01"
+    },
+    {
+      "id": "salama-mohamed",
+      "platform": "youtube",
+      "followers": 107000,
+      "source": "https://www.youtube.com/channel/UC9X14o5R3Y89wP6qjbdDGsQ (YouTube Data API v3)",
+      "date": "2026-10-02"
     }
   ]
 }
