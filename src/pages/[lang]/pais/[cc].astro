@@ -44,7 +44,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
   </div>
 
   <div class="weekline">
-    <h2>{flagEmoji(cc)} {countryName(cc, lang)} · {t("country.title")}</h2>
+    <h1>{flagEmoji(cc)} {countryName(cc, lang)} · {t("country.title")}</h1>
     <span>{t("rank.updated", { date: formatDate(rankingMeta.generatedAt, lang) })}</span>
   </div>
 

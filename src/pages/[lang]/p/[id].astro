@@ -34,6 +34,19 @@ const mainUrl = mainData?.url ?? null;
 const mainLabel = person.mainPlatform ? PLATFORM_LABELS[person.mainPlatform] : "";
 
 const history = getHistorySeries(person.id, 90);
+
+// Datos estructurados (schema.org/Person) para buscadores: solo lo que ya es público en la
+// ficha, sin inventar nada (docs/AUDITORIA-2026-10-02.md, B4).
+const profileUrl = new URL(`${base}/${lang}/p/${person.id}/`, Astro.site).toString();
+const sameAs = platformEntries.map(([, d]) => d.url).filter((u): u is string => Boolean(u));
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: person.name,
+  url: profileUrl,
+  description: about,
+  ...(sameAs.length ? { sameAs } : {}),
+};
 ---
 
 <Layout
@@ -42,6 +55,7 @@ const history = getHistorySeries(person.id, 90);
   title={person.name}
   description={about}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd).replace(/</g, "\\u003c")} />
   <a class="profile-back" href={`${base}/${lang}/#ranking`}>← {copy[lang].back}</a>
   <div class="weekline">
     <h1 class="profile-title">
