@@ -118,5 +118,15 @@
   "plan.enterprise.feature1": "API access",
   "plan.enterprise.feature2": "Service Level Agreement (SLA)",
   "plan.enterprise.feature3": "Data licensing and dedicated support",
-  "pricing.priceTbd": "Price to be confirmed"
+  "pricing.priceTbd": "Price to be confirmed",
+  "creator.signInPrompt": "Sign in with your email to verify that this profile is yours.",
+  "creator.checkEmail": "Check your email: we sent you a link to sign in.",
+  "creator.claimIntro": "To link TikTok we first verify that this profile is yours. Tell us how we can check it, for example with a link to your official accounts.",
+  "creator.claimEvidenceLabel": "Proof that it is you",
+  "creator.claimSubmit": "Request verification",
+  "creator.claimSent": "We received your request. We review it by hand and, once approved, you will be able to connect TikTok here.",
+  "creator.claimPending": "Your request is under review.",
+  "creator.claimRejected": "Your request was not approved. Ask for a correction if you think this is a mistake.",
+  "creator.connectError": "Could not start the TikTok connection. Please try again.",
+  "creator.unavailable": "Verification is not available yet."
 }

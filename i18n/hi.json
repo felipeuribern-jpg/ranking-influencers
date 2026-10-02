@@ -118,5 +118,15 @@
   "plan.enterprise.feature1": "API एक्सेस",
   "plan.enterprise.feature2": "सेवा स्तर समझौता (SLA)",
   "plan.enterprise.feature3": "डेटा लाइसेंस और समर्पित सहायता",
-  "pricing.priceTbd": "कीमत जल्द बताई जाएगी"
+  "pricing.priceTbd": "कीमत जल्द बताई जाएगी",
+  "creator.signInPrompt": "यह प्रोफ़ाइल आपकी है, यह सत्यापित करने के लिए अपने ईमेल से साइन इन करें।",
+  "creator.checkEmail": "अपना ईमेल देखें: हमने साइन इन के लिए एक लिंक भेजा है।",
+  "creator.claimIntro": "TikTok जोड़ने से पहले हम सत्यापित करते हैं कि यह प्रोफ़ाइल आपकी है। बताइए हम इसे कैसे जाँच सकते हैं, जैसे अपने आधिकारिक खातों का लिंक देकर।",
+  "creator.claimEvidenceLabel": "सबूत कि यह आप ही हैं",
+  "creator.claimSubmit": "सत्यापन का अनुरोध करें",
+  "creator.claimSent": "हमें आपका अनुरोध मिल गया। हम इसे हाथ से जाँचते हैं, और मंज़ूरी के बाद आप यहाँ TikTok जोड़ सकेंगे।",
+  "creator.claimPending": "आपका अनुरोध समीक्षा में है।",
+  "creator.claimRejected": "आपका अनुरोध मंज़ूर नहीं हुआ। अगर आपको लगता है कि यह गलती है तो सुधार का अनुरोध करें।",
+  "creator.connectError": "TikTok कनेक्शन शुरू नहीं हो सका। कृपया फिर से कोशिश करें।",
+  "creator.unavailable": "सत्यापन अभी उपलब्ध नहीं है।"
 }

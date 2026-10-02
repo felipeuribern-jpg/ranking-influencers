@@ -3,17 +3,23 @@
 // (necesita el client_secret), nunca en el navegador — por eso esto vive acá y
 // no en el sitio estático. Ver docs/FUENTES_DE_DATOS.md > TikTok.
 //
-// Flujo: creador.astro arma la URL de autorización con state=<influencer_id>
-// (el perfil que la persona ya seleccionó como "soy yo") -> TikTok redirige acá
-// con ?code=...&state=... -> esto cambia el code por tokens, guarda el
-// refresh_token cifrado en creator_tokens, y redirige de vuelta al sitio.
+// Flujo: la persona inicia sesión en el sitio y tiene un reclamo aprobado sobre su
+// perfil -> la función tiktok-start devuelve la URL de autorización con un state
+// FIRMADO (perfil + persona + caducidad) -> TikTok redirige acá con
+// ?code=...&state=... -> esto verifica la firma, vuelve a comprobar el reclamo
+// aprobado, cambia el code por tokens, guarda el refresh_token cifrado en
+// creator_tokens y redirige de vuelta al sitio. Un state sin firma, manipulado o
+// caducado se rechaza (docs/AUDITORIA-2026-10-02.md, A2).
 //
 // Secretos de esta función (Supabase → Edge Functions → Secrets, no confundir
 // con los GitHub Secrets del pipeline):
 //   TIKTOK_CLIENT_KEY, TIKTOK_CLIENT_SECRET, TIKTOK_REDIRECT_URI,
 //   TIKTOK_TOKEN_KEY (clave AES-256-GCM en base64, compartida con
 //   pipeline/sources/tiktok.ts para poder descifrar del otro lado),
+//   TIKTOK_STATE_SECRET (la misma que usa tiktok-start),
 //   SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY.
+
+import { verifyState } from "../_shared/state.ts";
 
 const SITE_URL = "https://fykin.com";
 
@@ -46,7 +52,29 @@ Deno.serve(async (req) => {
   if (oauthError || !code || !state) {
     return redirectTo(`/es/creador/?tiktok=error`);
   }
-  const influencerId = state;
+
+  // El state debe venir firmado por tiktok-start y no haber caducado.
+  const signed = await verifyState(state, Deno.env.get("TIKTOK_STATE_SECRET") ?? "");
+  if (!signed) {
+    console.error("tiktok-callback: state inválido o caducado");
+    return redirectTo(`/es/creador/?tiktok=error`);
+  }
+  const influencerId = signed.influencerId;
+
+  // El reclamo debe seguir aprobado para esa persona y ese perfil.
+  {
+    const base = Deno.env.get("SUPABASE_URL")!;
+    const key = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
+    const claimRes = await fetch(
+      `${base}/rest/v1/profile_claims?claimant_id=eq.${signed.userId}&influencer_id=eq.${influencerId}&status=eq.approved&select=id&limit=1`,
+      { headers: { apikey: key, Authorization: `Bearer ${key}` } },
+    );
+    const claims = claimRes.ok ? ((await claimRes.json()) as unknown[]) : [];
+    if (claims.length === 0) {
+      console.error("tiktok-callback: reclamo no aprobado", influencerId);
+      return redirectTo(`/es/creador/?tiktok=error`);
+    }
+  }
 
   const clientKey = Deno.env.get("TIKTOK_CLIENT_KEY")!;
   const clientSecret = Deno.env.get("TIKTOK_CLIENT_SECRET")!;
