@@ -118,5 +118,15 @@
   "plan.enterprise.feature1": "الوصول إلى API",
   "plan.enterprise.feature2": "اتفاقية مستوى الخدمة (SLA)",
   "plan.enterprise.feature3": "ترخيص بيانات ودعم مخصص",
-  "pricing.priceTbd": "السعر لم يُحدد بعد"
+  "pricing.priceTbd": "السعر لم يُحدد بعد",
+  "creator.signInPrompt": "سجّل الدخول ببريدك الإلكتروني للتحقق من أن هذا الملف الشخصي لك.",
+  "creator.checkEmail": "تحقّق من بريدك الإلكتروني: أرسلنا لك رابطًا لتسجيل الدخول.",
+  "creator.claimIntro": "لربط تيك توك نتحقق أولًا من أن هذا الملف الشخصي لك. أخبرنا كيف يمكننا التحقق، مثلًا برابط إلى حساباتك الرسمية.",
+  "creator.claimEvidenceLabel": "ما يثبت أنك أنت",
+  "creator.claimSubmit": "طلب التحقق",
+  "creator.claimSent": "استلمنا طلبك. نراجعه يدويًا، وبعد الموافقة يمكنك ربط تيك توك من هنا.",
+  "creator.claimPending": "طلبك قيد المراجعة.",
+  "creator.claimRejected": "لم تتم الموافقة على طلبك. اطلب تصحيحًا إذا كنت تعتقد أن هذا خطأ.",
+  "creator.connectError": "تعذّر بدء الاتصال بتيك توك. حاول مرة أخرى.",
+  "creator.unavailable": "التحقق غير متاح بعد."
 }

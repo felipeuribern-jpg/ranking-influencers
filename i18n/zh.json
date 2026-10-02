@@ -118,5 +118,15 @@
   "plan.enterprise.feature1": "API访问权限",
   "plan.enterprise.feature2": "服务水平协议（SLA）",
   "plan.enterprise.feature3": "数据授权和专属支持",
-  "pricing.priceTbd": "价格待定"
+  "pricing.priceTbd": "价格待定",
+  "creator.signInPrompt": "请用邮箱登录，以验证该资料属于你。",
+  "creator.checkEmail": "请查看邮箱：我们已向你发送登录链接。",
+  "creator.claimIntro": "绑定TikTok前，我们会先核实该资料属于你。请告诉我们如何核实，例如提供你官方账号的链接。",
+  "creator.claimEvidenceLabel": "证明你本人的材料",
+  "creator.claimSubmit": "申请验证",
+  "creator.claimSent": "我们已收到你的申请，将人工审核，通过后你就可以在这里绑定TikTok。",
+  "creator.claimPending": "你的申请正在审核中。",
+  "creator.claimRejected": "你的申请未获通过。如果你认为有误，请申请更正。",
+  "creator.connectError": "无法开始连接TikTok，请重试。",
+  "creator.unavailable": "验证功能暂未开放。"
 }

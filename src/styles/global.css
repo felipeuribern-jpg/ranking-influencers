@@ -102,12 +102,12 @@ header.top {
   flex-wrap: wrap;
   padding: 16px 0 0;
 }
-.brand h1 {
+.brand .brand-title {
   font: 900 24px/1 "Inter", sans-serif;
   margin: 0;
   letter-spacing: -0.06em;
 }
-.brand h1 a {
+.brand .brand-title a {
   text-decoration: none;
   color: inherit;
   display: inline-flex;
@@ -302,6 +302,7 @@ nav.tabs a[aria-current="page"] {
   gap: 12px;
   flex-wrap: wrap;
 }
+.weekline h1,
 .weekline h2 {
   font: 900 26px / 1 "Inter", sans-serif;
   letter-spacing: -0.03em;
@@ -834,7 +835,7 @@ body { background: radial-gradient(ellipse at 83% 13%, #16304a55, transparent 36
 .wrap { max-width: 1240px; padding-inline: clamp(20px, 4vw, 48px); }
 header.top { background: #080c13ed; border-bottom-color: #ffffff0d; }
 .brand { padding-top: 18px; padding-bottom: 4px; }
-.brand h1 { font-size: 26px; letter-spacing: -.065em; }
+.brand .brand-title { font-size: 26px; letter-spacing: -.065em; }
 .brand-mark { width: 26px; height: 26px; }
 .wordmark-suffix { color: #a0afc2; font-size: 16px; letter-spacing: -.04em; }
 .language-picker summary { border-color: #ffffff1c; background: transparent; font-size: 12px; border-radius: 9px; }
@@ -868,6 +869,7 @@ nav.tabs a[aria-current="page"] { color: var(--accent); }
 .phone-frame { width: min(248px, 100%); box-shadow: 0 0 0 1px #000, 18px 32px 70px #0009, inset 0 0 0 2px #20262f; }
 .intro-film p { font-size: 11px; letter-spacing: .02em; max-width: 28ch; color: #8597ab; }
 .weekline { padding-top: 35px; margin-top: 0; border-top-color: #ffffff12; }
+.weekline h1,
 .weekline h2 { font-size: 32px; letter-spacing: -.055em; font-weight: 600; }
 .weekline span { font-size: 11px; }
 .ranking-intro { font-size: 13px; margin-top: 12px; color: #91a3b9; }
@@ -920,7 +922,7 @@ footer.site { border-color: #ffffff0d; font-size: 11px; }
   .who strong { font-size: 13px; }
   .who small { font-size: 10px; }
   .pts { font-size: 18px; }
-  .weekline h2 { font-size: 28px; }
+  .weekline h1, .weekline h2 { font-size: 28px; }
   .business-box { padding: 24px; }
   .business-box .price-note { border-inline-start: 0; border-top: 1px solid #ffffff12; }
 }
@@ -978,4 +980,14 @@ form.filters .clear-filters { width: auto; }
  .who small { font-size: 12px; line-height: 1.5; white-space: normal; }
  .who strong { font-size: 14px; }
  .row { padding-block: 18px; }
+}
+
+/* Objetivos táctiles de al menos 24 px (WCAG 2.5.8, AA): enlaces de texto sueltos del
+   pie, de la nota bajo el ranking y de la cabecera (docs/AUDITORIA-2026-10-02.md, M5). */
+footer.site a,
+.coverage-strip a,
+.top nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
 }

@@ -74,3 +74,12 @@ para ampliar la cobertura de un país con pocos candidatos), quedan pendientes
 hasta el próximo día — no sirve reintentar corriendo `--discover` de nuevo el
 mismo día. La cuota de `channels.list`/`videos.list` (usada para actualizar
 canales ya conocidos) es independiente y no se ve afectada por esto.
+
+## País de cada persona (criterio vigente)
+
+Cada persona se ubica en el país que le corresponde por **nacionalidad o residencia**, aunque el
+país que declara su canal de YouTube sea otro (a menudo refleja el domicilio de facturación, no su
+identidad). Se exige evidencia pública: la propia descripción del canal, una fuente periodística o una
+ficha de referencia. Si no hay evidencia, la persona queda en la cola y no entra al ranking. El campo
+`baseline.source` de cada ficha indica cómo se confirmó. Los lotes del 26 de septiembre al 1 de octubre
+de 2026 siguen este criterio; los canales de marca, doblaje o instituciones no se incorporan.

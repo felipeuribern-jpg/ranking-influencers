@@ -54,6 +54,14 @@ Lo que sigue es el diseño previsto; confirma cada punto marcado con (verificar)
 - Vía prevista: el creador entra en «Soy este creador», inicia sesión con TikTok
   (Login Kit) y autoriza los permisos de lectura de perfil, estadísticas y vídeos
   (verificar nombres de *scopes*: `user.info.stats`, `video.list`).
+- **Quién puede vincular (auditoría 2026-10-02, A2):** la persona inicia sesión en el sitio y
+  pide verificar el perfil (`profile_claims`, aprobación manual con `service_role`). Solo con el
+  reclamo **aprobado**, la función `tiktok-start` emite la URL de autorización con un `state`
+  firmado (HMAC-SHA256, 10 minutos de vida) que lleva perfil y persona. `tiktok-callback`
+  verifica la firma y vuelve a comprobar el reclamo antes de guardar nada. El navegador ya no
+  arma la URL de TikTok ni usa el id del perfil como `state`.
+- Secretos de las Edge Functions: `TIKTOK_STATE_SECRET` (cadena aleatoria larga), además de los
+  que ya usaba el callback. Despliegue: `supabase functions deploy tiktok-start tiktok-callback`.
 - Guardar el *refresh token* cifrado en Supabase (tabla `creator_tokens`, solo accesible con
   `service_role`). El pipeline lo usa para leer `follower_count` y las métricas de vídeos.
 - Mientras un creador no vincule su cuenta, TikTok usa el último dato de

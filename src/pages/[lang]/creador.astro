@@ -18,20 +18,18 @@ const issueUrl =
 // docs/PLAN_DE_TRABAJO.md Fase 7). El resto del perfil no hace falta acá.
 const searchIndex = people.map((p) => ({ id: p.id, name: p.name, country: p.country }));
 
-const tiktokClientKey = import.meta.env.PUBLIC_TIKTOK_CLIENT_KEY ?? "";
-const tiktokRedirectUri = import.meta.env.PUBLIC_TIKTOK_REDIRECT_URI ?? "";
+// La URL de autorización de TikTok ya no se arma en el navegador: la emite la función
+// tiktok-start con un state firmado (docs/AUDITORIA-2026-10-02.md, A2).
 ---
 
 <Layout lang={lang} path="creador" title={t("creator.title")} activeNav="creator">
   <div class="prose">
-    <h2 class="cond" style="font-size:28px;margin:0 0 4px">{t("creator.title")}</h2>
+    <h1 class="cond" style="font-size:28px;margin:0 0 4px">{t("creator.title")}</h1>
     <p>{t("creator.intro")}</p>
 
     <div
       id="creator-widget"
       data-people={JSON.stringify(searchIndex)}
-      data-client-key={tiktokClientKey}
-      data-redirect-uri={tiktokRedirectUri}
       data-label-search={t("creator.searchLabel")}
       data-placeholder-search={t("creator.searchPlaceholder")}
       data-label-empty={t("creator.searchEmpty")}
@@ -41,6 +39,18 @@ const tiktokRedirectUri = import.meta.env.PUBLIC_TIKTOK_REDIRECT_URI ?? "";
       data-label-note={t("creator.connectNote")}
       data-label-linked-success={t("creator.linkedSuccess")}
       data-label-linked-error={t("creator.linkedError")}
+      data-label-sign-in={t("creator.signInPrompt")}
+      data-label-email-placeholder={t("vote.emailPlaceholder")}
+      data-label-send-link={t("vote.sendLink")}
+      data-label-check-email={t("creator.checkEmail")}
+      data-label-claim-intro={t("creator.claimIntro")}
+      data-label-claim-evidence={t("creator.claimEvidenceLabel")}
+      data-label-claim-submit={t("creator.claimSubmit")}
+      data-label-claim-sent={t("creator.claimSent")}
+      data-label-claim-pending={t("creator.claimPending")}
+      data-label-claim-rejected={t("creator.claimRejected")}
+      data-label-connect-error={t("creator.connectError")}
+      data-label-unavailable={t("creator.unavailable")}
       style="max-width:420px"
     >
       <div id="creator-banner"></div>
@@ -65,10 +75,11 @@ const tiktokRedirectUri = import.meta.env.PUBLIC_TIKTOK_REDIRECT_URI ?? "";
 
       <div id="creator-selected" hidden>
         <p id="creator-selected-label" style="margin:0 0 8px"></p>
-        <a class="btn primary" id="creator-connect-btn" type="button" style="display:inline-block;text-decoration:none">
+        <div id="creator-step" style="margin:0 0 12px" aria-live="polite"></div>
+        <button class="btn primary" id="creator-connect-btn" type="button" hidden>
           {t("creator.connectCta")}
-        </a>
-        <button class="btn" type="button" id="creator-change-btn" style="margin-inline-start:8px">
+        </button>
+        <button class="btn" type="button" id="creator-change-btn">
           {t("creator.changeSelection")}
         </button>
         <p style="color:var(--muted);font-size:13px;margin-top:8px">{t("creator.connectNote")}</p>
@@ -82,18 +93,30 @@ const tiktokRedirectUri = import.meta.env.PUBLIC_TIKTOK_REDIRECT_URI ?? "";
 </Layout>
 
 <script>
+  import { getSupabaseClient, votingConfigured } from "../../lib/supabase";
+
   const widget = document.getElementById("creator-widget");
   if (widget) {
     const people: Array<{ id: string; name: string; country: string }> = JSON.parse(
       widget.dataset.people ?? "[]",
     );
-    const clientKey = widget.dataset.clientKey ?? "";
-    const redirectUri = widget.dataset.redirectUri ?? "";
     const labels = {
       empty: widget.dataset.labelEmpty!,
       selected: widget.dataset.labelSelected!,
       linkedSuccess: widget.dataset.labelLinkedSuccess!,
       linkedError: widget.dataset.labelLinkedError!,
+      signIn: widget.dataset.labelSignIn!,
+      emailPlaceholder: widget.dataset.labelEmailPlaceholder!,
+      sendLink: widget.dataset.labelSendLink!,
+      checkEmail: widget.dataset.labelCheckEmail!,
+      claimIntro: widget.dataset.labelClaimIntro!,
+      claimEvidence: widget.dataset.labelClaimEvidence!,
+      claimSubmit: widget.dataset.labelClaimSubmit!,
+      claimSent: widget.dataset.labelClaimSent!,
+      claimPending: widget.dataset.labelClaimPending!,
+      claimRejected: widget.dataset.labelClaimRejected!,
+      connectError: widget.dataset.labelConnectError!,
+      unavailable: widget.dataset.labelUnavailable!,
     };
 
     const banner = document.getElementById("creator-banner")!;
@@ -102,7 +125,8 @@ const tiktokRedirectUri = import.meta.env.PUBLIC_TIKTOK_REDIRECT_URI ?? "";
     const results = document.getElementById("creator-results")!;
     const selectedBox = document.getElementById("creator-selected")!;
     const selectedLabel = document.getElementById("creator-selected-label")!;
-    const connectBtn = document.getElementById("creator-connect-btn") as HTMLAnchorElement;
+    const step = document.getElementById("creator-step")!;
+    const connectBtn = document.getElementById("creator-connect-btn") as HTMLButtonElement;
     const changeBtn = document.getElementById("creator-change-btn") as HTMLButtonElement;
 
     function showResults(query: string) {
@@ -130,17 +154,151 @@ const tiktokRedirectUri = import.meta.env.PUBLIC_TIKTOK_REDIRECT_URI ?? "";
       }
     }
 
-    function selectPerson(person: { id: string; name: string; country: string }) {
+    const fieldStyle =
+      "width:100%;padding:8px 12px;border-radius:8px;border:1px solid var(--rule);background:var(--surface);color:var(--ink);margin-bottom:8px";
+
+    function say(text: string) {
+      step.replaceChildren();
+      const p = document.createElement("p");
+      p.style.margin = "0";
+      p.textContent = text;
+      step.append(p);
+    }
+
+    // Conectar TikTok: la URL de autorización la emite tiktok-start (state firmado),
+    // y solo si la sesión es válida y el reclamo sobre este perfil está aprobado.
+    async function connectTikTok(personId: string, accessToken: string) {
+      connectBtn.disabled = true;
+      try {
+        const res = await fetch(`${import.meta.env.PUBLIC_SUPABASE_URL}/functions/v1/tiktok-start`, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: `Bearer ${accessToken}`,
+            apikey: import.meta.env.PUBLIC_SUPABASE_ANON_KEY,
+          },
+          body: JSON.stringify({ influencer_id: personId }),
+        });
+        const data = (await res.json()) as { url?: string };
+        if (!res.ok || !data.url) throw new Error("tiktok-start");
+        window.location.href = data.url;
+      } catch {
+        connectBtn.disabled = false;
+        say(labels.connectError);
+      }
+    }
+
+    function showEmailForm() {
+      step.replaceChildren();
+      const intro = document.createElement("p");
+      intro.style.margin = "0 0 8px";
+      intro.textContent = labels.signIn;
+      const form = document.createElement("form");
+      const input = document.createElement("input");
+      input.type = "email";
+      input.required = true;
+      input.autocomplete = "email";
+      input.placeholder = labels.emailPlaceholder;
+      input.setAttribute("aria-label", labels.emailPlaceholder);
+      input.style.cssText = fieldStyle;
+      const send = document.createElement("button");
+      send.type = "submit";
+      send.className = "btn";
+      send.textContent = labels.sendLink;
+      form.append(input, send);
+      step.append(intro, form);
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        send.disabled = true;
+        try {
+          const { error } = await getSupabaseClient().auth.signInWithOtp({
+            email: input.value,
+            options: { emailRedirectTo: window.location.href },
+          });
+          if (error) throw error;
+          say(labels.checkEmail);
+        } catch {
+          send.disabled = false;
+          say(labels.connectError);
+        }
+      });
+    }
+
+    function showClaimForm(personId: string, userId: string) {
+      step.replaceChildren();
+      const intro = document.createElement("p");
+      intro.style.margin = "0 0 8px";
+      intro.textContent = labels.claimIntro;
+      const form = document.createElement("form");
+      const label = document.createElement("label");
+      label.htmlFor = "creator-evidence";
+      label.style.cssText = "display:block;font-size:13px;color:var(--muted);margin-bottom:4px";
+      label.textContent = labels.claimEvidence;
+      const evidence = document.createElement("textarea");
+      evidence.id = "creator-evidence";
+      evidence.required = true;
+      evidence.maxLength = 1000;
+      evidence.rows = 3;
+      evidence.style.cssText = fieldStyle;
+      const submit = document.createElement("button");
+      submit.type = "submit";
+      submit.className = "btn";
+      submit.textContent = labels.claimSubmit;
+      form.append(label, evidence, submit);
+      step.append(intro, form);
+      form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        submit.disabled = true;
+        const { error } = await getSupabaseClient()
+          .from("profile_claims")
+          .insert({ influencer_id: personId, claimant_id: userId, evidence: evidence.value });
+        if (error) {
+          submit.disabled = false;
+          say(labels.connectError);
+        } else {
+          say(labels.claimSent);
+        }
+      });
+    }
+
+    async function selectPerson(person: { id: string; name: string; country: string }) {
       picker.hidden = true;
       selectedBox.hidden = false;
+      connectBtn.hidden = true;
       selectedLabel.textContent = labels.selected.replace("{name}", person.name);
-      const url = new URL("https://www.tiktok.com/v2/auth/authorize/");
-      url.searchParams.set("client_key", clientKey);
-      url.searchParams.set("scope", "user.info.basic,user.info.stats,video.list");
-      url.searchParams.set("response_type", "code");
-      url.searchParams.set("redirect_uri", redirectUri);
-      url.searchParams.set("state", person.id);
-      connectBtn.href = url.toString();
+
+      if (!votingConfigured()) {
+        say(labels.unavailable);
+        return;
+      }
+      const supabase = getSupabaseClient();
+      const {
+        data: { session },
+      } = await supabase.auth.getSession();
+      if (!session) {
+        showEmailForm();
+        return;
+      }
+
+      // RLS: solo se ven los reclamos propios. Se muestra el más reciente.
+      const { data: claims } = await supabase
+        .from("profile_claims")
+        .select("status")
+        .eq("influencer_id", person.id)
+        .order("created_at", { ascending: false })
+        .limit(1);
+      const status = claims?.[0]?.status as "pending" | "approved" | "rejected" | undefined;
+      if (status === "approved") {
+        step.replaceChildren();
+        connectBtn.hidden = false;
+        connectBtn.onclick = () => connectTikTok(person.id, session.access_token);
+      } else if (status === "pending") {
+        say(labels.claimPending);
+      } else if (status === "rejected") {
+        say(labels.claimRejected);
+      } else {
+        showClaimForm(person.id, session.user.id);
+      }
     }
 
     search.addEventListener("input", () => showResults(search.value));

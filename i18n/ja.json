@@ -118,5 +118,15 @@
   "plan.enterprise.feature1": "APIアクセス",
   "plan.enterprise.feature2": "サービスレベル契約（SLA）",
   "plan.enterprise.feature3": "データライセンスと専任サポート",
-  "pricing.priceTbd": "価格未定"
+  "pricing.priceTbd": "価格未定",
+  "creator.signInPrompt": "このプロフィールがご本人のものであることを確認するため、メールでログインしてください。",
+  "creator.checkEmail": "メールをご確認ください。ログイン用のリンクを送信しました。",
+  "creator.claimIntro": "TikTokを連携する前に、このプロフィールがご本人のものか確認します。確認方法（例：公式アカウントへのリンク）をお知らせください。",
+  "creator.claimEvidenceLabel": "ご本人であることの証明",
+  "creator.claimSubmit": "確認を申請する",
+  "creator.claimSent": "申請を受け付けました。手作業で確認し、承認後にここでTikTokを連携できます。",
+  "creator.claimPending": "申請は確認中です。",
+  "creator.claimRejected": "申請は承認されませんでした。誤りだと思われる場合は訂正を依頼してください。",
+  "creator.connectError": "TikTokとの連携を開始できませんでした。もう一度お試しください。",
+  "creator.unavailable": "確認機能はまだ利用できません。"
 }

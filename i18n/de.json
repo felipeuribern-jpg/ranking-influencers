@@ -118,5 +118,15 @@
   "plan.enterprise.feature1": "API-Zugang",
   "plan.enterprise.feature2": "Service Level Agreement (SLA)",
   "plan.enterprise.feature3": "Datenlizenz und dedizierter Support",
-  "pricing.priceTbd": "Preis noch offen"
+  "pricing.priceTbd": "Preis noch offen",
+  "creator.signInPrompt": "Melde dich mit deiner E-Mail an, um zu bestätigen, dass dieses Profil dir gehört.",
+  "creator.checkEmail": "Prüfe deine E-Mails: Wir haben dir einen Anmeldelink geschickt.",
+  "creator.claimIntro": "Um TikTok zu verknüpfen, prüfen wir zuerst, ob dieses Profil dir gehört. Sag uns, wie wir das prüfen können, zum Beispiel mit einem Link zu deinen offiziellen Konten.",
+  "creator.claimEvidenceLabel": "Nachweis, dass du es bist",
+  "creator.claimSubmit": "Verifizierung anfragen",
+  "creator.claimSent": "Wir haben deine Anfrage erhalten. Wir prüfen sie von Hand, und nach der Freigabe kannst du TikTok hier verbinden.",
+  "creator.claimPending": "Deine Anfrage wird geprüft.",
+  "creator.claimRejected": "Deine Anfrage wurde nicht freigegeben. Bitte um eine Korrektur, falls du das für einen Fehler hältst.",
+  "creator.connectError": "Die TikTok-Verbindung konnte nicht gestartet werden. Versuche es erneut.",
+  "creator.unavailable": "Die Verifizierung ist noch nicht verfügbar."
 }

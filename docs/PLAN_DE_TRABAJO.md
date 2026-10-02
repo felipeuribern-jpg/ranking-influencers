@@ -9,9 +9,9 @@ Pregunta al usuario cuando una tarea diga **[usuario]**.
    **Hecho cuando:** `npm test` pasa en GitHub Actions en un PR vacío.
 
 ## Fase 1 · Datos
-1. Añadir el campo `handles` verificado de los 40 perfiles. **[usuario]** Confirmar cada
+1. Añadir el campo `handles` verificado de los perfiles base (hoy el catálogo tiene más de 600). **[usuario]** Confirmar cada
    handle abriendo el perfil real; poner `handlesVerified: true` solo cuando esté confirmado.
-2. Traducir `topic` y `about` de los 40 perfiles a los 10 idiomas (`IDIOMAS.md`).
+2. Traducir `topic` y `about` de los perfiles base (hoy el catálogo tiene más de 600) a los 10 idiomas (`IDIOMAS.md`).
 3. `pipeline/validate.ts`: esquema de `influencers.json`, países ISO válidos, ids únicos,
    traducciones completas.
    **Hecho cuando:** `npm run validate` pasa y detecta un perfil sin traducción.

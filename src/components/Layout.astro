@@ -66,12 +66,12 @@ const canonicalUrl = new URL(hrefFor(lang), Astro.site);
       <div class="wrap">
         <div class="brand">
           <div>
-            <h1>
+            <p class="brand-title">
               <a href={hrefFor(lang, "")}>
                 <img class="brand-mark" src={`${base}/logo.png`} alt="" width="30" height="30" />
                 <span class="wordmark">{siteConfig.brandName}</span><span class="wordmark-suffix">.com</span>
               </a>
-            </h1>
+            </p>
           </div>
           <details class="language-picker">
             <summary><span aria-hidden="true">◎</span> {languageNames[lang]} <span class="language-chevron" aria-hidden="true">⌄</span></summary>
