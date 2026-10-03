@@ -1462,6 +1462,34 @@
       "needsContent": true,
       "youtubeDescriptionSnippet": "Всім привіт! \nЯ Софія з України. Тут буду знімати на відео, як я граю в Роблокс, коментуючи українською мовою🇺🇦\nМій нік в Роблоксі 🤍3526sofia🖤\n\nМій офіційний TikTok: @robloxsofi3526",
       "countryDeclaredByChannel": false
+    },
+    {
+      "discoveredAt": "2026-10-03T11:19:03.858Z",
+      "youtubeChannelId": "UC0s27_mjzgFY_o1xH16QPUg",
+      "name": "Al Punto Colombia",
+      "country": "CO",
+      "followers": {
+        "youtube": 222000
+      },
+      "handles": {},
+      "handlesVerified": false,
+      "needsContent": true,
+      "youtubeDescriptionSnippet": "¡Noticias para gente despierta!",
+      "countryDeclaredByChannel": true
+    },
+    {
+      "discoveredAt": "2026-10-03T11:19:21.216Z",
+      "youtubeChannelId": "UC_aezIDOICl-ARlGWY9sVpA",
+      "name": "HeyMoritz",
+      "country": "DE",
+      "followers": {
+        "youtube": 2120000
+      },
+      "handles": {},
+      "handlesVerified": false,
+      "needsContent": true,
+      "youtubeDescriptionSnippet": "HeyyGmbH\nWerkstättenstrasse19\nLeverkusen\n\ninfo@heymoritz.de",
+      "countryDeclaredByChannel": true
     }
   ]
 }
