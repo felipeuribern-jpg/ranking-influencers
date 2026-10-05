@@ -27,6 +27,7 @@ Las reglas del proyecto están en `CLAUDE.md`; empieza por ahí.
 
 - `npm run dev` — sitio en local · `npm run build` — build estático.
 - `npm run pipeline` — actualización completa (usa `.env`; `-- --dry-run` calcula sin escribir).
+- `npm run pipeline -- --reuse-live` — recalcula sin consultar ninguna API: conserva las cifras en vivo del ranking publicado y suma `data/manual.json`. Úsalo para cargar cifras manuales sin gastar la cuota diaria de YouTube.
 - `npm test` — fórmula, estado firmado de TikTok y validación de datos.
 - `npm run validate` — falla si falta una traducción, un país inválido o un campo obligatorio.
 - `npm run import-manual -- docs/REVISION_MANUAL_REDES.csv "Nombre"` — carga cifras revisadas a mano.
