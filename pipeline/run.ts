@@ -1,4 +1,4 @@
-// npm run pipeline [-- --dry-run] [-- --discover]
+// npm run pipeline [-- --dry-run] [-- --discover] [-- --reuse-live]
 // Orquesta la actualización diaria completa (docs/ARQUITECTURA.md → «Flujo diario»).
 // Sin las credenciales de una red (YOUTUBE_API_KEY, META_ACCESS_TOKEN, Supabase...),
 // esa red cae automáticamente a data/manual.json o a `baseline`, marcada `stale`
@@ -34,6 +34,11 @@ const root = join(import.meta.dirname, "..");
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
 const withDiscovery = args.includes("--discover");
+// --reuse-live: no consulta ninguna API; conserva las cifras en vivo ya guardadas en
+// data/ranking.json y recalcula con data/manual.json. Sirve para incorporar cifras
+// manuales sin gastar la cuota diaria de YouTube.
+const reuseLive = args.includes("--reuse-live");
+const LIVE_SOURCES = new Set(["youtube-data-api-v3", "instagram-business-discovery", "facebook-graph-api", "tiktok-login-kit"]);
 
 // data/influencers.json todavía no tiene fecha propia de baseline: se documenta
 // en docs/FUENTES_DE_DATOS.md como "seguidores de enero de 2026" (TreceBits).
@@ -145,6 +150,12 @@ async function fetchLiveSnapshot(
   // TikTok sin creador vinculado (Fase 7) y cualquier red sin credenciales
   // configuradas todavía caen aquí, al mismo camino que LinkedIn/Snapchat.
   return null;
+}
+
+function previousLiveSnapshot(previous: PersonOutput | undefined, platform: Platform): RawSnapshot | null {
+  const d = previous?.platforms[platform];
+  if (!d || !LIVE_SOURCES.has(d.source)) return null;
+  return { followers: d.followers, er: d.er, url: d.url, source: d.source, fetchedAt: d.fetchedAt };
 }
 
 function manualSnapshot(
@@ -273,7 +284,9 @@ async function main(): Promise<void> {
     const perPlatform: Partial<Record<Platform, RawSnapshot>> = {};
     for (const platform of PLATFORMS) {
       const snapshot =
-        (await fetchLiveSnapshot(person, platform, resolved, creatorTokensById)) ??
+        (reuseLive
+          ? previousLiveSnapshot(previousById.get(person.id), platform)
+          : await fetchLiveSnapshot(person, platform, resolved, creatorTokensById)) ??
         manualSnapshot(person, platform, manualEntries) ??
         baselineSnapshot(person, platform);
       if (snapshot) perPlatform[platform] = snapshot;
