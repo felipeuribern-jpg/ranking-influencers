@@ -991,3 +991,7 @@ footer.site a,
   align-items: center;
   min-height: 24px;
 }
+
+/* El botón de sonido lo muestra JavaScript al cargar; reservar su espacio evita que
+   el pie del video crezca y desplace el hero (Cloudflare: CLS 0,16 en .hero > div). */
+.sound-toggle[hidden] { display: inline-flex; visibility: hidden; }
