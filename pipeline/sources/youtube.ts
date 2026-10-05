@@ -9,8 +9,11 @@ import {
 
 const API_BASE = "https://www.googleapis.com/youtube/v3";
 
-function apiKey(): string {
-  const key = process.env.YOUTUBE_API_KEY;
+// search.list cuesta 100 unidades (las demás, 1): el descubrimiento usa su propia clave,
+// de otro proyecto de Google Cloud, para no agotar la cuota diaria de las cifras.
+function apiKey(path: string): string {
+  const key =
+    (path === "search" ? process.env.YOUTUBE_SEARCH_API_KEY : undefined) ?? process.env.YOUTUBE_API_KEY;
   if (!key) throw new Error("Falta la variable de entorno YOUTUBE_API_KEY");
   return key;
 }
@@ -18,7 +21,7 @@ function apiKey(): string {
 async function apiGet(path: string, params: Record<string, string>): Promise<any> {
   const url = new URL(`${API_BASE}/${path}`);
   for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v);
-  url.searchParams.set("key", apiKey());
+  url.searchParams.set("key", apiKey(path));
   const res = await fetch(url);
   if (!res.ok) {
     throw new Error(`YouTube API ${path} → HTTP ${res.status}: ${await res.text()}`);
