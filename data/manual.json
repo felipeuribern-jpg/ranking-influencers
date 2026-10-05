@@ -791,6 +791,69 @@
       "followers": 107000,
       "source": "https://www.youtube.com/channel/UC9X14o5R3Y89wP6qjbdDGsQ (YouTube Data API v3)",
       "date": "2026-10-02"
+    },
+    {
+      "id": "lionel-messi",
+      "platform": "instagram",
+      "followers": 516000000,
+      "source": "Revisión manual del perfil público por Claude (lectura manual de perfiles públicos, 5 de octubre de 2026)",
+      "date": "2026-10-05"
+    },
+    {
+      "id": "georgina-rodriguez",
+      "platform": "instagram",
+      "followers": 78200000,
+      "source": "Revisión manual del perfil público por Claude (lectura manual de perfiles públicos, 5 de octubre de 2026)",
+      "date": "2026-10-05"
+    },
+    {
+      "id": "georgina-rodriguez",
+      "platform": "tiktok",
+      "followers": 25600000,
+      "source": "Revisión manual del perfil público por Claude (lectura manual de perfiles públicos, 5 de octubre de 2026)",
+      "date": "2026-10-05"
+    },
+    {
+      "id": "paulo-dybala",
+      "platform": "instagram",
+      "followers": 56300000,
+      "source": "Revisión manual del perfil público por Claude (lectura manual de perfiles públicos, 5 de octubre de 2026)",
+      "date": "2026-10-05"
+    },
+    {
+      "id": "paulo-dybala",
+      "platform": "tiktok",
+      "followers": 11400000,
+      "source": "Revisión manual del perfil público por Claude (lectura manual de perfiles públicos, 5 de octubre de 2026)",
+      "date": "2026-10-05"
+    },
+    {
+      "id": "antonela-roccuzzo",
+      "platform": "instagram",
+      "followers": 41900000,
+      "source": "Revisión manual del perfil público por Claude (lectura manual de perfiles públicos, 5 de octubre de 2026)",
+      "date": "2026-10-05"
+    },
+    {
+      "id": "antonela-roccuzzo",
+      "platform": "tiktok",
+      "followers": 4200000,
+      "source": "Revisión manual del perfil público por Claude (lectura manual de perfiles públicos, 5 de octubre de 2026)",
+      "date": "2026-10-05"
+    },
+    {
+      "id": "marta-diaz",
+      "platform": "instagram",
+      "followers": 3700000,
+      "source": "Revisión manual del perfil público por Claude (lectura manual de perfiles públicos, 5 de octubre de 2026)",
+      "date": "2026-10-05"
+    },
+    {
+      "id": "marta-diaz",
+      "platform": "tiktok",
+      "followers": 7300000,
+      "source": "Revisión manual del perfil público por Claude (lectura manual de perfiles públicos, 5 de octubre de 2026)",
+      "date": "2026-10-05"
     }
   ]
 }
