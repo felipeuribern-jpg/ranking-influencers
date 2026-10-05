@@ -24,7 +24,7 @@ Compilación, validación y pruebas: `npm run validate` OK, `npm test` 9/9, `npm
 | Hallazgo | Estado |
 |---|---|
 | A1. Solo puntúa YouTube | **Pendiente de datos**: requiere cifras actuales de Instagram y TikTok (planilla y comando listos) o una decisión sobre la regla de 30 días |
-| A2. Callback de TikTok | **Corregido** en código: sesión, reclamo aprobado y `state` firmado; **falta desplegar** las funciones y definir `TIKTOK_STATE_SECRET` en Supabase |
+| A2. Callback de TikTok | **Corregido** en código: sesión, reclamo aprobado y `state` firmado; **desplegado el 5 de octubre de 2026**: `tiktok-start` (con sesión) y `tiktok-callback` activas, `TIKTOK_STATE_SECRET` definido; falta probar el vínculo completo con un reclamo aprobado |
 | M1. Criterio de país | Corregido: documentado en `docs/DESCUBRIMIENTO.md` |
 | M2. Emiratos 9 de 10 | Corregido: 10 de 10 con Salama Mohamed (canal con poca actividad desde 2024) |
 | M3. Textos sin revisión nativa | Pendiente: requiere hablantes nativos |
@@ -35,7 +35,7 @@ Compilación, validación y pruebas: `npm run validate` OK, `npm test` 9/9, `npm
 | B2. Historial de git | Pendiente: sin urgencia |
 | B3. Videos en el repo | Pendiente: sin urgencia |
 | B4. Datos estructurados | Corregido: JSON-LD `Person` en las fichas |
-| B5. Portada pesada | Pendiente |
+| B5. Portada pesada | Revisado el 5 de octubre: el HTML pesa 36 KB comprimido, el CSS 24 KB y las banderas cargan diferidas (`loading="lazy"`); el script de 216 KB es de las fichas, no de la portada. Lo pesado es el video de presentación (4,5 MB, con reproducción automática). Decisión pendiente: pedir clic para reproducir o comprimirlo |
 | B6. Dependencias | Corregido: Astro, dotenv, tipos y Vitest 5; `npm audit` en 0 |
 | B7. `SECURITY.md` / `LICENSE` | `SECURITY.md` agregado; la licencia la decide el responsable |
 
