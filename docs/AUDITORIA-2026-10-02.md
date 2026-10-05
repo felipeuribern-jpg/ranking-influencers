@@ -23,7 +23,7 @@ Compilación, validación y pruebas: `npm run validate` OK, `npm test` 9/9, `npm
 
 | Hallazgo | Estado |
 |---|---|
-| A1. Solo puntúa YouTube | **Pendiente de datos**: requiere cifras actuales de Instagram y TikTok (planilla y comando listos) o una decisión sobre la regla de 30 días |
+| A1. Solo puntúa YouTube | **Actualización 5 de octubre**: 18 perfiles con Instagram cargado a mano (cifras redondeadas a 0,1 M; Messi 516 M). TikTok: la app está en producción pero Login Kit solo entrega datos de quien autoriza. Meta: la revisión (enviada el 27 de septiembre) solo pide `public_profile` e `instagram_basic`; `business_discovery` devolvió el error #10 porque falta la función «Instagram Public Content Access». **Pendiente de datos**: requiere cifras actuales de Instagram y TikTok (planilla y comando listos) o una decisión sobre la regla de 30 días |
 | A2. Callback de TikTok | **Corregido** en código: sesión, reclamo aprobado y `state` firmado; **desplegado el 5 de octubre de 2026**: `tiktok-start` (con sesión) y `tiktok-callback` activas, `TIKTOK_STATE_SECRET` definido; falta probar el vínculo completo con un reclamo aprobado |
 | M1. Criterio de país | Corregido: documentado en `docs/DESCUBRIMIENTO.md` |
 | M2. Emiratos 9 de 10 | Corregido: 10 de 10 con Salama Mohamed (canal con poca actividad desde 2024) |
