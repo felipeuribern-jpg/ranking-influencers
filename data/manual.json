@@ -2163,6 +2163,27 @@
       "followers": 344000,
       "source": "Revisión manual del perfil público (Codex, cifra redondeada, aproximada)",
       "date": "2026-10-13"
+    },
+    {
+      "id": "mrbeast",
+      "platform": "instagram",
+      "followers": 90900000,
+      "source": "Revisión manual del perfil público (Felipe, cifra redondeada, aproximada)",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "justin-bieber",
+      "platform": "instagram",
+      "followers": 286000000,
+      "source": "Revisión manual del perfil público (Felipe, cifra redondeada, aproximada)",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "ksi",
+      "platform": "instagram",
+      "followers": 12900000,
+      "source": "Revisión manual del perfil público (Felipe, cifra redondeada, aproximada)",
+      "date": "2026-10-13"
     }
   ]
 }

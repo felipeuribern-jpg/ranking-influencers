@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:57:35.630Z",
+  "generatedAt": "2026-10-13T19:52:19.318Z",
   "medians": {
     "youtube": 3.091246732550488,
     "tiktok": null,
@@ -10,8 +10,52 @@
   },
   "people": [
     {
-      "id": "kimberly-loaiza",
+      "id": "mrbeast",
       "rank": 1,
+      "rankPrev": 41,
+      "countryRank": 1,
+      "countryRankPrev": 7,
+      "total": 13001.071344745014,
+      "networkPoints": 13001.071344745014,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 521000000,
+          "followers30": null,
+          "er": 2.3018904674486445,
+          "points": 4884.368713794576,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-10-13T13:46:07.338Z",
+          "url": "https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA"
+        },
+        "tiktok": {
+          "followers": 143900000,
+          "followers30": null,
+          "er": null,
+          "points": 4158.090973185559,
+          "stale": false,
+          "source": "Revisión manual del perfil público (Codex, cifra redondeada, aproximada)",
+          "fetchedAt": "2026-10-13T00:00:00.000Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 90900000,
+          "followers30": null,
+          "er": null,
+          "points": 3958.6116577648795,
+          "stale": false,
+          "source": "Revisión manual del perfil público (Felipe, cifra redondeada, aproximada)",
+          "fetchedAt": "2026-10-13T00:00:00.000Z",
+          "url": null
+        }
+      }
+    },
+    {
+      "id": "kimberly-loaiza",
+      "rank": 2,
       "rankPrev": 1,
       "countryRank": 1,
       "countryRankPrev": 1,
@@ -55,7 +99,7 @@
     },
     {
       "id": "khaby-lame",
-      "rank": 2,
+      "rank": 3,
       "rankPrev": 2,
       "countryRank": 1,
       "countryRankPrev": 1,
@@ -99,7 +143,7 @@
     },
     {
       "id": "enchufetv",
-      "rank": 3,
+      "rank": 4,
       "rankPrev": 3,
       "countryRank": 1,
       "countryRankPrev": 1,
@@ -143,8 +187,8 @@
     },
     {
       "id": "shawn-mendes",
-      "rank": 4,
-      "rankPrev": 113,
+      "rank": 5,
+      "rankPrev": 4,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 11637.512526609227,
@@ -187,10 +231,10 @@
     },
     {
       "id": "ishowspeed",
-      "rank": 5,
-      "rankPrev": 152,
-      "countryRank": 1,
-      "countryRankPrev": 5,
+      "rank": 6,
+      "rankPrev": 5,
+      "countryRank": 2,
+      "countryRankPrev": 1,
       "total": 11586.766052851966,
       "networkPoints": 11586.766052851966,
       "publicPoints": 0,
@@ -231,8 +275,8 @@
     },
     {
       "id": "la-divaza",
-      "rank": 6,
-      "rankPrev": 4,
+      "rank": 7,
+      "rankPrev": 6,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 11484.928939837599,
@@ -275,8 +319,8 @@
     },
     {
       "id": "domelipa",
-      "rank": 7,
-      "rankPrev": 5,
+      "rank": 8,
+      "rankPrev": 7,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 11429.231739154959,
@@ -319,8 +363,8 @@
     },
     {
       "id": "ibai-llanos",
-      "rank": 8,
-      "rankPrev": 6,
+      "rank": 9,
+      "rankPrev": 8,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 11337.578473256708,
@@ -362,9 +406,53 @@
       }
     },
     {
+      "id": "justin-bieber",
+      "rank": 10,
+      "rankPrev": 74,
+      "countryRank": 2,
+      "countryRankPrev": 4,
+      "total": 11316.546014318912,
+      "networkPoints": 11316.546014318912,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "instagram",
+      "platforms": {
+        "youtube": {
+          "followers": 79500000,
+          "followers30": null,
+          "er": 1.598611673533772,
+          "points": 3365.8710276682605,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-10-13T13:49:20.783Z",
+          "url": "https://www.youtube.com/channel/UCIwFjwMjI0y7PDBVEO9-bkQ"
+        },
+        "tiktok": {
+          "followers": 31200000,
+          "followers30": null,
+          "er": null,
+          "points": 3494.2937686653327,
+          "stale": false,
+          "source": "Revisión manual del perfil público (Codex, cifra redondeada, aproximada)",
+          "fetchedAt": "2026-10-13T00:00:00.000Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 286000000,
+          "followers30": null,
+          "er": null,
+          "points": 4456.38121798532,
+          "stale": false,
+          "source": "Revisión manual del perfil público (Felipe, cifra redondeada, aproximada)",
+          "fetchedAt": "2026-10-13T00:00:00.000Z",
+          "url": null
+        }
+      }
+    },
+    {
       "id": "czn-burak",
-      "rank": 9,
-      "rankPrev": 7,
+      "rank": 11,
+      "rankPrev": 9,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 11177.403173116712,
@@ -407,8 +495,8 @@
     },
     {
       "id": "lele-pons",
-      "rank": 10,
-      "rankPrev": 8,
+      "rank": 12,
+      "rankPrev": 10,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 11149.231544821443,
@@ -451,8 +539,8 @@
     },
     {
       "id": "alexis-omman",
-      "rank": 11,
-      "rankPrev": 9,
+      "rank": 13,
+      "rankPrev": 11,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 11123.297381904844,
@@ -495,8 +583,8 @@
     },
     {
       "id": "doris-jocelyn",
-      "rank": 12,
-      "rankPrev": 10,
+      "rank": 14,
+      "rankPrev": 12,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 11083.566486938324,
@@ -539,10 +627,10 @@
     },
     {
       "id": "kai-cenat",
-      "rank": 13,
-      "rankPrev": 146,
-      "countryRank": 2,
-      "countryRankPrev": 3,
+      "rank": 15,
+      "rankPrev": 13,
+      "countryRank": 3,
+      "countryRankPrev": 2,
       "total": 10877.301618696378,
       "networkPoints": 10877.301618696378,
       "publicPoints": 0,
@@ -583,8 +671,8 @@
     },
     {
       "id": "nicki-nicole",
-      "rank": 14,
-      "rankPrev": 11,
+      "rank": 16,
+      "rankPrev": 14,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 10808.271939528213,
@@ -627,8 +715,8 @@
     },
     {
       "id": "katie-angel",
-      "rank": 15,
-      "rankPrev": 12,
+      "rank": 17,
+      "rankPrev": 15,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 10735.587343629108,
@@ -671,8 +759,8 @@
     },
     {
       "id": "auronplay",
-      "rank": 16,
-      "rankPrev": 13,
+      "rank": 18,
+      "rankPrev": 16,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 10648.6929565203,
@@ -715,8 +803,8 @@
     },
     {
       "id": "sonrixs",
-      "rank": 17,
-      "rankPrev": 14,
+      "rank": 19,
+      "rankPrev": 17,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 10562.606141120617,
@@ -759,10 +847,10 @@
     },
     {
       "id": "the-weeknd",
-      "rank": 18,
-      "rankPrev": 217,
-      "countryRank": 2,
-      "countryRankPrev": 9,
+      "rank": 20,
+      "rankPrev": 18,
+      "countryRank": 3,
+      "countryRankPrev": 2,
       "total": 10469.283143343237,
       "networkPoints": 10469.283143343237,
       "publicPoints": 0,
@@ -803,8 +891,8 @@
     },
     {
       "id": "cazzu",
-      "rank": 19,
-      "rankPrev": 15,
+      "rank": 21,
+      "rankPrev": 19,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 10448.339894585299,
@@ -847,8 +935,8 @@
     },
     {
       "id": "ria-ricis",
-      "rank": 20,
-      "rankPrev": 16,
+      "rank": 22,
+      "rankPrev": 20,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 10424.57938970604,
@@ -891,8 +979,8 @@
     },
     {
       "id": "maria-becerra",
-      "rank": 21,
-      "rankPrev": 17,
+      "rank": 23,
+      "rankPrev": 21,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 10406.077449014942,
@@ -935,10 +1023,10 @@
     },
     {
       "id": "dude-perfect",
-      "rank": 22,
-      "rankPrev": 169,
-      "countryRank": 3,
-      "countryRankPrev": 6,
+      "rank": 24,
+      "rankPrev": 22,
+      "countryRank": 4,
+      "countryRankPrev": 3,
       "total": 10312.581885914818,
       "networkPoints": 10312.581885914818,
       "publicPoints": 0,
@@ -979,8 +1067,8 @@
     },
     {
       "id": "bizarrap",
-      "rank": 23,
-      "rankPrev": 18,
+      "rank": 25,
+      "rankPrev": 23,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 10262.916618116338,
@@ -1023,10 +1111,10 @@
     },
     {
       "id": "david-dobrik",
-      "rank": 24,
-      "rankPrev": 174,
-      "countryRank": 4,
-      "countryRankPrev": 7,
+      "rank": 26,
+      "rankPrev": 24,
+      "countryRank": 5,
+      "countryRankPrev": 4,
       "total": 10238.114850574759,
       "networkPoints": 10238.114850574759,
       "publicPoints": 0,
@@ -1067,8 +1155,8 @@
     },
     {
       "id": "ivana-alawi",
-      "rank": 25,
-      "rankPrev": 19,
+      "rank": 27,
+      "rankPrev": 25,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 10211.015580665939,
@@ -1111,8 +1199,8 @@
     },
     {
       "id": "dross-rotzank",
-      "rank": 26,
-      "rankPrev": 20,
+      "rank": 28,
+      "rankPrev": 26,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 10092.391641097178,
@@ -1155,8 +1243,8 @@
     },
     {
       "id": "el-rubius",
-      "rank": 27,
-      "rankPrev": 21,
+      "rank": 29,
+      "rankPrev": 27,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 10077.551478701505,
@@ -1189,8 +1277,8 @@
     },
     {
       "id": "kaykai-salaider-nutticha-namwong",
-      "rank": 28,
-      "rankPrev": 22,
+      "rank": 30,
+      "rankPrev": 28,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 10073.74861212202,
@@ -1233,8 +1321,8 @@
     },
     {
       "id": "katteyes",
-      "rank": 29,
-      "rankPrev": 23,
+      "rank": 31,
+      "rankPrev": 29,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 9836.378358596583,
@@ -1277,8 +1365,8 @@
     },
     {
       "id": "luisito-comunica",
-      "rank": 30,
-      "rankPrev": 24,
+      "rank": 32,
+      "rankPrev": 30,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 9777.536823222297,
@@ -1321,8 +1409,8 @@
     },
     {
       "id": "thedonato",
-      "rank": 31,
-      "rankPrev": 25,
+      "rank": 33,
+      "rankPrev": 31,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 9769.346435713838,
@@ -1365,8 +1453,8 @@
     },
     {
       "id": "carlos-feria",
-      "rank": 32,
-      "rankPrev": 26,
+      "rank": 34,
+      "rankPrev": 32,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 9759.072380428077,
@@ -1409,10 +1497,10 @@
     },
     {
       "id": "ashton-hall",
-      "rank": 33,
-      "rankPrev": 27,
-      "countryRank": 5,
-      "countryRankPrev": 1,
+      "rank": 35,
+      "rankPrev": 33,
+      "countryRank": 6,
+      "countryRankPrev": 5,
       "total": 9663.376433350666,
       "networkPoints": 9663.376433350666,
       "publicPoints": 0,
@@ -1453,8 +1541,8 @@
     },
     {
       "id": "celine-dept",
-      "rank": 34,
-      "rankPrev": 28,
+      "rank": 36,
+      "rankPrev": 34,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 9581.613072661698,
@@ -1497,8 +1585,8 @@
     },
     {
       "id": "la-segura",
-      "rank": 35,
-      "rankPrev": 29,
+      "rank": 37,
+      "rankPrev": 35,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 9394.731287831763,
@@ -1541,8 +1629,8 @@
     },
     {
       "id": "felipe-neto",
-      "rank": 36,
-      "rankPrev": 30,
+      "rank": 38,
+      "rankPrev": 36,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 9342.932201186502,
@@ -1575,8 +1663,8 @@
     },
     {
       "id": "mariale",
-      "rank": 37,
-      "rankPrev": 31,
+      "rank": 39,
+      "rankPrev": 37,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 9196.071747862861,
@@ -1619,8 +1707,8 @@
     },
     {
       "id": "carryminati",
-      "rank": 38,
-      "rankPrev": 32,
+      "rank": 40,
+      "rankPrev": 38,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 9140.15013546043,
@@ -1653,10 +1741,10 @@
     },
     {
       "id": "emma-chamberlain",
-      "rank": 39,
-      "rankPrev": 148,
-      "countryRank": 6,
-      "countryRankPrev": 4,
+      "rank": 41,
+      "rankPrev": 39,
+      "countryRank": 7,
+      "countryRankPrev": 6,
       "total": 9082.64738334449,
       "networkPoints": 9082.64738334449,
       "publicPoints": 0,
@@ -1697,8 +1785,8 @@
     },
     {
       "id": "bb-ki-vines",
-      "rank": 40,
-      "rankPrev": 33,
+      "rank": 42,
+      "rankPrev": 40,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 9064.25235526482,
@@ -1730,43 +1818,9 @@
       }
     },
     {
-      "id": "mrbeast",
-      "rank": 41,
-      "rankPrev": 109,
-      "countryRank": 7,
-      "countryRankPrev": 2,
-      "total": 9042.459686980135,
-      "networkPoints": 9042.459686980135,
-      "publicPoints": 0,
-      "votes30": 0,
-      "mainPlatform": "youtube",
-      "platforms": {
-        "youtube": {
-          "followers": 521000000,
-          "followers30": null,
-          "er": 2.3018904674486445,
-          "points": 4884.368713794576,
-          "stale": false,
-          "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-10-13T13:46:07.338Z",
-          "url": "https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA"
-        },
-        "tiktok": {
-          "followers": 143900000,
-          "followers30": null,
-          "er": null,
-          "points": 4158.090973185559,
-          "stale": false,
-          "source": "Revisión manual del perfil público (Codex, cifra redondeada, aproximada)",
-          "fetchedAt": "2026-10-13T00:00:00.000Z",
-          "url": null
-        }
-      }
-    },
-    {
       "id": "kate-clapp",
-      "rank": 42,
-      "rankPrev": 34,
+      "rank": 43,
+      "rankPrev": 42,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 9021.099671656197,
@@ -1808,9 +1862,53 @@
       }
     },
     {
+      "id": "ksi",
+      "rank": 44,
+      "rankPrev": 99,
+      "countryRank": 1,
+      "countryRankPrev": 2,
+      "total": 9016.326487432441,
+      "networkPoints": 9016.326487432441,
+      "publicPoints": 0,
+      "votes30": 0,
+      "mainPlatform": "youtube",
+      "platforms": {
+        "youtube": {
+          "followers": 19200000,
+          "followers30": null,
+          "er": 1.5859253443906416,
+          "points": 2822.256102022968,
+          "stale": false,
+          "source": "youtube-data-api-v3",
+          "fetchedAt": "2026-10-13T13:46:10.562Z",
+          "url": "https://www.youtube.com/channel/UCGmnsW623G1r-Chmo5RB4Yw"
+        },
+        "tiktok": {
+          "followers": 12100000,
+          "followers30": null,
+          "er": null,
+          "points": 3083.1441431430526,
+          "stale": false,
+          "source": "Revisión manual del perfil público (Codex, cifra redondeada, aproximada)",
+          "fetchedAt": "2026-10-13T00:00:00.000Z",
+          "url": null
+        },
+        "instagram": {
+          "followers": 12900000,
+          "followers30": null,
+          "er": null,
+          "points": 3110.9262422664206,
+          "stale": false,
+          "source": "Revisión manual del perfil público (Felipe, cifra redondeada, aproximada)",
+          "fetchedAt": "2026-10-13T00:00:00.000Z",
+          "url": null
+        }
+      }
+    },
+    {
       "id": "hablando-huevadas",
-      "rank": 43,
-      "rankPrev": 35,
+      "rank": 45,
+      "rankPrev": 43,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 8998.15219216131,
@@ -1853,8 +1951,8 @@
     },
     {
       "id": "luisa-fernanda-w",
-      "rank": 44,
-      "rankPrev": 36,
+      "rank": 46,
+      "rankPrev": 44,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 8921.54114711514,
@@ -1897,8 +1995,8 @@
     },
     {
       "id": "mark-rober",
-      "rank": 45,
-      "rankPrev": 185,
+      "rank": 47,
+      "rankPrev": 45,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 8844.561338606645,
@@ -1941,8 +2039,8 @@
     },
     {
       "id": "ipantellas",
-      "rank": 46,
-      "rankPrev": 37,
+      "rank": 48,
+      "rankPrev": 46,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 8775.439553279353,
@@ -1985,8 +2083,8 @@
     },
     {
       "id": "ozzy-man-reviews",
-      "rank": 47,
-      "rankPrev": 38,
+      "rank": 49,
+      "rankPrev": 47,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 8700.795219208398,
@@ -2029,8 +2127,8 @@
     },
     {
       "id": "angel-fire",
-      "rank": 48,
-      "rankPrev": 39,
+      "rank": 50,
+      "rankPrev": 48,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 8603.536264418219,
@@ -2073,8 +2171,8 @@
     },
     {
       "id": "bi-phakathi",
-      "rank": 49,
-      "rankPrev": 40,
+      "rank": 51,
+      "rankPrev": 49,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 8503.657337578414,
@@ -2117,8 +2215,8 @@
     },
     {
       "id": "whindersson-nunes",
-      "rank": 50,
-      "rankPrev": 41,
+      "rank": 52,
+      "rankPrev": 50,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 8483.496494026196,
@@ -2151,8 +2249,8 @@
     },
     {
       "id": "farid-dieck",
-      "rank": 51,
-      "rankPrev": 42,
+      "rank": 53,
+      "rankPrev": 51,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 8209.080287294593,
@@ -2195,8 +2293,8 @@
     },
     {
       "id": "ducky-bhai-saad-ur-rehman",
-      "rank": 52,
-      "rankPrev": 43,
+      "rank": 54,
+      "rankPrev": 52,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 8125.86799447571,
@@ -2239,10 +2337,10 @@
     },
     {
       "id": "drake",
-      "rank": 53,
-      "rankPrev": 173,
-      "countryRank": 3,
-      "countryRankPrev": 5,
+      "rank": 55,
+      "rankPrev": 53,
+      "countryRank": 4,
+      "countryRankPrev": 3,
       "total": 8028.937886668751,
       "networkPoints": 8028.937886668751,
       "publicPoints": 0,
@@ -2273,8 +2371,8 @@
     },
     {
       "id": "augusto-gimenez",
-      "rank": 54,
-      "rankPrev": 44,
+      "rank": 56,
+      "rankPrev": 54,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 8006.408270864618,
@@ -2317,8 +2415,8 @@
     },
     {
       "id": "pony-syndrome",
-      "rank": 55,
-      "rankPrev": 45,
+      "rank": 57,
+      "rankPrev": 55,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 8005.436469012508,
@@ -2361,8 +2459,8 @@
     },
     {
       "id": "soysuco",
-      "rank": 56,
-      "rankPrev": 46,
+      "rank": 58,
+      "rankPrev": 56,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 8004.074858473816,
@@ -2395,8 +2493,8 @@
     },
     {
       "id": "iae-break",
-      "rank": 57,
-      "rankPrev": 47,
+      "rank": 59,
+      "rankPrev": 57,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 7948.398456646792,
@@ -2439,8 +2537,8 @@
     },
     {
       "id": "berkcan-guven",
-      "rank": 58,
-      "rankPrev": 48,
+      "rank": 60,
+      "rankPrev": 58,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 7889.861645175835,
@@ -2483,8 +2581,8 @@
     },
     {
       "id": "hikakin",
-      "rank": 59,
-      "rankPrev": 49,
+      "rank": 61,
+      "rankPrev": 59,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 7737.547342015141,
@@ -2527,8 +2625,8 @@
     },
     {
       "id": "anna-teres",
-      "rank": 60,
-      "rankPrev": 50,
+      "rank": 62,
+      "rankPrev": 60,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 7700.213588136192,
@@ -2581,8 +2679,8 @@
     },
     {
       "id": "fede-vigevani",
-      "rank": 61,
-      "rankPrev": 51,
+      "rank": 63,
+      "rankPrev": 61,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 7667.010003131828,
@@ -2615,8 +2713,8 @@
     },
     {
       "id": "nico-en-vrai",
-      "rank": 62,
-      "rankPrev": 52,
+      "rank": 64,
+      "rankPrev": 62,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 7441.352859693801,
@@ -2659,8 +2757,8 @@
     },
     {
       "id": "rafsan-thechotobhai",
-      "rank": 63,
-      "rankPrev": 53,
+      "rank": 65,
+      "rankPrev": 63,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 7307.53292762447,
@@ -2703,8 +2801,8 @@
     },
     {
       "id": "georgina-rodriguez",
-      "rank": 64,
-      "rankPrev": 54,
+      "rank": 66,
+      "rankPrev": 64,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 7301.671864356422,
@@ -2737,8 +2835,8 @@
     },
     {
       "id": "enes-batur",
-      "rank": 65,
-      "rankPrev": 55,
+      "rank": 67,
+      "rankPrev": 65,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 7220.298528499146,
@@ -2771,8 +2869,8 @@
     },
     {
       "id": "ese-maje-engasado",
-      "rank": 66,
-      "rankPrev": 56,
+      "rank": 68,
+      "rankPrev": 66,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 7117.371430841189,
@@ -2815,8 +2913,8 @@
     },
     {
       "id": "claux-7",
-      "rank": 67,
-      "rankPrev": 57,
+      "rank": 69,
+      "rankPrev": 67,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 7089.706688586736,
@@ -2859,8 +2957,8 @@
     },
     {
       "id": "alejo-igoa",
-      "rank": 68,
-      "rankPrev": 58,
+      "rank": 70,
+      "rankPrev": 68,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 7038.6029860335575,
@@ -2903,8 +3001,8 @@
     },
     {
       "id": "ian-lucas",
-      "rank": 69,
-      "rankPrev": 59,
+      "rank": 71,
+      "rankPrev": 69,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 7034.856423313484,
@@ -2947,8 +3045,8 @@
     },
     {
       "id": "ricky-limon",
-      "rank": 70,
-      "rankPrev": 60,
+      "rank": 72,
+      "rankPrev": 70,
       "countryRank": 9,
       "countryRankPrev": 9,
       "total": 7017.992123824814,
@@ -2991,8 +3089,8 @@
     },
     {
       "id": "emir-abdul-gani",
-      "rank": 71,
-      "rankPrev": 61,
+      "rank": 73,
+      "rankPrev": 71,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6974.702766824087,
@@ -3025,8 +3123,8 @@
     },
     {
       "id": "alex-gonzaga",
-      "rank": 72,
-      "rankPrev": 62,
+      "rank": 74,
+      "rankPrev": 72,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6912.433679097033,
@@ -3059,8 +3157,8 @@
     },
     {
       "id": "atta-halilintar",
-      "rank": 73,
-      "rankPrev": 63,
+      "rank": 75,
+      "rankPrev": 73,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6892.5150235886795,
@@ -3092,43 +3190,9 @@
       }
     },
     {
-      "id": "justin-bieber",
-      "rank": 74,
-      "rankPrev": 231,
-      "countryRank": 4,
-      "countryRankPrev": 10,
-      "total": 6860.164796333593,
-      "networkPoints": 6860.164796333593,
-      "publicPoints": 0,
-      "votes30": 0,
-      "mainPlatform": "youtube",
-      "platforms": {
-        "youtube": {
-          "followers": 79500000,
-          "followers30": null,
-          "er": 1.598611673533772,
-          "points": 3365.8710276682605,
-          "stale": false,
-          "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-10-13T13:49:20.783Z",
-          "url": "https://www.youtube.com/channel/UCIwFjwMjI0y7PDBVEO9-bkQ"
-        },
-        "tiktok": {
-          "followers": 31200000,
-          "followers30": null,
-          "er": null,
-          "points": 3494.2937686653327,
-          "stale": false,
-          "source": "Revisión manual del perfil público (Codex, cifra redondeada, aproximada)",
-          "fetchedAt": "2026-10-13T00:00:00.000Z",
-          "url": null
-        }
-      }
-    },
-    {
       "id": "irfan-junejo",
-      "rank": 75,
-      "rankPrev": 64,
+      "rank": 76,
+      "rankPrev": 75,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6816.1453330483655,
@@ -3171,8 +3235,8 @@
     },
     {
       "id": "paulo-dybala",
-      "rank": 76,
-      "rankPrev": 65,
+      "rank": 77,
+      "rankPrev": 76,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 6807.871171759223,
@@ -3205,8 +3269,8 @@
     },
     {
       "id": "mortalcio",
-      "rank": 77,
-      "rankPrev": 66,
+      "rank": 78,
+      "rankPrev": 77,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 6731.804897829061,
@@ -3249,8 +3313,8 @@
     },
     {
       "id": "jess-no-limit",
-      "rank": 78,
-      "rankPrev": 67,
+      "rank": 79,
+      "rankPrev": 78,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 6699.267424295039,
@@ -3283,8 +3347,8 @@
     },
     {
       "id": "willwoosh",
-      "rank": 79,
-      "rankPrev": 68,
+      "rank": 80,
+      "rankPrev": 79,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 6547.118781831162,
@@ -3317,8 +3381,8 @@
     },
     {
       "id": "favij",
-      "rank": 80,
-      "rankPrev": 69,
+      "rank": 81,
+      "rankPrev": 80,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 6539.790773413781,
@@ -3351,8 +3415,8 @@
     },
     {
       "id": "yeferson-cossio",
-      "rank": 81,
-      "rankPrev": 70,
+      "rank": 82,
+      "rankPrev": 81,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 6519.069351011738,
@@ -3395,8 +3459,8 @@
     },
     {
       "id": "trevor-noah",
-      "rank": 82,
-      "rankPrev": 71,
+      "rank": 83,
+      "rankPrev": 82,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6519.022870088997,
@@ -3429,8 +3493,8 @@
     },
     {
       "id": "lazarbeam",
-      "rank": 83,
-      "rankPrev": 72,
+      "rank": 84,
+      "rankPrev": 83,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6368.905636986394,
@@ -3463,8 +3527,8 @@
     },
     {
       "id": "pewdiepie",
-      "rank": 84,
-      "rankPrev": 73,
+      "rank": 85,
+      "rankPrev": 84,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 6330.608280749133,
@@ -3487,8 +3551,8 @@
     },
     {
       "id": "nusrat-jahan-ontora",
-      "rank": 85,
-      "rankPrev": 74,
+      "rank": 86,
+      "rankPrev": 85,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6319.867347543894,
@@ -3521,8 +3585,8 @@
     },
     {
       "id": "noel-deyzel",
-      "rank": 86,
-      "rankPrev": 75,
+      "rank": 87,
+      "rankPrev": 86,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 6316.953874427222,
@@ -3555,8 +3619,8 @@
     },
     {
       "id": "lonrot",
-      "rank": 87,
-      "rankPrev": 76,
+      "rank": 88,
+      "rankPrev": 87,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 6307.253828459546,
@@ -3589,8 +3653,8 @@
     },
     {
       "id": "tawhid-afridi",
-      "rank": 88,
-      "rankPrev": 77,
+      "rank": 89,
+      "rankPrev": 88,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 6299.6992557786525,
@@ -3623,8 +3687,8 @@
     },
     {
       "id": "antonela-roccuzzo",
-      "rank": 89,
-      "rankPrev": 78,
+      "rank": 90,
+      "rankPrev": 89,
       "countryRank": 9,
       "countryRankPrev": 9,
       "total": 6246.599756669513,
@@ -3657,8 +3721,8 @@
     },
     {
       "id": "kuplinov-play",
-      "rank": 90,
-      "rankPrev": 79,
+      "rank": 91,
+      "rankPrev": 90,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6155.859325726405,
@@ -3691,8 +3755,8 @@
     },
     {
       "id": "friz",
-      "rank": 91,
-      "rankPrev": 80,
+      "rank": 92,
+      "rankPrev": 91,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6082.776396434435,
@@ -3725,8 +3789,8 @@
     },
     {
       "id": "zeinab-harake",
-      "rank": 92,
-      "rankPrev": 81,
+      "rank": 93,
+      "rankPrev": 92,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 6081.380940313573,
@@ -3759,8 +3823,8 @@
     },
     {
       "id": "dylantero-sin-imaginacion",
-      "rank": 93,
-      "rankPrev": 82,
+      "rank": 94,
+      "rankPrev": 93,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6040.653472190368,
@@ -3793,8 +3857,8 @@
     },
     {
       "id": "tuti-furlan",
-      "rank": 94,
-      "rankPrev": 83,
+      "rank": 95,
+      "rankPrev": 94,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 6020.5401862124145,
@@ -3837,8 +3901,8 @@
     },
     {
       "id": "cristiano-ronaldo",
-      "rank": 95,
-      "rankPrev": 84,
+      "rank": 96,
+      "rankPrev": 95,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 5982.422303992466,
@@ -3861,9 +3925,9 @@
     },
     {
       "id": "millie-t",
-      "rank": 96,
-      "rankPrev": 131,
-      "countryRank": 1,
+      "rank": 97,
+      "rankPrev": 96,
+      "countryRank": 2,
       "countryRankPrev": 1,
       "total": 5978.788500935116,
       "networkPoints": 5978.788500935116,
@@ -3905,8 +3969,8 @@
     },
     {
       "id": "hamzy",
-      "rank": 97,
-      "rankPrev": 85,
+      "rank": 98,
+      "rankPrev": 97,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 5945.2003002025795,
@@ -3939,8 +4003,8 @@
     },
     {
       "id": "barrytube",
-      "rank": 98,
-      "rankPrev": 86,
+      "rank": 99,
+      "rankPrev": 98,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 5940.307020774915,
@@ -3962,43 +4026,9 @@
       }
     },
     {
-      "id": "ksi",
-      "rank": 99,
-      "rankPrev": 316,
-      "countryRank": 2,
-      "countryRankPrev": 7,
-      "total": 5905.400245166021,
-      "networkPoints": 5905.400245166021,
-      "publicPoints": 0,
-      "votes30": 0,
-      "mainPlatform": "youtube",
-      "platforms": {
-        "youtube": {
-          "followers": 19200000,
-          "followers30": null,
-          "er": 1.5859253443906416,
-          "points": 2822.256102022968,
-          "stale": false,
-          "source": "youtube-data-api-v3",
-          "fetchedAt": "2026-10-13T13:46:10.562Z",
-          "url": "https://www.youtube.com/channel/UCGmnsW623G1r-Chmo5RB4Yw"
-        },
-        "tiktok": {
-          "followers": 12100000,
-          "followers30": null,
-          "er": null,
-          "points": 3083.1441431430526,
-          "stale": false,
-          "source": "Revisión manual del perfil público (Codex, cifra redondeada, aproximada)",
-          "fetchedAt": "2026-10-13T00:00:00.000Z",
-          "url": null
-        }
-      }
-    },
-    {
       "id": "miawaug",
       "rank": 100,
-      "rankPrev": 87,
+      "rankPrev": 100,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 5828.771199265289,
@@ -4032,7 +4062,7 @@
     {
       "id": "fer0m0nas",
       "rank": 101,
-      "rankPrev": 88,
+      "rankPrev": 101,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 5801.121165076902,
@@ -4056,7 +4086,7 @@
     {
       "id": "eva-zu-beck",
       "rank": 102,
-      "rankPrev": 89,
+      "rankPrev": 102,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 5724.501199617242,
@@ -4090,7 +4120,7 @@
     {
       "id": "mike-milfort",
       "rank": 103,
-      "rankPrev": 90,
+      "rankPrev": 103,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 5724.1008072939985,
@@ -4124,7 +4154,7 @@
     {
       "id": "wizkid",
       "rank": 104,
-      "rankPrev": 91,
+      "rankPrev": 104,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 5654.479719605287,
@@ -4148,7 +4178,7 @@
     {
       "id": "serhii-sternenko",
       "rank": 105,
-      "rankPrev": 92,
+      "rankPrev": 105,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 5648.3468872081385,
@@ -4182,7 +4212,7 @@
     {
       "id": "julien-bam",
       "rank": 106,
-      "rankPrev": 93,
+      "rankPrev": 106,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 5534.985905558007,
@@ -4206,7 +4236,7 @@
     {
       "id": "dulceida",
       "rank": 107,
-      "rankPrev": 94,
+      "rankPrev": 107,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 5531.083021418963,
@@ -4250,7 +4280,7 @@
     {
       "id": "orkun-is-tmak",
       "rank": 108,
-      "rankPrev": 95,
+      "rankPrev": 108,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 5446.081608848823,
@@ -4284,7 +4314,7 @@
     {
       "id": "marta-diaz",
       "rank": 109,
-      "rankPrev": 96,
+      "rankPrev": 109,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 5433.291286572907,
@@ -4318,7 +4348,7 @@
     {
       "id": "muselk",
       "rank": 110,
-      "rankPrev": 97,
+      "rankPrev": 110,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 5421.528606241973,
@@ -4352,7 +4382,7 @@
     {
       "id": "elkoalah",
       "rank": 111,
-      "rankPrev": 98,
+      "rankPrev": 111,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 5390.6838997685945,
@@ -4386,7 +4416,7 @@
     {
       "id": "zbing-z-naiyarat-thanawaigoses",
       "rank": 112,
-      "rankPrev": 99,
+      "rankPrev": 112,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 5353.283398092652,
@@ -4420,7 +4450,7 @@
     {
       "id": "youngohm",
       "rank": 113,
-      "rankPrev": 100,
+      "rankPrev": 113,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 5310.307344898209,
@@ -4454,7 +4484,7 @@
     {
       "id": "naser-hekaia",
       "rank": 114,
-      "rankPrev": 101,
+      "rankPrev": 114,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 5226.87505588588,
@@ -4478,7 +4508,7 @@
     {
       "id": "mimiyuuuh",
       "rank": 115,
-      "rankPrev": 102,
+      "rankPrev": 115,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 5120.531781096934,
@@ -4512,7 +4542,7 @@
     {
       "id": "blog-russkogo-musulmanina",
       "rank": 116,
-      "rankPrev": 103,
+      "rankPrev": 116,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 5092.062157319634,
@@ -4546,7 +4576,7 @@
     {
       "id": "brino",
       "rank": 117,
-      "rankPrev": 104,
+      "rankPrev": 117,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 5006.264260203281,
@@ -4570,7 +4600,7 @@
     {
       "id": "naruciak",
       "rank": 118,
-      "rankPrev": 105,
+      "rankPrev": 118,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 4973.858807852221,
@@ -4604,7 +4634,7 @@
     {
       "id": "korty-eo",
       "rank": 119,
-      "rankPrev": 106,
+      "rankPrev": 119,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 4932.590180294444,
@@ -4638,7 +4668,7 @@
     {
       "id": "leo-bascunan",
       "rank": 120,
-      "rankPrev": 107,
+      "rankPrev": 120,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 4929.68919273423,
@@ -4682,7 +4712,7 @@
     {
       "id": "yio-airsoft",
       "rank": 121,
-      "rankPrev": 108,
+      "rankPrev": 121,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 4899.370368724943,
@@ -4716,7 +4746,7 @@
     {
       "id": "jonna-jinton",
       "rank": 122,
-      "rankPrev": 110,
+      "rankPrev": 122,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 4845.9066269753275,
@@ -4740,7 +4770,7 @@
     {
       "id": "el-bananero",
       "rank": 123,
-      "rankPrev": 111,
+      "rankPrev": 123,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 4844.706767667225,
@@ -4764,7 +4794,7 @@
     {
       "id": "nachitojuegajuegos",
       "rank": 124,
-      "rankPrev": 112,
+      "rankPrev": 124,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 4835.71502756828,
@@ -4798,7 +4828,7 @@
     {
       "id": "gaba",
       "rank": 125,
-      "rankPrev": 114,
+      "rankPrev": 125,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 4773.754056146232,
@@ -4832,9 +4862,9 @@
     {
       "id": "spencer-barbosa",
       "rank": 126,
-      "rankPrev": 115,
+      "rankPrev": 126,
       "countryRank": 5,
-      "countryRankPrev": 2,
+      "countryRankPrev": 5,
       "total": 4754.967603390939,
       "networkPoints": 4754.967603390939,
       "publicPoints": 0,
@@ -4856,7 +4886,7 @@
     {
       "id": "michou",
       "rank": 127,
-      "rankPrev": 116,
+      "rankPrev": 127,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 4750.137759253056,
@@ -4880,7 +4910,7 @@
     {
       "id": "theshow",
       "rank": 128,
-      "rankPrev": 117,
+      "rankPrev": 128,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 4714.764025247775,
@@ -4914,7 +4944,7 @@
     {
       "id": "lionel-messi",
       "rank": 129,
-      "rankPrev": 118,
+      "rankPrev": 129,
       "countryRank": 10,
       "countryRankPrev": 10,
       "total": 4712.658118105383,
@@ -4938,7 +4968,7 @@
     {
       "id": "fischer-s",
       "rank": 130,
-      "rankPrev": 119,
+      "rankPrev": 130,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 4701.187227781431,
@@ -4972,7 +5002,7 @@
     {
       "id": "chennytv",
       "rank": 131,
-      "rankPrev": 120,
+      "rankPrev": 131,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 4668.162142967472,
@@ -5006,9 +5036,9 @@
     {
       "id": "jusreign",
       "rank": 132,
-      "rankPrev": 121,
+      "rankPrev": 132,
       "countryRank": 6,
-      "countryRankPrev": 3,
+      "countryRankPrev": 6,
       "total": 4652.530507810638,
       "networkPoints": 4652.530507810638,
       "publicPoints": 0,
@@ -5040,7 +5070,7 @@
     {
       "id": "mooroo-taimoor-salahuddin",
       "rank": 133,
-      "rankPrev": 122,
+      "rankPrev": 133,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 4639.525108886164,
@@ -5074,7 +5104,7 @@
     {
       "id": "macg-podcast-and-chill",
       "rank": 134,
-      "rankPrev": 123,
+      "rankPrev": 134,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 4622.826911137953,
@@ -5108,7 +5138,7 @@
     {
       "id": "german-garmendia",
       "rank": 135,
-      "rankPrev": 124,
+      "rankPrev": 135,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 4616.661712548855,
@@ -5132,7 +5162,7 @@
     {
       "id": "nadir-ali",
       "rank": 136,
-      "rankPrev": 125,
+      "rankPrev": 136,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 4604.055713953468,
@@ -5166,7 +5196,7 @@
     {
       "id": "ms-yeah",
       "rank": 137,
-      "rankPrev": 126,
+      "rankPrev": 137,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 4603.126020908348,
@@ -5190,7 +5220,7 @@
     {
       "id": "alan-walker",
       "rank": 138,
-      "rankPrev": 127,
+      "rankPrev": 138,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 4570.255175846421,
@@ -5214,7 +5244,7 @@
     {
       "id": "fabru-blacutt",
       "rank": 139,
-      "rankPrev": 128,
+      "rankPrev": 139,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 4493.597770953782,
@@ -5238,7 +5268,7 @@
     {
       "id": "dastan",
       "rank": 140,
-      "rankPrev": 129,
+      "rankPrev": 140,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 4488.008428626713,
@@ -5262,7 +5292,7 @@
     {
       "id": "juanda",
       "rank": 141,
-      "rankPrev": 130,
+      "rankPrev": 141,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 4451.376866782803,
@@ -5306,7 +5336,7 @@
     {
       "id": "andrea-valdiri",
       "rank": 142,
-      "rankPrev": 132,
+      "rankPrev": 142,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 4423.2525292729215,
@@ -5350,7 +5380,7 @@
     {
       "id": "banderitax",
       "rank": 143,
-      "rankPrev": 133,
+      "rankPrev": 143,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 4405.672701885207,
@@ -5374,7 +5404,7 @@
     {
       "id": "king-madness",
       "rank": 144,
-      "rankPrev": 134,
+      "rankPrev": 144,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 4400.99527245717,
@@ -5398,7 +5428,7 @@
     {
       "id": "montanablack",
       "rank": 145,
-      "rankPrev": 135,
+      "rankPrev": 145,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 4400.07005785197,
@@ -5422,7 +5452,7 @@
     {
       "id": "natcher",
       "rank": 146,
-      "rankPrev": 136,
+      "rankPrev": 146,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 4380.837642524191,
@@ -5466,7 +5496,7 @@
     {
       "id": "inoxtag",
       "rank": 147,
-      "rankPrev": 137,
+      "rankPrev": 147,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 4365.009503066303,
@@ -5490,7 +5520,7 @@
     {
       "id": "davido",
       "rank": 148,
-      "rankPrev": 138,
+      "rankPrev": 148,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 4363.005190048728,
@@ -5514,7 +5544,7 @@
     {
       "id": "cyprien",
       "rank": 149,
-      "rankPrev": 139,
+      "rankPrev": 149,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 4359.2495663898535,
@@ -5538,7 +5568,7 @@
     {
       "id": "nando-moura",
       "rank": 150,
-      "rankPrev": 140,
+      "rankPrev": 150,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 4340.913934960538,
@@ -5562,7 +5592,7 @@
     {
       "id": "bridey-drake",
       "rank": 151,
-      "rankPrev": 141,
+      "rankPrev": 151,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 4328.0181821971055,
@@ -5586,7 +5616,7 @@
     {
       "id": "gaspi",
       "rank": 152,
-      "rankPrev": 142,
+      "rankPrev": 152,
       "countryRank": 11,
       "countryRankPrev": 11,
       "total": 4312.540638485821,
@@ -5610,7 +5640,7 @@
     {
       "id": "lola-lolita",
       "rank": 153,
-      "rankPrev": 143,
+      "rankPrev": 153,
       "countryRank": 9,
       "countryRankPrev": 9,
       "total": 4310.722317629785,
@@ -5654,9 +5684,9 @@
     {
       "id": "linda-sun",
       "rank": 154,
-      "rankPrev": 144,
+      "rankPrev": 154,
       "countryRank": 7,
-      "countryRankPrev": 4,
+      "countryRankPrev": 7,
       "total": 4306.440766766685,
       "networkPoints": 4306.440766766685,
       "publicPoints": 0,
@@ -5688,7 +5718,7 @@
     {
       "id": "son-tung-mtp",
       "rank": 155,
-      "rankPrev": 145,
+      "rankPrev": 155,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 4287.37693925859,
@@ -5712,7 +5742,7 @@
     {
       "id": "jexs",
       "rank": 156,
-      "rankPrev": 147,
+      "rankPrev": 156,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 4205.065190573809,
@@ -5736,7 +5766,7 @@
     {
       "id": "squeezie",
       "rank": 157,
-      "rankPrev": 149,
+      "rankPrev": 157,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 4148.52010811161,
@@ -5760,7 +5790,7 @@
     {
       "id": "uae-skills",
       "rank": 158,
-      "rankPrev": 150,
+      "rankPrev": 158,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 4125.148511803675,
@@ -5784,7 +5814,7 @@
     {
       "id": "ismael",
       "rank": 159,
-      "rankPrev": 151,
+      "rankPrev": 159,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 4114.219722246162,
@@ -5808,7 +5838,7 @@
     {
       "id": "samuel-adrian",
       "rank": 160,
-      "rankPrev": 153,
+      "rankPrev": 160,
       "countryRank": 10,
       "countryRankPrev": 10,
       "total": 4093.6845273191147,
@@ -5832,7 +5862,7 @@
     {
       "id": "camilo-cifuentes",
       "rank": 161,
-      "rankPrev": 154,
+      "rankPrev": 161,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 4082.0150085887403,
@@ -5856,7 +5886,7 @@
     {
       "id": "maria-pombo",
       "rank": 162,
-      "rankPrev": 155,
+      "rankPrev": 162,
       "countryRank": 10,
       "countryRankPrev": 10,
       "total": 4057.514544460809,
@@ -5900,7 +5930,7 @@
     {
       "id": "vox-veritatis",
       "rank": 163,
-      "rankPrev": 156,
+      "rankPrev": 163,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 4048.7979808094583,
@@ -5934,9 +5964,9 @@
     {
       "id": "zoella-zoe-sugg",
       "rank": 164,
-      "rankPrev": 157,
+      "rankPrev": 164,
       "countryRank": 3,
-      "countryRankPrev": 2,
+      "countryRankPrev": 3,
       "total": 4048.7124016513485,
       "networkPoints": 4048.7124016513485,
       "publicPoints": 0,
@@ -5958,7 +5988,7 @@
     {
       "id": "visckel",
       "rank": 165,
-      "rankPrev": 158,
+      "rankPrev": 165,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 4040.7395694412476,
@@ -5982,7 +6012,7 @@
     {
       "id": "uncle-roger",
       "rank": 166,
-      "rankPrev": 159,
+      "rankPrev": 166,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 4023.506598781512,
@@ -6006,7 +6036,7 @@
     {
       "id": "mourad-oudia",
       "rank": 167,
-      "rankPrev": 160,
+      "rankPrev": 167,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 4020.306681885855,
@@ -6030,7 +6060,7 @@
     {
       "id": "konopskyy",
       "rank": 168,
-      "rankPrev": 161,
+      "rankPrev": 168,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 4011.3689451996433,
@@ -6064,7 +6094,7 @@
     {
       "id": "mr-triple-r",
       "rank": 169,
-      "rankPrev": 162,
+      "rankPrev": 169,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 4007.3324835864305,
@@ -6088,7 +6118,7 @@
     {
       "id": "youssoupha",
       "rank": 170,
-      "rankPrev": 163,
+      "rankPrev": 170,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 3994.2847108315077,
@@ -6112,7 +6142,7 @@
     {
       "id": "oum-walid",
       "rank": 171,
-      "rankPrev": 164,
+      "rankPrev": 171,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3983.3012436866147,
@@ -6136,7 +6166,7 @@
     {
       "id": "yolo-aventuras",
       "rank": 172,
-      "rankPrev": 165,
+      "rankPrev": 172,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 3933.5696074025595,
@@ -6160,7 +6190,7 @@
     {
       "id": "electroboom",
       "rank": 173,
-      "rankPrev": 166,
+      "rankPrev": 173,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 3931.305910124287,
@@ -6184,7 +6214,7 @@
     {
       "id": "dianxi-xiaoge",
       "rank": 174,
-      "rankPrev": 167,
+      "rankPrev": 174,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3916.2018418018456,
@@ -6208,7 +6238,7 @@
     {
       "id": "obmanutyi-rossiyanin",
       "rank": 175,
-      "rankPrev": 168,
+      "rankPrev": 175,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3910.5617543161734,
@@ -6232,7 +6262,7 @@
     {
       "id": "maluma",
       "rank": 176,
-      "rankPrev": 170,
+      "rankPrev": 176,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 3903.179868552471,
@@ -6256,7 +6286,7 @@
     {
       "id": "miguelportaxd",
       "rank": 177,
-      "rankPrev": 171,
+      "rankPrev": 177,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 3889.481731215408,
@@ -6280,7 +6310,7 @@
     {
       "id": "sirkazzio",
       "rank": 178,
-      "rankPrev": 172,
+      "rankPrev": 178,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3888.3609184931574,
@@ -6304,7 +6334,7 @@
     {
       "id": "dagi-bee",
       "rank": 179,
-      "rankPrev": 175,
+      "rankPrev": 179,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3873.5800008585466,
@@ -6328,7 +6358,7 @@
     {
       "id": "mbosso",
       "rank": 180,
-      "rankPrev": 176,
+      "rankPrev": 180,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 3850.329930397488,
@@ -6352,7 +6382,7 @@
     {
       "id": "ali-kiba",
       "rank": 181,
-      "rankPrev": 177,
+      "rankPrev": 181,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3830.426738680089,
@@ -6376,7 +6406,7 @@
     {
       "id": "bie-the-ska-krit-boonyarang",
       "rank": 182,
-      "rankPrev": 178,
+      "rankPrev": 182,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3828.734157376326,
@@ -6400,7 +6430,7 @@
     {
       "id": "hanwe",
       "rank": 183,
-      "rankPrev": 179,
+      "rankPrev": 183,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 3805.8372541415547,
@@ -6434,7 +6464,7 @@
     {
       "id": "jeancarlo-mtb",
       "rank": 184,
-      "rankPrev": 180,
+      "rankPrev": 184,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3804.731524477541,
@@ -6458,7 +6488,7 @@
     {
       "id": "el-benja-real",
       "rank": 185,
-      "rankPrev": 181,
+      "rankPrev": 185,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3799.8893687092086,
@@ -6482,7 +6512,7 @@
     {
       "id": "gims",
       "rank": 186,
-      "rankPrev": 182,
+      "rankPrev": 186,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3797.2188468720306,
@@ -6506,7 +6536,7 @@
     {
       "id": "martin-garrix",
       "rank": 187,
-      "rankPrev": 183,
+      "rankPrev": 187,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3778.5616679705754,
@@ -6530,9 +6560,9 @@
     {
       "id": "alfie-deyes",
       "rank": 188,
-      "rankPrev": 184,
+      "rankPrev": 188,
       "countryRank": 4,
-      "countryRankPrev": 3,
+      "countryRankPrev": 4,
       "total": 3768.917313549656,
       "networkPoints": 3768.917313549656,
       "publicPoints": 0,
@@ -6554,7 +6584,7 @@
     {
       "id": "qalby-etmaan",
       "rank": 189,
-      "rankPrev": 186,
+      "rankPrev": 189,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3759.2347773172487,
@@ -6578,7 +6608,7 @@
     {
       "id": "mahtot-tube",
       "rank": 190,
-      "rankPrev": 187,
+      "rankPrev": 190,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 3758.7210412150775,
@@ -6602,7 +6632,7 @@
     {
       "id": "li-ziqi",
       "rank": 191,
-      "rankPrev": 188,
+      "rankPrev": 191,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3756.1132054941004,
@@ -6626,9 +6656,9 @@
     {
       "id": "mia-maples",
       "rank": 192,
-      "rankPrev": 189,
+      "rankPrev": 192,
       "countryRank": 8,
-      "countryRankPrev": 6,
+      "countryRankPrev": 8,
       "total": 3737.2698378240707,
       "networkPoints": 3737.2698378240707,
       "publicPoints": 0,
@@ -6650,7 +6680,7 @@
     {
       "id": "raouf-belkacemi",
       "rank": 193,
-      "rankPrev": 190,
+      "rankPrev": 193,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3736.683591126768,
@@ -6674,9 +6704,9 @@
     {
       "id": "italianbach",
       "rank": 194,
-      "rankPrev": 191,
+      "rankPrev": 194,
       "countryRank": 5,
-      "countryRankPrev": 4,
+      "countryRankPrev": 5,
       "total": 3731.702896282382,
       "networkPoints": 3731.702896282382,
       "publicPoints": 0,
@@ -6698,9 +6728,9 @@
     {
       "id": "kim-migneault",
       "rank": 195,
-      "rankPrev": 192,
+      "rankPrev": 195,
       "countryRank": 9,
-      "countryRankPrev": 7,
+      "countryRankPrev": 9,
       "total": 3730.1313784341514,
       "networkPoints": 3730.1313784341514,
       "publicPoints": 0,
@@ -6722,7 +6752,7 @@
     {
       "id": "saudi-reporters",
       "rank": 196,
-      "rankPrev": 193,
+      "rankPrev": 196,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3720.8428286693347,
@@ -6746,7 +6776,7 @@
     {
       "id": "felca",
       "rank": 197,
-      "rankPrev": 194,
+      "rankPrev": 197,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 3719.2336220712764,
@@ -6770,7 +6800,7 @@
     {
       "id": "kk-create",
       "rank": 198,
-      "rankPrev": 195,
+      "rankPrev": 198,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3702.747957189976,
@@ -6794,7 +6824,7 @@
     {
       "id": "aria-keoxer",
       "rank": 199,
-      "rankPrev": 196,
+      "rankPrev": 199,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3698.6325798656344,
@@ -6818,7 +6848,7 @@
     {
       "id": "wuant",
       "rank": 200,
-      "rankPrev": 197,
+      "rankPrev": 200,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3697.549693427021,
@@ -6842,7 +6872,7 @@
     {
       "id": "chemsou-dzjoker",
       "rank": 201,
-      "rankPrev": 198,
+      "rankPrev": 201,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3691.4496238726906,
@@ -6866,7 +6896,7 @@
     {
       "id": "candres-peredo",
       "rank": 202,
-      "rankPrev": 199,
+      "rankPrev": 202,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3676.967461314492,
@@ -6890,7 +6920,7 @@
     {
       "id": "ahmad-alshugairi",
       "rank": 203,
-      "rankPrev": 200,
+      "rankPrev": 203,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3676.670249644148,
@@ -6914,7 +6944,7 @@
     {
       "id": "jem-k-un-preso-en-el-mundo-real",
       "rank": 204,
-      "rankPrev": 201,
+      "rankPrev": 204,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 3674.6860148664446,
@@ -6938,7 +6968,7 @@
     {
       "id": "rayvanny",
       "rank": 205,
-      "rankPrev": 202,
+      "rankPrev": 205,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3671.7922044742113,
@@ -6962,7 +6992,7 @@
     {
       "id": "halawiyat-karamilla",
       "rank": 206,
-      "rankPrev": 203,
+      "rankPrev": 206,
       "countryRank": 1,
       "countryRankPrev": 1,
       "total": 3669.6172043489646,
@@ -6986,7 +7016,7 @@
     {
       "id": "rammstein",
       "rank": 207,
-      "rankPrev": 204,
+      "rankPrev": 207,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3668.654633078095,
@@ -7010,7 +7040,7 @@
     {
       "id": "el-politigato-kevin-monsalve",
       "rank": 208,
-      "rankPrev": 205,
+      "rankPrev": 208,
       "countryRank": 9,
       "countryRankPrev": 9,
       "total": 3665.417047323536,
@@ -7034,7 +7064,7 @@
     {
       "id": "volodymyr-zolkin",
       "rank": 209,
-      "rankPrev": 206,
+      "rankPrev": 209,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3649.967899399237,
@@ -7058,7 +7088,7 @@
     {
       "id": "shakira",
       "rank": 210,
-      "rankPrev": 207,
+      "rankPrev": 210,
       "countryRank": 9,
       "countryRankPrev": 9,
       "total": 3633.7625292055404,
@@ -7082,7 +7112,7 @@
     {
       "id": "d4rkframe",
       "rank": 211,
-      "rankPrev": 208,
+      "rankPrev": 211,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3618.9458178217646,
@@ -7106,7 +7136,7 @@
     {
       "id": "hardwell",
       "rank": 212,
-      "rankPrev": 209,
+      "rankPrev": 212,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3585.685035256546,
@@ -7130,7 +7160,7 @@
     {
       "id": "ruhi-cenet",
       "rank": 213,
-      "rankPrev": 210,
+      "rankPrev": 213,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3576.5237242454623,
@@ -7154,7 +7184,7 @@
     {
       "id": "narins-beauty",
       "rank": 214,
-      "rankPrev": 211,
+      "rankPrev": 214,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3569.882238078152,
@@ -7178,7 +7208,7 @@
     {
       "id": "harmonize",
       "rank": 215,
-      "rankPrev": 212,
+      "rankPrev": 215,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3557.8039875514232,
@@ -7202,7 +7232,7 @@
     {
       "id": "junior-mavity",
       "rank": 216,
-      "rankPrev": 213,
+      "rankPrev": 216,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3541.1098274036344,
@@ -7226,9 +7256,9 @@
     {
       "id": "brianna-renee",
       "rank": 217,
-      "rankPrev": 214,
+      "rankPrev": 217,
       "countryRank": 10,
-      "countryRankPrev": 8,
+      "countryRankPrev": 10,
       "total": 3537.622692595018,
       "networkPoints": 3537.622692595018,
       "publicPoints": 0,
@@ -7250,7 +7280,7 @@
     {
       "id": "banat-by",
       "rank": 218,
-      "rankPrev": 215,
+      "rankPrev": 218,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3536.259200513634,
@@ -7274,7 +7304,7 @@
     {
       "id": "nomade-raiz",
       "rank": 219,
-      "rankPrev": 216,
+      "rankPrev": 219,
       "countryRank": 9,
       "countryRankPrev": 9,
       "total": 3531.301753068137,
@@ -7298,7 +7328,7 @@
     {
       "id": "agustina-liporace",
       "rank": 220,
-      "rankPrev": 218,
+      "rankPrev": 220,
       "countryRank": 12,
       "countryRankPrev": 12,
       "total": 3506.205084318327,
@@ -7322,7 +7352,7 @@
     {
       "id": "jdaniel",
       "rank": 221,
-      "rankPrev": 219,
+      "rankPrev": 221,
       "countryRank": 11,
       "countryRankPrev": 11,
       "total": 3496.8563349218243,
@@ -7346,7 +7376,7 @@
     {
       "id": "kygo",
       "rank": 222,
-      "rankPrev": 220,
+      "rankPrev": 222,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3488.400002100328,
@@ -7370,7 +7400,7 @@
     {
       "id": "alaska",
       "rank": 223,
-      "rankPrev": 221,
+      "rankPrev": 223,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3482.4018887784896,
@@ -7394,7 +7424,7 @@
     {
       "id": "taaooma",
       "rank": 224,
-      "rankPrev": 222,
+      "rankPrev": 224,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3467.151448875062,
@@ -7418,7 +7448,7 @@
     {
       "id": "master-loquendo",
       "rank": 225,
-      "rankPrev": 223,
+      "rankPrev": 225,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3465.4873337393765,
@@ -7442,7 +7472,7 @@
     {
       "id": "whistlindiesel",
       "rank": 226,
-      "rankPrev": 224,
+      "rankPrev": 226,
       "countryRank": 9,
       "countryRankPrev": 9,
       "total": 3443.961934193916,
@@ -7466,7 +7496,7 @@
     {
       "id": "aronchupa-little-sis-nora",
       "rank": 227,
-      "rankPrev": 225,
+      "rankPrev": 227,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3422.152832579911,
@@ -7490,7 +7520,7 @@
     {
       "id": "farshad-silent",
       "rank": 228,
-      "rankPrev": 226,
+      "rankPrev": 228,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3412.1833981900963,
@@ -7514,7 +7544,7 @@
     {
       "id": "mia-plays",
       "rank": 229,
-      "rankPrev": 227,
+      "rankPrev": 229,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3400.5022331455875,
@@ -7538,7 +7568,7 @@
     {
       "id": "saad-lamjarred",
       "rank": 230,
-      "rankPrev": 228,
+      "rankPrev": 230,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3394.827198590002,
@@ -7562,7 +7592,7 @@
     {
       "id": "georgia-productions",
       "rank": 231,
-      "rankPrev": 229,
+      "rankPrev": 231,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3369.3867641290026,
@@ -7586,7 +7616,7 @@
     {
       "id": "alex-serrano",
       "rank": 232,
-      "rankPrev": 230,
+      "rankPrev": 232,
       "countryRank": 12,
       "countryRankPrev": 12,
       "total": 3368.33789036773,
@@ -7610,7 +7640,7 @@
     {
       "id": "martijn-doolaard",
       "rank": 233,
-      "rankPrev": 232,
+      "rankPrev": 233,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3364.251476843628,
@@ -7634,7 +7664,7 @@
     {
       "id": "bjorn-andreas-bull-hansen",
       "rank": 234,
-      "rankPrev": 233,
+      "rankPrev": 234,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3363.4880638993986,
@@ -7658,7 +7688,7 @@
     {
       "id": "diamond-platnumz",
       "rank": 235,
-      "rankPrev": 234,
+      "rankPrev": 235,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3360.1428702116677,
@@ -7682,7 +7712,7 @@
     {
       "id": "millard-ayo",
       "rank": 236,
-      "rankPrev": 235,
+      "rankPrev": 236,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 3353.3856559910037,
@@ -7706,7 +7736,7 @@
     {
       "id": "laserluca",
       "rank": 237,
-      "rankPrev": 236,
+      "rankPrev": 237,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3351.8098777585374,
@@ -7730,7 +7760,7 @@
     {
       "id": "oussama-bl",
       "rank": 238,
-      "rankPrev": 237,
+      "rankPrev": 238,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3340.91726739866,
@@ -7754,7 +7784,7 @@
     {
       "id": "aqueles-caras",
       "rank": 239,
-      "rankPrev": 238,
+      "rankPrev": 239,
       "countryRank": 10,
       "countryRankPrev": 10,
       "total": 3316.5571056071562,
@@ -7778,7 +7808,7 @@
     {
       "id": "grandpa-amu",
       "rank": 240,
-      "rankPrev": 239,
+      "rankPrev": 240,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3309.9073194300754,
@@ -7802,7 +7832,7 @@
     {
       "id": "natalan",
       "rank": 241,
-      "rankPrev": 240,
+      "rankPrev": 241,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3285.9996759932783,
@@ -7826,7 +7856,7 @@
     {
       "id": "jflamusic-j-fla",
       "rank": 242,
-      "rankPrev": 241,
+      "rankPrev": 242,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3277.788471800711,
@@ -7850,9 +7880,9 @@
     {
       "id": "rikki",
       "rank": 243,
-      "rankPrev": 242,
+      "rankPrev": 243,
       "countryRank": 6,
-      "countryRankPrev": 5,
+      "countryRankPrev": 6,
       "total": 3265.7790688726527,
       "networkPoints": 3265.7790688726527,
       "publicPoints": 0,
@@ -7874,7 +7904,7 @@
     {
       "id": "silvia-munoz-de-morales",
       "rank": 244,
-      "rankPrev": 243,
+      "rankPrev": 244,
       "countryRank": 11,
       "countryRankPrev": 11,
       "total": 3263.029519740611,
@@ -7898,7 +7928,7 @@
     {
       "id": "anes-tina",
       "rank": 245,
-      "rankPrev": 244,
+      "rankPrev": 245,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3257.4111031429434,
@@ -7922,7 +7952,7 @@
     {
       "id": "samzone",
       "rank": 246,
-      "rankPrev": 245,
+      "rankPrev": 246,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3242.373303179569,
@@ -7946,7 +7976,7 @@
     {
       "id": "tiesto",
       "rank": 247,
-      "rankPrev": 246,
+      "rankPrev": 247,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3239.6810388122367,
@@ -7970,7 +8000,7 @@
     {
       "id": "kili-paul",
       "rank": 248,
-      "rankPrev": 247,
+      "rankPrev": 248,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 3229.5914498908082,
@@ -7994,7 +8024,7 @@
     {
       "id": "nancy-risol",
       "rank": 249,
-      "rankPrev": 248,
+      "rankPrev": 249,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3217.203243658813,
@@ -8018,7 +8048,7 @@
     {
       "id": "nitish-rajput",
       "rank": 250,
-      "rankPrev": 249,
+      "rankPrev": 250,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3216.2560393784647,
@@ -8042,7 +8072,7 @@
     {
       "id": "hicham-cook",
       "rank": 251,
-      "rankPrev": 250,
+      "rankPrev": 251,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 3214.383088599852,
@@ -8066,7 +8096,7 @@
     {
       "id": "fally-ipupa",
       "rank": 252,
-      "rankPrev": 251,
+      "rankPrev": 252,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3205.760565898644,
@@ -8090,7 +8120,7 @@
     {
       "id": "noor-stars",
       "rank": 253,
-      "rankPrev": 252,
+      "rankPrev": 253,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3199.8563187755603,
@@ -8114,7 +8144,7 @@
     {
       "id": "bibisbeautypalace",
       "rank": 254,
-      "rankPrev": 253,
+      "rankPrev": 254,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 3190.2411704548845,
@@ -8138,7 +8168,7 @@
     {
       "id": "putak",
       "rank": 255,
-      "rankPrev": 254,
+      "rankPrev": 255,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3175.726853403289,
@@ -8162,7 +8192,7 @@
     {
       "id": "chloe-ting",
       "rank": 256,
-      "rankPrev": 255,
+      "rankPrev": 256,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 3173.168802616959,
@@ -8186,7 +8216,7 @@
     {
       "id": "hekayat-tota-maggie",
       "rank": 257,
-      "rankPrev": 256,
+      "rankPrev": 257,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3152.1207479199256,
@@ -8210,7 +8240,7 @@
     {
       "id": "how-ridiculous",
       "rank": 258,
-      "rankPrev": 257,
+      "rankPrev": 258,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 3151.4808039530335,
@@ -8234,7 +8264,7 @@
     {
       "id": "calixto-serna",
       "rank": 259,
-      "rankPrev": 258,
+      "rankPrev": 259,
       "countryRank": 13,
       "countryRankPrev": 13,
       "total": 3139.5688940072278,
@@ -8258,7 +8288,7 @@
     {
       "id": "max-y-noelia",
       "rank": 260,
-      "rankPrev": 259,
+      "rankPrev": 260,
       "countryRank": 14,
       "countryRankPrev": 14,
       "total": 3139.5669035844057,
@@ -8282,7 +8312,7 @@
     {
       "id": "broda-shaggi",
       "rank": 261,
-      "rankPrev": 260,
+      "rankPrev": 261,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3131.2028972035578,
@@ -8306,7 +8336,7 @@
     {
       "id": "indonesia-baru",
       "rank": 262,
-      "rankPrev": 261,
+      "rankPrev": 262,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3130.4392858824654,
@@ -8330,7 +8360,7 @@
     {
       "id": "amixem",
       "rank": 263,
-      "rankPrev": 262,
+      "rankPrev": 263,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3127.9797866024287,
@@ -8354,7 +8384,7 @@
     {
       "id": "nikita-thakur",
       "rank": 264,
-      "rankPrev": 263,
+      "rankPrev": 264,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3123.5041607450985,
@@ -8378,7 +8408,7 @@
     {
       "id": "anthony-sirius",
       "rank": 265,
-      "rankPrev": 264,
+      "rankPrev": 265,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3119.2735451585354,
@@ -8412,7 +8442,7 @@
     {
       "id": "sesenti",
       "rank": 266,
-      "rankPrev": 265,
+      "rankPrev": 266,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 3112.0912346663163,
@@ -8446,7 +8476,7 @@
     {
       "id": "alexander-rybak",
       "rank": 267,
-      "rankPrev": 266,
+      "rankPrev": 267,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3109.0905431807505,
@@ -8470,7 +8500,7 @@
     {
       "id": "it-sstefano",
       "rank": 268,
-      "rankPrev": 267,
+      "rankPrev": 268,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 3108.6785363993436,
@@ -8494,7 +8524,7 @@
     {
       "id": "kelvin-steviano",
       "rank": 269,
-      "rankPrev": 268,
+      "rankPrev": 269,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 3104.29345134248,
@@ -8518,7 +8548,7 @@
     {
       "id": "khalid-al-ameri",
       "rank": 270,
-      "rankPrev": 269,
+      "rankPrev": 270,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 3102.9658965637605,
@@ -8542,7 +8572,7 @@
     {
       "id": "amine-nkaity",
       "rank": 271,
-      "rankPrev": 270,
+      "rankPrev": 271,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3102.269336011757,
@@ -8566,7 +8596,7 @@
     {
       "id": "dadju",
       "rank": 272,
-      "rankPrev": 271,
+      "rankPrev": 272,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 3098.422761695853,
@@ -8590,7 +8620,7 @@
     {
       "id": "burna-boy",
       "rank": 273,
-      "rankPrev": 272,
+      "rankPrev": 273,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 3098.419372448823,
@@ -8614,7 +8644,7 @@
     {
       "id": "lebriah",
       "rank": 274,
-      "rankPrev": 273,
+      "rankPrev": 274,
       "countryRank": 10,
       "countryRankPrev": 10,
       "total": 3094.248553807396,
@@ -8638,7 +8668,7 @@
     {
       "id": "dana-lucia",
       "rank": 275,
-      "rankPrev": 274,
+      "rankPrev": 275,
       "countryRank": 15,
       "countryRankPrev": 15,
       "total": 3093.3076011051994,
@@ -8662,7 +8692,7 @@
     {
       "id": "jatie-vlogs",
       "rank": 276,
-      "rankPrev": 275,
+      "rankPrev": 276,
       "countryRank": 10,
       "countryRankPrev": 10,
       "total": 3089.1547218087067,
@@ -8686,7 +8716,7 @@
     {
       "id": "raiam-santos-mcarn",
       "rank": 277,
-      "rankPrev": 276,
+      "rankPrev": 277,
       "countryRank": 11,
       "countryRankPrev": 11,
       "total": 3066.02883055401,
@@ -8710,7 +8740,7 @@
     {
       "id": "alieff-irfan",
       "rank": 278,
-      "rankPrev": 277,
+      "rankPrev": 278,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 3059.802904232278,
@@ -8734,7 +8764,7 @@
     {
       "id": "pinaki-bhattacharya",
       "rank": 279,
-      "rankPrev": 278,
+      "rankPrev": 279,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 3058.956860297492,
@@ -8758,7 +8788,7 @@
     {
       "id": "ninja",
       "rank": 280,
-      "rankPrev": 279,
+      "rankPrev": 280,
       "countryRank": 11,
       "countryRankPrev": 11,
       "total": 3048.8150338332466,
@@ -8782,7 +8812,7 @@
     {
       "id": "mohamed-ramadan-i",
       "rank": 281,
-      "rankPrev": 280,
+      "rankPrev": 281,
       "countryRank": 3,
       "countryRankPrev": 3,
       "total": 3021.5193552052942,
@@ -8806,7 +8836,7 @@
     {
       "id": "vagaboom",
       "rank": 282,
-      "rankPrev": 281,
+      "rankPrev": 282,
       "countryRank": 16,
       "countryRankPrev": 16,
       "total": 3008.8066119682976,
@@ -8830,7 +8860,7 @@
     {
       "id": "mr-funny-oga-sabinus",
       "rank": 283,
-      "rankPrev": 282,
+      "rankPrev": 283,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 3007.710375064098,
@@ -8854,7 +8884,7 @@
     {
       "id": "degoboom",
       "rank": 284,
-      "rankPrev": 283,
+      "rankPrev": 284,
       "countryRank": 9,
       "countryRankPrev": 9,
       "total": 3001.9145403625616,
@@ -8878,7 +8908,7 @@
     {
       "id": "dena-mwana",
       "rank": 285,
-      "rankPrev": 284,
+      "rankPrev": 285,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 2996.9707392793507,
@@ -8902,7 +8932,7 @@
     {
       "id": "armin-van-buuren",
       "rank": 286,
-      "rankPrev": 285,
+      "rankPrev": 286,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 2992.9989243544173,
@@ -8926,7 +8956,7 @@
     {
       "id": "planetajuan",
       "rank": 287,
-      "rankPrev": 286,
+      "rankPrev": 287,
       "countryRank": 11,
       "countryRankPrev": 11,
       "total": 2986.130461825714,
@@ -8950,7 +8980,7 @@
     {
       "id": "logan-paul",
       "rank": 288,
-      "rankPrev": 287,
+      "rankPrev": 288,
       "countryRank": 12,
       "countryRankPrev": 12,
       "total": 2984.3243264021417,
@@ -8974,7 +9004,7 @@
     {
       "id": "rayito",
       "rank": 289,
-      "rankPrev": 288,
+      "rankPrev": 289,
       "countryRank": 17,
       "countryRankPrev": 17,
       "total": 2967.770598397427,
@@ -8998,7 +9028,7 @@
     {
       "id": "loserfruit",
       "rank": 290,
-      "rankPrev": 289,
+      "rankPrev": 290,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 2967.131584301856,
@@ -9022,7 +9052,7 @@
     {
       "id": "innoss-b",
       "rank": 291,
-      "rankPrev": 290,
+      "rankPrev": 291,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 2965.9040598554325,
@@ -9046,7 +9076,7 @@
     {
       "id": "stephanie-lange",
       "rank": 292,
-      "rankPrev": 291,
+      "rankPrev": 292,
       "countryRank": 9,
       "countryRankPrev": 9,
       "total": 2962.996858940224,
@@ -9070,7 +9100,7 @@
     {
       "id": "waleed-ismail",
       "rank": 293,
-      "rankPrev": 292,
+      "rankPrev": 293,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 2962.9611517017634,
@@ -9094,7 +9124,7 @@
     {
       "id": "supremo-soy-supremo",
       "rank": 294,
-      "rankPrev": 293,
+      "rankPrev": 294,
       "countryRank": 2,
       "countryRankPrev": 2,
       "total": 2949.286900094908,
@@ -9118,7 +9148,7 @@
     {
       "id": "adekvatnyi-russkiy",
       "rank": 295,
-      "rankPrev": 294,
+      "rankPrev": 295,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 2947.1445018139134,
@@ -9142,7 +9172,7 @@
     {
       "id": "danann",
       "rank": 296,
-      "rankPrev": 295,
+      "rankPrev": 296,
       "countryRank": 13,
       "countryRankPrev": 13,
       "total": 2937.3383072617453,
@@ -9166,7 +9196,7 @@
     {
       "id": "jake-paul",
       "rank": 297,
-      "rankPrev": 296,
+      "rankPrev": 297,
       "countryRank": 13,
       "countryRankPrev": 13,
       "total": 2935.569188479573,
@@ -9190,7 +9220,7 @@
     {
       "id": "would-you-react",
       "rank": 298,
-      "rankPrev": 297,
+      "rankPrev": 298,
       "countryRank": 4,
       "countryRankPrev": 4,
       "total": 2926.9962358445646,
@@ -9214,7 +9244,7 @@
     {
       "id": "bar-s-ozcan",
       "rank": 299,
-      "rankPrev": 298,
+      "rankPrev": 299,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 2926.320241760731,
@@ -9238,7 +9268,7 @@
     {
       "id": "mcfly-et-carlito",
       "rank": 300,
-      "rankPrev": 299,
+      "rankPrev": 300,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 2912.4151890264548,
@@ -9262,7 +9292,7 @@
     {
       "id": "ferre-gola",
       "rank": 301,
-      "rankPrev": 300,
+      "rankPrev": 301,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 2905.524974264684,
@@ -9286,9 +9316,9 @@
     {
       "id": "vikkstar123",
       "rank": 302,
-      "rankPrev": 301,
+      "rankPrev": 302,
       "countryRank": 7,
-      "countryRankPrev": 6,
+      "countryRankPrev": 7,
       "total": 2897.246791046067,
       "networkPoints": 2897.246791046067,
       "publicPoints": 0,
@@ -9310,7 +9340,7 @@
     {
       "id": "karol-g",
       "rank": 303,
-      "rankPrev": 302,
+      "rankPrev": 303,
       "countryRank": 12,
       "countryRankPrev": 12,
       "total": 2886.2749545509573,
@@ -9334,7 +9364,7 @@
     {
       "id": "wylsacom",
       "rank": 304,
-      "rankPrev": 303,
+      "rankPrev": 304,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 2884.2612149810066,
@@ -9358,7 +9388,7 @@
     {
       "id": "janelle-dltr",
       "rank": 305,
-      "rankPrev": 304,
+      "rankPrev": 305,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 2880.9345501864905,
@@ -9382,7 +9412,7 @@
     {
       "id": "norman",
       "rank": 306,
-      "rankPrev": 305,
+      "rankPrev": 306,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 2879.7812854647063,
@@ -9406,7 +9436,7 @@
     {
       "id": "sara-baknine",
       "rank": 307,
-      "rankPrev": 306,
+      "rankPrev": 307,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 2869.825567803919,
@@ -9430,7 +9460,7 @@
     {
       "id": "josh2funny",
       "rank": 308,
-      "rankPrev": 307,
+      "rankPrev": 308,
       "countryRank": 8,
       "countryRankPrev": 8,
       "total": 2868.843748300994,
@@ -9454,7 +9484,7 @@
     {
       "id": "didine-canon-16",
       "rank": 309,
-      "rankPrev": 308,
+      "rankPrev": 309,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 2865.3048886448705,
@@ -9478,7 +9508,7 @@
     {
       "id": "jair-sanchez",
       "rank": 310,
-      "rankPrev": 309,
+      "rankPrev": 310,
       "countryRank": 18,
       "countryRankPrev": 18,
       "total": 2857.4888361673884,
@@ -9502,7 +9532,7 @@
     {
       "id": "abdullah-alghafis",
       "rank": 311,
-      "rankPrev": 310,
+      "rankPrev": 311,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 2847.2150355458207,
@@ -9526,7 +9556,7 @@
     {
       "id": "czajnik",
       "rank": 312,
-      "rankPrev": 311,
+      "rankPrev": 312,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 2844.268645564245,
@@ -9550,7 +9580,7 @@
     {
       "id": "st3pny",
       "rank": 313,
-      "rankPrev": 312,
+      "rankPrev": 313,
       "countryRank": 6,
       "countryRankPrev": 6,
       "total": 2839.657926775093,
@@ -9574,7 +9604,7 @@
     {
       "id": "salman-muqtadir",
       "rank": 314,
-      "rankPrev": 313,
+      "rankPrev": 314,
       "countryRank": 7,
       "countryRankPrev": 7,
       "total": 2833.8666838891113,
@@ -9598,7 +9628,7 @@
     {
       "id": "j-balvin",
       "rank": 315,
-      "rankPrev": 314,
+      "rankPrev": 315,
       "countryRank": 13,
       "countryRankPrev": 13,
       "total": 2831.0339949926815,
@@ -9622,7 +9652,7 @@
     {
       "id": "shawar",
       "rank": 316,
-      "rankPrev": 315,
+      "rankPrev": 316,
       "countryRank": 5,
       "countryRankPrev": 5,
       "total": 2827.488190945531,
