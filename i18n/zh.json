@@ -128,5 +128,22 @@
   "creator.claimPending": "你的申请正在审核中。",
   "creator.claimRejected": "你的申请未获通过。如果你认为有误，请申请更正。",
   "creator.connectError": "无法开始连接TikTok，请重试。",
-  "creator.unavailable": "验证功能暂未开放。"
+  "creator.unavailable": "验证功能暂未开放。",
+  "agency.title": "面向代理商",
+  "agency.reach": "触达",
+  "agency.reachNote": "最大平台（{network}）受众 {followers}",
+  "agency.interaction": "互动",
+  "agency.interactionNote": "{level}：为该平台平均水平的 {ratio} 倍 · {networks}",
+  "agency.levelHigh": "高",
+  "agency.levelMedium": "中",
+  "agency.levelLow": "低",
+  "agency.noData": "暂无数据",
+  "agency.growth": "增长",
+  "agency.growthNote": "30 天内 {value}",
+  "agency.growthNone": "暂无数据：积累 30 天历史后启用",
+  "agency.confidence": "数据可信度",
+  "agency.confGood": "良好",
+  "agency.confMedium": "中等",
+  "agency.confPartial": "部分",
+  "agency.confNote": "3 个主要平台中有 {n} 个有近期数据"
 }

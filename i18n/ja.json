@@ -128,5 +128,22 @@
   "creator.claimPending": "申請は確認中です。",
   "creator.claimRejected": "申請は承認されませんでした。誤りだと思われる場合は訂正を依頼してください。",
   "creator.connectError": "TikTokとの連携を開始できませんでした。もう一度お試しください。",
-  "creator.unavailable": "確認機能はまだ利用できません。"
+  "creator.unavailable": "確認機能はまだ利用できません。",
+  "agency.title": "代理店向け",
+  "agency.reach": "リーチ",
+  "agency.reachNote": "最大のネットワーク（{network}）で {followers} のオーディエンス",
+  "agency.interaction": "エンゲージメント",
+  "agency.interactionNote": "{level}：ネットワーク平均の {ratio} 倍 · {networks}",
+  "agency.levelHigh": "高",
+  "agency.levelMedium": "中",
+  "agency.levelLow": "低",
+  "agency.noData": "データなし",
+  "agency.growth": "成長",
+  "agency.growthNote": "30日間で {value}",
+  "agency.growthNone": "データなし：30日分の履歴で有効化",
+  "agency.confidence": "データの信頼度",
+  "agency.confGood": "良好",
+  "agency.confMedium": "中程度",
+  "agency.confPartial": "一部",
+  "agency.confNote": "主要3ネットワークのうち {n} に最新データ"
 }

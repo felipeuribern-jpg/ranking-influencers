@@ -1,0 +1,41 @@
+---
+// Indicadores para agencias: alcance, interacción, crecimiento y confianza del dato.
+// Lectura de los datos del ranking; no altera el puntaje (src/lib/agency.ts).
+import { people, rankingMeta, type Person } from "../lib/data";
+import { agencyMetrics, maxFreshFollowers } from "../lib/agency";
+import { formatCompactNumber, formatSignedPercent } from "../lib/format";
+import { translator } from "../lib/i18n";
+import { PLATFORM_LABELS } from "../../pipeline/config";
+import type { LanguageCode } from "../../site.config";
+
+const { lang, person } = Astro.props as { lang: LanguageCode; person: Person };
+const t = translator(lang);
+const maxFollowers = maxFreshFollowers(people.map((p) => p.platforms));
+const m = agencyMetrics(person.platforms, rankingMeta.medians, maxFollowers);
+const levelLabel = { high: t("agency.levelHigh"), medium: t("agency.levelMedium"), low: t("agency.levelLow") };
+const confLabel = { good: t("agency.confGood"), medium: t("agency.confMedium"), partial: t("agency.confPartial") };
+const ratioText = m.interaction
+  ? new Intl.NumberFormat(lang, { maximumFractionDigits: 1 }).format(m.interaction.ratio)
+  : "";
+---
+<section class="agency-card" aria-labelledby="agency-title">
+  <h2 id="agency-title">{t("agency.title")}</h2>
+  <div class="agency-grid">
+    <div class="agency-metric">
+      <div class="agency-label"><b>{t("agency.reach")}</b>{m.reach && <span>{m.reach.index}/100</span>}</div>
+      <div class="agency-bar" role="img" aria-label={m.reach ? `${t("agency.reach")} ${m.reach.index}/100` : t("agency.noData")}><i style={`width:${m.reach ? m.reach.index : 0}%`}></i></div>
+      <p>{m.reach ? t("agency.reachNote", { followers: formatCompactNumber(m.reach.followers, lang), network: PLATFORM_LABELS[m.reach.platform] }) : t("agency.noData")}</p>
+    </div>
+    <div class="agency-metric">
+      <div class="agency-label"><b>{t("agency.interaction")}</b>{m.interaction && <span>{m.interaction.index}/100</span>}</div>
+      <div class="agency-bar" role="img" aria-label={m.interaction ? `${t("agency.interaction")} ${m.interaction.index}/100` : t("agency.noData")}><i style={`width:${m.interaction ? m.interaction.index : 0}%`}></i></div>
+      <p>{m.interaction ? t("agency.interactionNote", { level: levelLabel[m.interaction.level], ratio: ratioText, networks: m.interaction.platforms.map((p) => PLATFORM_LABELS[p]).join(" · ") }) : t("agency.noData")}</p>
+    </div>
+    <div class="agency-metric">
+      <div class="agency-label"><b>{t("agency.growth")}</b>{m.growth && <span>{m.growth.index}/100</span>}</div>
+      <div class="agency-bar" role="img" aria-label={m.growth ? `${t("agency.growth")} ${m.growth.index}/100` : t("agency.noData")}><i style={`width:${m.growth ? m.growth.index : 0}%`}></i></div>
+      <p>{m.growth ? t("agency.growthNote", { value: formatSignedPercent(m.growth.value, lang) }) : t("agency.growthNone")}</p>
+    </div>
+  </div>
+  <p class={`agency-confidence conf-${m.confidence.level}`}><b>{t("agency.confidence")}: {confLabel[m.confidence.level]}</b> · {t("agency.confNote", { n: m.confidence.fresh })}</p>
+</section>

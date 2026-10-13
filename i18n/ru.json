@@ -128,5 +128,22 @@
   "creator.claimPending": "Ваша заявка на рассмотрении.",
   "creator.claimRejected": "Ваша заявка не одобрена. Запросите исправление, если считаете, что это ошибка.",
   "creator.connectError": "Не удалось начать подключение к TikTok. Попробуйте ещё раз.",
-  "creator.unavailable": "Проверка пока недоступна."
+  "creator.unavailable": "Проверка пока недоступна.",
+  "agency.title": "Для агентств",
+  "agency.reach": "Охват",
+  "agency.reachNote": "Аудитория {followers} в крупнейшей сети ({network})",
+  "agency.interaction": "Вовлечённость",
+  "agency.interactionNote": "{level}: {ratio}× к среднему по сети · {networks}",
+  "agency.levelHigh": "Высокая",
+  "agency.levelMedium": "Средняя",
+  "agency.levelLow": "Низкая",
+  "agency.noData": "Нет данных",
+  "agency.growth": "Рост",
+  "agency.growthNote": "{value} за 30 дней",
+  "agency.growthNone": "Данных пока нет: включится после 30 дней истории",
+  "agency.confidence": "Надёжность данных",
+  "agency.confGood": "Хорошая",
+  "agency.confMedium": "Средняя",
+  "agency.confPartial": "Частичная",
+  "agency.confNote": "{n} из 3 основных сетей со свежими данными"
 }

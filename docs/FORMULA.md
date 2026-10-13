@@ -100,3 +100,14 @@ Pasados 30 días sin actualizar, esa red deja de puntuar (`puntos_red = 0`) y se
 6. 0 votos → `puntos_publico` = 0.
 7. Desempate por nombre funciona con acentos (usar `localeCompare` con `sensitivity: 'base'`).
 8. Red `stale` hace 31 días → aporta 0 puntos.
+
+## 9. Indicadores para agencias (no puntúan)
+
+La ficha de cada creador muestra cuatro lecturas de los mismos datos, definidas en
+`src/lib/agency.ts`. **No cambian el puntaje ni el orden.**
+
+- **Alcance (0–100):** `log10(1 + seguidores/10 000)` de su mayor red vigente, respecto al máximo del ranking.
+- **Interacción (0–100):** razón entre su `er` y la mediana de su red, ponderada por seguidores
+  (1× = 50; ≥ 1,25× = «Alta»; < 0,8× = «Baja»). Solo cuenta redes con `er`; sin dato, «Sin datos».
+- **Crecimiento (0–100):** variación de seguidores a 30 días (−20 % = 0; +50 % = 100). Sin histórico de 30 días, «Sin datos aún».
+- **Confianza del dato:** cuántas de YouTube, TikTok e Instagram tienen dato vigente (3 = Buena, 2 = Media, 0–1 = Parcial).
