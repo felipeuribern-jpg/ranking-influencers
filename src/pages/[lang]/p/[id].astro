@@ -2,6 +2,7 @@
 import { interfaceLabels } from "../../../lib/exploration";
 import copy from "../../../lib/ux-copy.json";
 import ScoreCoverage from "../../../components/ScoreCoverage.astro";
+import AgencyMetrics from "../../../components/AgencyMetrics.astro";
 import Layout from "../../../components/Layout.astro";
 import ProfileVideo from "../../../components/ProfileVideo.astro";
 import Sparkline from "../../../components/Sparkline.astro";
@@ -73,6 +74,7 @@ const jsonLd = {
   </div>
 
   <ScoreCoverage lang={lang} profiles={[person]} />
+  <AgencyMetrics lang={lang} person={person} />
   <p class="profile-about">{about}</p>
   <ProfileVideo personId={person.id} lang={lang} />
 

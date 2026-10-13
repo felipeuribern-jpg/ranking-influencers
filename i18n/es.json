@@ -128,5 +128,22 @@
   "creator.claimPending": "Tu solicitud está en revisión.",
   "creator.claimRejected": "Tu solicitud no fue aprobada. Pide una corrección si crees que es un error.",
   "creator.connectError": "No se pudo iniciar la conexión con TikTok. Intenta de nuevo.",
-  "creator.unavailable": "La verificación todavía no está disponible."
+  "creator.unavailable": "La verificación todavía no está disponible.",
+  "agency.title": "Para agencias",
+  "agency.reach": "Alcance",
+  "agency.reachNote": "Audiencia de {followers} en su mayor red ({network})",
+  "agency.interaction": "Interacción",
+  "agency.interactionNote": "{level}: {ratio} veces el promedio de su red · {networks}",
+  "agency.levelHigh": "Alta",
+  "agency.levelMedium": "Media",
+  "agency.levelLow": "Baja",
+  "agency.noData": "Sin datos",
+  "agency.growth": "Crecimiento",
+  "agency.growthNote": "{value} en 30 días",
+  "agency.growthNone": "Sin datos aún: se activa con 30 días de histórico",
+  "agency.confidence": "Confianza del dato",
+  "agency.confGood": "Buena",
+  "agency.confMedium": "Media",
+  "agency.confPartial": "Parcial",
+  "agency.confNote": "{n} de 3 redes principales con datos recientes"
 }

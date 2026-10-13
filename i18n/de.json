@@ -128,5 +128,22 @@
   "creator.claimPending": "Deine Anfrage wird geprüft.",
   "creator.claimRejected": "Deine Anfrage wurde nicht freigegeben. Bitte um eine Korrektur, falls du das für einen Fehler hältst.",
   "creator.connectError": "Die TikTok-Verbindung konnte nicht gestartet werden. Versuche es erneut.",
-  "creator.unavailable": "Die Verifizierung ist noch nicht verfügbar."
+  "creator.unavailable": "Die Verifizierung ist noch nicht verfügbar.",
+  "agency.title": "Für Agenturen",
+  "agency.reach": "Reichweite",
+  "agency.reachNote": "Publikum von {followers} im größten Netzwerk ({network})",
+  "agency.interaction": "Interaktion",
+  "agency.interactionNote": "{level}: {ratio}-fach des Durchschnitts des Netzwerks · {networks}",
+  "agency.levelHigh": "Hoch",
+  "agency.levelMedium": "Mittel",
+  "agency.levelLow": "Niedrig",
+  "agency.noData": "Keine Daten",
+  "agency.growth": "Wachstum",
+  "agency.growthNote": "{value} in 30 Tagen",
+  "agency.growthNone": "Noch keine Daten: wird nach 30 Tagen Verlauf aktiviert",
+  "agency.confidence": "Datenverlässlichkeit",
+  "agency.confGood": "Gut",
+  "agency.confMedium": "Mittel",
+  "agency.confPartial": "Teilweise",
+  "agency.confNote": "{n} von 3 Hauptnetzwerken mit aktuellen Daten"
 }

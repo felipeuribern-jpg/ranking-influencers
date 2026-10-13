@@ -128,5 +128,22 @@
   "creator.claimPending": "طلبك قيد المراجعة.",
   "creator.claimRejected": "لم تتم الموافقة على طلبك. اطلب تصحيحًا إذا كنت تعتقد أن هذا خطأ.",
   "creator.connectError": "تعذّر بدء الاتصال بتيك توك. حاول مرة أخرى.",
-  "creator.unavailable": "التحقق غير متاح بعد."
+  "creator.unavailable": "التحقق غير متاح بعد.",
+  "agency.title": "للوكالات",
+  "agency.reach": "الوصول",
+  "agency.reachNote": "جمهور {followers} في أكبر شبكاته ({network})",
+  "agency.interaction": "التفاعل",
+  "agency.interactionNote": "{level}: {ratio}× متوسط شبكته · {networks}",
+  "agency.levelHigh": "مرتفع",
+  "agency.levelMedium": "متوسط",
+  "agency.levelLow": "منخفض",
+  "agency.noData": "لا توجد بيانات",
+  "agency.growth": "النمو",
+  "agency.growthNote": "{value} خلال 30 يومًا",
+  "agency.growthNone": "لا توجد بيانات بعد: يُفعَّل بعد 30 يومًا من السجل",
+  "agency.confidence": "موثوقية البيانات",
+  "agency.confGood": "جيدة",
+  "agency.confMedium": "متوسطة",
+  "agency.confPartial": "جزئية",
+  "agency.confNote": "{n} من 3 شبكات رئيسية ببيانات حديثة"
 }

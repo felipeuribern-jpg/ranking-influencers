@@ -995,3 +995,17 @@ footer.site a,
 /* El botón de sonido lo muestra JavaScript al cargar; reservar su espacio evita que
    el pie del video crezca y desplace el hero (Cloudflare: CLS 0,16 en .hero > div). */
 .sound-toggle[hidden] { display: inline-flex; visibility: hidden; }
+
+/* Indicadores para agencias (src/components/AgencyMetrics.astro) */
+.agency-card { margin: 18px 0; padding: 22px; border: 1px solid var(--line, #1f2937); border-radius: 18px; background: var(--card, #111721); }
+.agency-card h2 { margin: 0 0 16px; font-size: 18px; }
+.agency-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; }
+.agency-label { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+.agency-label span { color: var(--muted); font-size: 13px; }
+.agency-bar { height: 10px; border-radius: 6px; background: #222c3c; overflow: hidden; }
+.agency-bar i { display: block; height: 100%; border-radius: 6px; background: #c9ff3d; }
+.agency-metric p { margin: 8px 0 0; color: var(--muted); font-size: 13px; line-height: 1.45; }
+.agency-confidence { margin: 18px 0 0; padding: 12px 14px; border: 2px solid; border-radius: 12px; font-size: 14px; }
+.agency-confidence.conf-good { border-color: #56d678; color: #56d678; }
+.agency-confidence.conf-medium { border-color: #ffc43d; color: #ffc43d; }
+.agency-confidence.conf-partial { border-color: #ffc43d; color: #ffc43d; }
